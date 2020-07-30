@@ -4,7 +4,7 @@
 			center: [ 41.887856934, 12.719429433], //set center
 			zoom: 5 , //set initial zoom
 			maxZoom : 27,  //set max zoom
-			minZoom : 5,
+			minZoom : 1,
 			}
 		
 //Creates Map according to map options 

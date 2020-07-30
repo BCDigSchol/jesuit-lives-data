@@ -2,7 +2,7 @@
 //Define map start up options, here defined to center on Gabii
 		var mapOptions = {
 			center: [ 41.887856934, 12.719429433], //set center
-			zoom: 5 , //set initial zoom
+			zoom: 2 , //set initial zoom
 			maxZoom : 27,  //set max zoom
 			minZoom : 1,
 			}
@@ -38,7 +38,7 @@
 		
 				
 //Import of locally hosted geoJSON files with popUp box showing attributes and designated line style, uses AJAX plug in 
-		var places = new L.GeoJSON.AJAX("jesuitPlaces.geojson", 
+		var places = new L.GeoJSON.AJAX("places.geojson", 
 			{onEachFeature:popUp}).addTo(map);
 			
 
@@ -49,12 +49,11 @@
 			};
 			
 		var overlayMaps = {
-			"Places" : jesuitPlaces
+			"Places" : places
 			};
 			L.control.layers(baseLayers, overlayMaps).addTo(map);
 		
 		
-		var allPhases = L.layerGroup([phase0a, phase0b, phase1, phase2, phase3, phase4aWithQuarry, phase4b, phase4c]);
 		
 //Creation of pan/scale function like Fulcrum images have. Uses PanControl plugin  
 		L.control.pan().addTo(map);

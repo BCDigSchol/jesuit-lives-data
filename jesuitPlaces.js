@@ -17,12 +17,33 @@
 			}).addTo(map);
 			
 
+	
+var allPlaces = L.geoJson(jesuitAll, {
+	
+	onEachFeature: function (feature, layer) {
+		var popupText = 'Location: ' + feature.properties.Places;
+		layer.bindPopup(popupText);
+	}
+});
+	
+
+	
+		var markers = L.markerClusterGroup();
+		markers.addLayer(allPlaces);
 		
 		
-					
+		
+		
+		
+		map.addLayer(markers);
+
+
+
+
+	
 			
 			// generalized function popup box for any .geojson
-					function popUp(f,l){
+		/*			function popUp(f,l){
 						var out = [];
 				if (f.properties){
 					for(key in f.properties){
@@ -34,58 +55,42 @@
 					}
 					l.bindPopup(out.join("<br />"));
 					}
-				}
+				}*/
 		
 				
-//Import of locally hosted geoJSON files with popUp box showing attributes and designated line style, uses AJAX plug in 
-		var places = new L.GeoJSON.AJAX("places.geojson", 
-			{onEachFeature:popUp}).addTo(map);
-			
 
-		
-		//Creation of Layering box for turning on and off basemaps, .geoJSON layers, and other underlays
-		var baseLayers = {
-			"Satellite Imagery" : Esri_WorldImagery,
-			};
-			
-		var overlayMaps = {
-			"Places" : places
-			};
-			L.control.layers(baseLayers, overlayMaps).addTo(map);
-		
-		
-		
 //Creation of pan/scale function like Fulcrum images have. Uses PanControl plugin  
 		L.control.pan().addTo(map);
-		L.control.scale().addTo(map);
+		L.control.scale().addTo(map); 
 
-/*create the search control, note that the text within the search box can be edited directly in the .js for the plugin
-	var searchControl = new L.Control.Search({
-		layer: allPhases,
-		propertyName: 'SU',
+//create the search control, note that the text within the search box can be edited directly in the .js for the plugin
+/*	var searchControl = new L.Control.Search({
+		layer: allPlaces,
+		propertyName: 'Places',
 		marker: false,
 		moveToLocation: function(latlng, title, map) {
 			//map.fitBounds( latlng.layer.getBounds() );
 			var zoom = map.getBoundsZoom(latlng.layer.getBounds());
   			map.setView(latlng, zoom); // access the zoom
 		}
-	});
-	
-	searchControl.on('search:locationfound', function(e) {
+	}); 
+		map.addControl( searchControl );
+		
+/*	searchControl.on('search:locationfound', function(e) {
 		
 		//console.log('search:locationfound', );
 
 		//map.removeLayer(this._markerSearch)
 
-		e.layer.setStyle({fillColor: '#3f0', color: '#0f0'});
+	//	e.layer.setStyle({fillColor: '#3f0', color: '#0f0'});
 		if(e.layer._popup)
 			e.layer.openPopup();
 
 	}).on('search:collapsed', function(e) {
 
-		allPhases.eachLayer(function(layer) {	//restore feature color
-			allPhases.resetStyle(layer);
-		});	
-	});
+//allPhases.eachLayer(function(layer) {	//restore feature color
+		//	allPhases.resetStyle(layer);
+		});	*/
+
 	
-	map.addControl( searchControl );  //inizialize search control */
+  //inizialize search control  

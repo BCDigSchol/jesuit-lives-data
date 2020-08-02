@@ -18,7 +18,7 @@
 			
 
 	
-var allPlaces = L.geoJson(jesuitAll, {
+var allPlaces = L.geoJson(jesuitWorld, {
 	
 	onEachFeature: function (feature, layer) {
 		var popupText = 'Location: ' + feature.properties.Places;

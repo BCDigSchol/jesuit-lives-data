@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20200801</CreaDate><CreaTime>21183900</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx\FeaturesToJSON" Date="20200801" Time="211839">FeaturesToJSON JesuitOG "C:\Users\Kels-gabii1\Desktop\Boston College\JesuitLives\jesuitWorld.geojson" FORMATTED NO_Z_VALUES NO_M_VALUES GEOJSON WGS84 USE_FIELD_NAME</Process></lineage></DataProperties></Esri></metadata>

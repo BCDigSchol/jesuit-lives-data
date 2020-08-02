@@ -68,7 +68,7 @@ L.Control.Search = L.Control.extend({
 		moveToLocation: null,			//callback run on location found, params: latlng, title, map
 		buildTip: null,					//function to return row tip html node(or html string), receive text tooltip in first param
 		container: '',					//container id to insert Search Control		
-		zoom: null,						//default zoom level for move to location
+		zoom: 17,						//default zoom level for move to location
 		minLength: 1,					//minimal text length for autocomplete
 		initial: true,					//search elements only by initial text
 		casesensitive: false,			//search elements in case sensitive text
@@ -83,7 +83,7 @@ L.Control.Search = L.Control.extend({
 		autoCollapseTime: 1200,			//delay for autoclosing alert and collapse after blur
 		textErr: 'Location not found',	//error message
 		textCancel: 'Cancel',		    //title in cancel button		
-		textPlaceholder: 'Search by SU',   //placeholder value			
+		textPlaceholder: 'Search by Location',   //placeholder value			
 		hideMarkerOnCollapse: false,    //remove circle and marker on search control collapsed		
 		position: 'topleft',		
 		marker: {						//custom L.Marker or false for hide

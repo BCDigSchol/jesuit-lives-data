@@ -3,7 +3,7 @@
 		var mapOptions = {
 			center: [ 41.887856934, 12.719429433], //set center
 			zoom: 2 , //set initial zoom
-			maxZoom : 27,  //set max zoom
+			maxZoom : 17,  //set max zoom
 			minZoom : 1,
 			}
 		
@@ -25,16 +25,8 @@ var allPlaces = L.geoJson(jesuitAll, {
 		layer.bindPopup(popupText);
 	}
 });
-	
-
-	
 		var markers = L.markerClusterGroup();
 		markers.addLayer(allPlaces);
-		
-		
-		
-		
-		
 		map.addLayer(markers);
 
 
@@ -64,33 +56,18 @@ var allPlaces = L.geoJson(jesuitAll, {
 		L.control.scale().addTo(map); 
 
 //create the search control, note that the text within the search box can be edited directly in the .js for the plugin
-/*	var searchControl = new L.Control.Search({
-		layer: allPlaces,
+//soom set in plugin .js
+	var searchControl = new L.Control.Search({
+		layer: L.featureGroup([markers]),
 		propertyName: 'Places',
 		marker: false,
-		moveToLocation: function(latlng, title, map) {
-			//map.fitBounds( latlng.layer.getBounds() );
-			var zoom = map.getBoundsZoom(latlng.layer.getBounds());
-  			map.setView(latlng, zoom); // access the zoom
-		}
 	}); 
 		map.addControl( searchControl );
-		
-/*	searchControl.on('search:locationfound', function(e) {
-		
-		//console.log('search:locationfound', );
-
-		//map.removeLayer(this._markerSearch)
-
-	//	e.layer.setStyle({fillColor: '#3f0', color: '#0f0'});
+//pop up when found		
+	searchControl.on('search:locationfound', function(e) {	
 		if(e.layer._popup)
 			e.layer.openPopup();
-
 	}).on('search:collapsed', function(e) {
-
-//allPhases.eachLayer(function(layer) {	//restore feature color
-		//	allPhases.resetStyle(layer);
-		});	*/
+		});	
 
 	
-  //inizialize search control  

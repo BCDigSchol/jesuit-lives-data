@@ -6,8 +6,8 @@ Created on Mon Aug 10 09:18:20 2020
 """
 
 import json
-from geojson import Point, FeatureCollection, Feature
 import pandas as pd
+
 
 with open("csvjsontest.json") as f2:
     people = json.load(f2)
@@ -25,14 +25,16 @@ for i in range (0, len(people)):
     for j in range (0, len(places)):
         if people[i]['Place of Birth'] == places[j]['Places']:
             people[i]['latitude'] = places[j]['Latitude']
-            people[i]['longitude'] = places[j]['Longitude']
+            people[i]['longitude'] = places[j]['Longitude']           
             people[i]['dateOfBirth'] = people[i]['Birth date (n)\ndd-mm-yyyy']
+            people[i]['dateOfBirth'] = people[i]['dateOfBirth'].replace('-', '/')
             people[i]['yearOfBirth'] = people[i]['dateOfBirth'][-4:]
             people[i]['showOnMap'] = False
         if people[i]['Place of Death'] == places[j]['Places']:
             people[i]['Death_latitude'] = places[j]['Latitude']
             people[i]['Death_Long'] = places[j]['Longitude']
 
+    
 
 ##Process for converting json to geojson, checking for coordinates, and exporting
 df = pd.DataFrame(people)

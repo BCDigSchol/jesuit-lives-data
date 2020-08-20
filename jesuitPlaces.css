@@ -1,0 +1,21 @@
+.example-val {
+    width: 100%;
+    clear: both;
+    float: left;
+    margin: 10px 0;
+    text-align: center;
+    font-family: 'Arial';
+}
+
+.example-val-hidden {
+	position: absolute;
+
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}

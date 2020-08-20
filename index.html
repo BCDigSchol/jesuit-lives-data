@@ -8,7 +8,7 @@
   <!-- Load Leaflet stylesheet and .js locally -->
 	<link rel="stylesheet" href="leaflet1_5_1/leaflet.css"/>
 	<script src="leaflet1_5_1/leaflet.js"></script>  
-  
+	<link rel="stylesheet" href="jesuitPlaces.css"/>
   <!-- Load plugins locally (Pancontrol for panning and Ajax for .geojson import
 	measure-master for measuring, search-master for searching-->
 	<link rel="stylesheet" href="Leaflet.Pancontrol/src/L.Control.Pan.css" />
@@ -43,14 +43,18 @@
 		<div style="margin-right: auto; margin-left: auto; width: 90%; margin-bottom: 10px; text-align: center;">
 		<input type="number" min='1700' max='1900' step='1' id="input-number-min">
 		<input type="number" min='1701' max='1901' step='1' id="input-number-max">
-	</div>
-	-->
+	</div>-->
+	
 	<!-- slider for filtering by date -->
 	<div id="slider-date" style="top: 0px; right: 1px; margin: 10px 25px;"></div>
 		<div style="margin-right: auto; margin-left: auto; width: 90%; margin-bottom: 10px; text-align: center;">
 	</div>
-	<span class="example-val" id="event-start"></span>
-	<span class="example-val" id="event-end"></span>
+	<!-- hidden classes contain timestamp info not visible to users, formatted timestamp "event-type-2" -->
+	<span class="example-val-hidden" id="event-start"></span>
+	<span class="example-val-hidden" id="event-end"></span>
+	<span class="example-val" id="event-start-2"></span>
+	<span class="example-val" id="event-end-2"></span>
+	
     <script type="text/javascript" src="jesuitPlaces.js"></script>
 	
 </body>

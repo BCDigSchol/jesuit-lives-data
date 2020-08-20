@@ -13,14 +13,23 @@
 	measure-master for measuring, search-master for searching-->
 	<link rel="stylesheet" href="Leaflet.Pancontrol/src/L.Control.Pan.css" />
 	<script src="Leaflet.Pancontrol/src/L.Control.Pan.js"></script>
-	<script type="text/javascript" src="leaflet_ajax/dist/leaflet.ajax.js"></script>	
 	<script type="text/javascript" src="Leaflet.markercluster-1.4.1/dist/leaflet.markercluster-src.js"></script>	
 	<link rel="stylesheet" href="./Leaflet.markercluster-1.4.1/dist/MarkerCluster.css" />
 	<link rel="stylesheet" href="./Leaflet.markercluster-1.4.1/dist/MarkerCluster.Default.css" />
 	<script type="text/javascript" src="jquery.min.js"></script>	
 	<script type="text/javascript" src="jesuitWorld.js"></script>	
+	<script type="text/javascript" src="csvjsontest.js"></script>
+	<script type="text/javascript" src="birthplaces.js"></script>	
+	<script type="text/javascript" src="MovingMarker.js"></script>
+	<script type="text/javascript" src="Wnumb.js"></script>
+
+	<script src="https://d3js.org/d3.v5.min.js"></script>
+	
+
 	<link rel="stylesheet" href="./leaflet-search-master/src/leaflet-search.css" />
 	<script src="./leaflet-search-master/src/leaflet-search.js"></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/8.5.1/nouislider.min.css" />
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/8.5.1/nouislider.min.js"></script>
 
 
 </head>
@@ -28,6 +37,20 @@
 <body>
 	<!-- create map object and call map .js file -->
 	<div id = "map" style = "width:900px; height:580px;"></div>
+	
+	<!-- slider for filtering by year 
+	<div id="slider" style="top: 0px; right: 1px; margin: 10px 25px;"></div>
+		<div style="margin-right: auto; margin-left: auto; width: 90%; margin-bottom: 10px; text-align: center;">
+		<input type="number" min='1700' max='1900' step='1' id="input-number-min">
+		<input type="number" min='1701' max='1901' step='1' id="input-number-max">
+	</div>
+	-->
+	<!-- slider for filtering by date -->
+	<div id="slider-date" style="top: 0px; right: 1px; margin: 10px 25px;"></div>
+		<div style="margin-right: auto; margin-left: auto; width: 90%; margin-bottom: 10px; text-align: center;">
+	</div>
+	<span class="example-val" id="event-start"></span>
+	<span class="example-val" id="event-end"></span>
     <script type="text/javascript" src="jesuitPlaces.js"></script>
 	
 </body>

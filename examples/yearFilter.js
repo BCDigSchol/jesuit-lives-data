@@ -17,6 +17,8 @@
 
 //add geojson exported from python to map with popup		
 
+
+
 var birthplacesImported = L.geoJson(birthplaces, {
    onEachFeature: popUp
 	}
@@ -71,8 +73,8 @@ console.log(birthplacesImported);
 		
 
 
-/*	
-//Creating the year filter slider
+	
+//Creating the slider
 var slidervar = document.getElementById('slider');
 noUiSlider.create(slidervar, {
     connect: true,
@@ -133,12 +135,13 @@ slidervar.noUiSlider.on('update', function( values, handle ) {
 	cluster_birth.addLayer(birthplacesImported);
 });
 
-*/
 
-//filter by date slider rather than by year
+
+//now working on filtering by date rather than by year
 function timestamp(str) {
     return new Date(str).getTime();
 }
+/*
 
 var dateSlider = document.getElementById('slider-date');
 
@@ -161,13 +164,12 @@ noUiSlider.create(dateSlider, {
         decimals: 0
     })
 });
-//hidden timestamp values
+
 var dateValues = [
     document.getElementById('event-start'),
     document.getElementById('event-end')
 ];
 
-//Nice looking visible date values
 var dateValuesNice = [
     document.getElementById('event-start-2'),
     document.getElementById('event-end-2')
@@ -187,16 +189,25 @@ var months = [
 ];
 
 dateSlider.noUiSlider.on('update', function (values, handle) {
-   
-	//get the values from the two divs (formatted and timestamped)
     dateValues[handle].innerHTML = values[handle];
     dateValuesNice[handle].innerHTML = formatDate(new Date(+values[handle]));
+	/*
+	//handle = 0 if min-slider is moved and handle = 1 if max slider is moved
+    if (handle==0){
+        document.getElementById('event-start').value = dateValuesNice[0];
+    } else {
+        document.getElementById('event-end').value =  dateValuesNice[1];
+    }
+	rangeMin = document.getElementById('event-start').value;
+	rangeMax = document.getElementById('event-end').value;
 
-	//filtering range
+
+
 	rangeMinNumber = dateValues[0].innerHTML;
 	rangeMaxNumber = dateValues[1].innerHTML;
 	
-	
+	console.log("Min: " + rangeMinNumber);
+	console.log("Max: " + rangeMaxNumber);
     
 	//first let's clear the layer	
 	cluster_birth.clearLayers();
@@ -241,3 +252,31 @@ function formatDate(date) {
         months[date.getMonth()] + " " +
         date.getFullYear();
 } 
+/*
+dateSlider.noUiSlider.on('update', function( values, handle ) {
+    //handle = 0 if min-slider is moved and handle = 1 if max slider is moved
+    if (handle==0){
+        document.getElementById('event-start').value = dateValues[0];
+    } else {
+        document.getElementById('event-end').value =  dateValues[1];
+    }
+	rangeMin = document.getElementById('event-start').value;
+	rangeMax = document.getElementById('event-end').value;
+	
+	
+	//first let's clear the layer	
+	cluster_birth.clearLayers();
+/*
+	//and repopulate it after filtering
+	birthplacesImported = new L.geoJson(birthplaces,{
+    onEachFeature: popUp,
+        filter:
+            function(feature, layer) {
+                 return (feature.properties.birthStamp <= rangeMax) && (feature.properties.birthStamp >= rangeMin);
+            }
+    
+	})
+//and back again into the cluster group
+
+
+}); */

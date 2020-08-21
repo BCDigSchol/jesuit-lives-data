@@ -8,7 +8,7 @@ Created on Mon Aug 10 09:18:20 2020
 import json
 import pandas as pd
 
-
+#loading the two jsons 
 with open("csvjsontest.json") as f2:
     people = json.load(f2)
 

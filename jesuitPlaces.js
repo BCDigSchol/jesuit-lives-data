@@ -18,19 +18,23 @@
 //add geojson exported from python to map with popup		
 
 var birthplacesImported = L.geoJson(birthplaces, {
-   onEachFeature: popUp
+   onEachFeature: popUpLife
 	}
 );
 
-
+var deathplacesImported = L.geoJson(deathplaces, {
+	onEachFeature: popUpDeath
+	}
+);
 
 //cluster birthplaces, need to cluster or create a group to make refiltering easier
 var cluster_birth= new L.MarkerClusterGroup({showCoverageOnHover: false});
     cluster_birth.addLayer(birthplacesImported);
-    cluster_birth.addTo(map);
+    cluster_birth.addLayer(deathplacesImported);
+	cluster_birth.addTo(map);
 
 //popUp box function
-function popUp(f,l) {
+function popUpLife(f,l) {
 	f.properties.birthStamp = timestamp(f.properties.dateOfBirth);
 	
 	var out = [];
@@ -39,12 +43,29 @@ function popUp(f,l) {
 		out.push('Date of Birth: ' + f.properties.dateOfBirth);
 		out.push('Year: ' + f.properties.yearOfBirth);
 		out.push('Timestamp: ' + f.properties.birthStamp);
+		out.push('Lastname: ' + f.properties.lastName);
 		l.bindPopup(out.join("<br />"));
 	}
 	
 	
 }
-console.log(birthplacesImported);
+
+function popUpDeath(f,l) {
+	f.properties.deathstamp = timestamp(f.properties.dateOfDeath);
+	
+	var out = [];
+	if (f.properties) {
+		out.push('Deathplace no.: ' + f.properties.Id);
+		out.push('Date of Birth: ' + f.properties.dateOfDeath);
+		out.push('Timestamp: ' + f.properties.deathStamp);
+		out.push('Lastname: ' + f.properties.lastName);
+		l.bindPopup(out.join("<br />"));
+	}	
+}
+
+function timestamp(str) {
+    return new Date(str).getTime();
+}
 
 /*var myMovingMarker = L.Marker.movingMarker([[48.8567, 2.3508],[50.45, 30.523333]],
 						[20000]).addTo(map);
@@ -136,10 +157,8 @@ slidervar.noUiSlider.on('update', function( values, handle ) {
 */
 
 //filter by date slider rather than by year
-function timestamp(str) {
-    return new Date(str).getTime();
-}
 
+/*
 var dateSlider = document.getElementById('slider-date');
 
 noUiSlider.create(dateSlider, {
@@ -241,3 +260,4 @@ function formatDate(date) {
         months[date.getMonth()] + " " +
         date.getFullYear();
 } 
+*/

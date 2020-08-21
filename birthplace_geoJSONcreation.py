@@ -27,9 +27,10 @@ for i in range (0, len(people)):
             people[i]['latitude'] = places[j]['Latitude']
             people[i]['longitude'] = places[j]['Longitude']           
             people[i]['dateOfBirth'] = people[i]['Birth date (n)\ndd-mm-yyyy']
-            people[i]['dateOfBirth'] = people[i]['dateOfBirth'].replace('-', '/')
+            people[i]['dateOfBirth'] = people[i]['dateOfBirth'][3:5] + "/" + people[i]['dateOfBirth'][0:2] + "/" + people[i]['dateOfBirth'][-4:]
             people[i]['yearOfBirth'] = people[i]['dateOfBirth'][-4:]
             people[i]['showOnMap'] = False
+            people[i]['lastName'] = people[i]['Last Name']
         if people[i]['Place of Death'] == places[j]['Places']:
             people[i]['deathlatitude'] = places[j]['Latitude']
             people[i]['deathlongitude'] = places[j]['Longitude']
@@ -52,7 +53,7 @@ df['deathlatitude'] =  pd.to_numeric(df['deathlatitude'],errors='coerce')
 df['deathlongitude'] =  pd.to_numeric(df['deathlongitude'],errors='coerce')
 
 
-useful_cols = ['Id', 'dateOfDeath', 'Place of Death', 'yearOfBirth', 'showOnMap', 'Place of Birth', 'dateOfBirth', 'Last Name', 'latitude', 'longitude', 'deathlatitude', 'deathlongitude']
+useful_cols = ['Id', 'dateOfDeath', 'Place of Death', 'yearOfBirth', 'showOnMap', 'Place of Birth', 'dateOfBirth', 'lastName', 'latitude', 'longitude', 'deathlatitude', 'deathlongitude']
 df_subset = df[useful_cols]
 df_geo = df_subset.dropna(subset=['latitude', 'longitude'], axis=0, inplace=False)
 
@@ -93,7 +94,7 @@ def df_to_geojson(df, properties, lat='latitude', lon='longitude'):
     
     return geojson
 
-useful_columns = ['Id', 'yearOfBirth', 'Place of Birth', 'Last Name', 'dateOfBirth', 'showOnMap']
+useful_columns = ['Id', 'yearOfBirth', 'Place of Birth', 'lastName', 'dateOfBirth', 'showOnMap']
 
 geojson_dict = df_to_geojson(df_geo, properties=useful_columns)
 geojson_str = json.dumps(geojson_dict, indent=2)
@@ -107,72 +108,3 @@ with open(output_filename, 'w') as output_file:
 print('{} geotagged features saved to file'.format(len(geojson_dict['features'])))
 
 
-
-
-##Process for converting json to geojson, checking for coordinates, and exporting, for births
-df2 = pd.DataFrame(people)
-print('We have {} rows'.format(len(df2)))
-str(df2.columns.tolist())
-
-
-df2['latitude'] =  pd.to_numeric(df2['latitude'],errors='coerce')
-df2['longitude'] =  pd.to_numeric(df2['longitude'],errors='coerce')
-df2['yearOfBirth'] =  pd.to_numeric(df2['yearOfBirth'],errors='coerce')
-
-df2['deathlatitude'] =  pd.to_numeric(df2['deathlatitude'],errors='coerce')
-df2['deathlongitude'] =  pd.to_numeric(df2['deathlongitude'],errors='coerce')
-
-
-useful_cols2 = ['Id', 'dateOfDeath', 'Place of Death', 'yearOfBirth', 'showOnMap', 'Place of Birth', 'dateOfBirth', 'Last Name', 'latitude', 'longitude', 'deathlatitude', 'deathlongitude']
-df_subset2 = df2[useful_cols2]
-df_geo2 = df_subset2.dropna(subset=['deathlatitude', 'deathlongitude'], axis=0, inplace=False)
-
-print('We have {} geotagged rows'.format(len(df_geo2)))
-
-print(df_geo2.tail())
-
-def df_to_geojson2(df, properties, lat='deathlatitude', lon='deathlongitude'):
-    """
-    Turn a dataframe containing point data into a geojson formatted python dictionary
-    
-    df : the dataframe to convert to geojson
-    properties : a list of columns in the dataframe to turn into geojson feature properties
-    lat : the name of the column in the dataframe that contains latitude data
-    lon : the name of the column in the dataframe that contains longitude data
-    """
-    
-    # create a new python dict to contain our geojson data, using geojson format
-    geojson = {'type':'FeatureCollection', 'features':[]}
-
-    # loop through each row in the dataframe and convert each row to geojson format
-    for _, row in df.iterrows():
-        # create a feature template to fill in
-        feature = {'type':'Feature',
-                   'properties':{},
-                   'geometry':{'type':'Point',
-                               'coordinates':[]}}
-
-        # fill in the coordinates
-        feature['geometry']['coordinates'] = [row[lon],row[lat]]
-
-        # for each column, get the value and add it as a new feature property
-        for prop in properties:
-            feature['properties'][prop] = row[prop]
-        
-        # add this feature (aka, converted dataframe row) to the list of features inside our dict
-        geojson['features'].append(feature)
-    
-    return geojson
-
-useful_columns2 = ['Id', 'yearOfBirth', 'Place of Birth', 'Last Name', 'dateOfBirth', 'showOnMap']
-
-geojson_dict2 = df_to_geojson2(df_geo2, properties=useful_columns2)
-geojson_str2 = json.dumps(geojson_dict2, indent=2)
-
-# save the geojson result to a file
-output_filename = 'deathplaces.js'
-with open(output_filename, 'w') as output_file:
-    output_file.write('var deathplaces = {};'.format(geojson_str2))
-    
-# how many features did we save to the geojson file?
-print('{} geotagged features saved to file'.format(len(geojson_dict2['features'])))

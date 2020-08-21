@@ -7,7 +7,7 @@ var birthplaces = {
         "Id": 6.822,
         "yearOfBirth": 1800.0,
         "Place of Birth": "Troyes (Aube)",
-        "Last Name": "Tissier",
+        "lastName": "Tissier",
         "dateOfBirth": "10/02/1800",
         "showOnMap": false
       },
@@ -25,7 +25,7 @@ var birthplaces = {
         "Id": 6.823,
         "yearOfBirth": 1810.0,
         "Place of Birth": "Secondigliano (Napoli)",
-        "Last Name": "Visconti",
+        "lastName": "Visconti",
         "dateOfBirth": "05/16/1810",
         "showOnMap": false
       },
@@ -43,7 +43,7 @@ var birthplaces = {
         "Id": 6.824,
         "yearOfBirth": 1824.0,
         "Place of Birth": "Gramat (Lot)",
-        "Last Name": "Capbal",
+        "lastName": "Capbal",
         "dateOfBirth": "05/30/1824",
         "showOnMap": false
       },
@@ -61,7 +61,7 @@ var birthplaces = {
         "Id": 6.825,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Messina",
-        "Last Name": "Leggio",
+        "lastName": "Leggio",
         "dateOfBirth": "01/30/1821",
         "showOnMap": false
       },
@@ -79,7 +79,7 @@ var birthplaces = {
         "Id": 6.826,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Bury St Edmund's (Suffolk)",
-        "Last Name": "Syrett",
+        "lastName": "Syrett",
         "dateOfBirth": "01/18/1821",
         "showOnMap": false
       },
@@ -97,7 +97,7 @@ var birthplaces = {
         "Id": 6.827,
         "yearOfBirth": 1824.0,
         "Place of Birth": "Roma",
-        "Last Name": "Vannutelli",
+        "lastName": "Vannutelli",
         "dateOfBirth": "01/03/1824",
         "showOnMap": false
       },
@@ -115,7 +115,7 @@ var birthplaces = {
         "Id": 6.828,
         "yearOfBirth": 1803.0,
         "Place of Birth": "Serre (Doubs)",
-        "Last Name": "Maurivard",
+        "lastName": "Maurivard",
         "dateOfBirth": "07/18/1803",
         "showOnMap": false
       },
@@ -133,7 +133,7 @@ var birthplaces = {
         "Id": 6.829,
         "yearOfBirth": 1830.0,
         "Place of Birth": "Kerkrade (Limburg)",
-        "Last Name": "van Wersch",
+        "lastName": "van Wersch",
         "dateOfBirth": "05/20/1830",
         "showOnMap": false
       },
@@ -151,7 +151,7 @@ var birthplaces = {
         "Id": 6.83,
         "yearOfBirth": 1844.0,
         "Place of Birth": "Rigny (H-Saone)",
-        "Last Name": "Lefebvre",
+        "lastName": "Lefebvre",
         "dateOfBirth": "01/22/1844",
         "showOnMap": false
       },
@@ -169,7 +169,7 @@ var birthplaces = {
         "Id": 6.831,
         "yearOfBirth": 1869.0,
         "Place of Birth": "Ypres (Fl Oc)",
-        "Last Name": "Bindels",
+        "lastName": "Bindels",
         "dateOfBirth": "04/15/1869",
         "showOnMap": false
       },
@@ -187,7 +187,7 @@ var birthplaces = {
         "Id": 6.832,
         "yearOfBirth": 1819.0,
         "Place of Birth": "Cloonygormican (Roscommon)",
-        "Last Name": "Dwyer",
+        "lastName": "Dwyer",
         "dateOfBirth": "02/02/1819",
         "showOnMap": false
       },
@@ -205,7 +205,7 @@ var birthplaces = {
         "Id": 6.833,
         "yearOfBirth": 1816.0,
         "Place of Birth": "Lyon",
-        "Last Name": "Tallon",
+        "lastName": "Tallon",
         "dateOfBirth": "05/11/1816",
         "showOnMap": false
       },
@@ -223,7 +223,7 @@ var birthplaces = {
         "Id": 6.834,
         "yearOfBirth": 1843.0,
         "Place of Birth": "Tordera (Barcelona)",
-        "Last Name": "Joffre",
+        "lastName": "Joffre",
         "dateOfBirth": "11/28/1843",
         "showOnMap": false
       },
@@ -241,7 +241,7 @@ var birthplaces = {
         "Id": 6.835,
         "yearOfBirth": 1805.0,
         "Place of Birth": "Montpellier",
-        "Last Name": "Calage",
+        "lastName": "Calage",
         "dateOfBirth": "08/15/1805",
         "showOnMap": false
       },
@@ -259,7 +259,7 @@ var birthplaces = {
         "Id": 6.836,
         "yearOfBirth": 1805.0,
         "Place of Birth": "Wildhaus",
-        "Last Name": "Weninger",
+        "lastName": "Weninger",
         "dateOfBirth": "10/31/1805",
         "showOnMap": false
       },
@@ -277,7 +277,7 @@ var birthplaces = {
         "Id": 6.837,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Lercara Friddi (Palermo)",
-        "Last Name": "Montesanto",
+        "lastName": "Montesanto",
         "dateOfBirth": "09/21/1820",
         "showOnMap": false
       },
@@ -295,7 +295,7 @@ var birthplaces = {
         "Id": 6.838,
         "yearOfBirth": 1805.0,
         "Place of Birth": "Osnabruck (Hannover)",
-        "Last Name": "Lakebrink",
+        "lastName": "Lakebrink",
         "dateOfBirth": "12/25/1805",
         "showOnMap": false
       },
@@ -313,7 +313,7 @@ var birthplaces = {
         "Id": 6.839,
         "yearOfBirth": 1865.0,
         "Place of Birth": "Chateau-des-Ouches",
-        "Last Name": "de La Coste",
+        "lastName": "de La Coste",
         "dateOfBirth": "10/14/1865",
         "showOnMap": false
       },
@@ -331,7 +331,7 @@ var birthplaces = {
         "Id": 6.84,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Napoli",
-        "Last Name": "Piccirillo",
+        "lastName": "Piccirillo",
         "dateOfBirth": "12/25/1821",
         "showOnMap": false
       },
@@ -349,7 +349,7 @@ var birthplaces = {
         "Id": 6.841,
         "yearOfBirth": 1832.0,
         "Place of Birth": "Gunskirchen, O.O.",
-        "Last Name": "Muckenhuber",
+        "lastName": "Muckenhuber",
         "dateOfBirth": "09/15/1832",
         "showOnMap": false
       },
@@ -367,7 +367,7 @@ var birthplaces = {
         "Id": 6.842,
         "yearOfBirth": 1861.0,
         "Place of Birth": "Baie-du-Febvre, Que",
-        "Last Name": "Duguay",
+        "lastName": "Duguay",
         "dateOfBirth": "12/10/1861",
         "showOnMap": false
       },
@@ -385,7 +385,7 @@ var birthplaces = {
         "Id": 6.843,
         "yearOfBirth": 1810.0,
         "Place of Birth": "Rankweil (Vorarlberg)",
-        "Last Name": "Jenny",
+        "lastName": "Jenny",
         "dateOfBirth": "01/01/1810",
         "showOnMap": false
       },
@@ -403,7 +403,7 @@ var birthplaces = {
         "Id": 6.844,
         "yearOfBirth": 1850.0,
         "Place of Birth": "Palma de Mallorca",
-        "Last Name": "Juan",
+        "lastName": "Juan",
         "dateOfBirth": "07/11/1850",
         "showOnMap": false
       },
@@ -421,7 +421,7 @@ var birthplaces = {
         "Id": 6.845,
         "yearOfBirth": 1811.0,
         "Place of Birth": "Chambery",
-        "Last Name": "Frandin",
+        "lastName": "Frandin",
         "dateOfBirth": "03/27/1811",
         "showOnMap": false
       },
@@ -439,7 +439,7 @@ var birthplaces = {
         "Id": 6.846,
         "yearOfBirth": 1865.0,
         "Place of Birth": "Autun (Saone-et-L)",
-        "Last Name": "Rolland",
+        "lastName": "Rolland",
         "dateOfBirth": "03/10/1865",
         "showOnMap": false
       },
@@ -457,7 +457,7 @@ var birthplaces = {
         "Id": 6.847,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Gent",
-        "Last Name": "Deynoodt",
+        "lastName": "Deynoodt",
         "dateOfBirth": "10/15/1821",
         "showOnMap": false
       },
@@ -475,7 +475,7 @@ var birthplaces = {
         "Id": 6.848,
         "yearOfBirth": 1843.0,
         "Place of Birth": "? (Monagham)",
-        "Last Name": "Mackeon",
+        "lastName": "Mackeon",
         "dateOfBirth": "04/12/1843",
         "showOnMap": false
       },
@@ -493,7 +493,7 @@ var birthplaces = {
         "Id": 6.849,
         "yearOfBirth": 1810.0,
         "Place of Birth": "Newry (Armagh)",
-        "Last Name": "Macconnell",
+        "lastName": "Macconnell",
         "dateOfBirth": "11/04/1810",
         "showOnMap": false
       },
@@ -511,7 +511,7 @@ var birthplaces = {
         "Id": 6.85,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Enghien",
-        "Last Name": "Scheys",
+        "lastName": "Scheys",
         "dateOfBirth": "05/06/1827",
         "showOnMap": false
       },
@@ -529,7 +529,7 @@ var birthplaces = {
         "Id": 6.851,
         "yearOfBirth": 1836.0,
         "Place of Birth": "Sarentino (Trento)",
-        "Last Name": "Wassermann",
+        "lastName": "Wassermann",
         "dateOfBirth": "03/23/1836",
         "showOnMap": false
       },
@@ -547,7 +547,7 @@ var birthplaces = {
         "Id": 6.852,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Altishofen (Luzern)",
-        "Last Name": "Rolli",
+        "lastName": "Rolli",
         "dateOfBirth": "08/26/1825",
         "showOnMap": false
       },
@@ -565,7 +565,7 @@ var birthplaces = {
         "Id": 6.853,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Modica (Siracusa)",
-        "Last Name": "Ferlisi",
+        "lastName": "Ferlisi",
         "dateOfBirth": "02/17/1822",
         "showOnMap": false
       },
@@ -583,7 +583,7 @@ var birthplaces = {
         "Id": 6.854,
         "yearOfBirth": 1836.0,
         "Place of Birth": "Huy (Liege)",
-        "Last Name": "de Briey",
+        "lastName": "de Briey",
         "dateOfBirth": "07/12/1836",
         "showOnMap": false
       },
@@ -601,7 +601,7 @@ var birthplaces = {
         "Id": 6.855,
         "yearOfBirth": 1830.0,
         "Place of Birth": "Minden (Westfalen)",
-        "Last Name": "Suermann",
+        "lastName": "Suermann",
         "dateOfBirth": "04/13/1830",
         "showOnMap": false
       },
@@ -619,7 +619,7 @@ var birthplaces = {
         "Id": 6.856,
         "yearOfBirth": 1862.0,
         "Place of Birth": "Chicago",
-        "Last Name": "Macginn",
+        "lastName": "Macginn",
         "dateOfBirth": "08/11/1862",
         "showOnMap": false
       },
@@ -637,7 +637,7 @@ var birthplaces = {
         "Id": 6.857,
         "yearOfBirth": 1835.0,
         "Place of Birth": "Napoli",
-        "Last Name": "Valente",
+        "lastName": "Valente",
         "dateOfBirth": "12/07/1835",
         "showOnMap": false
       },
@@ -655,7 +655,7 @@ var birthplaces = {
         "Id": 6.858,
         "yearOfBirth": 1835.0,
         "Place of Birth": "Mugron (Landes)",
-        "Last Name": "Dupouy",
+        "lastName": "Dupouy",
         "dateOfBirth": "12/07/1835",
         "showOnMap": false
       },
@@ -673,7 +673,7 @@ var birthplaces = {
         "Id": 6.859,
         "yearOfBirth": 1844.0,
         "Place of Birth": "Lempdes (H-Loire)",
-        "Last Name": "Chalchat",
+        "lastName": "Chalchat",
         "dateOfBirth": "01/17/1844",
         "showOnMap": false
       },
@@ -691,7 +691,7 @@ var birthplaces = {
         "Id": 6.86,
         "yearOfBirth": 1863.0,
         "Place of Birth": "Wolfsdonck",
-        "Last Name": "Heylen",
+        "lastName": "Heylen",
         "dateOfBirth": "10/04/1863",
         "showOnMap": false
       },
@@ -709,7 +709,7 @@ var birthplaces = {
         "Id": 6.861,
         "yearOfBirth": 1830.0,
         "Place of Birth": "Hattryl pr Cham (Zug)",
-        "Last Name": "Hausherr",
+        "lastName": "Hausherr",
         "dateOfBirth": "04/09/1830",
         "showOnMap": false
       },
@@ -727,7 +727,7 @@ var birthplaces = {
         "Id": 6.862,
         "yearOfBirth": 1819.0,
         "Place of Birth": "Arc-sous-Cicon (Doubs)",
-        "Last Name": "Brutillot",
+        "lastName": "Brutillot",
         "dateOfBirth": "10/31/1819",
         "showOnMap": false
       },
@@ -745,7 +745,7 @@ var birthplaces = {
         "Id": 6.863,
         "yearOfBirth": 1839.0,
         "Place of Birth": "Salzig (Rheinland)",
-        "Last Name": "Weinand",
+        "lastName": "Weinand",
         "dateOfBirth": "08/08/1839",
         "showOnMap": false
       },
@@ -763,7 +763,7 @@ var birthplaces = {
         "Id": 6.864,
         "yearOfBirth": 1814.0,
         "Place of Birth": "Salerno",
-        "Last Name": "D'Alessio",
+        "lastName": "D'Alessio",
         "dateOfBirth": "04/02/1814",
         "showOnMap": false
       },
@@ -781,7 +781,7 @@ var birthplaces = {
         "Id": 6.865,
         "yearOfBirth": 1863.0,
         "Place of Birth": "Seppenrade (Westfalen)",
-        "Last Name": "Feldkamp",
+        "lastName": "Feldkamp",
         "dateOfBirth": "08/02/1863",
         "showOnMap": false
       },
@@ -799,7 +799,7 @@ var birthplaces = {
         "Id": 6.866,
         "yearOfBirth": 1860.0,
         "Place of Birth": "Paris",
-        "Last Name": "Grognet",
+        "lastName": "Grognet",
         "dateOfBirth": "12/23/1860",
         "showOnMap": false
       },
@@ -817,7 +817,7 @@ var birthplaces = {
         "Id": 6.867,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Vigneux (Aisne)",
-        "Last Name": "Paradis",
+        "lastName": "Paradis",
         "dateOfBirth": "02/14/1831",
         "showOnMap": false
       },
@@ -835,7 +835,7 @@ var birthplaces = {
         "Id": 6.868,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Svitavy (Morava)",
-        "Last Name": "Kriessl",
+        "lastName": "Kriessl",
         "dateOfBirth": "06/19/1831",
         "showOnMap": false
       },
@@ -853,7 +853,7 @@ var birthplaces = {
         "Id": 6.869,
         "yearOfBirth": 1868.0,
         "Place of Birth": "Lysl\u00ef\u00bf\u00bds-Lannoy (Nord)",
-        "Last Name": "Wastin",
+        "lastName": "Wastin",
         "dateOfBirth": "04/11/1868",
         "showOnMap": false
       },
@@ -871,7 +871,7 @@ var birthplaces = {
         "Id": 6.87,
         "yearOfBirth": 1811.0,
         "Place of Birth": "Deiningen (Schwaben)",
-        "Last Name": "Daurer",
+        "lastName": "Daurer",
         "dateOfBirth": "11/05/1811",
         "showOnMap": false
       },
@@ -889,7 +889,7 @@ var birthplaces = {
         "Id": 6.871,
         "yearOfBirth": 1824.0,
         "Place of Birth": "San Severino (Macerata)",
-        "Last Name": "Margarucci",
+        "lastName": "Margarucci",
         "dateOfBirth": "04/17/1824",
         "showOnMap": false
       },
@@ -907,7 +907,7 @@ var birthplaces = {
         "Id": 6.872,
         "yearOfBirth": 1844.0,
         "Place of Birth": "Modica (Siracusa)",
-        "Last Name": "Polino",
+        "lastName": "Polino",
         "dateOfBirth": "07/04/1844",
         "showOnMap": false
       },
@@ -925,7 +925,7 @@ var birthplaces = {
         "Id": 6.873,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Plounez (C\u00ef\u00bf\u00bdtes-du-N)",
-        "Last Name": "Le Coniat",
+        "lastName": "Le Coniat",
         "dateOfBirth": "06/27/1817",
         "showOnMap": false
       },
@@ -943,7 +943,7 @@ var birthplaces = {
         "Id": 6.874,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Flass\u00ef\u00bf\u00bd (Gerona)",
-        "Last Name": "Llaus\u00ef\u00bf\u00bds",
+        "lastName": "Llaus\u00ef\u00bf\u00bds",
         "dateOfBirth": "03/05/1823",
         "showOnMap": false
       },
@@ -961,7 +961,7 @@ var birthplaces = {
         "Id": 6.875,
         "yearOfBirth": 1867.0,
         "Place of Birth": "Vienne (Is\u00ef\u00bf\u00bdre)",
-        "Last Name": "de Ravinel",
+        "lastName": "de Ravinel",
         "dateOfBirth": "05/11/1867",
         "showOnMap": false
       },
@@ -979,7 +979,7 @@ var birthplaces = {
         "Id": 6.876,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Riom (Puy-de-D)",
-        "Last Name": "(Chapus) Dubost",
+        "lastName": "(Chapus) Dubost",
         "dateOfBirth": "05/31/1820",
         "showOnMap": false
       },
@@ -997,7 +997,7 @@ var birthplaces = {
         "Id": 6.877,
         "yearOfBirth": 1815.0,
         "Place of Birth": "Longomoso (Bolzano)",
-        "Last Name": "Oehler",
+        "lastName": "Oehler",
         "dateOfBirth": "05/12/1815",
         "showOnMap": false
       },
@@ -1015,7 +1015,7 @@ var birthplaces = {
         "Id": 6.879,
         "yearOfBirth": 1813.0,
         "Place of Birth": "Roma",
-        "Last Name": "Giannini",
+        "lastName": "Giannini",
         "dateOfBirth": "08/08/1813",
         "showOnMap": false
       },
@@ -1033,7 +1033,7 @@ var birthplaces = {
         "Id": 6.88,
         "yearOfBirth": 1828.0,
         "Place of Birth": "Exeter (Devon)",
-        "Last Name": "Porter",
+        "lastName": "Porter",
         "dateOfBirth": "11/01/1828",
         "showOnMap": false
       },
@@ -1051,7 +1051,7 @@ var birthplaces = {
         "Id": 6.881,
         "yearOfBirth": 1812.0,
         "Place of Birth": "Piacenza",
-        "Last Name": "Ponzini",
+        "lastName": "Ponzini",
         "dateOfBirth": "11/07/1812",
         "showOnMap": false
       },
@@ -1069,7 +1069,7 @@ var birthplaces = {
         "Id": 6.882,
         "yearOfBirth": 1829.0,
         "Place of Birth": "Bouxi\u00ef\u00bf\u00bdres-aux-Ch\u00ef\u00bf\u00bdnes (Meurthe)",
-        "Last Name": "G\u00ef\u00bf\u00bdn\u00ef\u00bf\u00bdvrier",
+        "lastName": "G\u00ef\u00bf\u00bdn\u00ef\u00bf\u00bdvrier",
         "dateOfBirth": "12/01/1829",
         "showOnMap": false
       },
@@ -1087,7 +1087,7 @@ var birthplaces = {
         "Id": 6.883,
         "yearOfBirth": 1848.0,
         "Place of Birth": "Cori (Roma)",
-        "Last Name": "Chiari",
+        "lastName": "Chiari",
         "dateOfBirth": "04/09/1848",
         "showOnMap": false
       },
@@ -1105,7 +1105,7 @@ var birthplaces = {
         "Id": 6.884,
         "yearOfBirth": 1847.0,
         "Place of Birth": "Genzano (Roma)",
-        "Last Name": "Colangeli",
+        "lastName": "Colangeli",
         "dateOfBirth": "05/16/1847",
         "showOnMap": false
       },
@@ -1123,7 +1123,7 @@ var birthplaces = {
         "Id": 6.885,
         "yearOfBirth": 1845.0,
         "Place of Birth": "K\u00ef\u00bf\u00bdln",
-        "Last Name": "Stein",
+        "lastName": "Stein",
         "dateOfBirth": "08/21/1845",
         "showOnMap": false
       },
@@ -1141,7 +1141,7 @@ var birthplaces = {
         "Id": 6.886,
         "yearOfBirth": 1840.0,
         "Place of Birth": "*Ober-Nemans",
-        "Last Name": "Lustinetz",
+        "lastName": "Lustinetz",
         "dateOfBirth": "10/06/1840",
         "showOnMap": false
       },
@@ -1159,7 +1159,7 @@ var birthplaces = {
         "Id": 6.887,
         "yearOfBirth": 1856.0,
         "Place of Birth": "Manresa",
-        "Last Name": "Torrents",
+        "lastName": "Torrents",
         "dateOfBirth": "01/28/1856",
         "showOnMap": false
       },
@@ -1177,7 +1177,7 @@ var birthplaces = {
         "Id": 6.888,
         "yearOfBirth": 1810.0,
         "Place of Birth": "Elten (Rheinland)",
-        "Last Name": "Buning",
+        "lastName": "Buning",
         "dateOfBirth": "03/22/1810",
         "showOnMap": false
       },
@@ -1195,7 +1195,7 @@ var birthplaces = {
         "Id": 6.889,
         "yearOfBirth": 1845.0,
         "Place of Birth": "Mahon (Menorca)",
-        "Last Name": "Segui",
+        "lastName": "Segui",
         "dateOfBirth": "02/18/1845",
         "showOnMap": false
       },
@@ -1213,7 +1213,7 @@ var birthplaces = {
         "Id": 6.89,
         "yearOfBirth": 1858.0,
         "Place of Birth": "Bagnols (Var)",
-        "Last Name": "Aguzzoni",
+        "lastName": "Aguzzoni",
         "dateOfBirth": "07/03/1858",
         "showOnMap": false
       },
@@ -1231,7 +1231,7 @@ var birthplaces = {
         "Id": 6.891,
         "yearOfBirth": 1851.0,
         "Place of Birth": "Pedreguer (Alicante)",
-        "Last Name": "Tomas",
+        "lastName": "Tomas",
         "dateOfBirth": "05/16/1851",
         "showOnMap": false
       },
@@ -1249,7 +1249,7 @@ var birthplaces = {
         "Id": 6.893,
         "yearOfBirth": 1818.0,
         "Place of Birth": "Orvieto (Terni)",
-        "Last Name": "Roccatelli",
+        "lastName": "Roccatelli",
         "dateOfBirth": "04/20/1818",
         "showOnMap": false
       },
@@ -1267,7 +1267,7 @@ var birthplaces = {
         "Id": 6.894,
         "yearOfBirth": 1858.0,
         "Place of Birth": "Bergholtzzell (H-Rhin)",
-        "Last Name": "Weis",
+        "lastName": "Weis",
         "dateOfBirth": "05/19/1858",
         "showOnMap": false
       },
@@ -1285,7 +1285,7 @@ var birthplaces = {
         "Id": 6.895,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Siuderno (Bolzano)",
-        "Last Name": "Rupp",
+        "lastName": "Rupp",
         "dateOfBirth": "11/18/1821",
         "showOnMap": false
       },
@@ -1303,7 +1303,7 @@ var birthplaces = {
         "Id": 6.896,
         "yearOfBirth": 1824.0,
         "Place of Birth": "Venezia",
-        "Last Name": "Saccardo",
+        "lastName": "Saccardo",
         "dateOfBirth": "09/16/1824",
         "showOnMap": false
       },
@@ -1321,7 +1321,7 @@ var birthplaces = {
         "Id": 6.897,
         "yearOfBirth": 1818.0,
         "Place of Birth": "Orvieto (Terni)",
-        "Last Name": "Casaccia",
+        "lastName": "Casaccia",
         "dateOfBirth": "10/17/1818",
         "showOnMap": false
       },
@@ -1339,7 +1339,7 @@ var birthplaces = {
         "Id": 6.898,
         "yearOfBirth": 1853.0,
         "Place of Birth": "Dublin",
-        "Last Name": "Waters",
+        "lastName": "Waters",
         "dateOfBirth": "10/03/1853",
         "showOnMap": false
       },
@@ -1357,7 +1357,7 @@ var birthplaces = {
         "Id": 6.899,
         "yearOfBirth": 1812.0,
         "Place of Birth": "Ceprano (Roma)",
-        "Last Name": "Pesci",
+        "lastName": "Pesci",
         "dateOfBirth": "03/12/1812",
         "showOnMap": false
       },
@@ -1375,7 +1375,7 @@ var birthplaces = {
         "Id": 6.9,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Olot (Gerona)",
-        "Last Name": "Bertran",
+        "lastName": "Bertran",
         "dateOfBirth": "02/10/1822",
         "showOnMap": false
       },
@@ -1393,7 +1393,7 @@ var birthplaces = {
         "Id": 6.901,
         "yearOfBirth": 1858.0,
         "Place of Birth": "Luyksgestel (N-Brabant)",
-        "Last Name": "Van De Reydt",
+        "lastName": "Van De Reydt",
         "dateOfBirth": "05/09/1858",
         "showOnMap": false
       },
@@ -1411,7 +1411,7 @@ var birthplaces = {
         "Id": 6.902,
         "yearOfBirth": 1830.0,
         "Place of Birth": "Chemille (Maine-et-L)",
-        "Last Name": "Danton",
+        "lastName": "Danton",
         "dateOfBirth": "06/15/1830",
         "showOnMap": false
       },
@@ -1429,7 +1429,7 @@ var birthplaces = {
         "Id": 6.903,
         "yearOfBirth": 1806.0,
         "Place of Birth": "Envie (Cuneo)",
-        "Last Name": "Sarru",
+        "lastName": "Sarru",
         "dateOfBirth": "09/24/1806",
         "showOnMap": false
       },
@@ -1447,7 +1447,7 @@ var birthplaces = {
         "Id": 6.904,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Koblenz",
-        "Last Name": "Michels",
+        "lastName": "Michels",
         "dateOfBirth": "06/23/1817",
         "showOnMap": false
       },
@@ -1465,7 +1465,7 @@ var birthplaces = {
         "Id": 6.905,
         "yearOfBirth": 1816.0,
         "Place of Birth": "Novara?",
-        "Last Name": "Tadini",
+        "lastName": "Tadini",
         "dateOfBirth": "03/18/1816",
         "showOnMap": false
       },
@@ -1483,7 +1483,7 @@ var birthplaces = {
         "Id": 6.906,
         "yearOfBirth": 1857.0,
         "Place of Birth": "Alberique (Valencia)",
-        "Last Name": "Cervera",
+        "lastName": "Cervera",
         "dateOfBirth": "01/26/1857",
         "showOnMap": false
       },
@@ -1501,7 +1501,7 @@ var birthplaces = {
         "Id": 6.907,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Vipiteno (Bolzano)",
-        "Last Name": "Haidegger",
+        "lastName": "Haidegger",
         "dateOfBirth": "10/09/1826",
         "showOnMap": false
       },
@@ -1519,7 +1519,7 @@ var birthplaces = {
         "Id": 6.908,
         "yearOfBirth": 1841.0,
         "Place of Birth": "Loreto (Ancona)",
-        "Last Name": "Nardi",
+        "lastName": "Nardi",
         "dateOfBirth": "01/13/1841",
         "showOnMap": false
       },
@@ -1537,7 +1537,7 @@ var birthplaces = {
         "Id": 6.909,
         "yearOfBirth": 1817.0,
         "Place of Birth": "klingnau (Aargau)",
-        "Last Name": "Schleiniger",
+        "lastName": "Schleiniger",
         "dateOfBirth": "10/14/1817",
         "showOnMap": false
       },
@@ -1555,7 +1555,7 @@ var birthplaces = {
         "Id": 6.91,
         "yearOfBirth": 1863.0,
         "Place of Birth": "Igualada (Barcelona)",
-        "Last Name": "Catarineu",
+        "lastName": "Catarineu",
         "dateOfBirth": "12/01/1863",
         "showOnMap": false
       },
@@ -1573,7 +1573,7 @@ var birthplaces = {
         "Id": 6.911,
         "yearOfBirth": 1811.0,
         "Place of Birth": "Napoli",
-        "Last Name": "De Cristofaro",
+        "lastName": "De Cristofaro",
         "dateOfBirth": "04/19/1811",
         "showOnMap": false
       },
@@ -1591,7 +1591,7 @@ var birthplaces = {
         "Id": 6.912,
         "yearOfBirth": 1798.0,
         "Place of Birth": "Ciudad Rodrigo (Salamanca)",
-        "Last Name": "Queralt",
+        "lastName": "Queralt",
         "dateOfBirth": "04/21/1798",
         "showOnMap": false
       },
@@ -1609,7 +1609,7 @@ var birthplaces = {
         "Id": 6.913,
         "yearOfBirth": 1856.0,
         "Place of Birth": "Lyon",
-        "Last Name": "Beccard",
+        "lastName": "Beccard",
         "dateOfBirth": "10/17/1856",
         "showOnMap": false
       },
@@ -1627,7 +1627,7 @@ var birthplaces = {
         "Id": 6.914,
         "yearOfBirth": 1805.0,
         "Place of Birth": "Sellieres (Jura)",
-        "Last Name": "Canoz",
+        "lastName": "Canoz",
         "dateOfBirth": "09/11/1805",
         "showOnMap": false
       },
@@ -1645,7 +1645,7 @@ var birthplaces = {
         "Id": 6.915,
         "yearOfBirth": 1867.0,
         "Place of Birth": "Gerona",
-        "Last Name": "Massaguer",
+        "lastName": "Massaguer",
         "dateOfBirth": "02/02/1867",
         "showOnMap": false
       },
@@ -1663,7 +1663,7 @@ var birthplaces = {
         "Id": 6.916,
         "yearOfBirth": 1852.0,
         "Place of Birth": "Moresnet (Li\u00ef\u00bf\u00bdge)",
-        "Last Name": "Pelzer",
+        "lastName": "Pelzer",
         "dateOfBirth": "02/06/1852",
         "showOnMap": false
       },
@@ -1681,7 +1681,7 @@ var birthplaces = {
         "Id": 6.917,
         "yearOfBirth": 1811.0,
         "Place of Birth": "Salza (Avellino)",
-        "Last Name": "Ferullo",
+        "lastName": "Ferullo",
         "dateOfBirth": "03/07/1811",
         "showOnMap": false
       },
@@ -1699,7 +1699,7 @@ var birthplaces = {
         "Id": 6.918,
         "yearOfBirth": 1838.0,
         "Place of Birth": "Paris",
-        "Last Name": "de Launay",
+        "lastName": "de Launay",
         "dateOfBirth": "04/21/1838",
         "showOnMap": false
       },
@@ -1717,7 +1717,7 @@ var birthplaces = {
         "Id": 6.919,
         "yearOfBirth": 1804.0,
         "Place of Birth": "La Chapelle-aux-Filx M\u00ef\u00bf\u00bdens (Ille-et-V)",
-        "Last Name": "Rubillon (du Lattay)",
+        "lastName": "Rubillon (du Lattay)",
         "dateOfBirth": "12/07/1804",
         "showOnMap": false
       },
@@ -1735,7 +1735,7 @@ var birthplaces = {
         "Id": 6.92,
         "yearOfBirth": 1807.0,
         "Place of Birth": "Mi\u00ef\u00bf\u00bdges (Jura)",
-        "Last Name": "Vuillermet",
+        "lastName": "Vuillermet",
         "dateOfBirth": "06/24/1807",
         "showOnMap": false
       },
@@ -1753,7 +1753,7 @@ var birthplaces = {
         "Id": 6.921,
         "yearOfBirth": 1807.0,
         "Place of Birth": "S. Pietro a Patierno (Napoli)",
-        "Last Name": "Capozzi",
+        "lastName": "Capozzi",
         "dateOfBirth": "12/31/1807",
         "showOnMap": false
       },
@@ -1771,7 +1771,7 @@ var birthplaces = {
         "Id": 6.922,
         "yearOfBirth": 1819.0,
         "Place of Birth": "Cammarata (Girgenti)",
-        "Last Name": "Ferlisi",
+        "lastName": "Ferlisi",
         "dateOfBirth": "04/06/1819",
         "showOnMap": false
       },
@@ -1789,7 +1789,7 @@ var birthplaces = {
         "Id": 6.923,
         "yearOfBirth": 1801.0,
         "Place of Birth": "Anost (Sa\u00ef\u00bf\u00bdne-et-L)",
-        "Last Name": "Lebrot",
+        "lastName": "Lebrot",
         "dateOfBirth": "12/25/1801",
         "showOnMap": false
       },
@@ -1807,7 +1807,7 @@ var birthplaces = {
         "Id": 6.924,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Civitella Roveto (Aquila)",
-        "Last Name": "Ferrante",
+        "lastName": "Ferrante",
         "dateOfBirth": "10/11/1821",
         "showOnMap": false
       },
@@ -1825,7 +1825,7 @@ var birthplaces = {
         "Id": 6.925,
         "yearOfBirth": 1816.0,
         "Place of Birth": "Genoni (Cagliari)",
-        "Last Name": "Porqueddu",
+        "lastName": "Porqueddu",
         "dateOfBirth": "11/19/1816",
         "showOnMap": false
       },
@@ -1843,7 +1843,7 @@ var birthplaces = {
         "Id": 6.926,
         "yearOfBirth": 1848.0,
         "Place of Birth": "Cornill\u00ef\u00bf\u00bd (Ille-et-V)",
-        "Last Name": "Roussel",
+        "lastName": "Roussel",
         "dateOfBirth": "04/29/1848",
         "showOnMap": false
       },
@@ -1861,7 +1861,7 @@ var birthplaces = {
         "Id": 6.927,
         "yearOfBirth": 1859.0,
         "Place of Birth": "Tortosa",
-        "Last Name": "Ferreres",
+        "lastName": "Ferreres",
         "dateOfBirth": "04/05/1859",
         "showOnMap": false
       },
@@ -1879,7 +1879,7 @@ var birthplaces = {
         "Id": 6.928,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Joux-la-Ville (Yonne)",
-        "Last Name": "Bidault",
+        "lastName": "Bidault",
         "dateOfBirth": "04/17/1831",
         "showOnMap": false
       },
@@ -1897,7 +1897,7 @@ var birthplaces = {
         "Id": 6.929,
         "yearOfBirth": 1814.0,
         "Place of Birth": "Tortona (Alessandria)",
-        "Last Name": "Valenti",
+        "lastName": "Valenti",
         "dateOfBirth": "10/24/1814",
         "showOnMap": false
       },
@@ -1915,7 +1915,7 @@ var birthplaces = {
         "Id": 6.93,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Rojau (?echy)",
-        "Last Name": "Lenz",
+        "lastName": "Lenz",
         "dateOfBirth": "08/04/1823",
         "showOnMap": false
       },
@@ -1933,7 +1933,7 @@ var birthplaces = {
         "Id": 6.931,
         "yearOfBirth": 1865.0,
         "Place of Birth": "Rabato (Gozo)",
-        "Last Name": "Debono",
+        "lastName": "Debono",
         "dateOfBirth": "02/22/1865",
         "showOnMap": false
       },
@@ -1951,7 +1951,7 @@ var birthplaces = {
         "Id": 6.932,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Guatemala la Antigua (Sacatepequez, Guatemala)",
-        "Last Name": "Toledo",
+        "lastName": "Toledo",
         "dateOfBirth": "03/11/1831",
         "showOnMap": false
       },
@@ -1969,7 +1969,7 @@ var birthplaces = {
         "Id": 6.933,
         "yearOfBirth": 1872.0,
         "Place of Birth": "Vera (Navarra)",
-        "Last Name": "Errandonea",
+        "lastName": "Errandonea",
         "dateOfBirth": "02/04/1872",
         "showOnMap": false
       },
@@ -1987,7 +1987,7 @@ var birthplaces = {
         "Id": 6.934,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Gimont (Gers)",
-        "Last Name": "Aragon",
+        "lastName": "Aragon",
         "dateOfBirth": "10/30/1817",
         "showOnMap": false
       },
@@ -2005,7 +2005,7 @@ var birthplaces = {
         "Id": 6.935,
         "yearOfBirth": 1819.0,
         "Place of Birth": "Stokkem (Luxembourg)",
-        "Last Name": "Ruppert",
+        "lastName": "Ruppert",
         "dateOfBirth": "08/22/1819",
         "showOnMap": false
       },
@@ -2023,7 +2023,7 @@ var birthplaces = {
         "Id": 6.936,
         "yearOfBirth": 1803.0,
         "Place of Birth": "Aix-les-Bains (Savoie)",
-        "Last Name": "Vignet",
+        "lastName": "Vignet",
         "dateOfBirth": "08/10/1803",
         "showOnMap": false
       },
@@ -2041,7 +2041,7 @@ var birthplaces = {
         "Id": 6.937,
         "yearOfBirth": 1840.0,
         "Place of Birth": "B\u00ef\u00bf\u00bdjar (Salamanca)",
-        "Last Name": "Rodr\u00ef\u00bf\u00bdguez Hern\u00ef\u00bf\u00bdndez",
+        "lastName": "Rodr\u00ef\u00bf\u00bdguez Hern\u00ef\u00bf\u00bdndez",
         "dateOfBirth": "12/10/1840",
         "showOnMap": false
       },
@@ -2059,7 +2059,7 @@ var birthplaces = {
         "Id": 6.938,
         "yearOfBirth": 1869.0,
         "Place of Birth": "T\u00ef\u00bf\u00bdrrega (L\u00ef\u00bf\u00bdrida)",
-        "Last Name": "Vilalta",
+        "lastName": "Vilalta",
         "dateOfBirth": "08/27/1869",
         "showOnMap": false
       },
@@ -2077,7 +2077,7 @@ var birthplaces = {
         "Id": 6.939,
         "yearOfBirth": 1807.0,
         "Place of Birth": "Gheel (Anvers)",
-        "Last Name": "Vloeberghs",
+        "lastName": "Vloeberghs",
         "dateOfBirth": "10/11/1807",
         "showOnMap": false
       },
@@ -2095,7 +2095,7 @@ var birthplaces = {
         "Id": 6.94,
         "yearOfBirth": 1835.0,
         "Place of Birth": "Svitavy (Morava)",
-        "Last Name": "Ratzer",
+        "lastName": "Ratzer",
         "dateOfBirth": "07/04/1835",
         "showOnMap": false
       },
@@ -2113,7 +2113,7 @@ var birthplaces = {
         "Id": 6.941,
         "yearOfBirth": 1810.0,
         "Place of Birth": "Erpe (Fl Or)",
-        "Last Name": "Guns",
+        "lastName": "Guns",
         "dateOfBirth": "10/14/1810",
         "showOnMap": false
       },
@@ -2131,7 +2131,7 @@ var birthplaces = {
         "Id": 6.942,
         "yearOfBirth": 1836.0,
         "Place of Birth": "Schledehausen (Hannover)",
-        "Last Name": "Franksmann",
+        "lastName": "Franksmann",
         "dateOfBirth": "02/29/1836",
         "showOnMap": false
       },
@@ -2149,7 +2149,7 @@ var birthplaces = {
         "Id": 6.943,
         "yearOfBirth": 1819.0,
         "Place of Birth": "*Krig\u00ef\u00bf\u00bdw (Polska?)",
-        "Last Name": "?liwowski",
+        "lastName": "?liwowski",
         "dateOfBirth": "06/06/1819",
         "showOnMap": false
       },
@@ -2167,7 +2167,7 @@ var birthplaces = {
         "Id": 6.944,
         "yearOfBirth": 1824.0,
         "Place of Birth": "Ferentino (Roma)",
-        "Last Name": "Fratazzi",
+        "lastName": "Fratazzi",
         "dateOfBirth": "09/10/1824",
         "showOnMap": false
       },
@@ -2185,7 +2185,7 @@ var birthplaces = {
         "Id": 6.945,
         "yearOfBirth": 1846.0,
         "Place of Birth": "Berrwiller (H-Rhin)",
-        "Last Name": "Wintenberger",
+        "lastName": "Wintenberger",
         "dateOfBirth": "05/29/1846",
         "showOnMap": false
       },
@@ -2203,7 +2203,7 @@ var birthplaces = {
         "Id": 6.946,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Frosinone (Roma)",
-        "Last Name": "Carboni",
+        "lastName": "Carboni",
         "dateOfBirth": "03/29/1821",
         "showOnMap": false
       },
@@ -2221,7 +2221,7 @@ var birthplaces = {
         "Id": 6.947,
         "yearOfBirth": 1854.0,
         "Place of Birth": "Jes\u00ef\u00bf\u00bds, pr Tortosa",
-        "Last Name": "Tafalla",
+        "lastName": "Tafalla",
         "dateOfBirth": "01/28/1854",
         "showOnMap": false
       },
@@ -2239,7 +2239,7 @@ var birthplaces = {
         "Id": 6.948,
         "yearOfBirth": 1861.0,
         "Place of Birth": "Urrestilla (Azpeitia)",
-        "Last Name": "Errasti",
+        "lastName": "Errasti",
         "dateOfBirth": "04/03/1861",
         "showOnMap": false
       },
@@ -2257,7 +2257,7 @@ var birthplaces = {
         "Id": 6.949,
         "yearOfBirth": 1816.0,
         "Place of Birth": "Napoli",
-        "Last Name": "Jannelli",
+        "lastName": "Jannelli",
         "dateOfBirth": "04/16/1816",
         "showOnMap": false
       },
@@ -2275,7 +2275,7 @@ var birthplaces = {
         "Id": 6.95,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Napoli",
-        "Last Name": "Scotti",
+        "lastName": "Scotti",
         "dateOfBirth": "10/14/1826",
         "showOnMap": false
       },
@@ -2293,7 +2293,7 @@ var birthplaces = {
         "Id": 6.951,
         "yearOfBirth": 1864.0,
         "Place of Birth": "San Vicente de Castellet (Barcelona)",
-        "Last Name": "Sala",
+        "lastName": "Sala",
         "dateOfBirth": "05/27/1864",
         "showOnMap": false
       },
@@ -2311,7 +2311,7 @@ var birthplaces = {
         "Id": 6.952,
         "yearOfBirth": 1865.0,
         "Place of Birth": "Al\u00ef\u00bf\u00bds de An\u00ef\u00bf\u00bds (L\u00ef\u00bf\u00bdrida)",
-        "Last Name": "Arnalot",
+        "lastName": "Arnalot",
         "dateOfBirth": "05/13/1865",
         "showOnMap": false
       },
@@ -2329,7 +2329,7 @@ var birthplaces = {
         "Id": 6.953,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Santa Caterina (Caltanissetta)",
-        "Last Name": "Nicosia",
+        "lastName": "Nicosia",
         "dateOfBirth": "10/16/1823",
         "showOnMap": false
       },
@@ -2347,7 +2347,7 @@ var birthplaces = {
         "Id": 6.954,
         "yearOfBirth": 1857.0,
         "Place of Birth": "Preston",
-        "Last Name": "Postlewhite",
+        "lastName": "Postlewhite",
         "dateOfBirth": "11/29/1857",
         "showOnMap": false
       },
@@ -2365,7 +2365,7 @@ var birthplaces = {
         "Id": 6.955,
         "yearOfBirth": 1840.0,
         "Place of Birth": "Tudela de Segre (L\u00ef\u00bf\u00bdrida)",
-        "Last Name": "Ram\u00ef\u00bf\u00bdn",
+        "lastName": "Ram\u00ef\u00bf\u00bdn",
         "dateOfBirth": "08/15/1840",
         "showOnMap": false
       },
@@ -2383,7 +2383,7 @@ var birthplaces = {
         "Id": 6.956,
         "yearOfBirth": 1869.0,
         "Place of Birth": "Malm\u00ef\u00bf\u00bd (Schweden)",
-        "Last Name": "Hallin",
+        "lastName": "Hallin",
         "dateOfBirth": "09/16/1869",
         "showOnMap": false
       },
@@ -2401,7 +2401,7 @@ var birthplaces = {
         "Id": 6.957,
         "yearOfBirth": 1811.0,
         "Place of Birth": "Bousies (Nord)",
-        "Last Name": "Besse",
+        "lastName": "Besse",
         "dateOfBirth": "04/06/1811",
         "showOnMap": false
       },
@@ -2419,7 +2419,7 @@ var birthplaces = {
         "Id": 6.958,
         "yearOfBirth": 1867.0,
         "Place of Birth": "Brzezany, Wrocl",
-        "Last Name": "Dewechy",
+        "lastName": "Dewechy",
         "dateOfBirth": "09/11/1867",
         "showOnMap": false
       },
@@ -2437,7 +2437,7 @@ var birthplaces = {
         "Id": 6.959,
         "yearOfBirth": 1831.0,
         "Place of Birth": "M\u00ef\u00bf\u00bdnster (Valais: a Geschinen, ibid.)",
-        "Last Name": "K\u00ef\u00bf\u00bdmpfen",
+        "lastName": "K\u00ef\u00bf\u00bdmpfen",
         "dateOfBirth": "07/29/1831",
         "showOnMap": false
       },
@@ -2455,7 +2455,7 @@ var birthplaces = {
         "Id": 6.96,
         "yearOfBirth": 1835.0,
         "Place of Birth": "Lathum",
-        "Last Name": "Kraayvanger",
+        "lastName": "Kraayvanger",
         "dateOfBirth": "03/28/1835",
         "showOnMap": false
       },
@@ -2473,7 +2473,7 @@ var birthplaces = {
         "Id": 6.961,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Anvers",
-        "Last Name": "Van Aken",
+        "lastName": "Van Aken",
         "dateOfBirth": "04/23/1834",
         "showOnMap": false
       },
@@ -2491,7 +2491,7 @@ var birthplaces = {
         "Id": 6.962,
         "yearOfBirth": 1862.0,
         "Place of Birth": "Moreiras Grandes (Extremadura)",
-        "Last Name": "Bernando",
+        "lastName": "Bernando",
         "dateOfBirth": "06/16/1862",
         "showOnMap": false
       },
@@ -2509,7 +2509,7 @@ var birthplaces = {
         "Id": 6.963,
         "yearOfBirth": 1853.0,
         "Place of Birth": "St-Louise (H-Rhin)",
-        "Last Name": "Billot",
+        "lastName": "Billot",
         "dateOfBirth": "01/03/1853",
         "showOnMap": false
       },
@@ -2527,7 +2527,7 @@ var birthplaces = {
         "Id": 6.964,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Viterbo (Roma)",
-        "Last Name": "Mazzi",
+        "lastName": "Mazzi",
         "dateOfBirth": "04/06/1825",
         "showOnMap": false
       },
@@ -2545,7 +2545,7 @@ var birthplaces = {
         "Id": 6.965,
         "yearOfBirth": 1864.0,
         "Place of Birth": "Chuisa (Bolzano)",
-        "Last Name": "Untereichner",
+        "lastName": "Untereichner",
         "dateOfBirth": "07/30/1864",
         "showOnMap": false
       },
@@ -2563,7 +2563,7 @@ var birthplaces = {
         "Id": 6.966,
         "yearOfBirth": 1860.0,
         "Place of Birth": "Buffalo",
-        "Last Name": "Neville",
+        "lastName": "Neville",
         "dateOfBirth": "02/20/1860",
         "showOnMap": false
       },
@@ -2581,7 +2581,7 @@ var birthplaces = {
         "Id": 6.967,
         "yearOfBirth": 1806.0,
         "Place of Birth": "St-Agil (Loir-et-Ch)",
-        "Last Name": "Minier",
+        "lastName": "Minier",
         "dateOfBirth": "09/09/1806",
         "showOnMap": false
       },
@@ -2599,7 +2599,7 @@ var birthplaces = {
         "Id": 6.968,
         "yearOfBirth": 1795.0,
         "Place of Birth": "Noyal-Pontivy (Morbihan)",
-        "Last Name": "Le D\u00ef\u00bf\u00bdlaizir",
+        "lastName": "Le D\u00ef\u00bf\u00bdlaizir",
         "dateOfBirth": "04/20/1795",
         "showOnMap": false
       },
@@ -2617,7 +2617,7 @@ var birthplaces = {
         "Id": 6.969,
         "yearOfBirth": 1824.0,
         "Place of Birth": "Camerino (Macerata)",
-        "Last Name": "Coluzzi",
+        "lastName": "Coluzzi",
         "dateOfBirth": "11/20/1824",
         "showOnMap": false
       },
@@ -2635,7 +2635,7 @@ var birthplaces = {
         "Id": 6.97,
         "yearOfBirth": 1844.0,
         "Place of Birth": "Qu\u00ef\u00bf\u00bdbec",
-        "Last Name": "B\u00ef\u00bf\u00bddard",
+        "lastName": "B\u00ef\u00bf\u00bddard",
         "dateOfBirth": "12/31/1844",
         "showOnMap": false
       },
@@ -2653,7 +2653,7 @@ var birthplaces = {
         "Id": 6.971,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Magland (H-Savoie)",
-        "Last Name": "Perrollaz",
+        "lastName": "Perrollaz",
         "dateOfBirth": "07/14/1820",
         "showOnMap": false
       },
@@ -2671,7 +2671,7 @@ var birthplaces = {
         "Id": 6.972,
         "yearOfBirth": 1809.0,
         "Place of Birth": "Wigan (Lancashire)",
-        "Last Name": "Rigby",
+        "lastName": "Rigby",
         "dateOfBirth": "06/08/1809",
         "showOnMap": false
       },
@@ -2689,7 +2689,7 @@ var birthplaces = {
         "Id": 6.973,
         "yearOfBirth": 1833.0,
         "Place of Birth": "Gent",
-        "Last Name": "Verbeke",
+        "lastName": "Verbeke",
         "dateOfBirth": "03/22/1833",
         "showOnMap": false
       },
@@ -2707,7 +2707,7 @@ var birthplaces = {
         "Id": 6.974,
         "yearOfBirth": 1859.0,
         "Place of Birth": "Liverpool",
-        "Last Name": "Walmsley",
+        "lastName": "Walmsley",
         "dateOfBirth": "02/27/1859",
         "showOnMap": false
       },
@@ -2725,7 +2725,7 @@ var birthplaces = {
         "Id": 6.975,
         "yearOfBirth": 1836.0,
         "Place of Birth": "Olesno, Opole",
-        "Last Name": "Haladin",
+        "lastName": "Haladin",
         "dateOfBirth": "09/03/1836",
         "showOnMap": false
       },
@@ -2743,7 +2743,7 @@ var birthplaces = {
         "Id": 6.976,
         "yearOfBirth": 1811.0,
         "Place of Birth": "Bonneval (H-Loire)",
-        "Last Name": "Rossipon",
+        "lastName": "Rossipon",
         "dateOfBirth": "04/26/1811",
         "showOnMap": false
       },
@@ -2761,7 +2761,7 @@ var birthplaces = {
         "Id": 6.977,
         "yearOfBirth": 1871.0,
         "Place of Birth": "Trento",
-        "Last Name": "Dalpr\u00ef\u00bf\u00bd",
+        "lastName": "Dalpr\u00ef\u00bf\u00bd",
         "dateOfBirth": "03/23/1871",
         "showOnMap": false
       },
@@ -2779,7 +2779,7 @@ var birthplaces = {
         "Id": 6.978,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Maignan (Gers)",
-        "Last Name": "Lavay",
+        "lastName": "Lavay",
         "dateOfBirth": "09/11/1820",
         "showOnMap": false
       },
@@ -2797,7 +2797,7 @@ var birthplaces = {
         "Id": 6.979,
         "yearOfBirth": 1850.0,
         "Place of Birth": "Perelada (Gerona)",
-        "Last Name": "Bech",
+        "lastName": "Bech",
         "dateOfBirth": "12/29/1850",
         "showOnMap": false
       },
@@ -2815,7 +2815,7 @@ var birthplaces = {
         "Id": 6.98,
         "yearOfBirth": 1819.0,
         "Place of Birth": "Genova",
-        "Last Name": "Bixio",
+        "lastName": "Bixio",
         "dateOfBirth": "05/23/1819",
         "showOnMap": false
       },
@@ -2833,7 +2833,7 @@ var birthplaces = {
         "Id": 6.981,
         "yearOfBirth": 1856.0,
         "Place of Birth": "Ondara (Alicante)",
-        "Last Name": "Pallar\u00ef\u00bf\u00bds",
+        "lastName": "Pallar\u00ef\u00bf\u00bds",
         "dateOfBirth": "06/12/1856",
         "showOnMap": false
       },
@@ -2851,7 +2851,7 @@ var birthplaces = {
         "Id": 6.982,
         "yearOfBirth": 1829.0,
         "Place of Birth": "Tournai",
-        "Last Name": "Carbonnelle",
+        "lastName": "Carbonnelle",
         "dateOfBirth": "02/01/1829",
         "showOnMap": false
       },
@@ -2869,7 +2869,7 @@ var birthplaces = {
         "Id": 6.983,
         "yearOfBirth": 1837.0,
         "Place of Birth": "Dublin",
-        "Last Name": "O'Carroll",
+        "lastName": "O'Carroll",
         "dateOfBirth": "09/01/1837",
         "showOnMap": false
       },
@@ -2887,7 +2887,7 @@ var birthplaces = {
         "Id": 6.984,
         "yearOfBirth": 1852.0,
         "Place of Birth": "Stiphout (N-Brabant)",
-        "Last Name": "van den Putten",
+        "lastName": "van den Putten",
         "dateOfBirth": "03/19/1852",
         "showOnMap": false
       },
@@ -2905,7 +2905,7 @@ var birthplaces = {
         "Id": 6.985,
         "yearOfBirth": 1798.0,
         "Place of Birth": "Marie (Alpes-M)",
-        "Last Name": "Blanchi",
+        "lastName": "Blanchi",
         "dateOfBirth": "12/29/1798",
         "showOnMap": false
       },
@@ -2923,7 +2923,7 @@ var birthplaces = {
         "Id": 6.986,
         "yearOfBirth": 1814.0,
         "Place of Birth": "Palermo",
-        "Last Name": "Galvagno",
+        "lastName": "Galvagno",
         "dateOfBirth": "11/11/1814",
         "showOnMap": false
       },
@@ -2941,7 +2941,7 @@ var birthplaces = {
         "Id": 6.987,
         "yearOfBirth": 1823.0,
         "Place of Birth": "R\u00ef\u00bf\u00bdquista (Aveyron)",
-        "Last Name": "Galtier",
+        "lastName": "Galtier",
         "dateOfBirth": "08/31/1823",
         "showOnMap": false
       },
@@ -2959,7 +2959,7 @@ var birthplaces = {
         "Id": 6.988,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Metz",
-        "Last Name": "Thiry",
+        "lastName": "Thiry",
         "dateOfBirth": "12/14/1823",
         "showOnMap": false
       },
@@ -2977,7 +2977,7 @@ var birthplaces = {
         "Id": 6.989,
         "yearOfBirth": 1839.0,
         "Place of Birth": "Heiligenstadt (dc Paderbornen)",
-        "Last Name": "Mock",
+        "lastName": "Mock",
         "dateOfBirth": "11/08/1839",
         "showOnMap": false
       },
@@ -2995,7 +2995,7 @@ var birthplaces = {
         "Id": 6.99,
         "yearOfBirth": 1806.0,
         "Place of Birth": "Steenwijk (Overijsel)",
-        "Last Name": "van der Wolk",
+        "lastName": "van der Wolk",
         "dateOfBirth": "07/19/1806",
         "showOnMap": false
       },
@@ -3013,7 +3013,7 @@ var birthplaces = {
         "Id": 6.991,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Les Rousses (Jura)",
-        "Last Name": "Perrard",
+        "lastName": "Perrard",
         "dateOfBirth": "03/10/1822",
         "showOnMap": false
       },
@@ -3031,7 +3031,7 @@ var birthplaces = {
         "Id": 6.992,
         "yearOfBirth": 1863.0,
         "Place of Birth": "Binondo (Luz\u00ef\u00bf\u00bdn)",
-        "Last Name": "Verzosa",
+        "lastName": "Verzosa",
         "dateOfBirth": "12/03/1863",
         "showOnMap": false
       },
@@ -3049,7 +3049,7 @@ var birthplaces = {
         "Id": 6.993,
         "yearOfBirth": 1809.0,
         "Place of Birth": "Fontana Elice (Bologna)",
-        "Last Name": "Santi",
+        "lastName": "Santi",
         "dateOfBirth": "01/31/1809",
         "showOnMap": false
       },
@@ -3067,7 +3067,7 @@ var birthplaces = {
         "Id": 6.994,
         "yearOfBirth": 1842.0,
         "Place of Birth": "Duisbourg (Brabant)",
-        "Last Name": "Broes",
+        "lastName": "Broes",
         "dateOfBirth": "03/05/1842",
         "showOnMap": false
       },
@@ -3085,7 +3085,7 @@ var birthplaces = {
         "Id": 6.995,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Bandita di Cassinelle (Alessandria)",
-        "Last Name": "Gallo",
+        "lastName": "Gallo",
         "dateOfBirth": "02/08/1820",
         "showOnMap": false
       },
@@ -3103,7 +3103,7 @@ var birthplaces = {
         "Id": 6.996,
         "yearOfBirth": 1805.0,
         "Place of Birth": "Roma",
-        "Last Name": "Lera",
+        "lastName": "Lera",
         "dateOfBirth": "09/16/1805",
         "showOnMap": false
       },
@@ -3121,7 +3121,7 @@ var birthplaces = {
         "Id": 6.997,
         "yearOfBirth": 1813.0,
         "Place of Birth": "Napoli",
-        "Last Name": "Costa",
+        "lastName": "Costa",
         "dateOfBirth": "12/28/1813",
         "showOnMap": false
       },
@@ -3139,7 +3139,7 @@ var birthplaces = {
         "Id": 6.998,
         "yearOfBirth": 1840.0,
         "Place of Birth": "Mladkov (?echy)",
-        "Last Name": "Pietsch",
+        "lastName": "Pietsch",
         "dateOfBirth": "10/13/1840",
         "showOnMap": false
       },
@@ -3157,7 +3157,7 @@ var birthplaces = {
         "Id": 6.999,
         "yearOfBirth": 1865.0,
         "Place of Birth": "St. Louis",
-        "Last Name": "MacCarthy",
+        "lastName": "MacCarthy",
         "dateOfBirth": "04/20/1865",
         "showOnMap": false
       },
@@ -3175,7 +3175,7 @@ var birthplaces = {
         "Id": 7,
         "yearOfBirth": 1829.0,
         "Place of Birth": "Wiedenbr\u00ef\u00bf\u00bdck (Westfalen)",
-        "Last Name": "Menke",
+        "lastName": "Menke",
         "dateOfBirth": "04/16/1829",
         "showOnMap": false
       },
@@ -3193,7 +3193,7 @@ var birthplaces = {
         "Id": 7.001,
         "yearOfBirth": 1833.0,
         "Place of Birth": "M\u00ef\u00bf\u00bdnster",
-        "Last Name": "Ehring",
+        "lastName": "Ehring",
         "dateOfBirth": "03/05/1833",
         "showOnMap": false
       },
@@ -3211,7 +3211,7 @@ var birthplaces = {
         "Id": 7.002,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Napoli",
-        "Last Name": "Vezza",
+        "lastName": "Vezza",
         "dateOfBirth": "10/24/1826",
         "showOnMap": false
       },
@@ -3229,7 +3229,7 @@ var birthplaces = {
         "Id": 7.003,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Coltines (Cantal)",
-        "Last Name": "Jaffre",
+        "lastName": "Jaffre",
         "dateOfBirth": "09/26/1820",
         "showOnMap": false
       },
@@ -3247,7 +3247,7 @@ var birthplaces = {
         "Id": 7.004,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Plobannalec (Finist\u00ef\u00bf\u00bdre)",
-        "Last Name": "Toulemont",
+        "lastName": "Toulemont",
         "dateOfBirth": "03/27/1826",
         "showOnMap": false
       },
@@ -3265,7 +3265,7 @@ var birthplaces = {
         "Id": 7.005,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Bogot\u00ef\u00bf\u00bd",
-        "Last Name": "Paul",
+        "lastName": "Paul",
         "dateOfBirth": "01/05/1831",
         "showOnMap": false
       },
@@ -3283,7 +3283,7 @@ var birthplaces = {
         "Id": 7.006,
         "yearOfBirth": 1815.0,
         "Place of Birth": "Granville (Manche)",
-        "Last Name": "Girre",
+        "lastName": "Girre",
         "dateOfBirth": "07/06/1815",
         "showOnMap": false
       },
@@ -3301,7 +3301,7 @@ var birthplaces = {
         "Id": 7.007,
         "yearOfBirth": 1835.0,
         "Place of Birth": "Landstuhl (Bayern)",
-        "Last Name": "Hilbert",
+        "lastName": "Hilbert",
         "dateOfBirth": "10/29/1835",
         "showOnMap": false
       },
@@ -3319,7 +3319,7 @@ var birthplaces = {
         "Id": 7.008,
         "yearOfBirth": 1833.0,
         "Place of Birth": "Siracusa",
-        "Last Name": "Borrello",
+        "lastName": "Borrello",
         "dateOfBirth": "05/19/1833",
         "showOnMap": false
       },
@@ -3337,7 +3337,7 @@ var birthplaces = {
         "Id": 7.009,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Bytom, Opote",
-        "Last Name": "Schmude",
+        "lastName": "Schmude",
         "dateOfBirth": "05/22/1823",
         "showOnMap": false
       },
@@ -3355,7 +3355,7 @@ var birthplaces = {
         "Id": 7.01,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Vellevans (Doubs)",
-        "Last Name": "Barret",
+        "lastName": "Barret",
         "dateOfBirth": "04/25/1825",
         "showOnMap": false
       },
@@ -3373,7 +3373,7 @@ var birthplaces = {
         "Id": 7.011,
         "yearOfBirth": 1816.0,
         "Place of Birth": "Monthureux-sur-Sa\u00ef\u00bf\u00bdne (Vosges)",
-        "Last Name": "Coeurdacier",
+        "lastName": "Coeurdacier",
         "dateOfBirth": "02/25/1816",
         "showOnMap": false
       },
@@ -3391,7 +3391,7 @@ var birthplaces = {
         "Id": 7.012,
         "yearOfBirth": 1835.0,
         "Place of Birth": "Eibar (Guip\u00ef\u00bf\u00bdzcoa)",
-        "Last Name": "Aranz\u00ef\u00bf\u00bdbal",
+        "lastName": "Aranz\u00ef\u00bf\u00bdbal",
         "dateOfBirth": "02/11/1835",
         "showOnMap": false
       },
@@ -3409,7 +3409,7 @@ var birthplaces = {
         "Id": 7.013,
         "yearOfBirth": 1818.0,
         "Place of Birth": "pr Ingsdom (Devon)",
-        "Last Name": "Williams",
+        "lastName": "Williams",
         "dateOfBirth": "03/12/1818",
         "showOnMap": false
       },
@@ -3427,7 +3427,7 @@ var birthplaces = {
         "Id": 7.014,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Breda (N-Brabant)",
-        "Last Name": "Oers",
+        "lastName": "Oers",
         "dateOfBirth": "11/15/1823",
         "showOnMap": false
       },
@@ -3445,7 +3445,7 @@ var birthplaces = {
         "Id": 7.015,
         "yearOfBirth": 1832.0,
         "Place of Birth": "Banbridge (Down)",
-        "Last Name": "Strain",
+        "lastName": "Strain",
         "dateOfBirth": "05/01/1832",
         "showOnMap": false
       },
@@ -3463,7 +3463,7 @@ var birthplaces = {
         "Id": 7.016,
         "yearOfBirth": 1809.0,
         "Place of Birth": "Abbeville (Somme)",
-        "Last Name": "Engerand",
+        "lastName": "Engerand",
         "dateOfBirth": "07/05/1809",
         "showOnMap": false
       },
@@ -3481,7 +3481,7 @@ var birthplaces = {
         "Id": 7.017,
         "yearOfBirth": 1842.0,
         "Place of Birth": "Drumshanbo (Leitrim)",
-        "Last Name": "Stephens",
+        "lastName": "Stephens",
         "dateOfBirth": "11/13/1842",
         "showOnMap": false
       },
@@ -3499,7 +3499,7 @@ var birthplaces = {
         "Id": 7.018,
         "yearOfBirth": 1849.0,
         "Place of Birth": "Kilkenny",
-        "Last Name": "Kenealy",
+        "lastName": "Kenealy",
         "dateOfBirth": "10/16/1849",
         "showOnMap": false
       },
@@ -3517,7 +3517,7 @@ var birthplaces = {
         "Id": 7.019,
         "yearOfBirth": 1862.0,
         "Place of Birth": "Saizerais (Meurthe)",
-        "Last Name": "Monchablon",
+        "lastName": "Monchablon",
         "dateOfBirth": "02/27/1862",
         "showOnMap": false
       },
@@ -3535,7 +3535,7 @@ var birthplaces = {
         "Id": 7.02,
         "yearOfBirth": 1815.0,
         "Place of Birth": "Beck, pr Breda (N-Brabant)",
-        "Last Name": "Van der Veeken",
+        "lastName": "Van der Veeken",
         "dateOfBirth": "09/26/1815",
         "showOnMap": false
       },
@@ -3553,7 +3553,7 @@ var birthplaces = {
         "Id": 7.021,
         "yearOfBirth": 1824.0,
         "Place of Birth": "Mountrath (Queen's)",
-        "Last Name": "Cunningham",
+        "lastName": "Cunningham",
         "dateOfBirth": "12/30/1824",
         "showOnMap": false
       },
@@ -3571,7 +3571,7 @@ var birthplaces = {
         "Id": 7.022,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Valletta",
-        "Last Name": "Grech",
+        "lastName": "Grech",
         "dateOfBirth": "07/03/1822",
         "showOnMap": false
       },
@@ -3589,7 +3589,7 @@ var birthplaces = {
         "Id": 7.024,
         "yearOfBirth": 1811.0,
         "Place of Birth": "Hildesheim (Hannover)",
-        "Last Name": "Lottritz",
+        "lastName": "Lottritz",
         "dateOfBirth": "03/26/1811",
         "showOnMap": false
       },
@@ -3607,7 +3607,7 @@ var birthplaces = {
         "Id": 7.025,
         "yearOfBirth": 1850.0,
         "Place of Birth": "Vila do Conde (Minho)",
-        "Last Name": "Barros",
+        "lastName": "Barros",
         "dateOfBirth": "06/01/1850",
         "showOnMap": false
       },
@@ -3625,7 +3625,7 @@ var birthplaces = {
         "Id": 7.026,
         "yearOfBirth": 1812.0,
         "Place of Birth": "Anvers",
-        "Last Name": "Van Alsenoy",
+        "lastName": "Van Alsenoy",
         "dateOfBirth": "10/11/1812",
         "showOnMap": false
       },
@@ -3643,7 +3643,7 @@ var birthplaces = {
         "Id": 7.027,
         "yearOfBirth": 1861.0,
         "Place of Birth": "New York",
-        "Last Name": "Macdonald",
+        "lastName": "Macdonald",
         "dateOfBirth": "01/21/1861",
         "showOnMap": false
       },
@@ -3661,7 +3661,7 @@ var birthplaces = {
         "Id": 7.028,
         "yearOfBirth": 1828.0,
         "Place of Birth": "Castellgali (Barcelona)",
-        "Last Name": "Casajoana",
+        "lastName": "Casajoana",
         "dateOfBirth": "12/29/1828",
         "showOnMap": false
       },
@@ -3679,7 +3679,7 @@ var birthplaces = {
         "Id": 7.029,
         "yearOfBirth": 1843.0,
         "Place of Birth": "Greven (Westfalen)",
-        "Last Name": "Krone",
+        "lastName": "Krone",
         "dateOfBirth": "11/01/1843",
         "showOnMap": false
       },
@@ -3697,7 +3697,7 @@ var birthplaces = {
         "Id": 7.03,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Bagimont (Luxembourg)",
-        "Last Name": "Degembe",
+        "lastName": "Degembe",
         "dateOfBirth": "04/28/1825",
         "showOnMap": false
       },
@@ -3715,7 +3715,7 @@ var birthplaces = {
         "Id": 7.031,
         "yearOfBirth": 1839.0,
         "Place of Birth": "Maastricht",
-        "Last Name": "Jans",
+        "lastName": "Jans",
         "dateOfBirth": "11/28/1839",
         "showOnMap": false
       },
@@ -3733,7 +3733,7 @@ var birthplaces = {
         "Id": 7.032,
         "yearOfBirth": 1844.0,
         "Place of Birth": "Stratford (Essex)",
-        "Last Name": "Hopkings",
+        "lastName": "Hopkings",
         "dateOfBirth": "07/28/1844",
         "showOnMap": false
       },
@@ -3751,7 +3751,7 @@ var birthplaces = {
         "Id": 7.033,
         "yearOfBirth": 1868.0,
         "Place of Birth": "Mons",
-        "Last Name": "Busiau",
+        "lastName": "Busiau",
         "dateOfBirth": "08/31/1868",
         "showOnMap": false
       },
@@ -3769,7 +3769,7 @@ var birthplaces = {
         "Id": 7.034,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Monistrol-sur-Loire (H-Loire)",
-        "Last Name": "Samuel",
+        "lastName": "Samuel",
         "dateOfBirth": "11/02/1823",
         "showOnMap": false
       },
@@ -3787,7 +3787,7 @@ var birthplaces = {
         "Id": 7.035,
         "yearOfBirth": 1838.0,
         "Place of Birth": "Tarascon (B-du-Rhone)",
-        "Last Name": "Francia",
+        "lastName": "Francia",
         "dateOfBirth": "05/25/1838",
         "showOnMap": false
       },
@@ -3805,7 +3805,7 @@ var birthplaces = {
         "Id": 7.036,
         "yearOfBirth": 1849.0,
         "Place of Birth": "Arzignano (Vicenza)",
-        "Last Name": "Ziggiotti",
+        "lastName": "Ziggiotti",
         "dateOfBirth": "09/24/1849",
         "showOnMap": false
       },
@@ -3823,7 +3823,7 @@ var birthplaces = {
         "Id": 7.037,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Ussel (Correze)",
-        "Last Name": "Badour",
+        "lastName": "Badour",
         "dateOfBirth": "06/26/1817",
         "showOnMap": false
       },
@@ -3841,7 +3841,7 @@ var birthplaces = {
         "Id": 7.038,
         "yearOfBirth": 1830.0,
         "Place of Birth": "Tailhac (H-Loire)",
-        "Last Name": "Boyer",
+        "lastName": "Boyer",
         "dateOfBirth": "10/18/1830",
         "showOnMap": false
       },
@@ -3859,7 +3859,7 @@ var birthplaces = {
         "Id": 7.039,
         "yearOfBirth": 1854.0,
         "Place of Birth": "Blanes (Gerona)",
-        "Last Name": "Vallas",
+        "lastName": "Vallas",
         "dateOfBirth": "07/24/1854",
         "showOnMap": false
       },
@@ -3877,7 +3877,7 @@ var birthplaces = {
         "Id": 7.04,
         "yearOfBirth": 1838.0,
         "Place of Birth": "Jedovnice (Morava)",
-        "Last Name": "Plch",
+        "lastName": "Plch",
         "dateOfBirth": "07/22/1838",
         "showOnMap": false
       },
@@ -3895,7 +3895,7 @@ var birthplaces = {
         "Id": 7.041,
         "yearOfBirth": 1839.0,
         "Place of Birth": "Sligo",
-        "Last Name": "O'Hara",
+        "lastName": "O'Hara",
         "dateOfBirth": "03/17/1839",
         "showOnMap": false
       },
@@ -3913,7 +3913,7 @@ var birthplaces = {
         "Id": 7.042,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Stolberg (Rheinland)",
-        "Last Name": "Voiss",
+        "lastName": "Voiss",
         "dateOfBirth": "12/14/1823",
         "showOnMap": false
       },
@@ -3931,7 +3931,7 @@ var birthplaces = {
         "Id": 7.043,
         "yearOfBirth": 1845.0,
         "Place of Birth": "Amsterdam",
-        "Last Name": "Bonnike",
+        "lastName": "Bonnike",
         "dateOfBirth": "07/26/1845",
         "showOnMap": false
       },
@@ -3949,7 +3949,7 @@ var birthplaces = {
         "Id": 7.044,
         "yearOfBirth": 1823.0,
         "Place of Birth": "*Serahanfadda (Kerry)",
-        "Last Name": "Riordan",
+        "lastName": "Riordan",
         "dateOfBirth": "08/01/1823",
         "showOnMap": false
       },
@@ -3967,7 +3967,7 @@ var birthplaces = {
         "Id": 7.045,
         "yearOfBirth": 1837.0,
         "Place of Birth": "Imstenrade, par. Simpelveld, Limburg",
-        "Last Name": "Widdershoven",
+        "lastName": "Widdershoven",
         "dateOfBirth": "12/11/1837",
         "showOnMap": false
       },
@@ -3985,7 +3985,7 @@ var birthplaces = {
         "Id": 7.046,
         "yearOfBirth": 1801.0,
         "Place of Birth": "Manresa",
-        "Last Name": "Colldeforns",
+        "lastName": "Colldeforns",
         "dateOfBirth": "03/31/1801",
         "showOnMap": false
       },
@@ -4003,7 +4003,7 @@ var birthplaces = {
         "Id": 7.047,
         "yearOfBirth": 1860.0,
         "Place of Birth": "Puedlo Nuevo (Esteli, Nicaragua)",
-        "Last Name": "Ocampo",
+        "lastName": "Ocampo",
         "dateOfBirth": "09/11/1860",
         "showOnMap": false
       },
@@ -4021,7 +4021,7 @@ var birthplaces = {
         "Id": 7.048,
         "yearOfBirth": 1838.0,
         "Place of Birth": "Albano (Roma)",
-        "Last Name": "Graziosi",
+        "lastName": "Graziosi",
         "dateOfBirth": "06/24/1838",
         "showOnMap": false
       },
@@ -4039,7 +4039,7 @@ var birthplaces = {
         "Id": 7.049,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Santvliet (Anvers)",
-        "Last Name": "Bossyns",
+        "lastName": "Bossyns",
         "dateOfBirth": "07/10/1820",
         "showOnMap": false
       },
@@ -4057,7 +4057,7 @@ var birthplaces = {
         "Id": 7.05,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Izmir (Turquie)",
-        "Last Name": "Missir",
+        "lastName": "Missir",
         "dateOfBirth": "05/19/1817",
         "showOnMap": false
       },
@@ -4075,7 +4075,7 @@ var birthplaces = {
         "Id": 7.052,
         "yearOfBirth": 1835.0,
         "Place of Birth": "London",
-        "Last Name": "Pittar",
+        "lastName": "Pittar",
         "dateOfBirth": "11/02/1835",
         "showOnMap": false
       },
@@ -4093,7 +4093,7 @@ var birthplaces = {
         "Id": 7.053,
         "yearOfBirth": 1846.0,
         "Place of Birth": "Paris",
-        "Last Name": "Le Blond",
+        "lastName": "Le Blond",
         "dateOfBirth": "05/06/1846",
         "showOnMap": false
       },
@@ -4111,7 +4111,7 @@ var birthplaces = {
         "Id": 7.054,
         "yearOfBirth": 1816.0,
         "Place of Birth": "Napoli",
-        "Last Name": "Panzanelli",
+        "lastName": "Panzanelli",
         "dateOfBirth": "06/10/1816",
         "showOnMap": false
       },
@@ -4129,7 +4129,7 @@ var birthplaces = {
         "Id": 7.055,
         "yearOfBirth": 1829.0,
         "Place of Birth": "Crotenay (Jura)",
-        "Last Name": "Petot",
+        "lastName": "Petot",
         "dateOfBirth": "06/17/1829",
         "showOnMap": false
       },
@@ -4147,7 +4147,7 @@ var birthplaces = {
         "Id": 7.056,
         "yearOfBirth": 1829.0,
         "Place of Birth": "Pouillon (Landes)",
-        "Last Name": "Laburthe",
+        "lastName": "Laburthe",
         "dateOfBirth": "06/06/1829",
         "showOnMap": false
       },
@@ -4165,7 +4165,7 @@ var birthplaces = {
         "Id": 7.057,
         "yearOfBirth": 1851.0,
         "Place of Birth": "Bonn",
-        "Last Name": "Plenkers",
+        "lastName": "Plenkers",
         "dateOfBirth": "08/26/1851",
         "showOnMap": false
       },
@@ -4183,7 +4183,7 @@ var birthplaces = {
         "Id": 7.058,
         "yearOfBirth": 1845.0,
         "Place of Birth": "s-Gravenhage",
-        "Last Name": "Maessen",
+        "lastName": "Maessen",
         "dateOfBirth": "12/15/1845",
         "showOnMap": false
       },
@@ -4201,7 +4201,7 @@ var birthplaces = {
         "Id": 7.059,
         "yearOfBirth": 1829.0,
         "Place of Birth": "Elbergen (Hannover)",
-        "Last Name": "Thiemann",
+        "lastName": "Thiemann",
         "dateOfBirth": "07/31/1829",
         "showOnMap": false
       },
@@ -4219,7 +4219,7 @@ var birthplaces = {
         "Id": 7.06,
         "yearOfBirth": 1812.0,
         "Place of Birth": "Torre de Esteban-Hambr\u00ef\u00bf\u00bdn (Toledo)",
-        "Last Name": "Cort\u00ef\u00bf\u00bds",
+        "lastName": "Cort\u00ef\u00bf\u00bds",
         "dateOfBirth": "03/24/1812",
         "showOnMap": false
       },
@@ -4237,7 +4237,7 @@ var birthplaces = {
         "Id": 7.061,
         "yearOfBirth": 1855.0,
         "Place of Birth": "St-Jean-de-Lus (B-Pir\u00ef\u00bf\u00bdn\u00ef\u00bf\u00bdes)",
-        "Last Name": "Bicendaritz",
+        "lastName": "Bicendaritz",
         "dateOfBirth": "09/01/1855",
         "showOnMap": false
       },
@@ -4255,7 +4255,7 @@ var birthplaces = {
         "Id": 7.062,
         "yearOfBirth": 1796.0,
         "Place of Birth": "Athleague (Roscommon)",
-        "Last Name": "Curley",
+        "lastName": "Curley",
         "dateOfBirth": "10/25/1796",
         "showOnMap": false
       },
@@ -4273,7 +4273,7 @@ var birthplaces = {
         "Id": 7.063,
         "yearOfBirth": 1837.0,
         "Place of Birth": "Brixton",
-        "Last Name": "Pittar",
+        "lastName": "Pittar",
         "dateOfBirth": "02/16/1837",
         "showOnMap": false
       },
@@ -4291,7 +4291,7 @@ var birthplaces = {
         "Id": 7.064,
         "yearOfBirth": 1847.0,
         "Place of Birth": "Franco (Conando de Trevi\u00ef\u00bf\u00bdo, Burgos)",
-        "Last Name": "Ochoa",
+        "lastName": "Ochoa",
         "dateOfBirth": "03/08/1847",
         "showOnMap": false
       },
@@ -4309,7 +4309,7 @@ var birthplaces = {
         "Id": 7.065,
         "yearOfBirth": 1854.0,
         "Place of Birth": "Villaba (Navarra)",
-        "Last Name": "Ega\u00ef\u00bf\u00bda",
+        "lastName": "Ega\u00ef\u00bf\u00bda",
         "dateOfBirth": "03/07/1854",
         "showOnMap": false
       },
@@ -4327,7 +4327,7 @@ var birthplaces = {
         "Id": 7.066,
         "yearOfBirth": 1813.0,
         "Place of Birth": "Sansellas (Mallorca)",
-        "Last Name": "Ramis",
+        "lastName": "Ramis",
         "dateOfBirth": "10/21/1813",
         "showOnMap": false
       },
@@ -4345,7 +4345,7 @@ var birthplaces = {
         "Id": 7.067,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Armancourt (Meurthe)",
-        "Last Name": "Godfroy",
+        "lastName": "Godfroy",
         "dateOfBirth": "12/15/1817",
         "showOnMap": false
       },
@@ -4363,7 +4363,7 @@ var birthplaces = {
         "Id": 7.068,
         "yearOfBirth": 1835.0,
         "Place of Birth": "Alost",
-        "Last Name": "Vanderspeeten",
+        "lastName": "Vanderspeeten",
         "dateOfBirth": "03/03/1835",
         "showOnMap": false
       },
@@ -4381,7 +4381,7 @@ var birthplaces = {
         "Id": 7.069,
         "yearOfBirth": 1864.0,
         "Place of Birth": "Strasbourg",
-        "Last Name": "Finck",
+        "lastName": "Finck",
         "dateOfBirth": "10/04/1864",
         "showOnMap": false
       },
@@ -4399,7 +4399,7 @@ var birthplaces = {
         "Id": 7.07,
         "yearOfBirth": 1813.0,
         "Place of Birth": "Hautevesne (Aisne)",
-        "Last Name": "Chartier",
+        "lastName": "Chartier",
         "dateOfBirth": "07/26/1813",
         "showOnMap": false
       },
@@ -4417,7 +4417,7 @@ var birthplaces = {
         "Id": 7.071,
         "yearOfBirth": 1863.0,
         "Place of Birth": "Lamego (Beira-Alta)",
-        "Last Name": "Bastos",
+        "lastName": "Bastos",
         "dateOfBirth": "11/13/1863",
         "showOnMap": false
       },
@@ -4435,7 +4435,7 @@ var birthplaces = {
         "Id": 7.072,
         "yearOfBirth": 1844.0,
         "Place of Birth": "Zouk (Liban)",
-        "Last Name": "Chanaan",
+        "lastName": "Chanaan",
         "dateOfBirth": "07/20/1844",
         "showOnMap": false
       },
@@ -4453,7 +4453,7 @@ var birthplaces = {
         "Id": 7.073,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Nantes",
-        "Last Name": "Mac\u00ef\u00bf\u00bd",
+        "lastName": "Mac\u00ef\u00bf\u00bd",
         "dateOfBirth": "11/08/1822",
         "showOnMap": false
       },
@@ -4471,7 +4471,7 @@ var birthplaces = {
         "Id": 7.074,
         "yearOfBirth": 1814.0,
         "Place of Birth": "Kolodziej\u00ef\u00bf\u00bdwka (Ternopol; USSR)",
-        "Last Name": "Cze?owsk",
+        "lastName": "Cze?owsk",
         "dateOfBirth": "10/15/1814",
         "showOnMap": false
       },
@@ -4489,7 +4489,7 @@ var birthplaces = {
         "Id": 7.075,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Mergentheim (W\u00ef\u00bf\u00bdrtemberg)",
-        "Last Name": "Pachtler",
+        "lastName": "Pachtler",
         "dateOfBirth": "09/14/1825",
         "showOnMap": false
       },
@@ -4507,7 +4507,7 @@ var birthplaces = {
         "Id": 7.076,
         "yearOfBirth": 1853.0,
         "Place of Birth": "Valentia (Kerry)",
-        "Last Name": "O'Sullivan",
+        "lastName": "O'Sullivan",
         "dateOfBirth": "03/10/1853",
         "showOnMap": false
       },
@@ -4525,7 +4525,7 @@ var birthplaces = {
         "Id": 7.077,
         "yearOfBirth": 1813.0,
         "Place of Birth": "Geldern (Rheinland)",
-        "Last Name": "van Ham",
+        "lastName": "van Ham",
         "dateOfBirth": "11/03/1813",
         "showOnMap": false
       },
@@ -4543,7 +4543,7 @@ var birthplaces = {
         "Id": 7.078,
         "yearOfBirth": 1859.0,
         "Place of Birth": "La Bisbal (Gerona)",
-        "Last Name": "Boix",
+        "lastName": "Boix",
         "dateOfBirth": "06/21/1859",
         "showOnMap": false
       },
@@ -4561,7 +4561,7 @@ var birthplaces = {
         "Id": 7.079,
         "yearOfBirth": 1812.0,
         "Place of Birth": "Neratov (?echy)",
-        "Last Name": "Schmoranzer",
+        "lastName": "Schmoranzer",
         "dateOfBirth": "03/07/1812",
         "showOnMap": false
       },
@@ -4579,7 +4579,7 @@ var birthplaces = {
         "Id": 7.08,
         "yearOfBirth": 1806.0,
         "Place of Birth": "Sixt (H-Savoie)",
-        "Last Name": "Pin",
+        "lastName": "Pin",
         "dateOfBirth": "03/11/1806",
         "showOnMap": false
       },
@@ -4597,7 +4597,7 @@ var birthplaces = {
         "Id": 7.081,
         "yearOfBirth": 1864.0,
         "Place of Birth": "Benansal (Castell\u00ef\u00bf\u00bdn de la P.)",
-        "Last Name": "Vives",
+        "lastName": "Vives",
         "dateOfBirth": "09/08/1864",
         "showOnMap": false
       },
@@ -4615,7 +4615,7 @@ var birthplaces = {
         "Id": 7.082,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Placencia (Guip\u00ef\u00bf\u00bdzcoa)",
-        "Last Name": "Gorosta",
+        "lastName": "Gorosta",
         "dateOfBirth": "03/03/1834",
         "showOnMap": false
       },
@@ -4633,7 +4633,7 @@ var birthplaces = {
         "Id": 7.083,
         "yearOfBirth": 1824.0,
         "Place of Birth": "Putignano (Bari)",
-        "Last Name": "Tateo",
+        "lastName": "Tateo",
         "dateOfBirth": "06/24/1824",
         "showOnMap": false
       },
@@ -4651,7 +4651,7 @@ var birthplaces = {
         "Id": 7.084,
         "yearOfBirth": 1851.0,
         "Place of Birth": "Pless\u00ef\u00bf\u00bd (Loire-A)",
-        "Last Name": "Dup\u00ef\u00bf\u00bd",
+        "lastName": "Dup\u00ef\u00bf\u00bd",
         "dateOfBirth": "01/15/1851",
         "showOnMap": false
       },
@@ -4669,7 +4669,7 @@ var birthplaces = {
         "Id": 7.085,
         "yearOfBirth": 1864.0,
         "Place of Birth": "Angers",
-        "Last Name": "de Quatrebarbes",
+        "lastName": "de Quatrebarbes",
         "dateOfBirth": "03/04/1864",
         "showOnMap": false
       },
@@ -4687,7 +4687,7 @@ var birthplaces = {
         "Id": 7.086,
         "yearOfBirth": 1863.0,
         "Place of Birth": "Nantes",
-        "Last Name": "Sabouraud",
+        "lastName": "Sabouraud",
         "dateOfBirth": "05/25/1863",
         "showOnMap": false
       },
@@ -4705,7 +4705,7 @@ var birthplaces = {
         "Id": 7.087,
         "yearOfBirth": 1857.0,
         "Place of Birth": "Stara Wie?",
-        "Last Name": "Kucharski",
+        "lastName": "Kucharski",
         "dateOfBirth": "04/01/1857",
         "showOnMap": false
       },
@@ -4723,7 +4723,7 @@ var birthplaces = {
         "Id": 7.088,
         "yearOfBirth": 1855.0,
         "Place of Birth": "Le Mans",
-        "Last Name": "Pfister",
+        "lastName": "Pfister",
         "dateOfBirth": "03/06/1855",
         "showOnMap": false
       },
@@ -4741,7 +4741,7 @@ var birthplaces = {
         "Id": 7.089,
         "yearOfBirth": 1855.0,
         "Place of Birth": "Pons (L\u00ef\u00bf\u00bdrida)",
-        "Last Name": "Palou",
+        "lastName": "Palou",
         "dateOfBirth": "02/11/1855",
         "showOnMap": false
       },
@@ -4759,7 +4759,7 @@ var birthplaces = {
         "Id": 7.09,
         "yearOfBirth": 1855.0,
         "Place of Birth": "Paris",
-        "Last Name": "Durouchoux",
+        "lastName": "Durouchoux",
         "dateOfBirth": "04/13/1855",
         "showOnMap": false
       },
@@ -4777,7 +4777,7 @@ var birthplaces = {
         "Id": 7.091,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Paris",
-        "Last Name": "Verdi\u00ef\u00bf\u00bdre",
+        "lastName": "Verdi\u00ef\u00bf\u00bdre",
         "dateOfBirth": "04/17/1817",
         "showOnMap": false
       },
@@ -4795,7 +4795,7 @@ var birthplaces = {
         "Id": 7.092,
         "yearOfBirth": 1865.0,
         "Place of Birth": "Tarnowiec, Krak",
-        "Last Name": "Kami?ski",
+        "lastName": "Kami?ski",
         "dateOfBirth": "04/24/1865",
         "showOnMap": false
       },
@@ -4813,7 +4813,7 @@ var birthplaces = {
         "Id": 7.093,
         "yearOfBirth": 1825.0,
         "Place of Birth": "St-Gilles-l\u00ef\u00bf\u00bds-Termonde (Fl Or)",
-        "Last Name": "Triest",
+        "lastName": "Triest",
         "dateOfBirth": "10/11/1825",
         "showOnMap": false
       },
@@ -4831,7 +4831,7 @@ var birthplaces = {
         "Id": 7.094,
         "yearOfBirth": 1835.0,
         "Place of Birth": "Boxmeer (N-Brabant)",
-        "Last Name": "Zwarts",
+        "lastName": "Zwarts",
         "dateOfBirth": "08/04/1835",
         "showOnMap": false
       },
@@ -4849,7 +4849,7 @@ var birthplaces = {
         "Id": 7.095,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Pomeroy (Tyrone)",
-        "Last Name": "Toale",
+        "lastName": "Toale",
         "dateOfBirth": "05/17/1831",
         "showOnMap": false
       },
@@ -4867,7 +4867,7 @@ var birthplaces = {
         "Id": 7.096,
         "yearOfBirth": 1818.0,
         "Place of Birth": "Hall (Tirol)",
-        "Last Name": "Ebner",
+        "lastName": "Ebner",
         "dateOfBirth": "03/14/1818",
         "showOnMap": false
       },
@@ -4885,7 +4885,7 @@ var birthplaces = {
         "Id": 7.097,
         "yearOfBirth": 1814.0,
         "Place of Birth": "Rioz (H-Sa\u00ef\u00bf\u00bdne)",
-        "Last Name": "Mercier",
+        "lastName": "Mercier",
         "dateOfBirth": "12/15/1814",
         "showOnMap": false
       },
@@ -4903,7 +4903,7 @@ var birthplaces = {
         "Id": 7.098,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Sabl\u00ef\u00bf\u00bd (Sarthe)",
-        "Last Name": "Foucault",
+        "lastName": "Foucault",
         "dateOfBirth": "05/01/1826",
         "showOnMap": false
       },
@@ -4921,7 +4921,7 @@ var birthplaces = {
         "Id": 7.099,
         "yearOfBirth": 1866.0,
         "Place of Birth": "Exeter (Devon)",
-        "Last Name": "Hawkins",
+        "lastName": "Hawkins",
         "dateOfBirth": "08/26/1866",
         "showOnMap": false
       },
@@ -4939,7 +4939,7 @@ var birthplaces = {
         "Id": 7.1,
         "yearOfBirth": 1846.0,
         "Place of Birth": "Plumeliau (Morbihan)",
-        "Last Name": "Gu\u00ef\u00bf\u00bdgan",
+        "lastName": "Gu\u00ef\u00bf\u00bdgan",
         "dateOfBirth": "01/09/1846",
         "showOnMap": false
       },
@@ -4957,7 +4957,7 @@ var birthplaces = {
         "Id": 7.101,
         "yearOfBirth": 1815.0,
         "Place of Birth": "Hall (Tirol)",
-        "Last Name": "Attlmayr",
+        "lastName": "Attlmayr",
         "dateOfBirth": "06/02/1815",
         "showOnMap": false
       },
@@ -4975,7 +4975,7 @@ var birthplaces = {
         "Id": 7.102,
         "yearOfBirth": 1858.0,
         "Place of Birth": "Mikulovice (Morava)",
-        "Last Name": "Hor\u00ef\u00bf\u00bdk",
+        "lastName": "Hor\u00ef\u00bf\u00bdk",
         "dateOfBirth": "06/19/1858",
         "showOnMap": false
       },
@@ -4993,7 +4993,7 @@ var birthplaces = {
         "Id": 7.103,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Subiaco (Roma)",
-        "Last Name": "Catani",
+        "lastName": "Catani",
         "dateOfBirth": "06/28/1821",
         "showOnMap": false
       },
@@ -5011,7 +5011,7 @@ var birthplaces = {
         "Id": 7.104,
         "yearOfBirth": 1851.0,
         "Place of Birth": "Bains (Ille-et-V)",
-        "Last Name": "Houget",
+        "lastName": "Houget",
         "dateOfBirth": "09/11/1851",
         "showOnMap": false
       },
@@ -5029,7 +5029,7 @@ var birthplaces = {
         "Id": 7.105,
         "yearOfBirth": 1836.0,
         "Place of Birth": "Semmadon (H-Sa\u00ef\u00bf\u00bdne)",
-        "Last Name": "Olivier",
+        "lastName": "Olivier",
         "dateOfBirth": "11/25/1836",
         "showOnMap": false
       },
@@ -5047,7 +5047,7 @@ var birthplaces = {
         "Id": 7.106,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Roma",
-        "Last Name": "Ciampi",
+        "lastName": "Ciampi",
         "dateOfBirth": "02/19/1826",
         "showOnMap": false
       },
@@ -5065,7 +5065,7 @@ var birthplaces = {
         "Id": 7.107,
         "yearOfBirth": 1862.0,
         "Place of Birth": "Sairano (Pavia)",
-        "Last Name": "Torti",
+        "lastName": "Torti",
         "dateOfBirth": "02/16/1862",
         "showOnMap": false
       },
@@ -5083,7 +5083,7 @@ var birthplaces = {
         "Id": 7.108,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Rumegies (Nord)",
-        "Last Name": "Monvoisin",
+        "lastName": "Monvoisin",
         "dateOfBirth": "08/07/1817",
         "showOnMap": false
       },
@@ -5101,7 +5101,7 @@ var birthplaces = {
         "Id": 7.109,
         "yearOfBirth": 1867.0,
         "Place of Birth": "Torino",
-        "Last Name": "Tosini",
+        "lastName": "Tosini",
         "dateOfBirth": "05/21/1867",
         "showOnMap": false
       },
@@ -5119,7 +5119,7 @@ var birthplaces = {
         "Id": 7.11,
         "yearOfBirth": 1813.0,
         "Place of Birth": "Cassine (Alessandria)",
-        "Last Name": "Ponte",
+        "lastName": "Ponte",
         "dateOfBirth": "11/03/1813",
         "showOnMap": false
       },
@@ -5137,7 +5137,7 @@ var birthplaces = {
         "Id": 7.111,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Exeter (Devon)",
-        "Last Name": "Porter",
+        "lastName": "Porter",
         "dateOfBirth": "08/27/1825",
         "showOnMap": false
       },
@@ -5155,7 +5155,7 @@ var birthplaces = {
         "Id": 7.112,
         "yearOfBirth": 1862.0,
         "Place of Birth": "New York",
-        "Last Name": "Mulry",
+        "lastName": "Mulry",
         "dateOfBirth": "09/26/1862",
         "showOnMap": false
       },
@@ -5173,7 +5173,7 @@ var birthplaces = {
         "Id": 7.113,
         "yearOfBirth": 1837.0,
         "Place of Birth": "K\u00ef\u00bf\u00bdln",
-        "Last Name": "Merbeck",
+        "lastName": "Merbeck",
         "dateOfBirth": "10/22/1837",
         "showOnMap": false
       },
@@ -5191,7 +5191,7 @@ var birthplaces = {
         "Id": 7.114,
         "yearOfBirth": 1805.0,
         "Place of Birth": "Mont'Albano (Messina)",
-        "Last Name": "Pagano",
+        "lastName": "Pagano",
         "dateOfBirth": "12/21/1805",
         "showOnMap": false
       },
@@ -5209,7 +5209,7 @@ var birthplaces = {
         "Id": 7.115,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Nauder (Tirol)",
-        "Last Name": "Mathoy",
+        "lastName": "Mathoy",
         "dateOfBirth": "10/28/1821",
         "showOnMap": false
       },
@@ -5227,7 +5227,7 @@ var birthplaces = {
         "Id": 7.116,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Bantzenheim (H-Rhin)",
-        "Last Name": "Riette",
+        "lastName": "Riette",
         "dateOfBirth": "10/12/1821",
         "showOnMap": false
       },
@@ -5245,7 +5245,7 @@ var birthplaces = {
         "Id": 7.117,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Napoli",
-        "Last Name": "Mangieri",
+        "lastName": "Mangieri",
         "dateOfBirth": "06/23/1825",
         "showOnMap": false
       },
@@ -5263,7 +5263,7 @@ var birthplaces = {
         "Id": 7.118,
         "yearOfBirth": 1864.0,
         "Place of Birth": "Vitoria (\u00ef\u00bf\u00bdlava)",
-        "Last Name": "Mart\u00ef\u00bf\u00bdnez",
+        "lastName": "Mart\u00ef\u00bf\u00bdnez",
         "dateOfBirth": "06/18/1864",
         "showOnMap": false
       },
@@ -5281,7 +5281,7 @@ var birthplaces = {
         "Id": 7.12,
         "yearOfBirth": 1860.0,
         "Place of Birth": "Casterle (Anvers)",
-        "Last Name": "Bogaerts",
+        "lastName": "Bogaerts",
         "dateOfBirth": "10/26/1860",
         "showOnMap": false
       },
@@ -5299,7 +5299,7 @@ var birthplaces = {
         "Id": 7.121,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Maubeuge (Nord)",
-        "Last Name": "de la Gorce",
+        "lastName": "de la Gorce",
         "dateOfBirth": "03/21/1834",
         "showOnMap": false
       },
@@ -5317,7 +5317,7 @@ var birthplaces = {
         "Id": 7.122,
         "yearOfBirth": 1813.0,
         "Place of Birth": "Beaumont-la-Ronce (Indre-et-L)",
-        "Last Name": "Sach\u00ef\u00bf\u00bd",
+        "lastName": "Sach\u00ef\u00bf\u00bd",
         "dateOfBirth": "12/29/1813",
         "showOnMap": false
       },
@@ -5335,7 +5335,7 @@ var birthplaces = {
         "Id": 7.123,
         "yearOfBirth": 1843.0,
         "Place of Birth": "A\u00ef\u00bf\u00bdorbe (Navarra)",
-        "Last Name": "Echeverr\u00ef\u00bf\u00bda",
+        "lastName": "Echeverr\u00ef\u00bf\u00bda",
         "dateOfBirth": "02/25/1843",
         "showOnMap": false
       },
@@ -5353,7 +5353,7 @@ var birthplaces = {
         "Id": 7.124,
         "yearOfBirth": 1816.0,
         "Place of Birth": "Praroman (Fribourg)",
-        "Last Name": "Schorro",
+        "lastName": "Schorro",
         "dateOfBirth": "01/11/1816",
         "showOnMap": false
       },
@@ -5371,7 +5371,7 @@ var birthplaces = {
         "Id": 7.125,
         "yearOfBirth": 1833.0,
         "Place of Birth": "San Gil (Boyac\u00ef\u00bf\u00bd)",
-        "Last Name": "Prada",
+        "lastName": "Prada",
         "dateOfBirth": "11/24/1833",
         "showOnMap": false
       },
@@ -5389,7 +5389,7 @@ var birthplaces = {
         "Id": 7.126,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Lun\u00ef\u00bf\u00bdville (Meurthe)",
-        "Last Name": "Barbelin",
+        "lastName": "Barbelin",
         "dateOfBirth": "01/23/1821",
         "showOnMap": false
       },
@@ -5407,7 +5407,7 @@ var birthplaces = {
         "Id": 7.127,
         "yearOfBirth": 1832.0,
         "Place of Birth": "s-Hertogenbosch",
-        "Last Name": "van der Burgt",
+        "lastName": "van der Burgt",
         "dateOfBirth": "10/24/1832",
         "showOnMap": false
       },
@@ -5425,7 +5425,7 @@ var birthplaces = {
         "Id": 7.128,
         "yearOfBirth": 1828.0,
         "Place of Birth": "Tence (H-Loire)",
-        "Last Name": "Varnier",
+        "lastName": "Varnier",
         "dateOfBirth": "03/18/1828",
         "showOnMap": false
       },
@@ -5443,7 +5443,7 @@ var birthplaces = {
         "Id": 7.129,
         "yearOfBirth": 1840.0,
         "Place of Birth": "Manresa",
-        "Last Name": "Barris",
+        "lastName": "Barris",
         "dateOfBirth": "01/12/1840",
         "showOnMap": false
       },
@@ -5461,7 +5461,7 @@ var birthplaces = {
         "Id": 7.13,
         "yearOfBirth": 1822.0,
         "Place of Birth": "St. Louis",
-        "Last Name": "Verdin",
+        "lastName": "Verdin",
         "dateOfBirth": "02/01/1822",
         "showOnMap": false
       },
@@ -5479,7 +5479,7 @@ var birthplaces = {
         "Id": 7.131,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Bagnes (Valais)",
-        "Last Name": "Del\u00ef\u00bf\u00bdglise",
+        "lastName": "Del\u00ef\u00bf\u00bdglise",
         "dateOfBirth": "03/27/1834",
         "showOnMap": false
       },
@@ -5497,7 +5497,7 @@ var birthplaces = {
         "Id": 7.132,
         "yearOfBirth": 1844.0,
         "Place of Birth": "Portugalete (Vizcaya)",
-        "Last Name": "de Zuazo",
+        "lastName": "de Zuazo",
         "dateOfBirth": "12/11/1844",
         "showOnMap": false
       },
@@ -5515,7 +5515,7 @@ var birthplaces = {
         "Id": 7.133,
         "yearOfBirth": 1870.0,
         "Place of Birth": "Onteniente (Valencia)",
-        "Last Name": "Ripoll",
+        "lastName": "Ripoll",
         "dateOfBirth": "04/13/1870",
         "showOnMap": false
       },
@@ -5533,7 +5533,7 @@ var birthplaces = {
         "Id": 7.134,
         "yearOfBirth": 1841.0,
         "Place of Birth": "s-Gravenhage",
-        "Last Name": "Boelen",
+        "lastName": "Boelen",
         "dateOfBirth": "05/27/1841",
         "showOnMap": false
       },
@@ -5551,7 +5551,7 @@ var birthplaces = {
         "Id": 7.135,
         "yearOfBirth": 1865.0,
         "Place of Birth": "Valencia",
-        "Last Name": "Vidal",
+        "lastName": "Vidal",
         "dateOfBirth": "05/26/1865",
         "showOnMap": false
       },
@@ -5569,7 +5569,7 @@ var birthplaces = {
         "Id": 7.136,
         "yearOfBirth": 1815.0,
         "Place of Birth": "Cerinza (Tundama, Boyac\u00ef\u00bf\u00bd)",
-        "Last Name": "C\u00ef\u00bf\u00bdrdenas",
+        "lastName": "C\u00ef\u00bf\u00bdrdenas",
         "dateOfBirth": "07/29/1815",
         "showOnMap": false
       },
@@ -5587,7 +5587,7 @@ var birthplaces = {
         "Id": 7.137,
         "yearOfBirth": 1858.0,
         "Place of Birth": "Exeter (Devon)",
-        "Last Name": "Bampton",
+        "lastName": "Bampton",
         "dateOfBirth": "04/13/1858",
         "showOnMap": false
       },
@@ -5605,7 +5605,7 @@ var birthplaces = {
         "Id": 7.138,
         "yearOfBirth": 1840.0,
         "Place of Birth": "Modena",
-        "Last Name": "Cassiani Ingoni",
+        "lastName": "Cassiani Ingoni",
         "dateOfBirth": "08/15/1840",
         "showOnMap": false
       },
@@ -5623,7 +5623,7 @@ var birthplaces = {
         "Id": 7.139,
         "yearOfBirth": 1813.0,
         "Place of Birth": "Waarschoot (Fl Or)",
-        "Last Name": "Libert",
+        "lastName": "Libert",
         "dateOfBirth": "03/07/1813",
         "showOnMap": false
       },
@@ -5641,7 +5641,7 @@ var birthplaces = {
         "Id": 7.14,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Rivarolo (Genova)",
-        "Last Name": "Masnata",
+        "lastName": "Masnata",
         "dateOfBirth": "05/02/1823",
         "showOnMap": false
       },
@@ -5659,7 +5659,7 @@ var birthplaces = {
         "Id": 7.141,
         "yearOfBirth": 1847.0,
         "Place of Birth": "Besal\u00ef\u00bf\u00bd (Gerona)",
-        "Last Name": "Boada",
+        "lastName": "Boada",
         "dateOfBirth": "12/20/1847",
         "showOnMap": false
       },
@@ -5677,7 +5677,7 @@ var birthplaces = {
         "Id": 7.142,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Aspres-les-Veynes (H-Alpes)",
-        "Last Name": "de Bonniot",
+        "lastName": "de Bonniot",
         "dateOfBirth": "04/20/1831",
         "showOnMap": false
       },
@@ -5695,7 +5695,7 @@ var birthplaces = {
         "Id": 7.143,
         "yearOfBirth": 1806.0,
         "Place of Birth": "Urbino (Pesaro)",
-        "Last Name": "Quieti",
+        "lastName": "Quieti",
         "dateOfBirth": "12/19/1806",
         "showOnMap": false
       },
@@ -5713,7 +5713,7 @@ var birthplaces = {
         "Id": 7.144,
         "yearOfBirth": 1861.0,
         "Place of Birth": "Avelin (Nord)",
-        "Last Name": "Watrelos",
+        "lastName": "Watrelos",
         "dateOfBirth": "09/16/1861",
         "showOnMap": false
       },
@@ -5731,7 +5731,7 @@ var birthplaces = {
         "Id": 7.145,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Caselle in Pittari (Salerno)",
-        "Last Name": "Navazio",
+        "lastName": "Navazio",
         "dateOfBirth": "03/07/1822",
         "showOnMap": false
       },
@@ -5749,7 +5749,7 @@ var birthplaces = {
         "Id": 7.146,
         "yearOfBirth": 1859.0,
         "Place of Birth": "Westerlo (Anvers)",
-        "Last Name": "de Wever",
+        "lastName": "de Wever",
         "dateOfBirth": "01/03/1859",
         "showOnMap": false
       },
@@ -5767,7 +5767,7 @@ var birthplaces = {
         "Id": 7.147,
         "yearOfBirth": 1840.0,
         "Place of Birth": "Bl\u00ef\u00bf\u00bdharies (Hainaut)",
-        "Last Name": "Crez",
+        "lastName": "Crez",
         "dateOfBirth": "07/01/1840",
         "showOnMap": false
       },
@@ -5785,7 +5785,7 @@ var birthplaces = {
         "Id": 7.149,
         "yearOfBirth": 1808.0,
         "Place of Birth": "Bensheim (Hessen-Darmstadt)",
-        "Last Name": "Emig",
+        "lastName": "Emig",
         "dateOfBirth": "07/26/1808",
         "showOnMap": false
       },
@@ -5803,7 +5803,7 @@ var birthplaces = {
         "Id": 7.15,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Clonmany (Donegal)",
-        "Last Name": "Macgunegle",
+        "lastName": "Macgunegle",
         "dateOfBirth": "08/15/1823",
         "showOnMap": false
       },
@@ -5821,7 +5821,7 @@ var birthplaces = {
         "Id": 7.151,
         "yearOfBirth": 1837.0,
         "Place of Birth": "Leiffarth (Aachen)",
-        "Last Name": "Kockerols",
+        "lastName": "Kockerols",
         "dateOfBirth": "08/04/1837",
         "showOnMap": false
       },
@@ -5839,7 +5839,7 @@ var birthplaces = {
         "Id": 7.152,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Rennes (Ille-et-V)",
-        "Last Name": "Morvan",
+        "lastName": "Morvan",
         "dateOfBirth": "08/30/1817",
         "showOnMap": false
       },
@@ -5857,7 +5857,7 @@ var birthplaces = {
         "Id": 7.153,
         "yearOfBirth": 1845.0,
         "Place of Birth": "Oron\u00ef\u00bf\u00bds (Le\u00ef\u00bf\u00bdn)",
-        "Last Name": "Gonz\u00ef\u00bf\u00bdlez P\u00ef\u00bf\u00bdrez",
+        "lastName": "Gonz\u00ef\u00bf\u00bdlez P\u00ef\u00bf\u00bdrez",
         "dateOfBirth": "05/12/1845",
         "showOnMap": false
       },
@@ -5875,7 +5875,7 @@ var birthplaces = {
         "Id": 7.154,
         "yearOfBirth": 1860.0,
         "Place of Birth": "Nexon (H-Vienne)",
-        "Last Name": "Causse",
+        "lastName": "Causse",
         "dateOfBirth": "07/16/1860",
         "showOnMap": false
       },
@@ -5893,7 +5893,7 @@ var birthplaces = {
         "Id": 7.155,
         "yearOfBirth": 1853.0,
         "Place of Birth": "St. Georgen pr Radkersburg (Steiermark)",
-        "Last Name": "Lasbacher",
+        "lastName": "Lasbacher",
         "dateOfBirth": "01/27/1853",
         "showOnMap": false
       },
@@ -5911,7 +5911,7 @@ var birthplaces = {
         "Id": 7.156,
         "yearOfBirth": 1873.0,
         "Place of Birth": "San Francisco",
-        "Last Name": "O'Connor",
+        "lastName": "O'Connor",
         "dateOfBirth": "05/12/1873",
         "showOnMap": false
       },
@@ -5929,7 +5929,7 @@ var birthplaces = {
         "Id": 7.158,
         "yearOfBirth": 1848.0,
         "Place of Birth": "Campestre (S\u00ef\u00bf\u00bdo Paulo)",
-        "Last Name": "Rodr\u00ef\u00bf\u00bdguez",
+        "lastName": "Rodr\u00ef\u00bf\u00bdguez",
         "dateOfBirth": "10/21/1848",
         "showOnMap": false
       },
@@ -5947,7 +5947,7 @@ var birthplaces = {
         "Id": 7.159,
         "yearOfBirth": 1803.0,
         "Place of Birth": "Franci\u00ef\u00bf\u00bdres (Somme)",
-        "Last Name": "Gamard",
+        "lastName": "Gamard",
         "dateOfBirth": "10/27/1803",
         "showOnMap": false
       },
@@ -5965,7 +5965,7 @@ var birthplaces = {
         "Id": 7.161,
         "yearOfBirth": 1833.0,
         "Place of Birth": "London",
-        "Last Name": "Perry",
+        "lastName": "Perry",
         "dateOfBirth": "10/26/1833",
         "showOnMap": false
       },
@@ -5983,7 +5983,7 @@ var birthplaces = {
         "Id": 7.162,
         "yearOfBirth": 1806.0,
         "Place of Birth": "Bagneres-de-Bigorre (H-Pyrenees)",
-        "Last Name": "Bouix",
+        "lastName": "Bouix",
         "dateOfBirth": "06/25/1806",
         "showOnMap": false
       },
@@ -6001,7 +6001,7 @@ var birthplaces = {
         "Id": 7.163,
         "yearOfBirth": 1808.0,
         "Place of Birth": "Pontestura (Alessandria)",
-        "Last Name": "Corrado",
+        "lastName": "Corrado",
         "dateOfBirth": "08/25/1808",
         "showOnMap": false
       },
@@ -6019,7 +6019,7 @@ var birthplaces = {
         "Id": 7.164,
         "yearOfBirth": 1839.0,
         "Place of Birth": "Gent",
-        "Last Name": "Van Innis",
+        "lastName": "Van Innis",
         "dateOfBirth": "11/26/1839",
         "showOnMap": false
       },
@@ -6037,7 +6037,7 @@ var birthplaces = {
         "Id": 7.165,
         "yearOfBirth": 1815.0,
         "Place of Birth": "Leur (N-Brabant)",
-        "Last Name": "Damen",
+        "lastName": "Damen",
         "dateOfBirth": "03/20/1815",
         "showOnMap": false
       },
@@ -6055,7 +6055,7 @@ var birthplaces = {
         "Id": 7.166,
         "yearOfBirth": 1869.0,
         "Place of Birth": "Vendome (Loir-et-Ch)",
-        "Last Name": "Beaussier",
+        "lastName": "Beaussier",
         "dateOfBirth": "01/12/1869",
         "showOnMap": false
       },
@@ -6073,7 +6073,7 @@ var birthplaces = {
         "Id": 7.167,
         "yearOfBirth": 1863.0,
         "Place of Birth": "Romangnano Sesia (Novara)",
-        "Last Name": "Strigini",
+        "lastName": "Strigini",
         "dateOfBirth": "12/07/1863",
         "showOnMap": false
       },
@@ -6091,7 +6091,7 @@ var birthplaces = {
         "Id": 7.168,
         "yearOfBirth": 1838.0,
         "Place of Birth": "Poitiers",
-        "Last Name": "Babin",
+        "lastName": "Babin",
         "dateOfBirth": "02/26/1838",
         "showOnMap": false
       },
@@ -6109,7 +6109,7 @@ var birthplaces = {
         "Id": 7.169,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Kirchberg",
-        "Last Name": "Weber",
+        "lastName": "Weber",
         "dateOfBirth": "08/28/1827",
         "showOnMap": false
       },
@@ -6127,7 +6127,7 @@ var birthplaces = {
         "Id": 7.17,
         "yearOfBirth": 1813.0,
         "Place of Birth": "*Latnakelly",
-        "Last Name": "Cassidy",
+        "lastName": "Cassidy",
         "dateOfBirth": "03/20/1813",
         "showOnMap": false
       },
@@ -6145,7 +6145,7 @@ var birthplaces = {
         "Id": 7.171,
         "yearOfBirth": 1838.0,
         "Place of Birth": "Forni di Sotto (Udine)",
-        "Last Name": "Nassivera",
+        "lastName": "Nassivera",
         "dateOfBirth": "11/06/1838",
         "showOnMap": false
       },
@@ -6163,7 +6163,7 @@ var birthplaces = {
         "Id": 7.172,
         "yearOfBirth": 1810.0,
         "Place of Birth": "Thise (Doubs)",
-        "Last Name": "Bole",
+        "lastName": "Bole",
         "dateOfBirth": "05/20/1810",
         "showOnMap": false
       },
@@ -6181,7 +6181,7 @@ var birthplaces = {
         "Id": 7.173,
         "yearOfBirth": 1850.0,
         "Place of Birth": "Latacunga (Leon, Ecuador)",
-        "Last Name": "Moncayo",
+        "lastName": "Moncayo",
         "dateOfBirth": "12/25/1850",
         "showOnMap": false
       },
@@ -6199,7 +6199,7 @@ var birthplaces = {
         "Id": 7.174,
         "yearOfBirth": 1847.0,
         "Place of Birth": "Berga (Barcelona)",
-        "Last Name": "Marigot",
+        "lastName": "Marigot",
         "dateOfBirth": "06/18/1847",
         "showOnMap": false
       },
@@ -6217,7 +6217,7 @@ var birthplaces = {
         "Id": 7.175,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Nauders (Tirol)",
-        "Last Name": "Jung",
+        "lastName": "Jung",
         "dateOfBirth": "11/13/1823",
         "showOnMap": false
       },
@@ -6235,7 +6235,7 @@ var birthplaces = {
         "Id": 7.176,
         "yearOfBirth": 1869.0,
         "Place of Birth": "Newark, N.J.",
-        "Last Name": "O'Leary",
+        "lastName": "O'Leary",
         "dateOfBirth": "02/02/1869",
         "showOnMap": false
       },
@@ -6253,7 +6253,7 @@ var birthplaces = {
         "Id": 7.177,
         "yearOfBirth": 1856.0,
         "Place of Birth": "Amiens",
-        "Last Name": "Valdejo",
+        "lastName": "Valdejo",
         "dateOfBirth": "06/04/1856",
         "showOnMap": false
       },
@@ -6271,7 +6271,7 @@ var birthplaces = {
         "Id": 7.178,
         "yearOfBirth": 1833.0,
         "Place of Birth": "Ste-Ursanne (Bern)",
-        "Last Name": "Feune",
+        "lastName": "Feune",
         "dateOfBirth": "07/29/1833",
         "showOnMap": false
       },
@@ -6289,7 +6289,7 @@ var birthplaces = {
         "Id": 7.179,
         "yearOfBirth": 1869.0,
         "Place of Birth": "Wulzeshofen (Laa, N.O.)",
-        "Last Name": "Hannemann",
+        "lastName": "Hannemann",
         "dateOfBirth": "02/22/1869",
         "showOnMap": false
       },
@@ -6307,7 +6307,7 @@ var birthplaces = {
         "Id": 7.18,
         "yearOfBirth": 1832.0,
         "Place of Birth": "Anvers",
-        "Last Name": "Franck",
+        "lastName": "Franck",
         "dateOfBirth": "05/28/1832",
         "showOnMap": false
       },
@@ -6325,7 +6325,7 @@ var birthplaces = {
         "Id": 7.181,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Limoges",
-        "Last Name": "Plainemaison",
+        "lastName": "Plainemaison",
         "dateOfBirth": "11/18/1822",
         "showOnMap": false
       },
@@ -6343,7 +6343,7 @@ var birthplaces = {
         "Id": 7.182,
         "yearOfBirth": 1858.0,
         "Place of Birth": "Orduna",
-        "Last Name": "de La Fuente",
+        "lastName": "de La Fuente",
         "dateOfBirth": "04/04/1858",
         "showOnMap": false
       },
@@ -6361,7 +6361,7 @@ var birthplaces = {
         "Id": 7.183,
         "yearOfBirth": 1816.0,
         "Place of Birth": "Firenze",
-        "Last Name": "Sestini",
+        "lastName": "Sestini",
         "dateOfBirth": "03/20/1816",
         "showOnMap": false
       },
@@ -6379,7 +6379,7 @@ var birthplaces = {
         "Id": 7.184,
         "yearOfBirth": 1853.0,
         "Place of Birth": "Valkenswaard (N-Brabant)",
-        "Last Name": "Booms",
+        "lastName": "Booms",
         "dateOfBirth": "06/11/1853",
         "showOnMap": false
       },
@@ -6397,7 +6397,7 @@ var birthplaces = {
         "Id": 7.185,
         "yearOfBirth": 1807.0,
         "Place of Birth": "Lignan (Gironde)",
-        "Last Name": "de St-Angel",
+        "lastName": "de St-Angel",
         "dateOfBirth": "04/25/1807",
         "showOnMap": false
       },
@@ -6415,7 +6415,7 @@ var birthplaces = {
         "Id": 7.186,
         "yearOfBirth": 1851.0,
         "Place of Birth": "Villefranche-de-Longchapt (Dordogne)",
-        "Last Name": "Sourreau",
+        "lastName": "Sourreau",
         "dateOfBirth": "09/16/1851",
         "showOnMap": false
       },
@@ -6433,7 +6433,7 @@ var birthplaces = {
         "Id": 7.187,
         "yearOfBirth": 1807.0,
         "Place of Birth": "Verona",
-        "Last Name": "Bonvicini",
+        "lastName": "Bonvicini",
         "dateOfBirth": "10/10/1807",
         "showOnMap": false
       },
@@ -6451,7 +6451,7 @@ var birthplaces = {
         "Id": 7.188,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Cheb (Cechy)",
-        "Last Name": "Ernst",
+        "lastName": "Ernst",
         "dateOfBirth": "09/16/1827",
         "showOnMap": false
       },
@@ -6469,7 +6469,7 @@ var birthplaces = {
         "Id": 7.189,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Saulcy (Bern)",
-        "Last Name": "Lovis",
+        "lastName": "Lovis",
         "dateOfBirth": "07/19/1817",
         "showOnMap": false
       },
@@ -6487,7 +6487,7 @@ var birthplaces = {
         "Id": 7.19,
         "yearOfBirth": 1859.0,
         "Place of Birth": "Pontonx (Landes)",
-        "Last Name": "Blanchard",
+        "lastName": "Blanchard",
         "dateOfBirth": "10/29/1859",
         "showOnMap": false
       },
@@ -6505,7 +6505,7 @@ var birthplaces = {
         "Id": 7.191,
         "yearOfBirth": 1826.0,
         "Place of Birth": "St-Jean-d'Ormont (Vosges)",
-        "Last Name": "Benoit",
+        "lastName": "Benoit",
         "dateOfBirth": "08/09/1826",
         "showOnMap": false
       },
@@ -6523,7 +6523,7 @@ var birthplaces = {
         "Id": 7.192,
         "yearOfBirth": 1859.0,
         "Place of Birth": "Rossville, Iowa",
-        "Last Name": "Kavanagh",
+        "lastName": "Kavanagh",
         "dateOfBirth": "01/13/1859",
         "showOnMap": false
       },
@@ -6541,7 +6541,7 @@ var birthplaces = {
         "Id": 7.193,
         "yearOfBirth": 1818.0,
         "Place of Birth": "Pedina di Morfano (Piacenza)",
-        "Last Name": "Labati",
+        "lastName": "Labati",
         "dateOfBirth": "03/12/1818",
         "showOnMap": false
       },
@@ -6559,7 +6559,7 @@ var birthplaces = {
         "Id": 7.194,
         "yearOfBirth": 1818.0,
         "Place of Birth": "Authon (Loir-et-Ch)",
-        "Last Name": "Perron",
+        "lastName": "Perron",
         "dateOfBirth": "09/01/1818",
         "showOnMap": false
       },
@@ -6577,7 +6577,7 @@ var birthplaces = {
         "Id": 7.195,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Beekbergen (Gelderland)",
-        "Last Name": "Wijnen",
+        "lastName": "Wijnen",
         "dateOfBirth": "09/12/1817",
         "showOnMap": false
       },
@@ -6595,7 +6595,7 @@ var birthplaces = {
         "Id": 7.196,
         "yearOfBirth": 1835.0,
         "Place of Birth": "Arcon (Doubs)",
-        "Last Name": "Bourdin",
+        "lastName": "Bourdin",
         "dateOfBirth": "04/06/1835",
         "showOnMap": false
       },
@@ -6613,7 +6613,7 @@ var birthplaces = {
         "Id": 7.197,
         "yearOfBirth": 1859.0,
         "Place of Birth": "London",
-        "Last Name": "Fraser",
+        "lastName": "Fraser",
         "dateOfBirth": "02/18/1859",
         "showOnMap": false
       },
@@ -6631,7 +6631,7 @@ var birthplaces = {
         "Id": 7.198,
         "yearOfBirth": 1850.0,
         "Place of Birth": "La Vertuniere (Mayenne)",
-        "Last Name": "Androuard",
+        "lastName": "Androuard",
         "dateOfBirth": "10/24/1850",
         "showOnMap": false
       },
@@ -6649,7 +6649,7 @@ var birthplaces = {
         "Id": 7.199,
         "yearOfBirth": 1824.0,
         "Place of Birth": "Merouville (Eure-et-L)",
-        "Last Name": "Rousseau",
+        "lastName": "Rousseau",
         "dateOfBirth": "01/03/1824",
         "showOnMap": false
       },
@@ -6667,7 +6667,7 @@ var birthplaces = {
         "Id": 7.2,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Rotterdam",
-        "Last Name": "Dijckmann",
+        "lastName": "Dijckmann",
         "dateOfBirth": "09/08/1820",
         "showOnMap": false
       },
@@ -6685,7 +6685,7 @@ var birthplaces = {
         "Id": 7.201,
         "yearOfBirth": 1811.0,
         "Place of Birth": "Napoli",
-        "Last Name": "Pierro",
+        "lastName": "Pierro",
         "dateOfBirth": "01/17/1811",
         "showOnMap": false
       },
@@ -6703,7 +6703,7 @@ var birthplaces = {
         "Id": 7.202,
         "yearOfBirth": 1830.0,
         "Place of Birth": "St-Jean-d'Ormont (Vosges)",
-        "Last Name": "Benoit",
+        "lastName": "Benoit",
         "dateOfBirth": "02/02/1830",
         "showOnMap": false
       },
@@ -6721,7 +6721,7 @@ var birthplaces = {
         "Id": 7.203,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Haastrecht",
-        "Last Name": "van Achthoven",
+        "lastName": "van Achthoven",
         "dateOfBirth": "05/23/1822",
         "showOnMap": false
       },
@@ -6739,7 +6739,7 @@ var birthplaces = {
         "Id": 7.204,
         "yearOfBirth": 1819.0,
         "Place of Birth": "Vertova (Bergamo)",
-        "Last Name": "Bettonagli",
+        "lastName": "Bettonagli",
         "dateOfBirth": "04/10/1819",
         "showOnMap": false
       },
@@ -6757,7 +6757,7 @@ var birthplaces = {
         "Id": 7.205,
         "yearOfBirth": 1807.0,
         "Place of Birth": "Carpineto (Roma)",
-        "Last Name": "Pecci",
+        "lastName": "Pecci",
         "dateOfBirth": "12/13/1807",
         "showOnMap": false
       },
@@ -6775,7 +6775,7 @@ var birthplaces = {
         "Id": 7.206,
         "yearOfBirth": 1860.0,
         "Place of Birth": "Figeac (Lot)",
-        "Last Name": "Labourey",
+        "lastName": "Labourey",
         "dateOfBirth": "08/08/1860",
         "showOnMap": false
       },
@@ -6793,7 +6793,7 @@ var birthplaces = {
         "Id": 7.207,
         "yearOfBirth": 1868.0,
         "Place of Birth": "Doesbourg (Gelderland)",
-        "Last Name": "Overmaat",
+        "lastName": "Overmaat",
         "dateOfBirth": "12/27/1868",
         "showOnMap": false
       },
@@ -6811,7 +6811,7 @@ var birthplaces = {
         "Id": 7.208,
         "yearOfBirth": 1823.0,
         "Place of Birth": "La Pobla de Lillet (Barcelona)",
-        "Last Name": "Tubau",
+        "lastName": "Tubau",
         "dateOfBirth": "11/06/1823",
         "showOnMap": false
       },
@@ -6829,7 +6829,7 @@ var birthplaces = {
         "Id": 7.209,
         "yearOfBirth": 1805.0,
         "Place of Birth": "Occhiobello (Rovigo)",
-        "Last Name": "Turri",
+        "lastName": "Turri",
         "dateOfBirth": "03/14/1805",
         "showOnMap": false
       },
@@ -6847,7 +6847,7 @@ var birthplaces = {
         "Id": 7.21,
         "yearOfBirth": 1851.0,
         "Place of Birth": "St-Sulpice-de-Lezat (H-Garonne)",
-        "Last Name": "Magnes",
+        "lastName": "Magnes",
         "dateOfBirth": "09/15/1851",
         "showOnMap": false
       },
@@ -6865,7 +6865,7 @@ var birthplaces = {
         "Id": 7.211,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Anglesola (Lerida)",
-        "Last Name": "Vilalta",
+        "lastName": "Vilalta",
         "dateOfBirth": "09/27/1831",
         "showOnMap": false
       },
@@ -6883,7 +6883,7 @@ var birthplaces = {
         "Id": 7.212,
         "yearOfBirth": 1867.0,
         "Place of Birth": "Reguisheim (H-Rhin)",
-        "Last Name": "Dirr",
+        "lastName": "Dirr",
         "dateOfBirth": "08/24/1867",
         "showOnMap": false
       },
@@ -6901,7 +6901,7 @@ var birthplaces = {
         "Id": 7.213,
         "yearOfBirth": 1830.0,
         "Place of Birth": "Durango",
-        "Last Name": "Epalza",
+        "lastName": "Epalza",
         "dateOfBirth": "10/21/1830",
         "showOnMap": false
       },
@@ -6919,7 +6919,7 @@ var birthplaces = {
         "Id": 7.214,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Rabanera (Logrono)",
-        "Last Name": "Romero",
+        "lastName": "Romero",
         "dateOfBirth": "03/28/1827",
         "showOnMap": false
       },
@@ -6937,7 +6937,7 @@ var birthplaces = {
         "Id": 7.215,
         "yearOfBirth": 1833.0,
         "Place of Birth": "Longostagno (Bolzano)",
-        "Last Name": "Spinell",
+        "lastName": "Spinell",
         "dateOfBirth": "03/15/1833",
         "showOnMap": false
       },
@@ -6955,7 +6955,7 @@ var birthplaces = {
         "Id": 7.216,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Saissac (Aude)",
-        "Last Name": "Vivies",
+        "lastName": "Vivies",
         "dateOfBirth": "01/24/1820",
         "showOnMap": false
       },
@@ -6973,7 +6973,7 @@ var birthplaces = {
         "Id": 7.217,
         "yearOfBirth": 1812.0,
         "Place of Birth": "Gent",
-        "Last Name": "Lallemant",
+        "lastName": "Lallemant",
         "dateOfBirth": "09/29/1812",
         "showOnMap": false
       },
@@ -6991,7 +6991,7 @@ var birthplaces = {
         "Id": 7.218,
         "yearOfBirth": 1842.0,
         "Place of Birth": "Weillen (Namur)",
-        "Last Name": "Robe",
+        "lastName": "Robe",
         "dateOfBirth": "03/06/1842",
         "showOnMap": false
       },
@@ -7009,7 +7009,7 @@ var birthplaces = {
         "Id": 7.219,
         "yearOfBirth": 1853.0,
         "Place of Birth": "Bruges",
-        "Last Name": "Lynch",
+        "lastName": "Lynch",
         "dateOfBirth": "08/05/1853",
         "showOnMap": false
       },
@@ -7027,7 +7027,7 @@ var birthplaces = {
         "Id": 7.22,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Abdalag\u00ef\u00bf\u00bds (M\u00ef\u00bf\u00bdlaga)",
-        "Last Name": "(Conejo) Madue\u00ef\u00bf\u00bdo",
+        "lastName": "(Conejo) Madue\u00ef\u00bf\u00bdo",
         "dateOfBirth": "11/14/1825",
         "showOnMap": false
       },
@@ -7045,7 +7045,7 @@ var birthplaces = {
         "Id": 7.221,
         "yearOfBirth": 1824.0,
         "Place of Birth": "Norante (B-Alpes)",
-        "Last Name": "Grimaud",
+        "lastName": "Grimaud",
         "dateOfBirth": "12/25/1824",
         "showOnMap": false
       },
@@ -7063,7 +7063,7 @@ var birthplaces = {
         "Id": 7.222,
         "yearOfBirth": 1814.0,
         "Place of Birth": "Stara Wie?",
-        "Last Name": "Dotta",
+        "lastName": "Dotta",
         "dateOfBirth": "06/06/1814",
         "showOnMap": false
       },
@@ -7081,7 +7081,7 @@ var birthplaces = {
         "Id": 7.223,
         "yearOfBirth": 1814.0,
         "Place of Birth": "Camon (Somme)",
-        "Last Name": "Douchet",
+        "lastName": "Douchet",
         "dateOfBirth": "06/23/1814",
         "showOnMap": false
       },
@@ -7099,7 +7099,7 @@ var birthplaces = {
         "Id": 7.224,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Napoli",
-        "Last Name": "di Mattia",
+        "lastName": "di Mattia",
         "dateOfBirth": "10/21/1831",
         "showOnMap": false
       },
@@ -7117,7 +7117,7 @@ var birthplaces = {
         "Id": 7.225,
         "yearOfBirth": 1811.0,
         "Place of Birth": "pr Bagenalstown (Carlow)",
-        "Last Name": "Farrell",
+        "lastName": "Farrell",
         "dateOfBirth": "03/19/1811",
         "showOnMap": false
       },
@@ -7135,7 +7135,7 @@ var birthplaces = {
         "Id": 7.226,
         "yearOfBirth": 1805.0,
         "Place of Birth": "London",
-        "Last Name": "Jarrett",
+        "lastName": "Jarrett",
         "dateOfBirth": "03/03/1805",
         "showOnMap": false
       },
@@ -7153,7 +7153,7 @@ var birthplaces = {
         "Id": 7.227,
         "yearOfBirth": 1836.0,
         "Place of Birth": "L\u00ef\u00bf\u00bdhden (Hannover)",
-        "Last Name": "Schleper",
+        "lastName": "Schleper",
         "dateOfBirth": "09/27/1836",
         "showOnMap": false
       },
@@ -7171,7 +7171,7 @@ var birthplaces = {
         "Id": 7.228,
         "yearOfBirth": 1860.0,
         "Place of Birth": "Amiens",
-        "Last Name": "Mille",
+        "lastName": "Mille",
         "dateOfBirth": "06/30/1860",
         "showOnMap": false
       },
@@ -7189,7 +7189,7 @@ var birthplaces = {
         "Id": 7.229,
         "yearOfBirth": 1839.0,
         "Place of Birth": "Nosk\u00ef\u00bf\u00bdw, Pozn",
-        "Last Name": "Ratajski",
+        "lastName": "Ratajski",
         "dateOfBirth": "12/01/1839",
         "showOnMap": false
       },
@@ -7207,7 +7207,7 @@ var birthplaces = {
         "Id": 7.23,
         "yearOfBirth": 1835.0,
         "Place of Birth": "*Ienal (Namur)",
-        "Last Name": "Jacques",
+        "lastName": "Jacques",
         "dateOfBirth": "06/14/1835",
         "showOnMap": false
       },
@@ -7225,7 +7225,7 @@ var birthplaces = {
         "Id": 7.231,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Alphen (N-Brabant)",
-        "Last Name": "de Kort",
+        "lastName": "de Kort",
         "dateOfBirth": "10/12/1825",
         "showOnMap": false
       },
@@ -7243,7 +7243,7 @@ var birthplaces = {
         "Id": 7.232,
         "yearOfBirth": 1800.0,
         "Place of Birth": "Lansle-Bourg (Savoie)",
-        "Last Name": "Molin",
+        "lastName": "Molin",
         "dateOfBirth": "05/06/1800",
         "showOnMap": false
       },
@@ -7261,7 +7261,7 @@ var birthplaces = {
         "Id": 7.233,
         "yearOfBirth": 1830.0,
         "Place of Birth": "Tortana (Alessandria)",
-        "Last Name": "Grassi",
+        "lastName": "Grassi",
         "dateOfBirth": "11/25/1830",
         "showOnMap": false
       },
@@ -7279,7 +7279,7 @@ var birthplaces = {
         "Id": 7.234,
         "yearOfBirth": 1832.0,
         "Place of Birth": "Manresa",
-        "Last Name": "Jordana",
+        "lastName": "Jordana",
         "dateOfBirth": "10/24/1832",
         "showOnMap": false
       },
@@ -7297,7 +7297,7 @@ var birthplaces = {
         "Id": 7.235,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Viremont (Jura)",
-        "Last Name": "Benoit",
+        "lastName": "Benoit",
         "dateOfBirth": "10/26/1823",
         "showOnMap": false
       },
@@ -7315,7 +7315,7 @@ var birthplaces = {
         "Id": 7.236,
         "yearOfBirth": 1850.0,
         "Place of Birth": "Roscrea (Tipperary)",
-        "Last Name": "Wellworth",
+        "lastName": "Wellworth",
         "dateOfBirth": "04/22/1850",
         "showOnMap": false
       },
@@ -7333,7 +7333,7 @@ var birthplaces = {
         "Id": 7.237,
         "yearOfBirth": 1824.0,
         "Place of Birth": "Sowerby (York)",
-        "Last Name": "Selby",
+        "lastName": "Selby",
         "dateOfBirth": "02/10/1824",
         "showOnMap": false
       },
@@ -7351,7 +7351,7 @@ var birthplaces = {
         "Id": 7.238,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Herrara de Pisuerga (Palencia)",
-        "Last Name": "Del-Val",
+        "lastName": "Del-Val",
         "dateOfBirth": "05/18/1817",
         "showOnMap": false
       },
@@ -7369,7 +7369,7 @@ var birthplaces = {
         "Id": 7.239,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Forstheim (B-Rhin)",
-        "Last Name": "Laubacher",
+        "lastName": "Laubacher",
         "dateOfBirth": "11/21/1822",
         "showOnMap": false
       },
@@ -7387,7 +7387,7 @@ var birthplaces = {
         "Id": 7.24,
         "yearOfBirth": 1814.0,
         "Place of Birth": "Eichst\u00ef\u00bf\u00bddt (Bayern)",
-        "Last Name": "Ehrensberger",
+        "lastName": "Ehrensberger",
         "dateOfBirth": "03/25/1814",
         "showOnMap": false
       },
@@ -7405,7 +7405,7 @@ var birthplaces = {
         "Id": 7.241,
         "yearOfBirth": 1837.0,
         "Place of Birth": "Innsbruck",
-        "Last Name": "Mayr",
+        "lastName": "Mayr",
         "dateOfBirth": "03/13/1837",
         "showOnMap": false
       },
@@ -7423,7 +7423,7 @@ var birthplaces = {
         "Id": 7.242,
         "yearOfBirth": 1861.0,
         "Place of Birth": "Cani\u00ef\u00bf\u00bdal (Beira Baixa)",
-        "Last Name": "Fidalgo",
+        "lastName": "Fidalgo",
         "dateOfBirth": "10/13/1861",
         "showOnMap": false
       },
@@ -7441,7 +7441,7 @@ var birthplaces = {
         "Id": 7.243,
         "yearOfBirth": 1818.0,
         "Place of Birth": "Banagher (king's)",
-        "Last Name": "Temple",
+        "lastName": "Temple",
         "dateOfBirth": "03/17/1818",
         "showOnMap": false
       },
@@ -7459,7 +7459,7 @@ var birthplaces = {
         "Id": 7.244,
         "yearOfBirth": 1860.0,
         "Place of Birth": "La Pommeraye (Maine-et-L)",
-        "Last Name": "Bureau",
+        "lastName": "Bureau",
         "dateOfBirth": "07/12/1860",
         "showOnMap": false
       },
@@ -7477,7 +7477,7 @@ var birthplaces = {
         "Id": 7.245,
         "yearOfBirth": 1837.0,
         "Place of Birth": "Wahlhausen (Sachsen)",
-        "Last Name": "Loffler",
+        "lastName": "Loffler",
         "dateOfBirth": "08/04/1837",
         "showOnMap": false
       },
@@ -7495,7 +7495,7 @@ var birthplaces = {
         "Id": 7.247,
         "yearOfBirth": 1838.0,
         "Place of Birth": "Suner (Lerida)",
-        "Last Name": "de Bea",
+        "lastName": "de Bea",
         "dateOfBirth": "09/20/1838",
         "showOnMap": false
       },
@@ -7513,7 +7513,7 @@ var birthplaces = {
         "Id": 7.248,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Lacoste",
-        "Last Name": "Alet",
+        "lastName": "Alet",
         "dateOfBirth": "01/19/1827",
         "showOnMap": false
       },
@@ -7531,7 +7531,7 @@ var birthplaces = {
         "Id": 7.249,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Roma",
-        "Last Name": "Massaruti",
+        "lastName": "Massaruti",
         "dateOfBirth": "02/15/1823",
         "showOnMap": false
       },
@@ -7549,7 +7549,7 @@ var birthplaces = {
         "Id": 7.25,
         "yearOfBirth": 1806.0,
         "Place of Birth": "Napoli",
-        "Last Name": "Nardi",
+        "lastName": "Nardi",
         "dateOfBirth": "07/29/1806",
         "showOnMap": false
       },
@@ -7567,7 +7567,7 @@ var birthplaces = {
         "Id": 7.251,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Napoli",
-        "Last Name": "Di Mattia",
+        "lastName": "Di Mattia",
         "dateOfBirth": "11/05/1825",
         "showOnMap": false
       },
@@ -7585,7 +7585,7 @@ var birthplaces = {
         "Id": 7.252,
         "yearOfBirth": 1840.0,
         "Place of Birth": "Cork",
-        "Last Name": "Rochford",
+        "lastName": "Rochford",
         "dateOfBirth": "11/14/1840",
         "showOnMap": false
       },
@@ -7603,7 +7603,7 @@ var birthplaces = {
         "Id": 7.253,
         "yearOfBirth": 1843.0,
         "Place of Birth": "Limerick",
-        "Last Name": "Ryan",
+        "lastName": "Ryan",
         "dateOfBirth": "11/02/1843",
         "showOnMap": false
       },
@@ -7621,7 +7621,7 @@ var birthplaces = {
         "Id": 7.254,
         "yearOfBirth": 1869.0,
         "Place of Birth": "Stary Sacz, Krak",
-        "Last Name": "Dabrowski",
+        "lastName": "Dabrowski",
         "dateOfBirth": "01/18/1869",
         "showOnMap": false
       },
@@ -7639,7 +7639,7 @@ var birthplaces = {
         "Id": 7.255,
         "yearOfBirth": 1852.0,
         "Place of Birth": "Milkow",
-        "Last Name": "Bartkiewicz",
+        "lastName": "Bartkiewicz",
         "dateOfBirth": "02/21/1852",
         "showOnMap": false
       },
@@ -7657,7 +7657,7 @@ var birthplaces = {
         "Id": 7.256,
         "yearOfBirth": 1810.0,
         "Place of Birth": "Sta.Cruz de Tenerife",
-        "Last Name": "Suarez",
+        "lastName": "Suarez",
         "dateOfBirth": "11/12/1810",
         "showOnMap": false
       },
@@ -7675,7 +7675,7 @@ var birthplaces = {
         "Id": 7.257,
         "yearOfBirth": 1830.0,
         "Place of Birth": "Napoli",
-        "Last Name": "Longhi",
+        "lastName": "Longhi",
         "dateOfBirth": "11/15/1830",
         "showOnMap": false
       },
@@ -7693,7 +7693,7 @@ var birthplaces = {
         "Id": 7.258,
         "yearOfBirth": 1859.0,
         "Place of Birth": "Malicorne (Sarthe)",
-        "Last Name": "Tricard",
+        "lastName": "Tricard",
         "dateOfBirth": "05/26/1859",
         "showOnMap": false
       },
@@ -7711,7 +7711,7 @@ var birthplaces = {
         "Id": 7.259,
         "yearOfBirth": 1856.0,
         "Place of Birth": "Bruges",
-        "Last Name": "Muuls",
+        "lastName": "Muuls",
         "dateOfBirth": "10/27/1856",
         "showOnMap": false
       },
@@ -7729,7 +7729,7 @@ var birthplaces = {
         "Id": 7.26,
         "yearOfBirth": 1805.0,
         "Place of Birth": "San Silvesstro (Novara)",
-        "Last Name": "Chevola",
+        "lastName": "Chevola",
         "dateOfBirth": "11/19/1805",
         "showOnMap": false
       },
@@ -7747,7 +7747,7 @@ var birthplaces = {
         "Id": 7.261,
         "yearOfBirth": 1858.0,
         "Place of Birth": "Onteniente (Valencia)",
-        "Last Name": "Delgado",
+        "lastName": "Delgado",
         "dateOfBirth": "09/09/1858",
         "showOnMap": false
       },
@@ -7765,7 +7765,7 @@ var birthplaces = {
         "Id": 7.262,
         "yearOfBirth": 1856.0,
         "Place of Birth": "Zaruma (Loja)",
-        "Last Name": "Reyes",
+        "lastName": "Reyes",
         "dateOfBirth": "11/05/1856",
         "showOnMap": false
       },
@@ -7783,7 +7783,7 @@ var birthplaces = {
         "Id": 7.263,
         "yearOfBirth": 1802.0,
         "Place of Birth": "Est (Gelderland)",
-        "Last Name": "Sanders",
+        "lastName": "Sanders",
         "dateOfBirth": "07/04/1802",
         "showOnMap": false
       },
@@ -7801,7 +7801,7 @@ var birthplaces = {
         "Id": 7.264,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Malmedy (Rheinland)",
-        "Last Name": "Geron",
+        "lastName": "Geron",
         "dateOfBirth": "02/28/1834",
         "showOnMap": false
       },
@@ -7819,7 +7819,7 @@ var birthplaces = {
         "Id": 7.265,
         "yearOfBirth": 1863.0,
         "Place of Birth": "Cuevas de Moncayo (Soria)",
-        "Last Name": "Escribano",
+        "lastName": "Escribano",
         "dateOfBirth": "07/06/1863",
         "showOnMap": false
       },
@@ -7837,7 +7837,7 @@ var birthplaces = {
         "Id": 7.266,
         "yearOfBirth": 1865.0,
         "Place of Birth": "Magno (Brescia)",
-        "Last Name": "Mozzoni",
+        "lastName": "Mozzoni",
         "dateOfBirth": "03/06/1865",
         "showOnMap": false
       },
@@ -7855,7 +7855,7 @@ var birthplaces = {
         "Id": 7.267,
         "yearOfBirth": 1848.0,
         "Place of Birth": "Preitenegg (Karnten)",
-        "Last Name": "Dohr",
+        "lastName": "Dohr",
         "dateOfBirth": "09/05/1848",
         "showOnMap": false
       },
@@ -7873,7 +7873,7 @@ var birthplaces = {
         "Id": 7.268,
         "yearOfBirth": 1816.0,
         "Place of Birth": "Duisburg (Rheinland)",
-        "Last Name": "Beenen",
+        "lastName": "Beenen",
         "dateOfBirth": "10/06/1816",
         "showOnMap": false
       },
@@ -7891,7 +7891,7 @@ var birthplaces = {
         "Id": 7.269,
         "yearOfBirth": 1818.0,
         "Place of Birth": "Mongrando (Novara)",
-        "Last Name": "Simonetti",
+        "lastName": "Simonetti",
         "dateOfBirth": "04/11/1818",
         "showOnMap": false
       },
@@ -7909,7 +7909,7 @@ var birthplaces = {
         "Id": 7.27,
         "yearOfBirth": 1866.0,
         "Place of Birth": "Brie (Deux-Sevres)",
-        "Last Name": "Cador",
+        "lastName": "Cador",
         "dateOfBirth": "12/31/1866",
         "showOnMap": false
       },
@@ -7927,7 +7927,7 @@ var birthplaces = {
         "Id": 7.271,
         "yearOfBirth": 1828.0,
         "Place of Birth": "Sauveterre (Aveyron)",
-        "Last Name": "Buisson",
+        "lastName": "Buisson",
         "dateOfBirth": "02/10/1828",
         "showOnMap": false
       },
@@ -7945,7 +7945,7 @@ var birthplaces = {
         "Id": 7.272,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Anterselva (Bolzano)",
-        "Last Name": "Pallhuber",
+        "lastName": "Pallhuber",
         "dateOfBirth": "12/30/1822",
         "showOnMap": false
       },
@@ -7963,7 +7963,7 @@ var birthplaces = {
         "Id": 7.273,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Harelebeke (Fl Or)",
-        "Last Name": "De Roost",
+        "lastName": "De Roost",
         "dateOfBirth": "12/29/1827",
         "showOnMap": false
       },
@@ -7981,7 +7981,7 @@ var birthplaces = {
         "Id": 7.274,
         "yearOfBirth": 1832.0,
         "Place of Birth": "Urspringen (Bayern)",
-        "Last Name": "Albert",
+        "lastName": "Albert",
         "dateOfBirth": "01/17/1832",
         "showOnMap": false
       },
@@ -7999,7 +7999,7 @@ var birthplaces = {
         "Id": 7.275,
         "yearOfBirth": 1845.0,
         "Place of Birth": "Bern\u00ef\u00bf\u00bdde (Gers)",
-        "Last Name": "Sarrade",
+        "lastName": "Sarrade",
         "dateOfBirth": "06/18/1845",
         "showOnMap": false
       },
@@ -8017,7 +8017,7 @@ var birthplaces = {
         "Id": 7.276,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Blamont (Meurthe et M)",
-        "Last Name": "Simonin",
+        "lastName": "Simonin",
         "dateOfBirth": "03/13/1826",
         "showOnMap": false
       },
@@ -8035,7 +8035,7 @@ var birthplaces = {
         "Id": 7.277,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Nantes",
-        "Last Name": "Rathouis",
+        "lastName": "Rathouis",
         "dateOfBirth": "08/11/1834",
         "showOnMap": false
       },
@@ -8053,7 +8053,7 @@ var birthplaces = {
         "Id": 7.278,
         "yearOfBirth": 1866.0,
         "Place of Birth": "Urbi\u00ef\u00bf\u00bds (Oviedo)",
-        "Last Name": "Garc\u00ef\u00bf\u00bda",
+        "lastName": "Garc\u00ef\u00bf\u00bda",
         "dateOfBirth": "12/12/1866",
         "showOnMap": false
       },
@@ -8071,7 +8071,7 @@ var birthplaces = {
         "Id": 7.279,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Bruxelles",
-        "Last Name": "de Maeyer",
+        "lastName": "de Maeyer",
         "dateOfBirth": "08/30/1823",
         "showOnMap": false
       },
@@ -8089,7 +8089,7 @@ var birthplaces = {
         "Id": 7.28,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Ariccia (Roma)",
-        "Last Name": "Cianfanelli",
+        "lastName": "Cianfanelli",
         "dateOfBirth": "05/15/1822",
         "showOnMap": false
       },
@@ -8107,7 +8107,7 @@ var birthplaces = {
         "Id": 7.281,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Falset (Tarragona)",
-        "Last Name": "Bov\u00ef\u00bf\u00bd",
+        "lastName": "Bov\u00ef\u00bf\u00bd",
         "dateOfBirth": "12/12/1826",
         "showOnMap": false
       },
@@ -8125,7 +8125,7 @@ var birthplaces = {
         "Id": 7.282,
         "yearOfBirth": 1818.0,
         "Place of Birth": "Larrabez\u00ef\u00bf\u00bda (Vizcaya)",
-        "Last Name": "Cenarruzabeitia",
+        "lastName": "Cenarruzabeitia",
         "dateOfBirth": "07/22/1818",
         "showOnMap": false
       },
@@ -8143,7 +8143,7 @@ var birthplaces = {
         "Id": 7.283,
         "yearOfBirth": 1830.0,
         "Place of Birth": "Fousemagne (H-Rhin)",
-        "Last Name": "Clavey",
+        "lastName": "Clavey",
         "dateOfBirth": "04/06/1830",
         "showOnMap": false
       },
@@ -8161,7 +8161,7 @@ var birthplaces = {
         "Id": 7.284,
         "yearOfBirth": 1836.0,
         "Place of Birth": "Azcoitia",
-        "Last Name": "Elorza",
+        "lastName": "Elorza",
         "dateOfBirth": "05/24/1836",
         "showOnMap": false
       },
@@ -8179,7 +8179,7 @@ var birthplaces = {
         "Id": 7.285,
         "yearOfBirth": 1842.0,
         "Place of Birth": "Vigo (Pontevedra)",
-        "Last Name": "S\u00ef\u00bf\u00bdnchez",
+        "lastName": "S\u00ef\u00bf\u00bdnchez",
         "dateOfBirth": "01/03/1842",
         "showOnMap": false
       },
@@ -8197,7 +8197,7 @@ var birthplaces = {
         "Id": 7.286,
         "yearOfBirth": 1830.0,
         "Place of Birth": "Tr\u00ef\u00bf\u00bddarzec (C\u00ef\u00bf\u00bdtes-du-N)",
-        "Last Name": "Crocq",
+        "lastName": "Crocq",
         "dateOfBirth": "10/18/1830",
         "showOnMap": false
       },
@@ -8215,7 +8215,7 @@ var birthplaces = {
         "Id": 7.287,
         "yearOfBirth": 1838.0,
         "Place of Birth": "St-Sim\u00ef\u00bf\u00bdon (Is\u00ef\u00bf\u00bdre)",
-        "Last Name": "Rolland",
+        "lastName": "Rolland",
         "dateOfBirth": "10/18/1838",
         "showOnMap": false
       },
@@ -8233,7 +8233,7 @@ var birthplaces = {
         "Id": 7.288,
         "yearOfBirth": 1864.0,
         "Place of Birth": "B\u00ef\u00bf\u00bdcancour, Qu\u00ef\u00bf\u00bd.",
-        "Last Name": "Moreau",
+        "lastName": "Moreau",
         "dateOfBirth": "05/10/1864",
         "showOnMap": false
       },
@@ -8251,7 +8251,7 @@ var birthplaces = {
         "Id": 7.289,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Bagnes (Valais)",
-        "Last Name": "Del\u00ef\u00bf\u00bdglise",
+        "lastName": "Del\u00ef\u00bf\u00bdglise",
         "dateOfBirth": "10/29/1820",
         "showOnMap": false
       },
@@ -8269,7 +8269,7 @@ var birthplaces = {
         "Id": 7.29,
         "yearOfBirth": 1858.0,
         "Place of Birth": "Vich",
-        "Last Name": "Vendrell",
+        "lastName": "Vendrell",
         "dateOfBirth": "04/28/1858",
         "showOnMap": false
       },
@@ -8287,7 +8287,7 @@ var birthplaces = {
         "Id": 7.291,
         "yearOfBirth": 1865.0,
         "Place of Birth": "Courtrai",
-        "Last Name": "Desurmont",
+        "lastName": "Desurmont",
         "dateOfBirth": "08/28/1865",
         "showOnMap": false
       },
@@ -8305,7 +8305,7 @@ var birthplaces = {
         "Id": 7.293,
         "yearOfBirth": 1862.0,
         "Place of Birth": "Treviglio (Bergamo)",
-        "Last Name": "Pavoni",
+        "lastName": "Pavoni",
         "dateOfBirth": "10/28/1862",
         "showOnMap": false
       },
@@ -8323,7 +8323,7 @@ var birthplaces = {
         "Id": 7.295,
         "yearOfBirth": 1839.0,
         "Place of Birth": "Contich (Anvers)",
-        "Last Name": "Mans",
+        "lastName": "Mans",
         "dateOfBirth": "01/14/1839",
         "showOnMap": false
       },
@@ -8341,7 +8341,7 @@ var birthplaces = {
         "Id": 7.296,
         "yearOfBirth": 1830.0,
         "Place of Birth": "St-Germain-Lembron (Puy-de-D)",
-        "Last Name": "R\u00ef\u00bf\u00bdnier",
+        "lastName": "R\u00ef\u00bf\u00bdnier",
         "dateOfBirth": "12/15/1830",
         "showOnMap": false
       },
@@ -8359,7 +8359,7 @@ var birthplaces = {
         "Id": 7.297,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Pergine (Trento)",
-        "Last Name": "Anesini",
+        "lastName": "Anesini",
         "dateOfBirth": "12/15/1831",
         "showOnMap": false
       },
@@ -8377,7 +8377,7 @@ var birthplaces = {
         "Id": 7.298,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Cheb (?echy)",
-        "Last Name": "Prachensky",
+        "lastName": "Prachensky",
         "dateOfBirth": "06/22/1822",
         "showOnMap": false
       },
@@ -8395,7 +8395,7 @@ var birthplaces = {
         "Id": 7.299,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Barcellona Pozzo di Gotto (Messina)",
-        "Last Name": "Siracusa",
+        "lastName": "Siracusa",
         "dateOfBirth": "03/20/1825",
         "showOnMap": false
       },
@@ -8413,7 +8413,7 @@ var birthplaces = {
         "Id": 7.3,
         "yearOfBirth": 1828.0,
         "Place of Birth": "Cari\u00ef\u00bf\u00bdres (Aveyron)",
-        "Last Name": "Batut",
+        "lastName": "Batut",
         "dateOfBirth": "09/21/1828",
         "showOnMap": false
       },
@@ -8431,7 +8431,7 @@ var birthplaces = {
         "Id": 7.301,
         "yearOfBirth": 1847.0,
         "Place of Birth": "Calcutta",
-        "Last Name": "Coutto",
+        "lastName": "Coutto",
         "dateOfBirth": "09/24/1847",
         "showOnMap": false
       },
@@ -8449,7 +8449,7 @@ var birthplaces = {
         "Id": 7.302,
         "yearOfBirth": 1815.0,
         "Place of Birth": "Ferrara",
-        "Last Name": "Baori",
+        "lastName": "Baori",
         "dateOfBirth": "02/09/1815",
         "showOnMap": false
       },
@@ -8467,7 +8467,7 @@ var birthplaces = {
         "Id": 7.303,
         "yearOfBirth": 1835.0,
         "Place of Birth": "Veroli (Roma)",
-        "Last Name": "Fontana",
+        "lastName": "Fontana",
         "dateOfBirth": "02/15/1835",
         "showOnMap": false
       },
@@ -8485,7 +8485,7 @@ var birthplaces = {
         "Id": 7.304,
         "yearOfBirth": 1846.0,
         "Place of Birth": "Termonde (Fl Or)",
-        "Last Name": "Cl\u00ef\u00bf\u00bdment",
+        "lastName": "Cl\u00ef\u00bf\u00bdment",
         "dateOfBirth": "12/26/1846",
         "showOnMap": false
       },
@@ -8503,7 +8503,7 @@ var birthplaces = {
         "Id": 7.305,
         "yearOfBirth": 1835.0,
         "Place of Birth": "Gangelt (Rheinland)",
-        "Last Name": "van Born",
+        "lastName": "van Born",
         "dateOfBirth": "01/28/1835",
         "showOnMap": false
       },
@@ -8521,7 +8521,7 @@ var birthplaces = {
         "Id": 7.306,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Leagrain-Hall (Lancashire)",
-        "Last Name": "Weld",
+        "lastName": "Weld",
         "dateOfBirth": "08/05/1823",
         "showOnMap": false
       },
@@ -8539,7 +8539,7 @@ var birthplaces = {
         "Id": 7.307,
         "yearOfBirth": 1829.0,
         "Place of Birth": "Roma",
-        "Last Name": "Gigli",
+        "lastName": "Gigli",
         "dateOfBirth": "03/13/1829",
         "showOnMap": false
       },
@@ -8557,7 +8557,7 @@ var birthplaces = {
         "Id": 7.308,
         "yearOfBirth": 1816.0,
         "Place of Birth": "London",
-        "Last Name": "Anderdon",
+        "lastName": "Anderdon",
         "dateOfBirth": "12/26/1816",
         "showOnMap": false
       },
@@ -8575,7 +8575,7 @@ var birthplaces = {
         "Id": 7.309,
         "yearOfBirth": 1843.0,
         "Place of Birth": "Anvers",
-        "Last Name": "Schermers",
+        "lastName": "Schermers",
         "dateOfBirth": "02/02/1843",
         "showOnMap": false
       },
@@ -8593,7 +8593,7 @@ var birthplaces = {
         "Id": 7.311,
         "yearOfBirth": 1867.0,
         "Place of Birth": "Le Mans",
-        "Last Name": "Dezaire",
+        "lastName": "Dezaire",
         "dateOfBirth": "04/18/1867",
         "showOnMap": false
       },
@@ -8611,7 +8611,7 @@ var birthplaces = {
         "Id": 7.312,
         "yearOfBirth": 1846.0,
         "Place of Birth": "Bratislava",
-        "Last Name": "B\u00ef\u00bf\u00bdrger",
+        "lastName": "B\u00ef\u00bf\u00bdrger",
         "dateOfBirth": "01/27/1846",
         "showOnMap": false
       },
@@ -8629,7 +8629,7 @@ var birthplaces = {
         "Id": 7.313,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Alost",
-        "Last Name": "de Cock",
+        "lastName": "de Cock",
         "dateOfBirth": "04/22/1831",
         "showOnMap": false
       },
@@ -8647,7 +8647,7 @@ var birthplaces = {
         "Id": 7.314,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Gr\u00ef\u00bf\u00bdsy-sur-Aix (Savoie)",
-        "Last Name": "Chiron",
+        "lastName": "Chiron",
         "dateOfBirth": "01/17/1822",
         "showOnMap": false
       },
@@ -8665,7 +8665,7 @@ var birthplaces = {
         "Id": 7.315,
         "yearOfBirth": 1866.0,
         "Place of Birth": "Overpelt (Limbourg)",
-        "Last Name": "Weckx",
+        "lastName": "Weckx",
         "dateOfBirth": "02/03/1866",
         "showOnMap": false
       },
@@ -8683,7 +8683,7 @@ var birthplaces = {
         "Id": 7.316,
         "yearOfBirth": 1861.0,
         "Place of Birth": "Cholet (Maine-et-L)",
-        "Last Name": "Bonnet",
+        "lastName": "Bonnet",
         "dateOfBirth": "04/03/1861",
         "showOnMap": false
       },
@@ -8701,7 +8701,7 @@ var birthplaces = {
         "Id": 7.317,
         "yearOfBirth": 1855.0,
         "Place of Birth": "Culembourg",
-        "Last Name": "Beusker",
+        "lastName": "Beusker",
         "dateOfBirth": "12/30/1855",
         "showOnMap": false
       },
@@ -8719,7 +8719,7 @@ var birthplaces = {
         "Id": 7.318,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Roma",
-        "Last Name": "Tongiorgi",
+        "lastName": "Tongiorgi",
         "dateOfBirth": "02/16/1823",
         "showOnMap": false
       },
@@ -8737,7 +8737,7 @@ var birthplaces = {
         "Id": 7.319,
         "yearOfBirth": 1842.0,
         "Place of Birth": "Pl\u00ef\u00bf\u00bdlo (C\u00ef\u00bf\u00bdtes-du-N)",
-        "Last Name": "Andr\u00ef\u00bf\u00bd",
+        "lastName": "Andr\u00ef\u00bf\u00bd",
         "dateOfBirth": "07/08/1842",
         "showOnMap": false
       },
@@ -8755,7 +8755,7 @@ var birthplaces = {
         "Id": 7.32,
         "yearOfBirth": 1814.0,
         "Place of Birth": "Voghera (Pavia)",
-        "Last Name": "Cetta",
+        "lastName": "Cetta",
         "dateOfBirth": "03/11/1814",
         "showOnMap": false
       },
@@ -8773,7 +8773,7 @@ var birthplaces = {
         "Id": 7.321,
         "yearOfBirth": 1815.0,
         "Place of Birth": "Tuggen (Schwyz)",
-        "Last Name": "Weber",
+        "lastName": "Weber",
         "dateOfBirth": "11/20/1815",
         "showOnMap": false
       },
@@ -8791,7 +8791,7 @@ var birthplaces = {
         "Id": 7.322,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Napoli",
-        "Last Name": "Avallone",
+        "lastName": "Avallone",
         "dateOfBirth": "09/28/1823",
         "showOnMap": false
       },
@@ -8809,7 +8809,7 @@ var birthplaces = {
         "Id": 7.323,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Bruxelles",
-        "Last Name": "Libert",
+        "lastName": "Libert",
         "dateOfBirth": "03/13/1822",
         "showOnMap": false
       },
@@ -8827,7 +8827,7 @@ var birthplaces = {
         "Id": 7.324,
         "yearOfBirth": 1837.0,
         "Place of Birth": "Elg\u00ef\u00bf\u00bdibar (Guip\u00ef\u00bf\u00bdzcoa)",
-        "Last Name": "Osoro",
+        "lastName": "Osoro",
         "dateOfBirth": "08/26/1837",
         "showOnMap": false
       },
@@ -8845,7 +8845,7 @@ var birthplaces = {
         "Id": 7.325,
         "yearOfBirth": 1869.0,
         "Place of Birth": "Durango",
-        "Last Name": "Larr\u00ef\u00bf\u00bdnaga",
+        "lastName": "Larr\u00ef\u00bf\u00bdnaga",
         "dateOfBirth": "09/25/1869",
         "showOnMap": false
       },
@@ -8863,7 +8863,7 @@ var birthplaces = {
         "Id": 7.326,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Solre-le-Ch\u00ef\u00bf\u00bdteau (Nord)",
-        "Last Name": "Degrelle",
+        "lastName": "Degrelle",
         "dateOfBirth": "02/22/1821",
         "showOnMap": false
       },
@@ -8881,7 +8881,7 @@ var birthplaces = {
         "Id": 7.327,
         "yearOfBirth": 1814.0,
         "Place of Birth": "Moya (Barcelona)",
-        "Last Name": "Serra (Cabaner)",
+        "lastName": "Serra (Cabaner)",
         "dateOfBirth": "07/31/1814",
         "showOnMap": false
       },
@@ -8899,7 +8899,7 @@ var birthplaces = {
         "Id": 7.328,
         "yearOfBirth": 1837.0,
         "Place of Birth": "Amersfoort (Utrecht)",
-        "Last Name": "ten Brink",
+        "lastName": "ten Brink",
         "dateOfBirth": "07/07/1837",
         "showOnMap": false
       },
@@ -8917,7 +8917,7 @@ var birthplaces = {
         "Id": 7.329,
         "yearOfBirth": 1868.0,
         "Place of Birth": "Pasto",
-        "Last Name": "Guerrero",
+        "lastName": "Guerrero",
         "dateOfBirth": "07/24/1868",
         "showOnMap": false
       },
@@ -8935,7 +8935,7 @@ var birthplaces = {
         "Id": 7.33,
         "yearOfBirth": 1848.0,
         "Place of Birth": "*Thienhausen",
-        "Last Name": "de B\u00ef\u00bf\u00bdselager",
+        "lastName": "de B\u00ef\u00bf\u00bdselager",
         "dateOfBirth": "03/09/1848",
         "showOnMap": false
       },
@@ -8953,7 +8953,7 @@ var birthplaces = {
         "Id": 7.331,
         "yearOfBirth": 1840.0,
         "Place of Birth": "Coulanges-l\u00ef\u00bf\u00bds-Nevers (Ni\u00ef\u00bf\u00bdvre)",
-        "Last Name": "Simonin",
+        "lastName": "Simonin",
         "dateOfBirth": "01/06/1840",
         "showOnMap": false
       },
@@ -8971,7 +8971,7 @@ var birthplaces = {
         "Id": 7.332,
         "yearOfBirth": 1851.0,
         "Place of Birth": "Varik (Gelderland)",
-        "Last Name": "van Shcaik",
+        "lastName": "van Shcaik",
         "dateOfBirth": "10/29/1851",
         "showOnMap": false
       },
@@ -8989,7 +8989,7 @@ var birthplaces = {
         "Id": 7.333,
         "yearOfBirth": 1874.0,
         "Place of Birth": "Morella (Castell\u00ef\u00bf\u00bdn de la P.)",
-        "Last Name": "Mart\u00ef\u00bf\u00bd",
+        "lastName": "Mart\u00ef\u00bf\u00bd",
         "dateOfBirth": "03/10/1874",
         "showOnMap": false
       },
@@ -9007,7 +9007,7 @@ var birthplaces = {
         "Id": 7.334,
         "yearOfBirth": 1811.0,
         "Place of Birth": "Messina",
-        "Last Name": "Calogero",
+        "lastName": "Calogero",
         "dateOfBirth": "10/29/1811",
         "showOnMap": false
       },
@@ -9025,7 +9025,7 @@ var birthplaces = {
         "Id": 7.335,
         "yearOfBirth": 1824.0,
         "Place of Birth": "Colmenar de Oreja (Madrid)",
-        "Last Name": "Alcolado",
+        "lastName": "Alcolado",
         "dateOfBirth": "05/08/1824",
         "showOnMap": false
       },
@@ -9043,7 +9043,7 @@ var birthplaces = {
         "Id": 7.336,
         "yearOfBirth": 1856.0,
         "Place of Birth": "Lobith (Gelderland)",
-        "Last Name": "Eijkholt",
+        "lastName": "Eijkholt",
         "dateOfBirth": "09/09/1856",
         "showOnMap": false
       },
@@ -9061,7 +9061,7 @@ var birthplaces = {
         "Id": 7.337,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Roma",
-        "Last Name": "Cavazzi",
+        "lastName": "Cavazzi",
         "dateOfBirth": "10/29/1826",
         "showOnMap": false
       },
@@ -9079,7 +9079,7 @@ var birthplaces = {
         "Id": 7.338,
         "yearOfBirth": 1814.0,
         "Place of Birth": "Le-Puy-Notre-Dame (Maine-et-L)",
-        "Last Name": "Lamoureux",
+        "lastName": "Lamoureux",
         "dateOfBirth": "03/25/1814",
         "showOnMap": false
       },
@@ -9097,7 +9097,7 @@ var birthplaces = {
         "Id": 7.339,
         "yearOfBirth": 1864.0,
         "Place of Birth": "Preston",
-        "Last Name": "Smalley",
+        "lastName": "Smalley",
         "dateOfBirth": "05/17/1864",
         "showOnMap": false
       },
@@ -9115,7 +9115,7 @@ var birthplaces = {
         "Id": 7.34,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Raamsdonk (N-Brabant)",
-        "Last Name": "van der Velde",
+        "lastName": "van der Velde",
         "dateOfBirth": "12/24/1827",
         "showOnMap": false
       },
@@ -9133,7 +9133,7 @@ var birthplaces = {
         "Id": 7.341,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Roma",
-        "Last Name": "Folchi",
+        "lastName": "Folchi",
         "dateOfBirth": "03/30/1822",
         "showOnMap": false
       },
@@ -9151,7 +9151,7 @@ var birthplaces = {
         "Id": 7.342,
         "yearOfBirth": 1848.0,
         "Place of Birth": "Jackson, Miss.",
-        "Last Name": "Miles",
+        "lastName": "Miles",
         "dateOfBirth": "06/30/1848",
         "showOnMap": false
       },
@@ -9169,7 +9169,7 @@ var birthplaces = {
         "Id": 7.343,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Purmerend (N-Holland)",
-        "Last Name": "Heijligers",
+        "lastName": "Heijligers",
         "dateOfBirth": "11/30/1827",
         "showOnMap": false
       },
@@ -9187,7 +9187,7 @@ var birthplaces = {
         "Id": 7.344,
         "yearOfBirth": 1861.0,
         "Place of Birth": "Balaguer (L\u00ef\u00bf\u00bdrida)",
-        "Last Name": "Sol\u00ef\u00bf\u00bd",
+        "lastName": "Sol\u00ef\u00bf\u00bd",
         "dateOfBirth": "11/25/1861",
         "showOnMap": false
       },
@@ -9205,7 +9205,7 @@ var birthplaces = {
         "Id": 7.345,
         "yearOfBirth": 1865.0,
         "Place of Birth": "Erps-Kwerbs (Brabant)",
-        "Last Name": "Jacqmotte",
+        "lastName": "Jacqmotte",
         "dateOfBirth": "06/11/1865",
         "showOnMap": false
       },
@@ -9223,7 +9223,7 @@ var birthplaces = {
         "Id": 7.346,
         "yearOfBirth": 1848.0,
         "Place of Birth": "Lesquilouri\u00ef\u00bf\u00bd",
-        "Last Name": "Ichard",
+        "lastName": "Ichard",
         "dateOfBirth": "03/17/1848",
         "showOnMap": false
       },
@@ -9241,7 +9241,7 @@ var birthplaces = {
         "Id": 7.347,
         "yearOfBirth": 1816.0,
         "Place of Birth": "Pontacq (B-Pyr\u00ef\u00bf\u00bdn\u00ef\u00bf\u00bdes)",
-        "Last Name": "Pascau",
+        "lastName": "Pascau",
         "dateOfBirth": "10/22/1816",
         "showOnMap": false
       },
@@ -9259,7 +9259,7 @@ var birthplaces = {
         "Id": 7.348,
         "yearOfBirth": 1871.0,
         "Place of Birth": "St-Vincent (Laval, Qu\u00ef\u00bf\u00bd.)",
-        "Last Name": "Allaire",
+        "lastName": "Allaire",
         "dateOfBirth": "02/06/1871",
         "showOnMap": false
       },
@@ -9277,7 +9277,7 @@ var birthplaces = {
         "Id": 7.349,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Cremona",
-        "Last Name": "Puntscher",
+        "lastName": "Puntscher",
         "dateOfBirth": "05/27/1827",
         "showOnMap": false
       },
@@ -9295,7 +9295,7 @@ var birthplaces = {
         "Id": 7.35,
         "yearOfBirth": 1821.0,
         "Place of Birth": "\u00ef\u00bf\u00bdguisheim (H-Rhin)",
-        "Last Name": "Brucker",
+        "lastName": "Brucker",
         "dateOfBirth": "02/20/1821",
         "showOnMap": false
       },
@@ -9313,7 +9313,7 @@ var birthplaces = {
         "Id": 7.351,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Anvers",
-        "Last Name": "Franck",
+        "lastName": "Franck",
         "dateOfBirth": "09/23/1834",
         "showOnMap": false
       },
@@ -9331,7 +9331,7 @@ var birthplaces = {
         "Id": 7.352,
         "yearOfBirth": 1815.0,
         "Place of Birth": "Sames (B-Pyr\u00ef\u00bf\u00bdn\u00ef\u00bf\u00bdes)",
-        "Last Name": "Etcheverry",
+        "lastName": "Etcheverry",
         "dateOfBirth": "08/05/1815",
         "showOnMap": false
       },
@@ -9349,7 +9349,7 @@ var birthplaces = {
         "Id": 7.353,
         "yearOfBirth": 1849.0,
         "Place of Birth": "Marcheville (Somme)",
-        "Last Name": "Vasseur",
+        "lastName": "Vasseur",
         "dateOfBirth": "12/15/1849",
         "showOnMap": false
       },
@@ -9367,7 +9367,7 @@ var birthplaces = {
         "Id": 7.354,
         "yearOfBirth": 1838.0,
         "Place of Birth": "Wigan (Lancashire)",
-        "Last Name": "Lea",
+        "lastName": "Lea",
         "dateOfBirth": "01/04/1838",
         "showOnMap": false
       },
@@ -9385,7 +9385,7 @@ var birthplaces = {
         "Id": 7.355,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Grace (N-Brabant)",
-        "Last Name": "Koppes",
+        "lastName": "Koppes",
         "dateOfBirth": "01/15/1821",
         "showOnMap": false
       },
@@ -9403,7 +9403,7 @@ var birthplaces = {
         "Id": 7.356,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Reignier (H-Savoie)",
-        "Last Name": "Desjacques",
+        "lastName": "Desjacques",
         "dateOfBirth": "01/10/1831",
         "showOnMap": false
       },
@@ -9421,7 +9421,7 @@ var birthplaces = {
         "Id": 7.357,
         "yearOfBirth": 1811.0,
         "Place of Birth": "Ashton-le-Willows, pr Wigan (Lancashire)",
-        "Last Name": "Speakman",
+        "lastName": "Speakman",
         "dateOfBirth": "01/18/1811",
         "showOnMap": false
       },
@@ -9439,7 +9439,7 @@ var birthplaces = {
         "Id": 7.358,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Leuk (Valais)",
-        "Last Name": "Allet",
+        "lastName": "Allet",
         "dateOfBirth": "08/08/1820",
         "showOnMap": false
       },
@@ -9457,7 +9457,7 @@ var birthplaces = {
         "Id": 7.359,
         "yearOfBirth": 1812.0,
         "Place of Birth": "Su\u00ef\u00bf\u00bdice (?echy)",
-        "Last Name": "Lewetz",
+        "lastName": "Lewetz",
         "dateOfBirth": "07/30/1812",
         "showOnMap": false
       },
@@ -9475,7 +9475,7 @@ var birthplaces = {
         "Id": 7.36,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Valencia",
-        "Last Name": "Vionnet",
+        "lastName": "Vionnet",
         "dateOfBirth": "03/11/1820",
         "showOnMap": false
       },
@@ -9493,7 +9493,7 @@ var birthplaces = {
         "Id": 7.361,
         "yearOfBirth": 1816.0,
         "Place of Birth": "Washington",
-        "Last Name": "Clarke",
+        "lastName": "Clarke",
         "dateOfBirth": "03/19/1816",
         "showOnMap": false
       },
@@ -9511,7 +9511,7 @@ var birthplaces = {
         "Id": 7.362,
         "yearOfBirth": 1869.0,
         "Place of Birth": "Silla (Valencia)",
-        "Last Name": "Domingo",
+        "lastName": "Domingo",
         "dateOfBirth": "11/10/1869",
         "showOnMap": false
       },
@@ -9529,7 +9529,7 @@ var birthplaces = {
         "Id": 7.364,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Aumont (Jura)",
-        "Last Name": "Touplain",
+        "lastName": "Touplain",
         "dateOfBirth": "02/08/1821",
         "showOnMap": false
       },
@@ -9547,7 +9547,7 @@ var birthplaces = {
         "Id": 7.365,
         "yearOfBirth": 1854.0,
         "Place of Birth": "Valognes (Manche)",
-        "Last Name": "Goubaux",
+        "lastName": "Goubaux",
         "dateOfBirth": "02/11/1854",
         "showOnMap": false
       },
@@ -9565,7 +9565,7 @@ var birthplaces = {
         "Id": 7.366,
         "yearOfBirth": 1840.0,
         "Place of Birth": "Ravensburg (W\u00ef\u00bf\u00bdrtemburg)",
-        "Last Name": "Strobel",
+        "lastName": "Strobel",
         "dateOfBirth": "01/19/1840",
         "showOnMap": false
       },
@@ -9583,7 +9583,7 @@ var birthplaces = {
         "Id": 7.367,
         "yearOfBirth": 1851.0,
         "Place of Birth": "Sarrion (Teruel)",
-        "Last Name": "Hernandez",
+        "lastName": "Hernandez",
         "dateOfBirth": "01/14/1851",
         "showOnMap": false
       },
@@ -9601,7 +9601,7 @@ var birthplaces = {
         "Id": 7.368,
         "yearOfBirth": 1853.0,
         "Place of Birth": "Holzweiler (Rhienland)",
-        "Last Name": "Jungmann",
+        "lastName": "Jungmann",
         "dateOfBirth": "12/11/1853",
         "showOnMap": false
       },
@@ -9619,7 +9619,7 @@ var birthplaces = {
         "Id": 7.369,
         "yearOfBirth": 1833.0,
         "Place of Birth": "Linz",
-        "Last Name": "Hunner",
+        "lastName": "Hunner",
         "dateOfBirth": "01/17/1833",
         "showOnMap": false
       },
@@ -9637,7 +9637,7 @@ var birthplaces = {
         "Id": 7.37,
         "yearOfBirth": 1813.0,
         "Place of Birth": "Kells (Kilkenny)",
-        "Last Name": "Duncan",
+        "lastName": "Duncan",
         "dateOfBirth": "03/17/1813",
         "showOnMap": false
       },
@@ -9655,7 +9655,7 @@ var birthplaces = {
         "Id": 7.371,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Sta Coloma de Farnes (Gerona)",
-        "Last Name": "Vinolas",
+        "lastName": "Vinolas",
         "dateOfBirth": "10/08/1834",
         "showOnMap": false
       },
@@ -9673,7 +9673,7 @@ var birthplaces = {
         "Id": 7.372,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Chamnery",
-        "Last Name": "Bouchet",
+        "lastName": "Bouchet",
         "dateOfBirth": "04/25/1827",
         "showOnMap": false
       },
@@ -9691,7 +9691,7 @@ var birthplaces = {
         "Id": 7.373,
         "yearOfBirth": 1818.0,
         "Place of Birth": "Manchester",
-        "Last Name": "Zanetti",
+        "lastName": "Zanetti",
         "dateOfBirth": "10/01/1818",
         "showOnMap": false
       },
@@ -9709,7 +9709,7 @@ var birthplaces = {
         "Id": 7.374,
         "yearOfBirth": 1862.0,
         "Place of Birth": "Tellin (Luxembourg)",
-        "Last Name": "Douret",
+        "lastName": "Douret",
         "dateOfBirth": "10/06/1862",
         "showOnMap": false
       },
@@ -9727,7 +9727,7 @@ var birthplaces = {
         "Id": 7.375,
         "yearOfBirth": 1806.0,
         "Place of Birth": "Zarza la mayor (Caceres)",
-        "Last Name": "Cabeza",
+        "lastName": "Cabeza",
         "dateOfBirth": "09/29/1806",
         "showOnMap": false
       },
@@ -9745,7 +9745,7 @@ var birthplaces = {
         "Id": 7.376,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Catamarca",
-        "Last Name": "Cubas",
+        "lastName": "Cubas",
         "dateOfBirth": "09/18/1831",
         "showOnMap": false
       },
@@ -9763,7 +9763,7 @@ var birthplaces = {
         "Id": 7.377,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Chiusa (Bolzano)",
-        "Last Name": "Hofer",
+        "lastName": "Hofer",
         "dateOfBirth": "06/20/1822",
         "showOnMap": false
       },
@@ -9781,7 +9781,7 @@ var birthplaces = {
         "Id": 7.378,
         "yearOfBirth": 1845.0,
         "Place of Birth": "St-Denis-sur-Sarthon (Orne)",
-        "Last Name": "bienvenu",
+        "lastName": "bienvenu",
         "dateOfBirth": "06/11/1845",
         "showOnMap": false
       },
@@ -9799,7 +9799,7 @@ var birthplaces = {
         "Id": 7.379,
         "yearOfBirth": 1846.0,
         "Place of Birth": "Luppy (Moselle)",
-        "Last Name": "Courtaux",
+        "lastName": "Courtaux",
         "dateOfBirth": "01/25/1846",
         "showOnMap": false
       },
@@ -9817,7 +9817,7 @@ var birthplaces = {
         "Id": 7.38,
         "yearOfBirth": 1862.0,
         "Place of Birth": "Paris",
-        "Last Name": "Guyot",
+        "lastName": "Guyot",
         "dateOfBirth": "12/06/1862",
         "showOnMap": false
       },
@@ -9835,7 +9835,7 @@ var birthplaces = {
         "Id": 7.381,
         "yearOfBirth": 1867.0,
         "Place of Birth": "Wegry (Polska)",
-        "Last Name": "Gierz",
+        "lastName": "Gierz",
         "dateOfBirth": "07/24/1867",
         "showOnMap": false
       },
@@ -9853,7 +9853,7 @@ var birthplaces = {
         "Id": 7.382,
         "yearOfBirth": 1819.0,
         "Place of Birth": "St-Martin-de-Connee (Mayenne)",
-        "Last Name": "Pottier",
+        "lastName": "Pottier",
         "dateOfBirth": "07/15/1819",
         "showOnMap": false
       },
@@ -9871,7 +9871,7 @@ var birthplaces = {
         "Id": 7.383,
         "yearOfBirth": 1829.0,
         "Place of Birth": "La-Chapelle-sous-Rougemont (H-Rhin)",
-        "Last Name": "Seckinger",
+        "lastName": "Seckinger",
         "dateOfBirth": "09/09/1829",
         "showOnMap": false
       },
@@ -9889,7 +9889,7 @@ var birthplaces = {
         "Id": 7.384,
         "yearOfBirth": 1867.0,
         "Place of Birth": "Godelleta (Valencia)",
-        "Last Name": "Franco",
+        "lastName": "Franco",
         "dateOfBirth": "09/13/1867",
         "showOnMap": false
       },
@@ -9907,7 +9907,7 @@ var birthplaces = {
         "Id": 7.385,
         "yearOfBirth": 1811.0,
         "Place of Birth": "Eke (Fl Or)",
-        "Last Name": "Callaert",
+        "lastName": "Callaert",
         "dateOfBirth": "01/01/1811",
         "showOnMap": false
       },
@@ -9925,7 +9925,7 @@ var birthplaces = {
         "Id": 7.386,
         "yearOfBirth": 1810.0,
         "Place of Birth": "Monteforte Irpino (Avellino)",
-        "Last Name": "Parziale",
+        "lastName": "Parziale",
         "dateOfBirth": "08/22/1810",
         "showOnMap": false
       },
@@ -9943,7 +9943,7 @@ var birthplaces = {
         "Id": 7.387,
         "yearOfBirth": 1839.0,
         "Place of Birth": "La Seguiniere (Maine-et-L)",
-        "Last Name": "Gallais",
+        "lastName": "Gallais",
         "dateOfBirth": "03/25/1839",
         "showOnMap": false
       },
@@ -9961,7 +9961,7 @@ var birthplaces = {
         "Id": 7.388,
         "yearOfBirth": 1863.0,
         "Place of Birth": "Baltimore",
-        "Last Name": "Dunn",
+        "lastName": "Dunn",
         "dateOfBirth": "02/04/1863",
         "showOnMap": false
       },
@@ -9979,7 +9979,7 @@ var birthplaces = {
         "Id": 7.389,
         "yearOfBirth": 1863.0,
         "Place of Birth": "Baltimore",
-        "Last Name": "Heuisler",
+        "lastName": "Heuisler",
         "dateOfBirth": "09/14/1863",
         "showOnMap": false
       },
@@ -9997,7 +9997,7 @@ var birthplaces = {
         "Id": 7.39,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Walschbronn (Moselle)",
-        "Last Name": "Sternjacob",
+        "lastName": "Sternjacob",
         "dateOfBirth": "05/13/1822",
         "showOnMap": false
       },
@@ -10015,7 +10015,7 @@ var birthplaces = {
         "Id": 7.391,
         "yearOfBirth": 1815.0,
         "Place of Birth": "Trento",
-        "Last Name": "Dompieri",
+        "lastName": "Dompieri",
         "dateOfBirth": "11/03/1815",
         "showOnMap": false
       },
@@ -10033,7 +10033,7 @@ var birthplaces = {
         "Id": 7.392,
         "yearOfBirth": 1836.0,
         "Place of Birth": "Gangelt (Rheinland)",
-        "Last Name": "Dohmen",
+        "lastName": "Dohmen",
         "dateOfBirth": "02/24/1836",
         "showOnMap": false
       },
@@ -10051,7 +10051,7 @@ var birthplaces = {
         "Id": 7.393,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Giugliano (Napoli)",
-        "Last Name": "Pragliola",
+        "lastName": "Pragliola",
         "dateOfBirth": "11/15/1826",
         "showOnMap": false
       },
@@ -10069,7 +10069,7 @@ var birthplaces = {
         "Id": 7.394,
         "yearOfBirth": 1851.0,
         "Place of Birth": "Neumuhlen (Oldenburg)",
-        "Last Name": "Niemoller",
+        "lastName": "Niemoller",
         "dateOfBirth": "08/26/1851",
         "showOnMap": false
       },
@@ -10087,7 +10087,7 @@ var birthplaces = {
         "Id": 7.395,
         "yearOfBirth": 1841.0,
         "Place of Birth": "Limoux (Aude)",
-        "Last Name": "de Sainte-Valiere",
+        "lastName": "de Sainte-Valiere",
         "dateOfBirth": "05/18/1841",
         "showOnMap": false
       },
@@ -10105,7 +10105,7 @@ var birthplaces = {
         "Id": 7.396,
         "yearOfBirth": 1808.0,
         "Place of Birth": "Napoli",
-        "Last Name": "Barattolo",
+        "lastName": "Barattolo",
         "dateOfBirth": "03/04/1808",
         "showOnMap": false
       },
@@ -10123,7 +10123,7 @@ var birthplaces = {
         "Id": 7.397,
         "yearOfBirth": 1833.0,
         "Place of Birth": "Berrwiller (H-Rhin)",
-        "Last Name": "Mellinger",
+        "lastName": "Mellinger",
         "dateOfBirth": "10/18/1833",
         "showOnMap": false
       },
@@ -10141,7 +10141,7 @@ var birthplaces = {
         "Id": 7.398,
         "yearOfBirth": 1819.0,
         "Place of Birth": "Moissac (Tarn-et-G)",
-        "Last Name": "Bach",
+        "lastName": "Bach",
         "dateOfBirth": "07/18/1819",
         "showOnMap": false
       },
@@ -10159,7 +10159,7 @@ var birthplaces = {
         "Id": 7.399,
         "yearOfBirth": 1839.0,
         "Place of Birth": "Saudos (Extremadura)",
-        "Last Name": "Antunes",
+        "lastName": "Antunes",
         "dateOfBirth": "02/15/1839",
         "showOnMap": false
       },
@@ -10177,7 +10177,7 @@ var birthplaces = {
         "Id": 7.4,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Mieussy (H-Savoie)",
-        "Last Name": "Cornillac",
+        "lastName": "Cornillac",
         "dateOfBirth": "08/17/1826",
         "showOnMap": false
       },
@@ -10195,7 +10195,7 @@ var birthplaces = {
         "Id": 7.401,
         "yearOfBirth": 1867.0,
         "Place of Birth": "Brugelette (Hainaut)",
-        "Last Name": "Delhaye",
+        "lastName": "Delhaye",
         "dateOfBirth": "05/07/1867",
         "showOnMap": false
       },
@@ -10213,7 +10213,7 @@ var birthplaces = {
         "Id": 7.402,
         "yearOfBirth": 1829.0,
         "Place of Birth": "Nysa, Opole",
-        "Last Name": "Scholz",
+        "lastName": "Scholz",
         "dateOfBirth": "05/09/1829",
         "showOnMap": false
       },
@@ -10231,7 +10231,7 @@ var birthplaces = {
         "Id": 7.403,
         "yearOfBirth": 1865.0,
         "Place of Birth": "Cobern (Rheinland)",
-        "Last Name": "Richter",
+        "lastName": "Richter",
         "dateOfBirth": "12/03/1865",
         "showOnMap": false
       },
@@ -10249,7 +10249,7 @@ var birthplaces = {
         "Id": 7.404,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Trois-Rivieres, Que",
-        "Last Name": "Doucet",
+        "lastName": "Doucet",
         "dateOfBirth": "03/12/1825",
         "showOnMap": false
       },
@@ -10267,7 +10267,7 @@ var birthplaces = {
         "Id": 7.405,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Isasondo (Guipuzcoa)",
-        "Last Name": "Echeverria",
+        "lastName": "Echeverria",
         "dateOfBirth": "01/31/1834",
         "showOnMap": false
       },
@@ -10285,7 +10285,7 @@ var birthplaces = {
         "Id": 7.406,
         "yearOfBirth": 1853.0,
         "Place of Birth": "Pisogne (Brescia)",
-        "Last Name": "Corna Pellegrini",
+        "lastName": "Corna Pellegrini",
         "dateOfBirth": "01/26/1853",
         "showOnMap": false
       },
@@ -10303,7 +10303,7 @@ var birthplaces = {
         "Id": 7.407,
         "yearOfBirth": 1845.0,
         "Place of Birth": "Lafayette, La.",
-        "Last Name": "Rigues",
+        "lastName": "Rigues",
         "dateOfBirth": "08/21/1845",
         "showOnMap": false
       },
@@ -10321,7 +10321,7 @@ var birthplaces = {
         "Id": 7.409,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Niederfischbach (Rheinland)",
-        "Last Name": "Kohler",
+        "lastName": "Kohler",
         "dateOfBirth": "10/21/1831",
         "showOnMap": false
       },
@@ -10339,7 +10339,7 @@ var birthplaces = {
         "Id": 7.41,
         "yearOfBirth": 1805.0,
         "Place of Birth": "Modena",
-        "Last Name": "Roncaglia",
+        "lastName": "Roncaglia",
         "dateOfBirth": "12/13/1805",
         "showOnMap": false
       },
@@ -10357,7 +10357,7 @@ var birthplaces = {
         "Id": 7.411,
         "yearOfBirth": 1804.0,
         "Place of Birth": "Gaussan (H-Pyrenees)",
-        "Last Name": "Abbadie",
+        "lastName": "Abbadie",
         "dateOfBirth": "11/05/1804",
         "showOnMap": false
       },
@@ -10375,7 +10375,7 @@ var birthplaces = {
         "Id": 7.412,
         "yearOfBirth": 1838.0,
         "Place of Birth": "Montblanch (Tarragona)",
-        "Last Name": "Riba",
+        "lastName": "Riba",
         "dateOfBirth": "03/03/1838",
         "showOnMap": false
       },
@@ -10393,7 +10393,7 @@ var birthplaces = {
         "Id": 7.413,
         "yearOfBirth": 1847.0,
         "Place of Birth": "Staffelfelden (H-Rhin)",
-        "Last Name": "Bannvart",
+        "lastName": "Bannvart",
         "dateOfBirth": "08/16/1847",
         "showOnMap": false
       },
@@ -10411,7 +10411,7 @@ var birthplaces = {
         "Id": 7.414,
         "yearOfBirth": 1842.0,
         "Place of Birth": "Regensburg (Bayern)",
-        "Last Name": "Kraus",
+        "lastName": "Kraus",
         "dateOfBirth": "10/19/1842",
         "showOnMap": false
       },
@@ -10429,7 +10429,7 @@ var birthplaces = {
         "Id": 7.415,
         "yearOfBirth": 1829.0,
         "Place of Birth": "Mas-d'Agenais (Lot-et-G)",
-        "Last Name": "Dubourg",
+        "lastName": "Dubourg",
         "dateOfBirth": "08/22/1829",
         "showOnMap": false
       },
@@ -10447,7 +10447,7 @@ var birthplaces = {
         "Id": 7.416,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Kerdr\u00ef\u00bf\u00bdal (par. Plouhinec, Finist\u00ef\u00bf\u00bdre)",
-        "Last Name": "Guillou",
+        "lastName": "Guillou",
         "dateOfBirth": "05/15/1823",
         "showOnMap": false
       },
@@ -10465,7 +10465,7 @@ var birthplaces = {
         "Id": 7.417,
         "yearOfBirth": 1807.0,
         "Place of Birth": "Napoli",
-        "Last Name": "Alaggia",
+        "lastName": "Alaggia",
         "dateOfBirth": "08/08/1807",
         "showOnMap": false
       },
@@ -10483,7 +10483,7 @@ var birthplaces = {
         "Id": 7.418,
         "yearOfBirth": 1864.0,
         "Place of Birth": "Cincinnati",
-        "Last Name": "Hussey",
+        "lastName": "Hussey",
         "dateOfBirth": "06/11/1864",
         "showOnMap": false
       },
@@ -10501,7 +10501,7 @@ var birthplaces = {
         "Id": 7.419,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Strasswalchen (Salzburg)",
-        "Last Name": "Hager",
+        "lastName": "Hager",
         "dateOfBirth": "02/05/1831",
         "showOnMap": false
       },
@@ -10519,7 +10519,7 @@ var birthplaces = {
         "Id": 7.42,
         "yearOfBirth": 1861.0,
         "Place of Birth": "Gand",
-        "Last Name": "Raes",
+        "lastName": "Raes",
         "dateOfBirth": "12/21/1861",
         "showOnMap": false
       },
@@ -10537,7 +10537,7 @@ var birthplaces = {
         "Id": 7.421,
         "yearOfBirth": 1829.0,
         "Place of Birth": "Casei (Pavia)",
-        "Last Name": "Ferrari",
+        "lastName": "Ferrari",
         "dateOfBirth": "10/15/1829",
         "showOnMap": false
       },
@@ -10555,7 +10555,7 @@ var birthplaces = {
         "Id": 7.422,
         "yearOfBirth": 1819.0,
         "Place of Birth": "Torino",
-        "Last Name": "Franco",
+        "lastName": "Franco",
         "dateOfBirth": "12/17/1819",
         "showOnMap": false
       },
@@ -10573,7 +10573,7 @@ var birthplaces = {
         "Id": 7.423,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Genzano (Roma)",
-        "Last Name": "Jacobini",
+        "lastName": "Jacobini",
         "dateOfBirth": "08/04/1825",
         "showOnMap": false
       },
@@ -10591,7 +10591,7 @@ var birthplaces = {
         "Id": 7.424,
         "yearOfBirth": 1864.0,
         "Place of Birth": "Toulouse",
-        "Last Name": "Terrin",
+        "lastName": "Terrin",
         "dateOfBirth": "08/05/1864",
         "showOnMap": false
       },
@@ -10609,7 +10609,7 @@ var birthplaces = {
         "Id": 7.425,
         "yearOfBirth": 1812.0,
         "Place of Birth": "Utrecht",
-        "Last Name": "Richel",
+        "lastName": "Richel",
         "dateOfBirth": "12/31/1812",
         "showOnMap": false
       },
@@ -10627,7 +10627,7 @@ var birthplaces = {
         "Id": 7.426,
         "yearOfBirth": 1844.0,
         "Place of Birth": "Hoz de Barbastro (Huesca)",
-        "Last Name": "Muz\u00ef\u00bf\u00bds",
+        "lastName": "Muz\u00ef\u00bf\u00bds",
         "dateOfBirth": "02/06/1844",
         "showOnMap": false
       },
@@ -10645,7 +10645,7 @@ var birthplaces = {
         "Id": 7.427,
         "yearOfBirth": 1829.0,
         "Place of Birth": "C\u00ef\u00bf\u00bdrdoba, Arg.",
-        "Last Name": "Gorordo",
+        "lastName": "Gorordo",
         "dateOfBirth": "10/14/1829",
         "showOnMap": false
       },
@@ -10663,7 +10663,7 @@ var birthplaces = {
         "Id": 7.428,
         "yearOfBirth": 1844.0,
         "Place of Birth": "St-Affrique (Aveyron)",
-        "Last Name": "Rouquette",
+        "lastName": "Rouquette",
         "dateOfBirth": "09/24/1844",
         "showOnMap": false
       },
@@ -10681,7 +10681,7 @@ var birthplaces = {
         "Id": 7.429,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Fano (Pesaro)",
-        "Last Name": "Cardella",
+        "lastName": "Cardella",
         "dateOfBirth": "04/11/1820",
         "showOnMap": false
       },
@@ -10699,7 +10699,7 @@ var birthplaces = {
         "Id": 7.43,
         "yearOfBirth": 1868.0,
         "Place of Birth": "Bruxelles",
-        "Last Name": "Otto",
+        "lastName": "Otto",
         "dateOfBirth": "07/21/1868",
         "showOnMap": false
       },
@@ -10717,7 +10717,7 @@ var birthplaces = {
         "Id": 7.431,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Tours",
-        "Last Name": "F\u00ef\u00bf\u00bdrard",
+        "lastName": "F\u00ef\u00bf\u00bdrard",
         "dateOfBirth": "09/08/1817",
         "showOnMap": false
       },
@@ -10735,7 +10735,7 @@ var birthplaces = {
         "Id": 7.432,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Bunnik (Utrecht)",
-        "Last Name": "Verweerd",
+        "lastName": "Verweerd",
         "dateOfBirth": "06/05/1834",
         "showOnMap": false
       },
@@ -10753,7 +10753,7 @@ var birthplaces = {
         "Id": 7.433,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Ribchester (Lancashire)",
-        "Last Name": "Eastham",
+        "lastName": "Eastham",
         "dateOfBirth": "03/06/1820",
         "showOnMap": false
       },
@@ -10771,7 +10771,7 @@ var birthplaces = {
         "Id": 7.434,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Armagh",
-        "Last Name": "Moylan",
+        "lastName": "Moylan",
         "dateOfBirth": "06/24/1822",
         "showOnMap": false
       },
@@ -10789,7 +10789,7 @@ var birthplaces = {
         "Id": 7.435,
         "yearOfBirth": 1865.0,
         "Place of Birth": "Bilbao",
-        "Last Name": "Ustara",
+        "lastName": "Ustara",
         "dateOfBirth": "02/01/1865",
         "showOnMap": false
       },
@@ -10807,7 +10807,7 @@ var birthplaces = {
         "Id": 7.436,
         "yearOfBirth": 1839.0,
         "Place of Birth": "Trujillo (La Libertad)",
-        "Last Name": "Blume",
+        "lastName": "Blume",
         "dateOfBirth": "07/20/1839",
         "showOnMap": false
       },
@@ -10825,7 +10825,7 @@ var birthplaces = {
         "Id": 7.437,
         "yearOfBirth": 1813.0,
         "Place of Birth": "M\u00ef\u00bf\u00bdnster (Valais)",
-        "Last Name": "Lagger",
+        "lastName": "Lagger",
         "dateOfBirth": "03/15/1813",
         "showOnMap": false
       },
@@ -10843,7 +10843,7 @@ var birthplaces = {
         "Id": 7.439,
         "yearOfBirth": 1814.0,
         "Place of Birth": "Castenuovo d'Asti (Alessandria)",
-        "Last Name": "Savio",
+        "lastName": "Savio",
         "dateOfBirth": "04/06/1814",
         "showOnMap": false
       },
@@ -10861,7 +10861,7 @@ var birthplaces = {
         "Id": 7.44,
         "yearOfBirth": 1829.0,
         "Place of Birth": "Le Gavre (Loire-A)",
-        "Last Name": "Lecoq",
+        "lastName": "Lecoq",
         "dateOfBirth": "10/14/1829",
         "showOnMap": false
       },
@@ -10879,7 +10879,7 @@ var birthplaces = {
         "Id": 7.441,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Napoli",
-        "Last Name": "Salvio",
+        "lastName": "Salvio",
         "dateOfBirth": "05/21/1821",
         "showOnMap": false
       },
@@ -10897,7 +10897,7 @@ var birthplaces = {
         "Id": 7.442,
         "yearOfBirth": 1838.0,
         "Place of Birth": "Vich",
-        "Last Name": "Torrents",
+        "lastName": "Torrents",
         "dateOfBirth": "03/07/1838",
         "showOnMap": false
       },
@@ -10915,7 +10915,7 @@ var birthplaces = {
         "Id": 7.443,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Bucciano (Benevento)",
-        "Last Name": "Giaquinto",
+        "lastName": "Giaquinto",
         "dateOfBirth": "02/17/1821",
         "showOnMap": false
       },
@@ -10933,7 +10933,7 @@ var birthplaces = {
         "Id": 7.444,
         "yearOfBirth": 1804.0,
         "Place of Birth": "Ariccia (Roma)",
-        "Last Name": "Giuliani",
+        "lastName": "Giuliani",
         "dateOfBirth": "09/03/1804",
         "showOnMap": false
       },
@@ -10951,7 +10951,7 @@ var birthplaces = {
         "Id": 7.445,
         "yearOfBirth": 1869.0,
         "Place of Birth": "Poperinghe (Fl Oc)",
-        "Last Name": "Houwen",
+        "lastName": "Houwen",
         "dateOfBirth": "04/25/1869",
         "showOnMap": false
       },
@@ -10969,7 +10969,7 @@ var birthplaces = {
         "Id": 7.446,
         "yearOfBirth": 1836.0,
         "Place of Birth": "Buchen (Baden)",
-        "Last Name": "Strauss",
+        "lastName": "Strauss",
         "dateOfBirth": "12/03/1836",
         "showOnMap": false
       },
@@ -10987,7 +10987,7 @@ var birthplaces = {
         "Id": 7.447,
         "yearOfBirth": 1864.0,
         "Place of Birth": "Ropczyce, Rzesz",
-        "Last Name": "Sasiadek",
+        "lastName": "Sasiadek",
         "dateOfBirth": "09/17/1864",
         "showOnMap": false
       },
@@ -11005,7 +11005,7 @@ var birthplaces = {
         "Id": 7.448,
         "yearOfBirth": 1809.0,
         "Place of Birth": "Caraglio (Cuneo)",
-        "Last Name": "Marchetti",
+        "lastName": "Marchetti",
         "dateOfBirth": "06/24/1809",
         "showOnMap": false
       },
@@ -11023,7 +11023,7 @@ var birthplaces = {
         "Id": 7.449,
         "yearOfBirth": 1870.0,
         "Place of Birth": "Carobbio (Bergamo)",
-        "Last Name": "Suardi",
+        "lastName": "Suardi",
         "dateOfBirth": "10/23/1870",
         "showOnMap": false
       },
@@ -11041,7 +11041,7 @@ var birthplaces = {
         "Id": 7.45,
         "yearOfBirth": 1869.0,
         "Place of Birth": "Azcoitia",
-        "Last Name": "Arambarri",
+        "lastName": "Arambarri",
         "dateOfBirth": "09/24/1869",
         "showOnMap": false
       },
@@ -11059,7 +11059,7 @@ var birthplaces = {
         "Id": 7.451,
         "yearOfBirth": 1848.0,
         "Place of Birth": "Corte de' Cortesi (Cremona)",
-        "Last Name": "Rizzi",
+        "lastName": "Rizzi",
         "dateOfBirth": "08/03/1848",
         "showOnMap": false
       },
@@ -11077,7 +11077,7 @@ var birthplaces = {
         "Id": 7.452,
         "yearOfBirth": 1860.0,
         "Place of Birth": "St-Pierre d'Albigny (Savoie)",
-        "Last Name": "Bouvet",
+        "lastName": "Bouvet",
         "dateOfBirth": "07/17/1860",
         "showOnMap": false
       },
@@ -11095,7 +11095,7 @@ var birthplaces = {
         "Id": 7.453,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Bergamo",
-        "Last Name": "Zanoni",
+        "lastName": "Zanoni",
         "dateOfBirth": "03/17/1825",
         "showOnMap": false
       },
@@ -11113,7 +11113,7 @@ var birthplaces = {
         "Id": 7.454,
         "yearOfBirth": 1869.0,
         "Place of Birth": "Hasselt (Limbourg)",
-        "Last Name": "Philippen",
+        "lastName": "Philippen",
         "dateOfBirth": "09/28/1869",
         "showOnMap": false
       },
@@ -11131,7 +11131,7 @@ var birthplaces = {
         "Id": 7.455,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Paczkow, Opole",
-        "Last Name": "Merkel",
+        "lastName": "Merkel",
         "dateOfBirth": "05/27/1827",
         "showOnMap": false
       },
@@ -11149,7 +11149,7 @@ var birthplaces = {
         "Id": 7.456,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Hrusov (Cechy)",
-        "Last Name": "Hovanecz",
+        "lastName": "Hovanecz",
         "dateOfBirth": "10/19/1834",
         "showOnMap": false
       },
@@ -11167,7 +11167,7 @@ var birthplaces = {
         "Id": 7.457,
         "yearOfBirth": 1832.0,
         "Place of Birth": "Napoli",
-        "Last Name": "Ippoliti",
+        "lastName": "Ippoliti",
         "dateOfBirth": "09/20/1832",
         "showOnMap": false
       },
@@ -11185,7 +11185,7 @@ var birthplaces = {
         "Id": 7.458,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Irodouer (Ille-et-V)",
-        "Last Name": "Thebault",
+        "lastName": "Thebault",
         "dateOfBirth": "05/07/1826",
         "showOnMap": false
       },
@@ -11203,7 +11203,7 @@ var birthplaces = {
         "Id": 7.459,
         "yearOfBirth": 1824.0,
         "Place of Birth": "Monreale (Palermo)",
-        "Last Name": "Zerbo",
+        "lastName": "Zerbo",
         "dateOfBirth": "07/11/1824",
         "showOnMap": false
       },
@@ -11221,7 +11221,7 @@ var birthplaces = {
         "Id": 7.46,
         "yearOfBirth": 1846.0,
         "Place of Birth": "Wouw (B-Brabant)",
-        "Last Name": "De Bie",
+        "lastName": "De Bie",
         "dateOfBirth": "05/04/1846",
         "showOnMap": false
       },
@@ -11239,7 +11239,7 @@ var birthplaces = {
         "Id": 7.461,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Modena",
-        "Last Name": "Molza",
+        "lastName": "Molza",
         "dateOfBirth": "03/08/1821",
         "showOnMap": false
       },
@@ -11257,7 +11257,7 @@ var birthplaces = {
         "Id": 7.462,
         "yearOfBirth": 1830.0,
         "Place of Birth": "St-Pierre (H-Savoie)",
-        "Last Name": "Terrier",
+        "lastName": "Terrier",
         "dateOfBirth": "10/05/1830",
         "showOnMap": false
       },
@@ -11275,7 +11275,7 @@ var birthplaces = {
         "Id": 7.463,
         "yearOfBirth": 1824.0,
         "Place of Birth": "Niederanven (Luxembourg)",
-        "Last Name": "Kauder",
+        "lastName": "Kauder",
         "dateOfBirth": "12/08/1824",
         "showOnMap": false
       },
@@ -11293,7 +11293,7 @@ var birthplaces = {
         "Id": 7.464,
         "yearOfBirth": 1870.0,
         "Place of Birth": "Kilfinane (Limerick)",
-        "Last Name": "Cronin",
+        "lastName": "Cronin",
         "dateOfBirth": "03/05/1870",
         "showOnMap": false
       },
@@ -11311,7 +11311,7 @@ var birthplaces = {
         "Id": 7.465,
         "yearOfBirth": 1813.0,
         "Place of Birth": "Namur",
-        "Last Name": "Theys",
+        "lastName": "Theys",
         "dateOfBirth": "09/30/1813",
         "showOnMap": false
       },
@@ -11329,7 +11329,7 @@ var birthplaces = {
         "Id": 7.466,
         "yearOfBirth": 1828.0,
         "Place of Birth": "Bruxelles",
-        "Last Name": "Delsaulx",
+        "lastName": "Delsaulx",
         "dateOfBirth": "05/27/1828",
         "showOnMap": false
       },
@@ -11347,7 +11347,7 @@ var birthplaces = {
         "Id": 7.467,
         "yearOfBirth": 1814.0,
         "Place of Birth": "Manresa",
-        "Last Name": "Canudas",
+        "lastName": "Canudas",
         "dateOfBirth": "07/10/1814",
         "showOnMap": false
       },
@@ -11365,7 +11365,7 @@ var birthplaces = {
         "Id": 7.468,
         "yearOfBirth": 1841.0,
         "Place of Birth": "Dublin",
-        "Last Name": "O'Connor",
+        "lastName": "O'Connor",
         "dateOfBirth": "04/10/1841",
         "showOnMap": false
       },
@@ -11383,7 +11383,7 @@ var birthplaces = {
         "Id": 7.469,
         "yearOfBirth": 1809.0,
         "Place of Birth": "Torricella",
-        "Last Name": "Manelli",
+        "lastName": "Manelli",
         "dateOfBirth": "06/29/1809",
         "showOnMap": false
       },
@@ -11401,7 +11401,7 @@ var birthplaces = {
         "Id": 7.47,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Gunzwyl (Luzern)",
-        "Last Name": "Ottiger",
+        "lastName": "Ottiger",
         "dateOfBirth": "05/15/1822",
         "showOnMap": false
       },
@@ -11419,7 +11419,7 @@ var birthplaces = {
         "Id": 7.471,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Lyon",
-        "Last Name": "Jomand",
+        "lastName": "Jomand",
         "dateOfBirth": "02/22/1827",
         "showOnMap": false
       },
@@ -11437,7 +11437,7 @@ var birthplaces = {
         "Id": 7.472,
         "yearOfBirth": 1853.0,
         "Place of Birth": "Norfolk, Va",
-        "Last Name": "Kevill",
+        "lastName": "Kevill",
         "dateOfBirth": "11/17/1853",
         "showOnMap": false
       },
@@ -11455,7 +11455,7 @@ var birthplaces = {
         "Id": 7.473,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Poissons (H-Marne)",
-        "Last Name": "Regnault",
+        "lastName": "Regnault",
         "dateOfBirth": "08/06/1825",
         "showOnMap": false
       },
@@ -11473,7 +11473,7 @@ var birthplaces = {
         "Id": 7.474,
         "yearOfBirth": 1864.0,
         "Place of Birth": "Cisarov (Morava)",
-        "Last Name": "Zatloukal",
+        "lastName": "Zatloukal",
         "dateOfBirth": "07/26/1864",
         "showOnMap": false
       },
@@ -11491,7 +11491,7 @@ var birthplaces = {
         "Id": 7.475,
         "yearOfBirth": 1859.0,
         "Place of Birth": "Randolph, Mass.",
-        "Last Name": "O'Sullivan",
+        "lastName": "O'Sullivan",
         "dateOfBirth": "02/02/1859",
         "showOnMap": false
       },
@@ -11509,7 +11509,7 @@ var birthplaces = {
         "Id": 7.476,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Piacenza",
-        "Last Name": "Tedeschi",
+        "lastName": "Tedeschi",
         "dateOfBirth": "09/13/1820",
         "showOnMap": false
       },
@@ -11527,7 +11527,7 @@ var birthplaces = {
         "Id": 7.477,
         "yearOfBirth": 1874.0,
         "Place of Birth": "Guadalupe",
-        "Last Name": "Gomez",
+        "lastName": "Gomez",
         "dateOfBirth": "04/23/1874",
         "showOnMap": false
       },
@@ -11545,7 +11545,7 @@ var birthplaces = {
         "Id": 7.478,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Moiselles (Seine-et-O)",
-        "Last Name": "Beaudevin",
+        "lastName": "Beaudevin",
         "dateOfBirth": "11/25/1823",
         "showOnMap": false
       },
@@ -11563,7 +11563,7 @@ var birthplaces = {
         "Id": 7.479,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Arcidano (Cagliari)",
-        "Last Name": "Tuveri",
+        "lastName": "Tuveri",
         "dateOfBirth": "10/29/1823",
         "showOnMap": false
       },
@@ -11581,7 +11581,7 @@ var birthplaces = {
         "Id": 7.48,
         "yearOfBirth": 1864.0,
         "Place of Birth": "Queenstown (Ireland)",
-        "Last Name": "Macclement",
+        "lastName": "Macclement",
         "dateOfBirth": "09/20/1864",
         "showOnMap": false
       },
@@ -11599,7 +11599,7 @@ var birthplaces = {
         "Id": 7.481,
         "yearOfBirth": 1861.0,
         "Place of Birth": "Lavaveix-les-Mines (Creuse)",
-        "Last Name": "Robert",
+        "lastName": "Robert",
         "dateOfBirth": "03/29/1861",
         "showOnMap": false
       },
@@ -11617,7 +11617,7 @@ var birthplaces = {
         "Id": 7.482,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Ballymahon (Longford)",
-        "Last Name": "Muldoon",
+        "lastName": "Muldoon",
         "dateOfBirth": "03/01/1834",
         "showOnMap": false
       },
@@ -11635,7 +11635,7 @@ var birthplaces = {
         "Id": 7.483,
         "yearOfBirth": 1814.0,
         "Place of Birth": "Serravalle Scrivia (Alessandria)",
-        "Last Name": "Ferrari",
+        "lastName": "Ferrari",
         "dateOfBirth": "02/12/1814",
         "showOnMap": false
       },
@@ -11653,7 +11653,7 @@ var birthplaces = {
         "Id": 7.484,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Hancock, Md.",
-        "Last Name": "Brady",
+        "lastName": "Brady",
         "dateOfBirth": "10/06/1825",
         "showOnMap": false
       },
@@ -11671,7 +11671,7 @@ var birthplaces = {
         "Id": 7.485,
         "yearOfBirth": 1839.0,
         "Place of Birth": "Montreal",
-        "Last Name": "Racicot",
+        "lastName": "Racicot",
         "dateOfBirth": "12/20/1839",
         "showOnMap": false
       },
@@ -11689,7 +11689,7 @@ var birthplaces = {
         "Id": 7.486,
         "yearOfBirth": 1846.0,
         "Place of Birth": "Callac (Cotes-du-N)",
-        "Last Name": "Capitaine",
+        "lastName": "Capitaine",
         "dateOfBirth": "11/26/1846",
         "showOnMap": false
       },
@@ -11707,7 +11707,7 @@ var birthplaces = {
         "Id": 7.487,
         "yearOfBirth": 1811.0,
         "Place of Birth": "Fano (Pesaro)",
-        "Last Name": "Tombari",
+        "lastName": "Tombari",
         "dateOfBirth": "01/29/1811",
         "showOnMap": false
       },
@@ -11725,7 +11725,7 @@ var birthplaces = {
         "Id": 7.488,
         "yearOfBirth": 1865.0,
         "Place of Birth": "Castrogiovanni (Caltanissetta)",
-        "Last Name": "Dell'Aria",
+        "lastName": "Dell'Aria",
         "dateOfBirth": "03/04/1865",
         "showOnMap": false
       },
@@ -11743,7 +11743,7 @@ var birthplaces = {
         "Id": 7.489,
         "yearOfBirth": 1864.0,
         "Place of Birth": "Oravita montana (Roumanie)",
-        "Last Name": "Stara",
+        "lastName": "Stara",
         "dateOfBirth": "10/30/1864",
         "showOnMap": false
       },
@@ -11761,7 +11761,7 @@ var birthplaces = {
         "Id": 7.49,
         "yearOfBirth": 1838.0,
         "Place of Birth": "Dunmanway (Cork)",
-        "Last Name": "Farrell",
+        "lastName": "Farrell",
         "dateOfBirth": "10/16/1838",
         "showOnMap": false
       },
@@ -11779,7 +11779,7 @@ var birthplaces = {
         "Id": 7.491,
         "yearOfBirth": 1866.0,
         "Place of Birth": "Ath (Hainaut)",
-        "Last Name": "Le Tellier",
+        "lastName": "Le Tellier",
         "dateOfBirth": "01/25/1866",
         "showOnMap": false
       },
@@ -11797,7 +11797,7 @@ var birthplaces = {
         "Id": 7.492,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Templeshambo (Wexford)",
-        "Last Name": "Hanrahan",
+        "lastName": "Hanrahan",
         "dateOfBirth": "10/21/1831",
         "showOnMap": false
       },
@@ -11815,7 +11815,7 @@ var birthplaces = {
         "Id": 7.493,
         "yearOfBirth": 1835.0,
         "Place of Birth": "Noci (Bari)",
-        "Last Name": "Mandoj",
+        "lastName": "Mandoj",
         "dateOfBirth": "09/25/1835",
         "showOnMap": false
       },
@@ -11833,7 +11833,7 @@ var birthplaces = {
         "Id": 7.494,
         "yearOfBirth": 1813.0,
         "Place of Birth": "Ostbevern (Westfalen)",
-        "Last Name": "Akotter",
+        "lastName": "Akotter",
         "dateOfBirth": "08/20/1813",
         "showOnMap": false
       },
@@ -11851,7 +11851,7 @@ var birthplaces = {
         "Id": 7.495,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Popayan (Cauca)",
-        "Last Name": "Velasco",
+        "lastName": "Velasco",
         "dateOfBirth": "04/17/1834",
         "showOnMap": false
       },
@@ -11869,7 +11869,7 @@ var birthplaces = {
         "Id": 7.496,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Offet (Liege)",
-        "Last Name": "Bresmal",
+        "lastName": "Bresmal",
         "dateOfBirth": "03/17/1817",
         "showOnMap": false
       },
@@ -11887,7 +11887,7 @@ var birthplaces = {
         "Id": 7.497,
         "yearOfBirth": 1870.0,
         "Place of Birth": "Sao Leopoldo (a Porto Alegre)",
-        "Last Name": "Kroff",
+        "lastName": "Kroff",
         "dateOfBirth": "11/03/1870",
         "showOnMap": false
       },
@@ -11905,7 +11905,7 @@ var birthplaces = {
         "Id": 7.498,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Felanitx (Mallorca)",
-        "Last Name": "Jusama",
+        "lastName": "Jusama",
         "dateOfBirth": "10/16/1817",
         "showOnMap": false
       },
@@ -11923,7 +11923,7 @@ var birthplaces = {
         "Id": 7.499,
         "yearOfBirth": 1811.0,
         "Place of Birth": "Broechem (Anvers)",
-        "Last Name": "De Pooter",
+        "lastName": "De Pooter",
         "dateOfBirth": "03/03/1811",
         "showOnMap": false
       },
@@ -11941,7 +11941,7 @@ var birthplaces = {
         "Id": 7.5,
         "yearOfBirth": 1850.0,
         "Place of Birth": "Pobla de Montornes (Tarragona)",
-        "Last Name": "Requesens",
+        "lastName": "Requesens",
         "dateOfBirth": "11/24/1850",
         "showOnMap": false
       },
@@ -11959,7 +11959,7 @@ var birthplaces = {
         "Id": 7.501,
         "yearOfBirth": 1860.0,
         "Place of Birth": "Paderborn (Westfalen)",
-        "Last Name": "Gotte",
+        "lastName": "Gotte",
         "dateOfBirth": "10/15/1860",
         "showOnMap": false
       },
@@ -11977,7 +11977,7 @@ var birthplaces = {
         "Id": 7.502,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Berberana (Burgos)",
-        "Last Name": "de Ayala",
+        "lastName": "de Ayala",
         "dateOfBirth": "05/27/1823",
         "showOnMap": false
       },
@@ -11995,7 +11995,7 @@ var birthplaces = {
         "Id": 7.503,
         "yearOfBirth": 1842.0,
         "Place of Birth": "Velke Mezirice (Morava)",
-        "Last Name": "Prihoda",
+        "lastName": "Prihoda",
         "dateOfBirth": "09/21/1842",
         "showOnMap": false
       },
@@ -12013,7 +12013,7 @@ var birthplaces = {
         "Id": 7.504,
         "yearOfBirth": 1835.0,
         "Place of Birth": "Victoria (Alava)",
-        "Last Name": "de Unzueta",
+        "lastName": "de Unzueta",
         "dateOfBirth": "01/24/1835",
         "showOnMap": false
       },
@@ -12031,7 +12031,7 @@ var birthplaces = {
         "Id": 7.505,
         "yearOfBirth": 1832.0,
         "Place of Birth": "Trento",
-        "Last Name": "Costa",
+        "lastName": "Costa",
         "dateOfBirth": "08/11/1832",
         "showOnMap": false
       },
@@ -12049,7 +12049,7 @@ var birthplaces = {
         "Id": 7.506,
         "yearOfBirth": 1812.0,
         "Place of Birth": "Siviriez (Fribourg)",
-        "Last Name": "Menetrey",
+        "lastName": "Menetrey",
         "dateOfBirth": "11/28/1812",
         "showOnMap": false
       },
@@ -12067,7 +12067,7 @@ var birthplaces = {
         "Id": 7.507,
         "yearOfBirth": 1845.0,
         "Place of Birth": "Aachen",
-        "Last Name": "Hover",
+        "lastName": "Hover",
         "dateOfBirth": "03/19/1845",
         "showOnMap": false
       },
@@ -12085,7 +12085,7 @@ var birthplaces = {
         "Id": 7.508,
         "yearOfBirth": 1812.0,
         "Place of Birth": "Amberg (Bayern)",
-        "Last Name": "Fritsch",
+        "lastName": "Fritsch",
         "dateOfBirth": "02/15/1812",
         "showOnMap": false
       },
@@ -12103,7 +12103,7 @@ var birthplaces = {
         "Id": 7.509,
         "yearOfBirth": 1830.0,
         "Place of Birth": "Fleury (Yonne)",
-        "Last Name": "Lory",
+        "lastName": "Lory",
         "dateOfBirth": "04/25/1830",
         "showOnMap": false
       },
@@ -12121,7 +12121,7 @@ var birthplaces = {
         "Id": 7.51,
         "yearOfBirth": 1832.0,
         "Place of Birth": "Angers",
-        "Last Name": "Marsille",
+        "lastName": "Marsille",
         "dateOfBirth": "06/02/1832",
         "showOnMap": false
       },
@@ -12139,7 +12139,7 @@ var birthplaces = {
         "Id": 7.511,
         "yearOfBirth": 1817.0,
         "Place of Birth": "London",
-        "Last Name": "Christie",
+        "lastName": "Christie",
         "dateOfBirth": "12/18/1817",
         "showOnMap": false
       },
@@ -12157,7 +12157,7 @@ var birthplaces = {
         "Id": 7.512,
         "yearOfBirth": 1843.0,
         "Place of Birth": "Bogota",
-        "Last Name": "Urdaneta",
+        "lastName": "Urdaneta",
         "dateOfBirth": "05/03/1843",
         "showOnMap": false
       },
@@ -12175,7 +12175,7 @@ var birthplaces = {
         "Id": 7.513,
         "yearOfBirth": 1863.0,
         "Place of Birth": "Bridgton, Mo",
-        "Last Name": "Perou",
+        "lastName": "Perou",
         "dateOfBirth": "10/06/1863",
         "showOnMap": false
       },
@@ -12193,7 +12193,7 @@ var birthplaces = {
         "Id": 7.514,
         "yearOfBirth": 1837.0,
         "Place of Birth": "Paris",
-        "Last Name": "d'Aage",
+        "lastName": "d'Aage",
         "dateOfBirth": "11/18/1837",
         "showOnMap": false
       },
@@ -12211,7 +12211,7 @@ var birthplaces = {
         "Id": 7.515,
         "yearOfBirth": 1839.0,
         "Place of Birth": "Tarare (Rhone)",
-        "Last Name": "Bordanove",
+        "lastName": "Bordanove",
         "dateOfBirth": "08/27/1839",
         "showOnMap": false
       },
@@ -12229,7 +12229,7 @@ var birthplaces = {
         "Id": 7.516,
         "yearOfBirth": 1857.0,
         "Place of Birth": "Tivoli (Roma)",
-        "Last Name": "Rosati",
+        "lastName": "Rosati",
         "dateOfBirth": "02/23/1857",
         "showOnMap": false
       },
@@ -12247,7 +12247,7 @@ var birthplaces = {
         "Id": 7.517,
         "yearOfBirth": 1863.0,
         "Place of Birth": "Nieuwerkerken (Fl Or)",
-        "Last Name": "Vanden Abele",
+        "lastName": "Vanden Abele",
         "dateOfBirth": "09/02/1863",
         "showOnMap": false
       },
@@ -12265,7 +12265,7 @@ var birthplaces = {
         "Id": 7.518,
         "yearOfBirth": 1829.0,
         "Place of Birth": "Utracht",
-        "Last Name": "Maas",
+        "lastName": "Maas",
         "dateOfBirth": "02/13/1829",
         "showOnMap": false
       },
@@ -12283,7 +12283,7 @@ var birthplaces = {
         "Id": 7.519,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Cieza (Murcia)",
-        "Last Name": "Morote",
+        "lastName": "Morote",
         "dateOfBirth": "05/31/1831",
         "showOnMap": false
       },
@@ -12301,7 +12301,7 @@ var birthplaces = {
         "Id": 7.52,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Piverone (Torino)",
-        "Last Name": "Brunengo",
+        "lastName": "Brunengo",
         "dateOfBirth": "01/12/1821",
         "showOnMap": false
       },
@@ -12319,7 +12319,7 @@ var birthplaces = {
         "Id": 7.521,
         "yearOfBirth": 1828.0,
         "Place of Birth": "Wernsdorf u Hrobu (Cechy)",
-        "Last Name": "Mende",
+        "lastName": "Mende",
         "dateOfBirth": "04/20/1828",
         "showOnMap": false
       },
@@ -12337,7 +12337,7 @@ var birthplaces = {
         "Id": 7.522,
         "yearOfBirth": 1844.0,
         "Place of Birth": "Sligo",
-        "Last Name": "Burke",
+        "lastName": "Burke",
         "dateOfBirth": "06/08/1844",
         "showOnMap": false
       },
@@ -12355,7 +12355,7 @@ var birthplaces = {
         "Id": 7.523,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Ette pr Rheina, Westfalen",
-        "Last Name": "Engbert",
+        "lastName": "Engbert",
         "dateOfBirth": "08/08/1826",
         "showOnMap": false
       },
@@ -12373,7 +12373,7 @@ var birthplaces = {
         "Id": 7.524,
         "yearOfBirth": 1841.0,
         "Place of Birth": "Trento",
-        "Last Name": "Manci",
+        "lastName": "Manci",
         "dateOfBirth": "04/18/1841",
         "showOnMap": false
       },
@@ -12391,7 +12391,7 @@ var birthplaces = {
         "Id": 7.525,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Ballyragget (Kilkenny)",
-        "Last Name": "Dowling",
+        "lastName": "Dowling",
         "dateOfBirth": "12/26/1817",
         "showOnMap": false
       },
@@ -12409,7 +12409,7 @@ var birthplaces = {
         "Id": 7.526,
         "yearOfBirth": 1833.0,
         "Place of Birth": "Gerb\u00ef\u00bf\u00bdviller (Meurthe)",
-        "Last Name": "Pfister",
+        "lastName": "Pfister",
         "dateOfBirth": "04/24/1833",
         "showOnMap": false
       },
@@ -12427,7 +12427,7 @@ var birthplaces = {
         "Id": 7.527,
         "yearOfBirth": 1865.0,
         "Place of Birth": "Wodzis?aw ?l?ski, Kat.",
-        "Last Name": "Brzezak",
+        "lastName": "Brzezak",
         "dateOfBirth": "03/27/1865",
         "showOnMap": false
       },
@@ -12445,7 +12445,7 @@ var birthplaces = {
         "Id": 7.528,
         "yearOfBirth": 1865.0,
         "Place of Birth": "Poueyferr\u00ef\u00bf\u00bd (H-Pyr\u00ef\u00bf\u00bdn\u00ef\u00bf\u00bdes)",
-        "Last Name": "Lag\u00ef\u00bf\u00bdes",
+        "lastName": "Lag\u00ef\u00bf\u00bdes",
         "dateOfBirth": "06/21/1865",
         "showOnMap": false
       },
@@ -12463,7 +12463,7 @@ var birthplaces = {
         "Id": 7.529,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Jaros?aw, Rzesz",
-        "Last Name": "M\u00ef\u00bf\u00bdller",
+        "lastName": "M\u00ef\u00bf\u00bdller",
         "dateOfBirth": "04/26/1821",
         "showOnMap": false
       },
@@ -12481,7 +12481,7 @@ var birthplaces = {
         "Id": 7.53,
         "yearOfBirth": 1811.0,
         "Place of Birth": "Menzingen (Zug)",
-        "Last Name": "Staub",
+        "lastName": "Staub",
         "dateOfBirth": "04/29/1811",
         "showOnMap": false
       },
@@ -12499,7 +12499,7 @@ var birthplaces = {
         "Id": 7.531,
         "yearOfBirth": 1840.0,
         "Place of Birth": "San Severino (Macerata)",
-        "Last Name": "Servanzi",
+        "lastName": "Servanzi",
         "dateOfBirth": "08/20/1840",
         "showOnMap": false
       },
@@ -12517,7 +12517,7 @@ var birthplaces = {
         "Id": 7.532,
         "yearOfBirth": 1867.0,
         "Place of Birth": "Rumillies (Hainaut)",
-        "Last Name": "Willaumez",
+        "lastName": "Willaumez",
         "dateOfBirth": "04/16/1867",
         "showOnMap": false
       },
@@ -12535,7 +12535,7 @@ var birthplaces = {
         "Id": 7.533,
         "yearOfBirth": 1858.0,
         "Place of Birth": "St-Brieux (C\u00ef\u00bf\u00bdtes-du-N)",
-        "Last Name": "de la Tribonni\u00ef\u00bf\u00bdre",
+        "lastName": "de la Tribonni\u00ef\u00bf\u00bdre",
         "dateOfBirth": "01/02/1858",
         "showOnMap": false
       },
@@ -12553,7 +12553,7 @@ var birthplaces = {
         "Id": 7.534,
         "yearOfBirth": 1813.0,
         "Place of Birth": "Bezinghem (Pas-d-C)",
-        "Last Name": "Sergeant",
+        "lastName": "Sergeant",
         "dateOfBirth": "01/14/1813",
         "showOnMap": false
       },
@@ -12571,7 +12571,7 @@ var birthplaces = {
         "Id": 7.535,
         "yearOfBirth": 1860.0,
         "Place of Birth": "Dohan (Luxembourg)",
-        "Last Name": "Goffin",
+        "lastName": "Goffin",
         "dateOfBirth": "06/11/1860",
         "showOnMap": false
       },
@@ -12589,7 +12589,7 @@ var birthplaces = {
         "Id": 7.536,
         "yearOfBirth": 1827.0,
         "Place of Birth": "La Tour-du-Pin (Is\u00ef\u00bf\u00bdre)",
-        "Last Name": "de Ren\u00ef\u00bf\u00bdville",
+        "lastName": "de Ren\u00ef\u00bf\u00bdville",
         "dateOfBirth": "08/06/1827",
         "showOnMap": false
       },
@@ -12607,7 +12607,7 @@ var birthplaces = {
         "Id": 7.537,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Venray (Limburg)",
-        "Last Name": "van de Rijdt",
+        "lastName": "van de Rijdt",
         "dateOfBirth": "06/24/1822",
         "showOnMap": false
       },
@@ -12625,7 +12625,7 @@ var birthplaces = {
         "Id": 7.539,
         "yearOfBirth": 1816.0,
         "Place of Birth": "Lucca",
-        "Last Name": "Bianchini",
+        "lastName": "Bianchini",
         "dateOfBirth": "09/26/1816",
         "showOnMap": false
       },
@@ -12643,7 +12643,7 @@ var birthplaces = {
         "Id": 7.54,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Le Cheylard (Ard\u00ef\u00bf\u00bdche)",
-        "Last Name": "Terrier",
+        "lastName": "Terrier",
         "dateOfBirth": "12/08/1820",
         "showOnMap": false
       },
@@ -12661,7 +12661,7 @@ var birthplaces = {
         "Id": 7.541,
         "yearOfBirth": 1862.0,
         "Place of Birth": "Pomigliano d'Arco (Napoli)",
-        "Last Name": "Capone",
+        "lastName": "Capone",
         "dateOfBirth": "12/31/1862",
         "showOnMap": false
       },
@@ -12679,7 +12679,7 @@ var birthplaces = {
         "Id": 7.542,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Vught (N-Brabant)",
-        "Last Name": "van der Heijden",
+        "lastName": "van der Heijden",
         "dateOfBirth": "01/25/1825",
         "showOnMap": false
       },
@@ -12697,7 +12697,7 @@ var birthplaces = {
         "Id": 7.543,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Magny-Cours (Ni\u00ef\u00bf\u00bdvre)",
-        "Last Name": "Gestat",
+        "lastName": "Gestat",
         "dateOfBirth": "09/16/1831",
         "showOnMap": false
       },
@@ -12715,7 +12715,7 @@ var birthplaces = {
         "Id": 7.544,
         "yearOfBirth": 1853.0,
         "Place of Birth": "Marign\u00ef\u00bf\u00bd (Sarthe)",
-        "Last Name": "Blin",
+        "lastName": "Blin",
         "dateOfBirth": "11/14/1853",
         "showOnMap": false
       },
@@ -12733,7 +12733,7 @@ var birthplaces = {
         "Id": 7.545,
         "yearOfBirth": 1811.0,
         "Place of Birth": "Nikmegen",
-        "Last Name": "Arntz",
+        "lastName": "Arntz",
         "dateOfBirth": "08/03/1811",
         "showOnMap": false
       },
@@ -12751,7 +12751,7 @@ var birthplaces = {
         "Id": 7.546,
         "yearOfBirth": 1859.0,
         "Place of Birth": "Tarragona",
-        "Last Name": "Alt\u00ef\u00bf\u00bds",
+        "lastName": "Alt\u00ef\u00bf\u00bds",
         "dateOfBirth": "03/25/1859",
         "showOnMap": false
       },
@@ -12769,7 +12769,7 @@ var birthplaces = {
         "Id": 7.548,
         "yearOfBirth": 1862.0,
         "Place of Birth": "Vh\u00ef\u00bf\u00bd (Cremona)",
-        "Last Name": "Bona",
+        "lastName": "Bona",
         "dateOfBirth": "08/05/1862",
         "showOnMap": false
       },
@@ -12787,7 +12787,7 @@ var birthplaces = {
         "Id": 7.549,
         "yearOfBirth": 1841.0,
         "Place of Birth": "Anvers",
-        "Last Name": "Servais",
+        "lastName": "Servais",
         "dateOfBirth": "04/15/1841",
         "showOnMap": false
       },
@@ -12805,7 +12805,7 @@ var birthplaces = {
         "Id": 7.55,
         "yearOfBirth": 1819.0,
         "Place of Birth": "Philadelphia",
-        "Last Name": "Duddy",
+        "lastName": "Duddy",
         "dateOfBirth": "04/06/1819",
         "showOnMap": false
       },
@@ -12823,7 +12823,7 @@ var birthplaces = {
         "Id": 7.551,
         "yearOfBirth": 1871.0,
         "Place of Birth": "Preston",
-        "Last Name": "Nickson",
+        "lastName": "Nickson",
         "dateOfBirth": "07/08/1871",
         "showOnMap": false
       },
@@ -12841,7 +12841,7 @@ var birthplaces = {
         "Id": 7.552,
         "yearOfBirth": 1855.0,
         "Place of Birth": "Pettenasco (Novara)",
-        "Last Name": "Fortis",
+        "lastName": "Fortis",
         "dateOfBirth": "10/30/1855",
         "showOnMap": false
       },
@@ -12859,7 +12859,7 @@ var birthplaces = {
         "Id": 7.553,
         "yearOfBirth": 1867.0,
         "Place of Birth": "Mikulicze, Bia?",
-        "Last Name": "Dobrza?ski",
+        "lastName": "Dobrza?ski",
         "dateOfBirth": "02/10/1867",
         "showOnMap": false
       },
@@ -12877,7 +12877,7 @@ var birthplaces = {
         "Id": 7.554,
         "yearOfBirth": 1869.0,
         "Place of Birth": "Carelles (Mayenne)",
-        "Last Name": "Fouilleul",
+        "lastName": "Fouilleul",
         "dateOfBirth": "08/16/1869",
         "showOnMap": false
       },
@@ -12895,7 +12895,7 @@ var birthplaces = {
         "Id": 7.555,
         "yearOfBirth": 1838.0,
         "Place of Birth": "Vich",
-        "Last Name": "Galobardes",
+        "lastName": "Galobardes",
         "dateOfBirth": "03/29/1838",
         "showOnMap": false
       },
@@ -12913,7 +12913,7 @@ var birthplaces = {
         "Id": 7.556,
         "yearOfBirth": 1810.0,
         "Place of Birth": "Liverpool",
-        "Last Name": "Clough",
+        "lastName": "Clough",
         "dateOfBirth": "03/25/1810",
         "showOnMap": false
       },
@@ -12931,7 +12931,7 @@ var birthplaces = {
         "Id": 7.557,
         "yearOfBirth": 1841.0,
         "Place of Birth": "Aachen",
-        "Last Name": "Fibus",
+        "lastName": "Fibus",
         "dateOfBirth": "03/17/1841",
         "showOnMap": false
       },
@@ -12949,7 +12949,7 @@ var birthplaces = {
         "Id": 7.558,
         "yearOfBirth": 1814.0,
         "Place of Birth": "Villanueva y Geltr\u00ef\u00bf\u00bd (Barcelona)",
-        "Last Name": "Tusqu\u00ef\u00bf\u00bdts",
+        "lastName": "Tusqu\u00ef\u00bf\u00bdts",
         "dateOfBirth": "03/29/1814",
         "showOnMap": false
       },
@@ -12967,7 +12967,7 @@ var birthplaces = {
         "Id": 7.559,
         "yearOfBirth": 1816.0,
         "Place of Birth": "Limoux (Aude)",
-        "Last Name": "Tailhan",
+        "lastName": "Tailhan",
         "dateOfBirth": "01/16/1816",
         "showOnMap": false
       },
@@ -12985,7 +12985,7 @@ var birthplaces = {
         "Id": 7.56,
         "yearOfBirth": 1829.0,
         "Place of Birth": "Hochemmingen (Baden)",
-        "Last Name": "Frank",
+        "lastName": "Frank",
         "dateOfBirth": "03/23/1829",
         "showOnMap": false
       },
@@ -13003,7 +13003,7 @@ var birthplaces = {
         "Id": 7.561,
         "yearOfBirth": 1848.0,
         "Place of Birth": "Rheinberg (Rheinland)",
-        "Last Name": "Heidenreich",
+        "lastName": "Heidenreich",
         "dateOfBirth": "03/13/1848",
         "showOnMap": false
       },
@@ -13021,7 +13021,7 @@ var birthplaces = {
         "Id": 7.562,
         "yearOfBirth": 1834.0,
         "Place of Birth": "La Ribeyre (Puy-de-D)",
-        "Last Name": "Lafarge",
+        "lastName": "Lafarge",
         "dateOfBirth": "05/20/1834",
         "showOnMap": false
       },
@@ -13039,7 +13039,7 @@ var birthplaces = {
         "Id": 7.563,
         "yearOfBirth": 1857.0,
         "Place of Birth": "Lustenau (Vorarlberg)",
-        "Last Name": "Riedmann",
+        "lastName": "Riedmann",
         "dateOfBirth": "03/13/1857",
         "showOnMap": false
       },
@@ -13057,7 +13057,7 @@ var birthplaces = {
         "Id": 7.564,
         "yearOfBirth": 1819.0,
         "Place of Birth": "Malvalette (H-Loire)",
-        "Last Name": "Petiot",
+        "lastName": "Petiot",
         "dateOfBirth": "11/03/1819",
         "showOnMap": false
       },
@@ -13075,7 +13075,7 @@ var birthplaces = {
         "Id": 7.565,
         "yearOfBirth": 1866.0,
         "Place of Birth": "New York",
-        "Last Name": "Holden",
+        "lastName": "Holden",
         "dateOfBirth": "09/26/1866",
         "showOnMap": false
       },
@@ -13093,7 +13093,7 @@ var birthplaces = {
         "Id": 7.566,
         "yearOfBirth": 1858.0,
         "Place of Birth": "Boston",
-        "Last Name": "Lamb",
+        "lastName": "Lamb",
         "dateOfBirth": "07/03/1858",
         "showOnMap": false
       },
@@ -13111,7 +13111,7 @@ var birthplaces = {
         "Id": 7.567,
         "yearOfBirth": 1869.0,
         "Place of Birth": "Jersey City",
-        "Last Name": "Waters",
+        "lastName": "Waters",
         "dateOfBirth": "06/28/1869",
         "showOnMap": false
       },
@@ -13129,7 +13129,7 @@ var birthplaces = {
         "Id": 7.568,
         "yearOfBirth": 1848.0,
         "Place of Birth": "Barcelona",
-        "Last Name": "Murgadas",
+        "lastName": "Murgadas",
         "dateOfBirth": "07/27/1848",
         "showOnMap": false
       },
@@ -13147,7 +13147,7 @@ var birthplaces = {
         "Id": 7.569,
         "yearOfBirth": 1810.0,
         "Place of Birth": "Neuville-sur-L'Escaut (Nord)",
-        "Last Name": "F\u00ef\u00bf\u00bdlix",
+        "lastName": "F\u00ef\u00bf\u00bdlix",
         "dateOfBirth": "06/28/1810",
         "showOnMap": false
       },
@@ -13165,7 +13165,7 @@ var birthplaces = {
         "Id": 7.57,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Dornbirn (Vorarlberg)",
-        "Last Name": "M\u00ef\u00bf\u00bdser",
+        "lastName": "M\u00ef\u00bf\u00bdser",
         "dateOfBirth": "12/21/1827",
         "showOnMap": false
       },
@@ -13183,7 +13183,7 @@ var birthplaces = {
         "Id": 7.571,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Roma",
-        "Last Name": "Lavaggi",
+        "lastName": "Lavaggi",
         "dateOfBirth": "11/14/1822",
         "showOnMap": false
       },
@@ -13201,7 +13201,7 @@ var birthplaces = {
         "Id": 7.572,
         "yearOfBirth": 1836.0,
         "Place of Birth": "Framerville (Somme)",
-        "Last Name": "Bary",
+        "lastName": "Bary",
         "dateOfBirth": "12/28/1836",
         "showOnMap": false
       },
@@ -13219,7 +13219,7 @@ var birthplaces = {
         "Id": 7.573,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Sant'Elpidio a Mare (Ascoli)",
-        "Last Name": "Petrocchi",
+        "lastName": "Petrocchi",
         "dateOfBirth": "01/18/1826",
         "showOnMap": false
       },
@@ -13237,7 +13237,7 @@ var birthplaces = {
         "Id": 7.574,
         "yearOfBirth": 1824.0,
         "Place of Birth": "*Dunbell (Kilkenny)",
-        "Last Name": "Whyte",
+        "lastName": "Whyte",
         "dateOfBirth": "11/17/1824",
         "showOnMap": false
       },
@@ -13255,7 +13255,7 @@ var birthplaces = {
         "Id": 7.575,
         "yearOfBirth": 1830.0,
         "Place of Birth": "Roma",
-        "Last Name": "Capparoni",
+        "lastName": "Capparoni",
         "dateOfBirth": "05/23/1830",
         "showOnMap": false
       },
@@ -13273,7 +13273,7 @@ var birthplaces = {
         "Id": 7.576,
         "yearOfBirth": 1812.0,
         "Place of Birth": "Legnago (Verona)",
-        "Last Name": "Canuti",
+        "lastName": "Canuti",
         "dateOfBirth": "12/30/1812",
         "showOnMap": false
       },
@@ -13291,7 +13291,7 @@ var birthplaces = {
         "Id": 7.577,
         "yearOfBirth": 1862.0,
         "Place of Birth": "Cenate S. Martino (Bergamo)",
-        "Last Name": "Patelli",
+        "lastName": "Patelli",
         "dateOfBirth": "12/22/1862",
         "showOnMap": false
       },
@@ -13309,7 +13309,7 @@ var birthplaces = {
         "Id": 7.578,
         "yearOfBirth": 1851.0,
         "Place of Birth": "Bezvodna (Grodno, USSR)",
-        "Last Name": "Twardowski",
+        "lastName": "Twardowski",
         "dateOfBirth": "09/07/1851",
         "showOnMap": false
       },
@@ -13327,7 +13327,7 @@ var birthplaces = {
         "Id": 7.579,
         "yearOfBirth": 1852.0,
         "Place of Birth": "Falknov (Cechy)",
-        "Last Name": "Michalko",
+        "lastName": "Michalko",
         "dateOfBirth": "10/12/1852",
         "showOnMap": false
       },
@@ -13345,7 +13345,7 @@ var birthplaces = {
         "Id": 7.58,
         "yearOfBirth": 1808.0,
         "Place of Birth": "Church Bank pr Blackburn (Lancashire)",
-        "Last Name": "Holden",
+        "lastName": "Holden",
         "dateOfBirth": "03/09/1808",
         "showOnMap": false
       },
@@ -13363,7 +13363,7 @@ var birthplaces = {
         "Id": 7.581,
         "yearOfBirth": 1833.0,
         "Place of Birth": "Faenza (Ravenna)",
-        "Last Name": "Ghetti",
+        "lastName": "Ghetti",
         "dateOfBirth": "12/26/1833",
         "showOnMap": false
       },
@@ -13381,7 +13381,7 @@ var birthplaces = {
         "Id": 7.582,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Angers",
-        "Last Name": "Ravary",
+        "lastName": "Ravary",
         "dateOfBirth": "01/27/1823",
         "showOnMap": false
       },
@@ -13399,7 +13399,7 @@ var birthplaces = {
         "Id": 7.583,
         "yearOfBirth": 1814.0,
         "Place of Birth": "Ametll\u00ef\u00bf\u00bd (Barcelona)",
-        "Last Name": "Jofr\u00ef\u00bf\u00bd",
+        "lastName": "Jofr\u00ef\u00bf\u00bd",
         "dateOfBirth": "01/02/1814",
         "showOnMap": false
       },
@@ -13417,7 +13417,7 @@ var birthplaces = {
         "Id": 7.584,
         "yearOfBirth": 1829.0,
         "Place of Birth": "Zupaquir\u00ef\u00bf\u00bd (Cundinamar)",
-        "Last Name": "Silva",
+        "lastName": "Silva",
         "dateOfBirth": "04/27/1829",
         "showOnMap": false
       },
@@ -13435,7 +13435,7 @@ var birthplaces = {
         "Id": 7.585,
         "yearOfBirth": 1872.0,
         "Place of Birth": "Solarolo (Ravenna)",
-        "Last Name": "Randi",
+        "lastName": "Randi",
         "dateOfBirth": "02/02/1872",
         "showOnMap": false
       },
@@ -13453,7 +13453,7 @@ var birthplaces = {
         "Id": 7.587,
         "yearOfBirth": 1849.0,
         "Place of Birth": "*Av\u00ef\u00bf\u00bdz (Pernambuco)",
-        "Last Name": "Cortez",
+        "lastName": "Cortez",
         "dateOfBirth": "05/22/1849",
         "showOnMap": false
       },
@@ -13471,7 +13471,7 @@ var birthplaces = {
         "Id": 7.588,
         "yearOfBirth": 1838.0,
         "Place of Birth": "Amsterdam",
-        "Last Name": "van Meurs",
+        "lastName": "van Meurs",
         "dateOfBirth": "02/18/1838",
         "showOnMap": false
       },
@@ -13489,7 +13489,7 @@ var birthplaces = {
         "Id": 7.589,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Venlo (Limburg)",
-        "Last Name": "Opdenoordt",
+        "lastName": "Opdenoordt",
         "dateOfBirth": "08/28/1820",
         "showOnMap": false
       },
@@ -13507,7 +13507,7 @@ var birthplaces = {
         "Id": 7.59,
         "yearOfBirth": 1843.0,
         "Place of Birth": "Herrera de Pisuerga (Palencia)",
-        "Last Name": "Mart\u00ef\u00bf\u00bdn",
+        "lastName": "Mart\u00ef\u00bf\u00bdn",
         "dateOfBirth": "02/16/1843",
         "showOnMap": false
       },
@@ -13525,7 +13525,7 @@ var birthplaces = {
         "Id": 7.591,
         "yearOfBirth": 1848.0,
         "Place of Birth": "Triesen (Liechtenstein)",
-        "Last Name": "Nigg",
+        "lastName": "Nigg",
         "dateOfBirth": "02/16/1848",
         "showOnMap": false
       },
@@ -13543,7 +13543,7 @@ var birthplaces = {
         "Id": 7.592,
         "yearOfBirth": 1836.0,
         "Place of Birth": "Ab\u00ef\u00bf\u00bdrzuza (Navarra)",
-        "Last Name": "Mazquiar\u00ef\u00bf\u00bdn",
+        "lastName": "Mazquiar\u00ef\u00bf\u00bdn",
         "dateOfBirth": "04/01/1836",
         "showOnMap": false
       },
@@ -13561,7 +13561,7 @@ var birthplaces = {
         "Id": 7.593,
         "yearOfBirth": 1841.0,
         "Place of Birth": "K\u00ef\u00bf\u00bdln",
-        "Last Name": "Schumacher",
+        "lastName": "Schumacher",
         "dateOfBirth": "02/24/1841",
         "showOnMap": false
       },
@@ -13579,7 +13579,7 @@ var birthplaces = {
         "Id": 7.594,
         "yearOfBirth": 1823.0,
         "Place of Birth": "K\u00ef\u00bf\u00bdszeg (Vas)",
-        "Last Name": "Free",
+        "lastName": "Free",
         "dateOfBirth": "11/10/1823",
         "showOnMap": false
       },
@@ -13597,7 +13597,7 @@ var birthplaces = {
         "Id": 7.595,
         "yearOfBirth": 1819.0,
         "Place of Birth": "Mata de Hoz (Santander)",
-        "Last Name": "Rodr\u00ef\u00bf\u00bdguez",
+        "lastName": "Rodr\u00ef\u00bf\u00bdguez",
         "dateOfBirth": "04/13/1819",
         "showOnMap": false
       },
@@ -13615,7 +13615,7 @@ var birthplaces = {
         "Id": 7.596,
         "yearOfBirth": 1830.0,
         "Place of Birth": "Glenhall (Londonderry)",
-        "Last Name": "O'Kane",
+        "lastName": "O'Kane",
         "dateOfBirth": "05/02/1830",
         "showOnMap": false
       },
@@ -13633,7 +13633,7 @@ var birthplaces = {
         "Id": 7.597,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Les Gets (H-Savoie)",
-        "Last Name": "Anthonioz",
+        "lastName": "Anthonioz",
         "dateOfBirth": "05/10/1822",
         "showOnMap": false
       },
@@ -13651,7 +13651,7 @@ var birthplaces = {
         "Id": 7.598,
         "yearOfBirth": 1818.0,
         "Place of Birth": "S. Antonio de la Patrulla (Rio Gr. do Sul)",
-        "Last Name": "da Silva",
+        "lastName": "da Silva",
         "dateOfBirth": "08/10/1818",
         "showOnMap": false
       },
@@ -13669,7 +13669,7 @@ var birthplaces = {
         "Id": 7.599,
         "yearOfBirth": 1824.0,
         "Place of Birth": "Orvieto (Terni)",
-        "Last Name": "Iraci",
+        "lastName": "Iraci",
         "dateOfBirth": "06/22/1824",
         "showOnMap": false
       },
@@ -13687,7 +13687,7 @@ var birthplaces = {
         "Id": 7.6,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Orvieto (Terni)",
-        "Last Name": "Ficarelli",
+        "lastName": "Ficarelli",
         "dateOfBirth": "07/06/1820",
         "showOnMap": false
       },
@@ -13705,7 +13705,7 @@ var birthplaces = {
         "Id": 7.601,
         "yearOfBirth": 1826.0,
         "Place of Birth": "St Helen's (Lancashire)",
-        "Last Name": "Johnson",
+        "lastName": "Johnson",
         "dateOfBirth": "04/17/1826",
         "showOnMap": false
       },
@@ -13723,7 +13723,7 @@ var birthplaces = {
         "Id": 7.602,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Amsterdam",
-        "Last Name": "Escherich",
+        "lastName": "Escherich",
         "dateOfBirth": "06/15/1817",
         "showOnMap": false
       },
@@ -13741,7 +13741,7 @@ var birthplaces = {
         "Id": 7.603,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Rusch (Dublin)",
-        "Last Name": "Seaver",
+        "lastName": "Seaver",
         "dateOfBirth": "12/22/1825",
         "showOnMap": false
       },
@@ -13759,7 +13759,7 @@ var birthplaces = {
         "Id": 7.604,
         "yearOfBirth": 1837.0,
         "Place of Birth": "Verviers",
-        "Last Name": "Leclerq",
+        "lastName": "Leclerq",
         "dateOfBirth": "11/03/1837",
         "showOnMap": false
       },
@@ -13777,7 +13777,7 @@ var birthplaces = {
         "Id": 7.605,
         "yearOfBirth": 1812.0,
         "Place of Birth": "St-Peter in der Au. N.\u00ef\u00bf\u00bd.",
-        "Last Name": "Hoch",
+        "lastName": "Hoch",
         "dateOfBirth": "01/27/1812",
         "showOnMap": false
       },
@@ -13795,7 +13795,7 @@ var birthplaces = {
         "Id": 7.606,
         "yearOfBirth": 1832.0,
         "Place of Birth": "Pfaffendorf (Rheinland)",
-        "Last Name": "Nicolai",
+        "lastName": "Nicolai",
         "dateOfBirth": "08/09/1832",
         "showOnMap": false
       },
@@ -13813,7 +13813,7 @@ var birthplaces = {
         "Id": 7.607,
         "yearOfBirth": 1844.0,
         "Place of Birth": "Elbeuf (Seine-M)",
-        "Last Name": "Charpentier",
+        "lastName": "Charpentier",
         "dateOfBirth": "09/14/1844",
         "showOnMap": false
       },
@@ -13831,7 +13831,7 @@ var birthplaces = {
         "Id": 7.608,
         "yearOfBirth": 1852.0,
         "Place of Birth": "Dambach (Barr, B-Rhin)",
-        "Last Name": "Meyer",
+        "lastName": "Meyer",
         "dateOfBirth": "02/10/1852",
         "showOnMap": false
       },
@@ -13849,7 +13849,7 @@ var birthplaces = {
         "Id": 7.61,
         "yearOfBirth": 1811.0,
         "Place of Birth": "Dingle (Kerry)",
-        "Last Name": "Sheehy",
+        "lastName": "Sheehy",
         "dateOfBirth": "07/15/1811",
         "showOnMap": false
       },
@@ -13867,7 +13867,7 @@ var birthplaces = {
         "Id": 7.611,
         "yearOfBirth": 1832.0,
         "Place of Birth": "Gonnord (Maine-et-L)",
-        "Last Name": "Cordier",
+        "lastName": "Cordier",
         "dateOfBirth": "11/03/1832",
         "showOnMap": false
       },
@@ -13885,7 +13885,7 @@ var birthplaces = {
         "Id": 7.612,
         "yearOfBirth": 1818.0,
         "Place of Birth": "St-Antelinckx (Fl Or)",
-        "Last Name": "Cobb\u00ef\u00bf\u00bdrt",
+        "lastName": "Cobb\u00ef\u00bf\u00bdrt",
         "dateOfBirth": "01/05/1818",
         "showOnMap": false
       },
@@ -13903,7 +13903,7 @@ var birthplaces = {
         "Id": 7.613,
         "yearOfBirth": 1832.0,
         "Place of Birth": "Larraya (Navarra)",
-        "Last Name": "Astr\u00ef\u00bf\u00bdin",
+        "lastName": "Astr\u00ef\u00bf\u00bdin",
         "dateOfBirth": "02/18/1832",
         "showOnMap": false
       },
@@ -13921,7 +13921,7 @@ var birthplaces = {
         "Id": 7.614,
         "yearOfBirth": 1825.0,
         "Place of Birth": "St-Paul-trois-Ch\u00ef\u00bf\u00bdteaux (Dr\u00ef\u00bf\u00bdme)",
-        "Last Name": "d'Audiffret",
+        "lastName": "d'Audiffret",
         "dateOfBirth": "12/14/1825",
         "showOnMap": false
       },
@@ -13939,7 +13939,7 @@ var birthplaces = {
         "Id": 7.615,
         "yearOfBirth": 1850.0,
         "Place of Birth": "Eupen (Rheinland)",
-        "Last Name": "M\u00ef\u00bf\u00bdllender",
+        "lastName": "M\u00ef\u00bf\u00bdllender",
         "dateOfBirth": "11/01/1850",
         "showOnMap": false
       },
@@ -13957,7 +13957,7 @@ var birthplaces = {
         "Id": 7.616,
         "yearOfBirth": 1816.0,
         "Place of Birth": "Ath (Hainaut)",
-        "Last Name": "Meunier",
+        "lastName": "Meunier",
         "dateOfBirth": "09/02/1816",
         "showOnMap": false
       },
@@ -13975,7 +13975,7 @@ var birthplaces = {
         "Id": 7.617,
         "yearOfBirth": 1848.0,
         "Place of Birth": "Drahotu\u00ef\u00bf\u00bde (Morava)",
-        "Last Name": "Tich\u00ef\u00bf\u00bd",
+        "lastName": "Tich\u00ef\u00bf\u00bd",
         "dateOfBirth": "03/21/1848",
         "showOnMap": false
       },
@@ -13993,7 +13993,7 @@ var birthplaces = {
         "Id": 7.618,
         "yearOfBirth": 1837.0,
         "Place of Birth": "Bury St Edmund's (Suffolk)",
-        "Last Name": "Everard",
+        "lastName": "Everard",
         "dateOfBirth": "03/01/1837",
         "showOnMap": false
       },
@@ -14011,7 +14011,7 @@ var birthplaces = {
         "Id": 7.619,
         "yearOfBirth": 1870.0,
         "Place of Birth": "Mui\u00ef\u00bf\u00bdos (Orense)",
-        "Last Name": "Alvarez Pena",
+        "lastName": "Alvarez Pena",
         "dateOfBirth": "10/17/1870",
         "showOnMap": false
       },
@@ -14029,7 +14029,7 @@ var birthplaces = {
         "Id": 7.62,
         "yearOfBirth": 1815.0,
         "Place of Birth": "Queenstown (Ireland)",
-        "Last Name": "Reardon",
+        "lastName": "Reardon",
         "dateOfBirth": "03/17/1815",
         "showOnMap": false
       },
@@ -14047,7 +14047,7 @@ var birthplaces = {
         "Id": 7.621,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Claudy (Cumber Upper, Derry)",
-        "Last Name": "Dougherty",
+        "lastName": "Dougherty",
         "dateOfBirth": "08/14/1827",
         "showOnMap": false
       },
@@ -14065,7 +14065,7 @@ var birthplaces = {
         "Id": 7.622,
         "yearOfBirth": 1842.0,
         "Place of Birth": "Haus (Steiermark)",
-        "Last Name": "Eberl",
+        "lastName": "Eberl",
         "dateOfBirth": "10/15/1842",
         "showOnMap": false
       },
@@ -14083,7 +14083,7 @@ var birthplaces = {
         "Id": 7.623,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Strasbourg",
-        "Last Name": "Modeste",
+        "lastName": "Modeste",
         "dateOfBirth": "01/10/1821",
         "showOnMap": false
       },
@@ -14101,7 +14101,7 @@ var birthplaces = {
         "Id": 7.624,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Haguenau (B-Rhin)",
-        "Last Name": "Sucher",
+        "lastName": "Sucher",
         "dateOfBirth": "05/07/1821",
         "showOnMap": false
       },
@@ -14119,7 +14119,7 @@ var birthplaces = {
         "Id": 7.625,
         "yearOfBirth": 1867.0,
         "Place of Birth": "La Louvesc (Ard\u00ef\u00bf\u00bdche)",
-        "Last Name": "Buisson",
+        "lastName": "Buisson",
         "dateOfBirth": "05/28/1867",
         "showOnMap": false
       },
@@ -14137,7 +14137,7 @@ var birthplaces = {
         "Id": 7.626,
         "yearOfBirth": 1840.0,
         "Place of Birth": "Palermo",
-        "Last Name": "Brugn\u00ef\u00bf\u00bd",
+        "lastName": "Brugn\u00ef\u00bf\u00bd",
         "dateOfBirth": "01/16/1840",
         "showOnMap": false
       },
@@ -14155,7 +14155,7 @@ var birthplaces = {
         "Id": 7.627,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Valletta",
-        "Last Name": "Borg",
+        "lastName": "Borg",
         "dateOfBirth": "02/05/1827",
         "showOnMap": false
       },
@@ -14173,7 +14173,7 @@ var birthplaces = {
         "Id": 7.628,
         "yearOfBirth": 1868.0,
         "Place of Birth": "Brinay (Ni\u00ef\u00bf\u00bdvre)",
-        "Last Name": "Grenouille",
+        "lastName": "Grenouille",
         "dateOfBirth": "12/01/1868",
         "showOnMap": false
       },
@@ -14191,7 +14191,7 @@ var birthplaces = {
         "Id": 7.629,
         "yearOfBirth": 1814.0,
         "Place of Birth": "Tarata (Udine)",
-        "Last Name": "Banchich",
+        "lastName": "Banchich",
         "dateOfBirth": "10/17/1814",
         "showOnMap": false
       },
@@ -14209,7 +14209,7 @@ var birthplaces = {
         "Id": 7.63,
         "yearOfBirth": 1835.0,
         "Place of Birth": "Avallon (Yonne)",
-        "Last Name": "Gagniard",
+        "lastName": "Gagniard",
         "dateOfBirth": "09/22/1835",
         "showOnMap": false
       },
@@ -14227,7 +14227,7 @@ var birthplaces = {
         "Id": 7.631,
         "yearOfBirth": 1860.0,
         "Place of Birth": "Vitriola (Modena)",
-        "Last Name": "Prati",
+        "lastName": "Prati",
         "dateOfBirth": "02/10/1860",
         "showOnMap": false
       },
@@ -14245,7 +14245,7 @@ var birthplaces = {
         "Id": 7.632,
         "yearOfBirth": 1818.0,
         "Place of Birth": "Palermo",
-        "Last Name": "Arpa",
+        "lastName": "Arpa",
         "dateOfBirth": "02/22/1818",
         "showOnMap": false
       },
@@ -14263,7 +14263,7 @@ var birthplaces = {
         "Id": 7.633,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Inishcrone (Sligo)",
-        "Last Name": "Kilcullin",
+        "lastName": "Kilcullin",
         "dateOfBirth": "09/14/1823",
         "showOnMap": false
       },
@@ -14281,7 +14281,7 @@ var birthplaces = {
         "Id": 7.634,
         "yearOfBirth": 1818.0,
         "Place of Birth": "Cappy (Somme)",
-        "Last Name": "Vignon",
+        "lastName": "Vignon",
         "dateOfBirth": "09/25/1818",
         "showOnMap": false
       },
@@ -14299,7 +14299,7 @@ var birthplaces = {
         "Id": 7.635,
         "yearOfBirth": 1811.0,
         "Place of Birth": "Berendrecht (Anvers)",
-        "Last Name": "Claessens",
+        "lastName": "Claessens",
         "dateOfBirth": "09/08/1811",
         "showOnMap": false
       },
@@ -14317,7 +14317,7 @@ var birthplaces = {
         "Id": 7.636,
         "yearOfBirth": 1860.0,
         "Place of Birth": "Torre Caietani (Roma)",
-        "Last Name": "Lanzi",
+        "lastName": "Lanzi",
         "dateOfBirth": "09/02/1860",
         "showOnMap": false
       },
@@ -14335,7 +14335,7 @@ var birthplaces = {
         "Id": 7.637,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Kirkham (Lancashire)",
-        "Last Name": "Brindle",
+        "lastName": "Brindle",
         "dateOfBirth": "06/24/1826",
         "showOnMap": false
       },
@@ -14353,7 +14353,7 @@ var birthplaces = {
         "Id": 7.638,
         "yearOfBirth": 1819.0,
         "Place of Birth": "Forl\u00ef\u00bf\u00bd",
-        "Last Name": "Cimatti",
+        "lastName": "Cimatti",
         "dateOfBirth": "08/11/1819",
         "showOnMap": false
       },
@@ -14371,7 +14371,7 @@ var birthplaces = {
         "Id": 7.639,
         "yearOfBirth": 1824.0,
         "Place of Birth": "Trepuzzi (Lecce)",
-        "Last Name": "Miglietta",
+        "lastName": "Miglietta",
         "dateOfBirth": "03/09/1824",
         "showOnMap": false
       },
@@ -14389,7 +14389,7 @@ var birthplaces = {
         "Id": 7.64,
         "yearOfBirth": 1814.0,
         "Place of Birth": "London",
-        "Last Name": "Hathaway",
+        "lastName": "Hathaway",
         "dateOfBirth": "10/03/1814",
         "showOnMap": false
       },
@@ -14407,7 +14407,7 @@ var birthplaces = {
         "Id": 7.641,
         "yearOfBirth": 1868.0,
         "Place of Birth": "Plouguiel (C\u00ef\u00bf\u00bdtes-du-N)",
-        "Last Name": "Rogard",
+        "lastName": "Rogard",
         "dateOfBirth": "11/13/1868",
         "showOnMap": false
       },
@@ -14425,7 +14425,7 @@ var birthplaces = {
         "Id": 7.642,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Napoli",
-        "Last Name": "Negri",
+        "lastName": "Negri",
         "dateOfBirth": "07/11/1822",
         "showOnMap": false
       },
@@ -14443,7 +14443,7 @@ var birthplaces = {
         "Id": 7.643,
         "yearOfBirth": 1805.0,
         "Place of Birth": "Malange (Jura)",
-        "Last Name": "Fiquet",
+        "lastName": "Fiquet",
         "dateOfBirth": "04/04/1805",
         "showOnMap": false
       },
@@ -14461,7 +14461,7 @@ var birthplaces = {
         "Id": 7.644,
         "yearOfBirth": 1854.0,
         "Place of Birth": "Grece, N.Y.",
-        "Last Name": "Kernan",
+        "lastName": "Kernan",
         "dateOfBirth": "06/09/1854",
         "showOnMap": false
       },
@@ -14479,7 +14479,7 @@ var birthplaces = {
         "Id": 7.645,
         "yearOfBirth": 1815.0,
         "Place of Birth": "Bergamo",
-        "Last Name": "Gimpel",
+        "lastName": "Gimpel",
         "dateOfBirth": "05/23/1815",
         "showOnMap": false
       },
@@ -14497,7 +14497,7 @@ var birthplaces = {
         "Id": 7.646,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Bastiglia (Modena)",
-        "Last Name": "Vellani",
+        "lastName": "Vellani",
         "dateOfBirth": "02/28/1822",
         "showOnMap": false
       },
@@ -14515,7 +14515,7 @@ var birthplaces = {
         "Id": 7.647,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Albert (Somme)",
-        "Last Name": "Letierce",
+        "lastName": "Letierce",
         "dateOfBirth": "01/27/1825",
         "showOnMap": false
       },
@@ -14533,7 +14533,7 @@ var birthplaces = {
         "Id": 7.648,
         "yearOfBirth": 1816.0,
         "Place of Birth": "Trebov\u00ef\u00bf\u00bd (Morava)",
-        "Last Name": "D\u00ef\u00bf\u00bdrwanger",
+        "lastName": "D\u00ef\u00bf\u00bdrwanger",
         "dateOfBirth": "11/05/1816",
         "showOnMap": false
       },
@@ -14551,7 +14551,7 @@ var birthplaces = {
         "Id": 7.649,
         "yearOfBirth": 1804.0,
         "Place of Birth": "Recologne (Doubs)",
-        "Last Name": "Jeanjacquot",
+        "lastName": "Jeanjacquot",
         "dateOfBirth": "10/31/1804",
         "showOnMap": false
       },
@@ -14569,7 +14569,7 @@ var birthplaces = {
         "Id": 7.65,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Anvers",
-        "Last Name": "Schermrer",
+        "lastName": "Schermrer",
         "dateOfBirth": "03/15/1834",
         "showOnMap": false
       },
@@ -14587,7 +14587,7 @@ var birthplaces = {
         "Id": 7.651,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Capriglia (Avellino)",
-        "Last Name": "Contursi",
+        "lastName": "Contursi",
         "dateOfBirth": "11/15/1826",
         "showOnMap": false
       },
@@ -14605,7 +14605,7 @@ var birthplaces = {
         "Id": 7.652,
         "yearOfBirth": 1811.0,
         "Place of Birth": "Asseln",
-        "Last Name": "Evers",
+        "lastName": "Evers",
         "dateOfBirth": "04/27/1811",
         "showOnMap": false
       },
@@ -14623,7 +14623,7 @@ var birthplaces = {
         "Id": 7.653,
         "yearOfBirth": 1811.0,
         "Place of Birth": "Astley (Worcester)",
-        "Last Name": "Foley",
+        "lastName": "Foley",
         "dateOfBirth": "08/09/1811",
         "showOnMap": false
       },
@@ -14641,7 +14641,7 @@ var birthplaces = {
         "Id": 7.654,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Demen",
-        "Last Name": "Vervenne",
+        "lastName": "Vervenne",
         "dateOfBirth": "03/10/1834",
         "showOnMap": false
       },
@@ -14659,7 +14659,7 @@ var birthplaces = {
         "Id": 7.655,
         "yearOfBirth": 1832.0,
         "Place of Birth": "Nauort (Hessen-Nassau)",
-        "Last Name": "Thewalt",
+        "lastName": "Thewalt",
         "dateOfBirth": "01/20/1832",
         "showOnMap": false
       },
@@ -14677,7 +14677,7 @@ var birthplaces = {
         "Id": 7.656,
         "yearOfBirth": 1809.0,
         "Place of Birth": "Les Granges Gontardes (Drome)",
-        "Last Name": "Prati",
+        "lastName": "Prati",
         "dateOfBirth": "05/05/1809",
         "showOnMap": false
       },
@@ -14695,7 +14695,7 @@ var birthplaces = {
         "Id": 7.657,
         "yearOfBirth": 1842.0,
         "Place of Birth": "Sineu (Mallorca)",
-        "Last Name": "Rotger",
+        "lastName": "Rotger",
         "dateOfBirth": "12/22/1842",
         "showOnMap": false
       },
@@ -14713,7 +14713,7 @@ var birthplaces = {
         "Id": 7.658,
         "yearOfBirth": 1829.0,
         "Place of Birth": "Port-Louis (Maurice)",
-        "Last Name": "Mallac",
+        "lastName": "Mallac",
         "dateOfBirth": "09/28/1829",
         "showOnMap": false
       },
@@ -14731,7 +14731,7 @@ var birthplaces = {
         "Id": 7.659,
         "yearOfBirth": 1859.0,
         "Place of Birth": "Borja (Zaragoza)",
-        "Last Name": "Gimenez",
+        "lastName": "Gimenez",
         "dateOfBirth": "01/11/1859",
         "showOnMap": false
       },
@@ -14749,7 +14749,7 @@ var birthplaces = {
         "Id": 7.66,
         "yearOfBirth": 1833.0,
         "Place of Birth": "Caltanissetta",
-        "Last Name": "Lunetta",
+        "lastName": "Lunetta",
         "dateOfBirth": "11/17/1833",
         "showOnMap": false
       },
@@ -14767,7 +14767,7 @@ var birthplaces = {
         "Id": 7.661,
         "yearOfBirth": 1856.0,
         "Place of Birth": "Borgerhout (Anvers)",
-        "Last Name": "Van Der Keilen",
+        "lastName": "Van Der Keilen",
         "dateOfBirth": "01/10/1856",
         "showOnMap": false
       },
@@ -14785,7 +14785,7 @@ var birthplaces = {
         "Id": 7.662,
         "yearOfBirth": 1838.0,
         "Place of Birth": "Ploneis (Finistere)",
-        "Last Name": "Quideau",
+        "lastName": "Quideau",
         "dateOfBirth": "11/01/1838",
         "showOnMap": false
       },
@@ -14803,7 +14803,7 @@ var birthplaces = {
         "Id": 7.663,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Mullingar (Westmeath)",
-        "Last Name": "Tuite",
+        "lastName": "Tuite",
         "dateOfBirth": "05/26/1831",
         "showOnMap": false
       },
@@ -14821,7 +14821,7 @@ var birthplaces = {
         "Id": 7.664,
         "yearOfBirth": 1839.0,
         "Place of Birth": "Arrigorriaga (Vizcaya)",
-        "Last Name": "Lecanda",
+        "lastName": "Lecanda",
         "dateOfBirth": "09/28/1839",
         "showOnMap": false
       },
@@ -14839,7 +14839,7 @@ var birthplaces = {
         "Id": 7.665,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Oberageri (Zug)",
-        "Last Name": "Iten",
+        "lastName": "Iten",
         "dateOfBirth": "02/20/1821",
         "showOnMap": false
       },
@@ -14857,7 +14857,7 @@ var birthplaces = {
         "Id": 7.666,
         "yearOfBirth": 1867.0,
         "Place of Birth": "Dolac pr Trawnik (Bosna)",
-        "Last Name": "Ilijasevic",
+        "lastName": "Ilijasevic",
         "dateOfBirth": "03/23/1867",
         "showOnMap": false
       },
@@ -14875,7 +14875,7 @@ var birthplaces = {
         "Id": 7.667,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Tolosa (Guipuzcoa)",
-        "Last Name": "Lizargarate",
+        "lastName": "Lizargarate",
         "dateOfBirth": "03/29/1825",
         "showOnMap": false
       },
@@ -14893,7 +14893,7 @@ var birthplaces = {
         "Id": 7.668,
         "yearOfBirth": 1861.0,
         "Place of Birth": "Deschambault (Portneuf, Que.)",
-        "Last Name": "Mathieu",
+        "lastName": "Mathieu",
         "dateOfBirth": "02/01/1861",
         "showOnMap": false
       },
@@ -14911,7 +14911,7 @@ var birthplaces = {
         "Id": 7.669,
         "yearOfBirth": 1864.0,
         "Place of Birth": "Serfaus (Tirol)",
-        "Last Name": "Kirschner",
+        "lastName": "Kirschner",
         "dateOfBirth": "04/27/1864",
         "showOnMap": false
       },
@@ -14929,7 +14929,7 @@ var birthplaces = {
         "Id": 7.67,
         "yearOfBirth": 1872.0,
         "Place of Birth": "Pass Christian, Miss.",
-        "Last Name": "Waterman",
+        "lastName": "Waterman",
         "dateOfBirth": "11/07/1872",
         "showOnMap": false
       },
@@ -14947,7 +14947,7 @@ var birthplaces = {
         "Id": 7.671,
         "yearOfBirth": 1819.0,
         "Place of Birth": "Slavkovice (Cechy)",
-        "Last Name": "Chilik",
+        "lastName": "Chilik",
         "dateOfBirth": "06/23/1819",
         "showOnMap": false
       },
@@ -14965,7 +14965,7 @@ var birthplaces = {
         "Id": 7.673,
         "yearOfBirth": 1840.0,
         "Place of Birth": "Plaidt (Rheinland)",
-        "Last Name": "Godderz",
+        "lastName": "Godderz",
         "dateOfBirth": "10/23/1840",
         "showOnMap": false
       },
@@ -14983,7 +14983,7 @@ var birthplaces = {
         "Id": 7.674,
         "yearOfBirth": 1848.0,
         "Place of Birth": "Rodeano (Udine)",
-        "Last Name": "Michelutti",
+        "lastName": "Michelutti",
         "dateOfBirth": "04/08/1848",
         "showOnMap": false
       },
@@ -15001,7 +15001,7 @@ var birthplaces = {
         "Id": 7.675,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Darfeld (Westfalen)",
-        "Last Name": "Heilers",
+        "lastName": "Heilers",
         "dateOfBirth": "05/14/1826",
         "showOnMap": false
       },
@@ -15019,7 +15019,7 @@ var birthplaces = {
         "Id": 7.676,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Witry (Luxembourg)",
-        "Last Name": "Herman",
+        "lastName": "Herman",
         "dateOfBirth": "11/02/1821",
         "showOnMap": false
       },
@@ -15037,7 +15037,7 @@ var birthplaces = {
         "Id": 7.677,
         "yearOfBirth": 1806.0,
         "Place of Birth": "Epernay (Marne)",
-        "Last Name": "Lacoste",
+        "lastName": "Lacoste",
         "dateOfBirth": "07/22/1806",
         "showOnMap": false
       },
@@ -15055,7 +15055,7 @@ var birthplaces = {
         "Id": 7.678,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Rathkeale (Limerick)",
-        "Last Name": "Dealy",
+        "lastName": "Dealy",
         "dateOfBirth": "04/07/1827",
         "showOnMap": false
       },
@@ -15073,7 +15073,7 @@ var birthplaces = {
         "Id": 7.679,
         "yearOfBirth": 1846.0,
         "Place of Birth": "Vranjica pr Split (Dalmacija)",
-        "Last Name": "Grgic",
+        "lastName": "Grgic",
         "dateOfBirth": "12/19/1846",
         "showOnMap": false
       },
@@ -15091,7 +15091,7 @@ var birthplaces = {
         "Id": 7.68,
         "yearOfBirth": 1813.0,
         "Place of Birth": "Liliental",
-        "Last Name": "Siemers",
+        "lastName": "Siemers",
         "dateOfBirth": "08/12/1813",
         "showOnMap": false
       },
@@ -15109,7 +15109,7 @@ var birthplaces = {
         "Id": 7.681,
         "yearOfBirth": 1818.0,
         "Place of Birth": "Mosso Santa Maria (Novara)",
-        "Last Name": "Boggio",
+        "lastName": "Boggio",
         "dateOfBirth": "04/20/1818",
         "showOnMap": false
       },
@@ -15127,7 +15127,7 @@ var birthplaces = {
         "Id": 7.682,
         "yearOfBirth": 1824.0,
         "Place of Birth": "Cedo (Lerida)",
-        "Last Name": "Cirera",
+        "lastName": "Cirera",
         "dateOfBirth": "03/08/1824",
         "showOnMap": false
       },
@@ -15145,7 +15145,7 @@ var birthplaces = {
         "Id": 7.684,
         "yearOfBirth": 1809.0,
         "Place of Birth": "Chalus (Puy-de-D)",
-        "Last Name": "Du Ranquet",
+        "lastName": "Du Ranquet",
         "dateOfBirth": "12/18/1809",
         "showOnMap": false
       },
@@ -15163,7 +15163,7 @@ var birthplaces = {
         "Id": 7.685,
         "yearOfBirth": 1824.0,
         "Place of Birth": "Gutersloh (Westfalen)",
-        "Last Name": "Bertels",
+        "lastName": "Bertels",
         "dateOfBirth": "11/13/1824",
         "showOnMap": false
       },
@@ -15181,7 +15181,7 @@ var birthplaces = {
         "Id": 7.686,
         "yearOfBirth": 1835.0,
         "Place of Birth": "C\u00ef\u00bf\u00bddiz",
-        "Last Name": "Mendaro",
+        "lastName": "Mendaro",
         "dateOfBirth": "05/09/1835",
         "showOnMap": false
       },
@@ -15199,7 +15199,7 @@ var birthplaces = {
         "Id": 7.687,
         "yearOfBirth": 1859.0,
         "Place of Birth": "Nice",
-        "Last Name": "Caravello",
+        "lastName": "Caravello",
         "dateOfBirth": "01/17/1859",
         "showOnMap": false
       },
@@ -15217,7 +15217,7 @@ var birthplaces = {
         "Id": 7.689,
         "yearOfBirth": 1853.0,
         "Place of Birth": "St-Didier-la-S\u00ef\u00bf\u00bdauve (H-Loire)",
-        "Last Name": "Salichon",
+        "lastName": "Salichon",
         "dateOfBirth": "08/23/1853",
         "showOnMap": false
       },
@@ -15235,7 +15235,7 @@ var birthplaces = {
         "Id": 7.69,
         "yearOfBirth": 1864.0,
         "Place of Birth": "Manresa",
-        "Last Name": "Armengou",
+        "lastName": "Armengou",
         "dateOfBirth": "10/30/1864",
         "showOnMap": false
       },
@@ -15253,7 +15253,7 @@ var birthplaces = {
         "Id": 7.691,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Bulle (Fribourg)",
-        "Last Name": "Tinguely",
+        "lastName": "Tinguely",
         "dateOfBirth": "06/29/1821",
         "showOnMap": false
       },
@@ -15271,7 +15271,7 @@ var birthplaces = {
         "Id": 7.692,
         "yearOfBirth": 1839.0,
         "Place of Birth": "Bitschviller (H-Rhin)",
-        "Last Name": "Genlot",
+        "lastName": "Genlot",
         "dateOfBirth": "08/26/1839",
         "showOnMap": false
       },
@@ -15289,7 +15289,7 @@ var birthplaces = {
         "Id": 7.693,
         "yearOfBirth": 1839.0,
         "Place of Birth": "Meerle (Anvers)",
-        "Last Name": "Mertens",
+        "lastName": "Mertens",
         "dateOfBirth": "11/22/1839",
         "showOnMap": false
       },
@@ -15307,7 +15307,7 @@ var birthplaces = {
         "Id": 7.694,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Coussac-Bonneval (H-Vienne)",
-        "Last Name": "Montazeau",
+        "lastName": "Montazeau",
         "dateOfBirth": "04/03/1822",
         "showOnMap": false
       },
@@ -15325,7 +15325,7 @@ var birthplaces = {
         "Id": 7.695,
         "yearOfBirth": 1816.0,
         "Place of Birth": "Volvera (Torino)",
-        "Last Name": "Porporato",
+        "lastName": "Porporato",
         "dateOfBirth": "10/01/1816",
         "showOnMap": false
       },
@@ -15343,7 +15343,7 @@ var birthplaces = {
         "Id": 7.696,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Avuglione (Torino)",
-        "Last Name": "Pavesio",
+        "lastName": "Pavesio",
         "dateOfBirth": "11/15/1822",
         "showOnMap": false
       },
@@ -15361,7 +15361,7 @@ var birthplaces = {
         "Id": 7.697,
         "yearOfBirth": 1838.0,
         "Place of Birth": "Altenb\u00ef\u00bf\u00bdren (Westfalen)",
-        "Last Name": "K\u00ef\u00bf\u00bdrling",
+        "lastName": "K\u00ef\u00bf\u00bdrling",
         "dateOfBirth": "02/11/1838",
         "showOnMap": false
       },
@@ -15379,7 +15379,7 @@ var birthplaces = {
         "Id": 7.698,
         "yearOfBirth": 1872.0,
         "Place of Birth": "San Francisco",
-        "Last Name": "Malone",
+        "lastName": "Malone",
         "dateOfBirth": "12/01/1872",
         "showOnMap": false
       },
@@ -15397,7 +15397,7 @@ var birthplaces = {
         "Id": 7.699,
         "yearOfBirth": 1868.0,
         "Place of Birth": "Baltimore",
-        "Last Name": "Connell",
+        "lastName": "Connell",
         "dateOfBirth": "07/20/1868",
         "showOnMap": false
       },
@@ -15415,7 +15415,7 @@ var birthplaces = {
         "Id": 7.7,
         "yearOfBirth": 1828.0,
         "Place of Birth": "s-Hertogenbosch",
-        "Last Name": "Schoenmakers",
+        "lastName": "Schoenmakers",
         "dateOfBirth": "11/21/1828",
         "showOnMap": false
       },
@@ -15433,7 +15433,7 @@ var birthplaces = {
         "Id": 7.701,
         "yearOfBirth": 1834.0,
         "Place of Birth": "S\u00ef\u00bf\u00bdrsina (Forl\u00ef\u00bf\u00bd)",
-        "Last Name": "Mengoni",
+        "lastName": "Mengoni",
         "dateOfBirth": "06/09/1834",
         "showOnMap": false
       },
@@ -15451,7 +15451,7 @@ var birthplaces = {
         "Id": 7.702,
         "yearOfBirth": 1838.0,
         "Place of Birth": "Rouen",
-        "Last Name": "R\u00ef\u00bf\u00bdgl\u00ef\u00bf\u00bd",
+        "lastName": "R\u00ef\u00bf\u00bdgl\u00ef\u00bf\u00bd",
         "dateOfBirth": "06/22/1838",
         "showOnMap": false
       },
@@ -15469,7 +15469,7 @@ var birthplaces = {
         "Id": 7.703,
         "yearOfBirth": 1851.0,
         "Place of Birth": "Caresana (Novara)",
-        "Last Name": "Greppi",
+        "lastName": "Greppi",
         "dateOfBirth": "12/24/1851",
         "showOnMap": false
       },
@@ -15487,7 +15487,7 @@ var birthplaces = {
         "Id": 7.704,
         "yearOfBirth": 1813.0,
         "Place of Birth": "Brienne-le-Ch\u00ef\u00bf\u00bdteau",
-        "Last Name": "Mathaut",
+        "lastName": "Mathaut",
         "dateOfBirth": "09/15/1813",
         "showOnMap": false
       },
@@ -15505,7 +15505,7 @@ var birthplaces = {
         "Id": 7.705,
         "yearOfBirth": 1833.0,
         "Place of Birth": "Virginia (Cavan)",
-        "Last Name": "O'Reilly",
+        "lastName": "O'Reilly",
         "dateOfBirth": "11/28/1833",
         "showOnMap": false
       },
@@ -15523,7 +15523,7 @@ var birthplaces = {
         "Id": 7.706,
         "yearOfBirth": 1813.0,
         "Place of Birth": "Roderen (H-Rhin)",
-        "Last Name": "Thro",
+        "lastName": "Thro",
         "dateOfBirth": "06/29/1813",
         "showOnMap": false
       },
@@ -15541,7 +15541,7 @@ var birthplaces = {
         "Id": 7.707,
         "yearOfBirth": 1837.0,
         "Place of Birth": "Haut-Clocher (Meurthe)",
-        "Last Name": "Oswald",
+        "lastName": "Oswald",
         "dateOfBirth": "08/15/1837",
         "showOnMap": false
       },
@@ -15559,7 +15559,7 @@ var birthplaces = {
         "Id": 7.708,
         "yearOfBirth": 1819.0,
         "Place of Birth": "Berisal (Valais)",
-        "Last Name": "Anderledy",
+        "lastName": "Anderledy",
         "dateOfBirth": "06/03/1819",
         "showOnMap": false
       },
@@ -15577,7 +15577,7 @@ var birthplaces = {
         "Id": 7.709,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Venezia",
-        "Last Name": "Cornoldi",
+        "lastName": "Cornoldi",
         "dateOfBirth": "09/19/1822",
         "showOnMap": false
       },
@@ -15595,7 +15595,7 @@ var birthplaces = {
         "Id": 7.71,
         "yearOfBirth": 1850.0,
         "Place of Birth": "K\u00ef\u00bf\u00bdln",
-        "Last Name": "Haan",
+        "lastName": "Haan",
         "dateOfBirth": "09/14/1850",
         "showOnMap": false
       },
@@ -15613,7 +15613,7 @@ var birthplaces = {
         "Id": 7.711,
         "yearOfBirth": 1860.0,
         "Place of Birth": "Vechel (N-Brabant)",
-        "Last Name": "van Asseldonk",
+        "lastName": "van Asseldonk",
         "dateOfBirth": "04/25/1860",
         "showOnMap": false
       },
@@ -15631,7 +15631,7 @@ var birthplaces = {
         "Id": 7.712,
         "yearOfBirth": 1828.0,
         "Place of Birth": "Brain (Ille-et-V)",
-        "Last Name": "Argand",
+        "lastName": "Argand",
         "dateOfBirth": "01/04/1828",
         "showOnMap": false
       },
@@ -15649,7 +15649,7 @@ var birthplaces = {
         "Id": 7.713,
         "yearOfBirth": 1856.0,
         "Place of Birth": "Baccarat (Meurthe-et-M)",
-        "Last Name": "de Fontenay",
+        "lastName": "de Fontenay",
         "dateOfBirth": "05/20/1856",
         "showOnMap": false
       },
@@ -15667,7 +15667,7 @@ var birthplaces = {
         "Id": 7.714,
         "yearOfBirth": 1838.0,
         "Place of Birth": "Steinbach (Luxembourg)",
-        "Last Name": "Schmitz",
+        "lastName": "Schmitz",
         "dateOfBirth": "06/24/1838",
         "showOnMap": false
       },
@@ -15685,7 +15685,7 @@ var birthplaces = {
         "Id": 7.715,
         "yearOfBirth": 1814.0,
         "Place of Birth": "Birr (olim Parsonstown, King's)",
-        "Last Name": "Egan",
+        "lastName": "Egan",
         "dateOfBirth": "05/10/1814",
         "showOnMap": false
       },
@@ -15703,7 +15703,7 @@ var birthplaces = {
         "Id": 7.716,
         "yearOfBirth": 1804.0,
         "Place of Birth": "Fimon di Arcugano (Vicenza)",
-        "Last Name": "Bedin",
+        "lastName": "Bedin",
         "dateOfBirth": "01/20/1804",
         "showOnMap": false
       },
@@ -15721,7 +15721,7 @@ var birthplaces = {
         "Id": 7.717,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Kappelkinger (Moselle)",
-        "Last Name": "Wamy",
+        "lastName": "Wamy",
         "dateOfBirth": "10/29/1822",
         "showOnMap": false
       },
@@ -15739,7 +15739,7 @@ var birthplaces = {
         "Id": 7.718,
         "yearOfBirth": 1836.0,
         "Place of Birth": "Capua (Caserta)",
-        "Last Name": "Figliolia",
+        "lastName": "Figliolia",
         "dateOfBirth": "05/20/1836",
         "showOnMap": false
       },
@@ -15757,7 +15757,7 @@ var birthplaces = {
         "Id": 7.72,
         "yearOfBirth": 1840.0,
         "Place of Birth": "Duisans (Pas-de-C)",
-        "Last Name": "Laroche",
+        "lastName": "Laroche",
         "dateOfBirth": "10/16/1840",
         "showOnMap": false
       },
@@ -15775,7 +15775,7 @@ var birthplaces = {
         "Id": 7.721,
         "yearOfBirth": 1819.0,
         "Place of Birth": "Bonifacio (Corse)",
-        "Last Name": "Hucherot",
+        "lastName": "Hucherot",
         "dateOfBirth": "09/11/1819",
         "showOnMap": false
       },
@@ -15793,7 +15793,7 @@ var birthplaces = {
         "Id": 7.722,
         "yearOfBirth": 1810.0,
         "Place of Birth": "Plouhinec (Morbihan)",
-        "Last Name": "Larboulette",
+        "lastName": "Larboulette",
         "dateOfBirth": "02/22/1810",
         "showOnMap": false
       },
@@ -15811,7 +15811,7 @@ var birthplaces = {
         "Id": 7.723,
         "yearOfBirth": 1851.0,
         "Place of Birth": "Villabaruz (Valladolid)",
-        "Last Name": "Sanabria",
+        "lastName": "Sanabria",
         "dateOfBirth": "02/09/1851",
         "showOnMap": false
       },
@@ -15829,7 +15829,7 @@ var birthplaces = {
         "Id": 7.724,
         "yearOfBirth": 1836.0,
         "Place of Birth": "Haren a.d. Ems (Hannover)",
-        "Last Name": "Kerckhoff",
+        "lastName": "Kerckhoff",
         "dateOfBirth": "06/26/1836",
         "showOnMap": false
       },
@@ -15847,7 +15847,7 @@ var birthplaces = {
         "Id": 7.725,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Moreuil (Somme)",
-        "Last Name": "Masse",
+        "lastName": "Masse",
         "dateOfBirth": "05/04/1831",
         "showOnMap": false
       },
@@ -15865,7 +15865,7 @@ var birthplaces = {
         "Id": 7.726,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Verona",
-        "Last Name": "Salgari",
+        "lastName": "Salgari",
         "dateOfBirth": "09/18/1827",
         "showOnMap": false
       },
@@ -15883,7 +15883,7 @@ var birthplaces = {
         "Id": 7.727,
         "yearOfBirth": 1866.0,
         "Place of Birth": "Bitburg (Rheinland)",
-        "Last Name": "Gansen",
+        "lastName": "Gansen",
         "dateOfBirth": "07/22/1866",
         "showOnMap": false
       },
@@ -15901,7 +15901,7 @@ var birthplaces = {
         "Id": 7.728,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Amsterdam",
-        "Last Name": "Vredebuyl",
+        "lastName": "Vredebuyl",
         "dateOfBirth": "04/19/1821",
         "showOnMap": false
       },
@@ -15919,7 +15919,7 @@ var birthplaces = {
         "Id": 7.729,
         "yearOfBirth": 1818.0,
         "Place of Birth": "Plouguernevel (C\u00ef\u00bf\u00bdtes-au-N)",
-        "Last Name": "Jouan",
+        "lastName": "Jouan",
         "dateOfBirth": "11/28/1818",
         "showOnMap": false
       },
@@ -15937,7 +15937,7 @@ var birthplaces = {
         "Id": 7.73,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Arrens (H-Pyr\u00ef\u00bf\u00bdn\u00ef\u00bf\u00bdes)",
-        "Last Name": "Balencie",
+        "lastName": "Balencie",
         "dateOfBirth": "07/09/1826",
         "showOnMap": false
       },
@@ -15955,7 +15955,7 @@ var birthplaces = {
         "Id": 7.731,
         "yearOfBirth": 1848.0,
         "Place of Birth": "Jablonec (Cechy)",
-        "Last Name": "Dichtl",
+        "lastName": "Dichtl",
         "dateOfBirth": "11/28/1848",
         "showOnMap": false
       },
@@ -15973,7 +15973,7 @@ var birthplaces = {
         "Id": 7.732,
         "yearOfBirth": 1809.0,
         "Place of Birth": "Lesves (Namur)",
-        "Last Name": "Damanet",
+        "lastName": "Damanet",
         "dateOfBirth": "05/26/1809",
         "showOnMap": false
       },
@@ -15991,7 +15991,7 @@ var birthplaces = {
         "Id": 7.735,
         "yearOfBirth": 1820.0,
         "Place of Birth": "La Tour-du-Pin (Is\u00ef\u00bf\u00bdre)",
-        "Last Name": "Sambin",
+        "lastName": "Sambin",
         "dateOfBirth": "12/01/1820",
         "showOnMap": false
       },
@@ -16009,7 +16009,7 @@ var birthplaces = {
         "Id": 7.736,
         "yearOfBirth": 1839.0,
         "Place of Birth": "St-Prix (Ard\u00ef\u00bf\u00bdche)",
-        "Last Name": "Bernard",
+        "lastName": "Bernard",
         "dateOfBirth": "01/26/1839",
         "showOnMap": false
       },
@@ -16027,7 +16027,7 @@ var birthplaces = {
         "Id": 7.737,
         "yearOfBirth": 1836.0,
         "Place of Birth": "D\u00ef\u00bf\u00bdle",
-        "Last Name": "Boisset",
+        "lastName": "Boisset",
         "dateOfBirth": "07/22/1836",
         "showOnMap": false
       },
@@ -16045,7 +16045,7 @@ var birthplaces = {
         "Id": 7.738,
         "yearOfBirth": 1812.0,
         "Place of Birth": "Liverpool",
-        "Last Name": "Johnson",
+        "lastName": "Johnson",
         "dateOfBirth": "06/06/1812",
         "showOnMap": false
       },
@@ -16063,7 +16063,7 @@ var birthplaces = {
         "Id": 7.739,
         "yearOfBirth": 1856.0,
         "Place of Birth": "Montepellier",
-        "Last Name": "Pujo",
+        "lastName": "Pujo",
         "dateOfBirth": "01/15/1856",
         "showOnMap": false
       },
@@ -16081,7 +16081,7 @@ var birthplaces = {
         "Id": 7.74,
         "yearOfBirth": 1816.0,
         "Place of Birth": "Ciri\u00ef\u00bf\u00bd (Torino)",
-        "Last Name": "Bayma",
+        "lastName": "Bayma",
         "dateOfBirth": "11/09/1816",
         "showOnMap": false
       },
@@ -16099,7 +16099,7 @@ var birthplaces = {
         "Id": 7.741,
         "yearOfBirth": 1823.0,
         "Place of Birth": "L'Hermet",
-        "Last Name": "Biron",
+        "lastName": "Biron",
         "dateOfBirth": "2-/25/1823",
         "showOnMap": false
       },
@@ -16117,7 +16117,7 @@ var birthplaces = {
         "Id": 7.742,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Bastogne (Luxembourg)",
-        "Last Name": "Pierron",
+        "lastName": "Pierron",
         "dateOfBirth": "01/09/1834",
         "showOnMap": false
       },
@@ -16135,7 +16135,7 @@ var birthplaces = {
         "Id": 7.743,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Uffholtz (H-Rhin)",
-        "Last Name": "Haelling",
+        "lastName": "Haelling",
         "dateOfBirth": "08/23/1823",
         "showOnMap": false
       },
@@ -16153,7 +16153,7 @@ var birthplaces = {
         "Id": 7.744,
         "yearOfBirth": 1815.0,
         "Place of Birth": "Vitry-la-Ville (Marne)",
-        "Last Name": "Viart",
+        "lastName": "Viart",
         "dateOfBirth": "02/01/1815",
         "showOnMap": false
       },
@@ -16171,7 +16171,7 @@ var birthplaces = {
         "Id": 7.745,
         "yearOfBirth": 1810.0,
         "Place of Birth": "Brno (Morava)",
-        "Last Name": "Brobeil",
+        "lastName": "Brobeil",
         "dateOfBirth": "12/11/1810",
         "showOnMap": false
       },
@@ -16189,7 +16189,7 @@ var birthplaces = {
         "Id": 7.746,
         "yearOfBirth": 1859.0,
         "Place of Birth": "Ballyhay (Cork)",
-        "Last Name": "Morisson",
+        "lastName": "Morisson",
         "dateOfBirth": "01/04/1859",
         "showOnMap": false
       },
@@ -16207,7 +16207,7 @@ var birthplaces = {
         "Id": 7.747,
         "yearOfBirth": 1856.0,
         "Place of Birth": "Buffalo",
-        "Last Name": "Sullivan",
+        "lastName": "Sullivan",
         "dateOfBirth": "02/23/1856",
         "showOnMap": false
       },
@@ -16225,7 +16225,7 @@ var birthplaces = {
         "Id": 7.748,
         "yearOfBirth": 1832.0,
         "Place of Birth": "Peyssous (H-Garonne)",
-        "Last Name": "Cassagne",
+        "lastName": "Cassagne",
         "dateOfBirth": "03/08/1832",
         "showOnMap": false
       },
@@ -16243,7 +16243,7 @@ var birthplaces = {
         "Id": 7.749,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Rovato (Brescia)",
-        "Last Name": "Recagni",
+        "lastName": "Recagni",
         "dateOfBirth": "09/30/1827",
         "showOnMap": false
       },
@@ -16261,7 +16261,7 @@ var birthplaces = {
         "Id": 7.75,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Humain (Luxembourg)",
-        "Last Name": "Coppens",
+        "lastName": "Coppens",
         "dateOfBirth": "02/20/1834",
         "showOnMap": false
       },
@@ -16279,7 +16279,7 @@ var birthplaces = {
         "Id": 7.751,
         "yearOfBirth": 1813.0,
         "Place of Birth": "La Coltrie",
-        "Last Name": "de Boylesve",
+        "lastName": "de Boylesve",
         "dateOfBirth": "11/28/1813",
         "showOnMap": false
       },
@@ -16297,7 +16297,7 @@ var birthplaces = {
         "Id": 7.752,
         "yearOfBirth": 1830.0,
         "Place of Birth": "Issenheim (H-Rhin)",
-        "Last Name": "Gilg",
+        "lastName": "Gilg",
         "dateOfBirth": "02/23/1830",
         "showOnMap": false
       },
@@ -16315,7 +16315,7 @@ var birthplaces = {
         "Id": 7.753,
         "yearOfBirth": 1833.0,
         "Place of Birth": "Cambrils (Tarragona)",
-        "Last Name": "Cabr\u00ef\u00bf\u00bd",
+        "lastName": "Cabr\u00ef\u00bf\u00bd",
         "dateOfBirth": "01/02/1833",
         "showOnMap": false
       },
@@ -16333,7 +16333,7 @@ var birthplaces = {
         "Id": 7.754,
         "yearOfBirth": 1799.0,
         "Place of Birth": "Villers-Bocage (Somme)",
-        "Last Name": "Oger",
+        "lastName": "Oger",
         "dateOfBirth": "12/17/1799",
         "showOnMap": false
       },
@@ -16351,7 +16351,7 @@ var birthplaces = {
         "Id": 7.755,
         "yearOfBirth": 1854.0,
         "Place of Birth": "St-Joseph (Beauce, Qu\u00ef\u00bf\u00bd)",
-        "Last Name": "Tardif",
+        "lastName": "Tardif",
         "dateOfBirth": "12/31/1854",
         "showOnMap": false
       },
@@ -16369,7 +16369,7 @@ var birthplaces = {
         "Id": 7.756,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Gangi (Palermo)",
-        "Last Name": "d'Angelo",
+        "lastName": "d'Angelo",
         "dateOfBirth": "08/22/1825",
         "showOnMap": false
       },
@@ -16387,7 +16387,7 @@ var birthplaces = {
         "Id": 7.757,
         "yearOfBirth": 1855.0,
         "Place of Birth": "Roma",
-        "Last Name": "Borghese",
+        "lastName": "Borghese",
         "dateOfBirth": "06/21/1855",
         "showOnMap": false
       },
@@ -16405,7 +16405,7 @@ var birthplaces = {
         "Id": 7.758,
         "yearOfBirth": 1852.0,
         "Place of Birth": "Wouw (N-Brabant)",
-        "Last Name": "de Bie",
+        "lastName": "de Bie",
         "dateOfBirth": "01/21/1852",
         "showOnMap": false
       },
@@ -16423,7 +16423,7 @@ var birthplaces = {
         "Id": 7.759,
         "yearOfBirth": 1866.0,
         "Place of Birth": "Mageney (Carlow)",
-        "Last Name": "Keogh",
+        "lastName": "Keogh",
         "dateOfBirth": "05/25/1866",
         "showOnMap": false
       },
@@ -16441,7 +16441,7 @@ var birthplaces = {
         "Id": 7.76,
         "yearOfBirth": 1844.0,
         "Place of Birth": "Mountmellick (Queen's)",
-        "Last Name": "Murphy",
+        "lastName": "Murphy",
         "dateOfBirth": "01/17/1844",
         "showOnMap": false
       },
@@ -16459,7 +16459,7 @@ var birthplaces = {
         "Id": 7.761,
         "yearOfBirth": 1847.0,
         "Place of Birth": "Roma",
-        "Last Name": "(Sheffington) Ross of Bladensbury",
+        "lastName": "(Sheffington) Ross of Bladensbury",
         "dateOfBirth": "01/26/1847",
         "showOnMap": false
       },
@@ -16477,7 +16477,7 @@ var birthplaces = {
         "Id": 7.762,
         "yearOfBirth": 1811.0,
         "Place of Birth": "Chassiers (Ard\u00ef\u00bf\u00bdche)",
-        "Last Name": "Payan",
+        "lastName": "Payan",
         "dateOfBirth": "06/19/1811",
         "showOnMap": false
       },
@@ -16495,7 +16495,7 @@ var birthplaces = {
         "Id": 7.763,
         "yearOfBirth": 1828.0,
         "Place of Birth": "Lyon",
-        "Last Name": "Laurent",
+        "lastName": "Laurent",
         "dateOfBirth": "03/07/1828",
         "showOnMap": false
       },
@@ -16513,7 +16513,7 @@ var birthplaces = {
         "Id": 7.764,
         "yearOfBirth": 1853.0,
         "Place of Birth": "Hyderabad (India)",
-        "Last Name": "Romanini",
+        "lastName": "Romanini",
         "dateOfBirth": "02/11/1853",
         "showOnMap": false
       },
@@ -16531,7 +16531,7 @@ var birthplaces = {
         "Id": 7.765,
         "yearOfBirth": 1871.0,
         "Place of Birth": "Hoogland (Utrecht)",
-        "Last Name": "van der Heijden",
+        "lastName": "van der Heijden",
         "dateOfBirth": "01/24/1871",
         "showOnMap": false
       },
@@ -16549,7 +16549,7 @@ var birthplaces = {
         "Id": 7.766,
         "yearOfBirth": 1801.0,
         "Place of Birth": "Lavaur (Tarn)",
-        "Last Name": "Laporte",
+        "lastName": "Laporte",
         "dateOfBirth": "08/30/1801",
         "showOnMap": false
       },
@@ -16567,7 +16567,7 @@ var birthplaces = {
         "Id": 7.767,
         "yearOfBirth": 1863.0,
         "Place of Birth": "Poitiers",
-        "Last Name": "Avenel",
+        "lastName": "Avenel",
         "dateOfBirth": "02/14/1863",
         "showOnMap": false
       },
@@ -16585,7 +16585,7 @@ var birthplaces = {
         "Id": 7.768,
         "yearOfBirth": 1830.0,
         "Place of Birth": "Norbury (Shropshire)",
-        "Last Name": "Farmer",
+        "lastName": "Farmer",
         "dateOfBirth": "06/13/1830",
         "showOnMap": false
       },
@@ -16603,7 +16603,7 @@ var birthplaces = {
         "Id": 7.769,
         "yearOfBirth": 1813.0,
         "Place of Birth": "Palermo",
-        "Last Name": "Valenti",
+        "lastName": "Valenti",
         "dateOfBirth": "10/06/1813",
         "showOnMap": false
       },
@@ -16621,7 +16621,7 @@ var birthplaces = {
         "Id": 7.77,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Malonne (Namur)",
-        "Last Name": "Noulard",
+        "lastName": "Noulard",
         "dateOfBirth": "08/15/1827",
         "showOnMap": false
       },
@@ -16639,7 +16639,7 @@ var birthplaces = {
         "Id": 7.771,
         "yearOfBirth": 1866.0,
         "Place of Birth": "Tournon (Ard\u00ef\u00bf\u00bdche)",
-        "Last Name": "Vial",
+        "lastName": "Vial",
         "dateOfBirth": "04/24/1866",
         "showOnMap": false
       },
@@ -16657,7 +16657,7 @@ var birthplaces = {
         "Id": 7.772,
         "yearOfBirth": 1857.0,
         "Place of Birth": "Baienfurt (W\u00ef\u00bf\u00bdrtemberg)",
-        "Last Name": "Haas",
+        "lastName": "Haas",
         "dateOfBirth": "05/20/1857",
         "showOnMap": false
       },
@@ -16675,7 +16675,7 @@ var birthplaces = {
         "Id": 7.773,
         "yearOfBirth": 1832.0,
         "Place of Birth": "Nogaredo (Roveredo)",
-        "Last Name": "Petrolli",
+        "lastName": "Petrolli",
         "dateOfBirth": "06/14/1832",
         "showOnMap": false
       },
@@ -16693,7 +16693,7 @@ var birthplaces = {
         "Id": 7.774,
         "yearOfBirth": 1830.0,
         "Place of Birth": "Les-Lacs pr St. \u00ef\u00bf\u00bdnimie (Lozere)",
-        "Last Name": "Valgalier",
+        "lastName": "Valgalier",
         "dateOfBirth": "05/13/1830",
         "showOnMap": false
       },
@@ -16711,7 +16711,7 @@ var birthplaces = {
         "Id": 7.775,
         "yearOfBirth": 1865.0,
         "Place of Birth": "Bruxelles",
-        "Last Name": "van Vrekom",
+        "lastName": "van Vrekom",
         "dateOfBirth": "09/03/1865",
         "showOnMap": false
       },
@@ -16729,7 +16729,7 @@ var birthplaces = {
         "Id": 7.776,
         "yearOfBirth": 1828.0,
         "Place of Birth": "*Rischden (Rheinland: a West-falen)",
-        "Last Name": "Franken",
+        "lastName": "Franken",
         "dateOfBirth": "06/02/1828",
         "showOnMap": false
       },
@@ -16747,7 +16747,7 @@ var birthplaces = {
         "Id": 7.777,
         "yearOfBirth": 1837.0,
         "Place of Birth": "Gredilla de Sedano (Burgos)",
-        "Last Name": "Mart\u00ef\u00bf\u00bdnez",
+        "lastName": "Mart\u00ef\u00bf\u00bdnez",
         "dateOfBirth": "01/16/1837",
         "showOnMap": false
       },
@@ -16765,7 +16765,7 @@ var birthplaces = {
         "Id": 7.778,
         "yearOfBirth": 1813.0,
         "Place of Birth": "Omagh (Tyrone)",
-        "Last Name": "Haugherty",
+        "lastName": "Haugherty",
         "dateOfBirth": "09/09/1813",
         "showOnMap": false
       },
@@ -16783,7 +16783,7 @@ var birthplaces = {
         "Id": 7.779,
         "yearOfBirth": 1859.0,
         "Place of Birth": "Nickursko, Pozn.",
-        "Last Name": "Glesinsky",
+        "lastName": "Glesinsky",
         "dateOfBirth": "08/07/1859",
         "showOnMap": false
       },
@@ -16801,7 +16801,7 @@ var birthplaces = {
         "Id": 7.78,
         "yearOfBirth": 1797.0,
         "Place of Birth": "La Chaume pr Les Sables d'Olonne (Vend\u00ef\u00bf\u00bde)",
-        "Last Name": "Lev\u00ef\u00bf\u00bd",
+        "lastName": "Lev\u00ef\u00bf\u00bd",
         "dateOfBirth": "05/11/1797",
         "showOnMap": false
       },
@@ -16819,7 +16819,7 @@ var birthplaces = {
         "Id": 7.782,
         "yearOfBirth": 1814.0,
         "Place of Birth": "Paris",
-        "Last Name": "Rottari",
+        "lastName": "Rottari",
         "dateOfBirth": "04/30/1814",
         "showOnMap": false
       },
@@ -16837,7 +16837,7 @@ var birthplaces = {
         "Id": 7.783,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Belfast (Antrim)",
-        "Last Name": "Ford",
+        "lastName": "Ford",
         "dateOfBirth": "11/09/1831",
         "showOnMap": false
       },
@@ -16855,7 +16855,7 @@ var birthplaces = {
         "Id": 7.784,
         "yearOfBirth": 1808.0,
         "Place of Birth": "Viterbo (Roma)",
-        "Last Name": "Monaci",
+        "lastName": "Monaci",
         "dateOfBirth": "04/27/1808",
         "showOnMap": false
       },
@@ -16873,7 +16873,7 @@ var birthplaces = {
         "Id": 7.785,
         "yearOfBirth": 1837.0,
         "Place of Birth": "Roma",
-        "Last Name": "Caprioli",
+        "lastName": "Caprioli",
         "dateOfBirth": "11/14/1837",
         "showOnMap": false
       },
@@ -16891,7 +16891,7 @@ var birthplaces = {
         "Id": 7.786,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Talobre, par. St-Christophe-sure-Dolaison (H-Loire)",
-        "Last Name": "Pouderoux",
+        "lastName": "Pouderoux",
         "dateOfBirth": "07/01/1821",
         "showOnMap": false
       },
@@ -16909,7 +16909,7 @@ var birthplaces = {
         "Id": 7.787,
         "yearOfBirth": 1871.0,
         "Place of Birth": "Paris",
-        "Last Name": "Hureau",
+        "lastName": "Hureau",
         "dateOfBirth": "01/18/1871",
         "showOnMap": false
       },
@@ -16927,7 +16927,7 @@ var birthplaces = {
         "Id": 7.788,
         "yearOfBirth": 1843.0,
         "Place of Birth": "Przysietnica, Krak. ?, Rzesz. ?",
-        "Last Name": "Wacek",
+        "lastName": "Wacek",
         "dateOfBirth": "11/11/1843",
         "showOnMap": false
       },
@@ -16945,7 +16945,7 @@ var birthplaces = {
         "Id": 7.789,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Moyen pr Izel (Luxembourg)",
-        "Last Name": "Poncelet",
+        "lastName": "Poncelet",
         "dateOfBirth": "05/17/1823",
         "showOnMap": false
       },
@@ -16963,7 +16963,7 @@ var birthplaces = {
         "Id": 7.79,
         "yearOfBirth": 1860.0,
         "Place of Birth": "? (Derry)",
-        "Last Name": "Devine",
+        "lastName": "Devine",
         "dateOfBirth": "09/23/1860",
         "showOnMap": false
       },
@@ -16981,7 +16981,7 @@ var birthplaces = {
         "Id": 7.791,
         "yearOfBirth": 1814.0,
         "Place of Birth": "St-Martin (Fribourg)",
-        "Last Name": "Esseiva",
+        "lastName": "Esseiva",
         "dateOfBirth": "12/10/1814",
         "showOnMap": false
       },
@@ -16999,7 +16999,7 @@ var birthplaces = {
         "Id": 7.792,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Palermo",
-        "Last Name": "Valente",
+        "lastName": "Valente",
         "dateOfBirth": "03/23/1827",
         "showOnMap": false
       },
@@ -17017,7 +17017,7 @@ var birthplaces = {
         "Id": 7.793,
         "yearOfBirth": 1840.0,
         "Place of Birth": "Montuiri (Mallorca)",
-        "Last Name": "Aloy (Miralles)",
+        "lastName": "Aloy (Miralles)",
         "dateOfBirth": "05/23/1840",
         "showOnMap": false
       },
@@ -17035,7 +17035,7 @@ var birthplaces = {
         "Id": 7.794,
         "yearOfBirth": 1867.0,
         "Place of Birth": "Ste-Martine (Montr\u00ef\u00bf\u00bdal)",
-        "Last Name": "Gagnier",
+        "lastName": "Gagnier",
         "dateOfBirth": "07/21/1867",
         "showOnMap": false
       },
@@ -17053,7 +17053,7 @@ var birthplaces = {
         "Id": 7.795,
         "yearOfBirth": 1819.0,
         "Place of Birth": "Uri (Sassari)",
-        "Last Name": "Delogu",
+        "lastName": "Delogu",
         "dateOfBirth": "08/15/1819",
         "showOnMap": false
       },
@@ -17071,7 +17071,7 @@ var birthplaces = {
         "Id": 7.796,
         "yearOfBirth": 1873.0,
         "Place of Birth": "Dublin",
-        "Last Name": "Kickham",
+        "lastName": "Kickham",
         "dateOfBirth": "03/05/1873",
         "showOnMap": false
       },
@@ -17089,7 +17089,7 @@ var birthplaces = {
         "Id": 7.797,
         "yearOfBirth": 1815.0,
         "Place of Birth": "Saugues (H-Loire)",
-        "Last Name": "Trincal",
+        "lastName": "Trincal",
         "dateOfBirth": "09/08/1815",
         "showOnMap": false
       },
@@ -17107,7 +17107,7 @@ var birthplaces = {
         "Id": 7.798,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Wien",
-        "Last Name": "Fels",
+        "lastName": "Fels",
         "dateOfBirth": "06/14/1827",
         "showOnMap": false
       },
@@ -17125,7 +17125,7 @@ var birthplaces = {
         "Id": 7.799,
         "yearOfBirth": 1828.0,
         "Place of Birth": "St-Mawgan (Cornwall)",
-        "Last Name": "Bond",
+        "lastName": "Bond",
         "dateOfBirth": "07/08/1828",
         "showOnMap": false
       },
@@ -17143,7 +17143,7 @@ var birthplaces = {
         "Id": 7.8,
         "yearOfBirth": 1858.0,
         "Place of Birth": "Managua (Nicaragua)",
-        "Last Name": "Lezcano",
+        "lastName": "Lezcano",
         "dateOfBirth": "09/24/1858",
         "showOnMap": false
       },
@@ -17161,7 +17161,7 @@ var birthplaces = {
         "Id": 7.801,
         "yearOfBirth": 1829.0,
         "Place of Birth": "Anvers",
-        "Last Name": "de Kinder",
+        "lastName": "de Kinder",
         "dateOfBirth": "05/25/1829",
         "showOnMap": false
       },
@@ -17179,7 +17179,7 @@ var birthplaces = {
         "Id": 7.802,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Bogot\u00ef\u00bf\u00bd",
-        "Last Name": "Azuola",
+        "lastName": "Azuola",
         "dateOfBirth": "02/29/1820",
         "showOnMap": false
       },
@@ -17197,7 +17197,7 @@ var birthplaces = {
         "Id": 7.803,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Roye (Somme)",
-        "Last Name": "Collin",
+        "lastName": "Collin",
         "dateOfBirth": "05/07/1826",
         "showOnMap": false
       },
@@ -17215,7 +17215,7 @@ var birthplaces = {
         "Id": 7.804,
         "yearOfBirth": 1871.0,
         "Place of Birth": "Cagliari",
-        "Last Name": "Cabras",
+        "lastName": "Cabras",
         "dateOfBirth": "11/02/1871",
         "showOnMap": false
       },
@@ -17233,7 +17233,7 @@ var birthplaces = {
         "Id": 7.805,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Brighton (Sussex)",
-        "Last Name": "Cooke",
+        "lastName": "Cooke",
         "dateOfBirth": "09/12/1823",
         "showOnMap": false
       },
@@ -17251,7 +17251,7 @@ var birthplaces = {
         "Id": 7.806,
         "yearOfBirth": 1845.0,
         "Place of Birth": "Barcelona",
-        "Last Name": "Camps",
+        "lastName": "Camps",
         "dateOfBirth": "03/10/1845",
         "showOnMap": false
       },
@@ -17269,7 +17269,7 @@ var birthplaces = {
         "Id": 7.807,
         "yearOfBirth": 1836.0,
         "Place of Birth": "Filetto (Chieti)",
-        "Last Name": "Moscatelli",
+        "lastName": "Moscatelli",
         "dateOfBirth": "04/18/1836",
         "showOnMap": false
       },
@@ -17287,7 +17287,7 @@ var birthplaces = {
         "Id": 7.808,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Estavaver-le-Lac",
-        "Last Name": "Marmier",
+        "lastName": "Marmier",
         "dateOfBirth": "02/19/1823",
         "showOnMap": false
       },
@@ -17305,7 +17305,7 @@ var birthplaces = {
         "Id": 7.809,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Ravenna",
-        "Last Name": "Triossi",
+        "lastName": "Triossi",
         "dateOfBirth": "09/24/1831",
         "showOnMap": false
       },
@@ -17323,7 +17323,7 @@ var birthplaces = {
         "Id": 7.81,
         "yearOfBirth": 1809.0,
         "Place of Birth": "Linne (Limburg)",
-        "Last Name": "Sampers",
+        "lastName": "Sampers",
         "dateOfBirth": "10/26/1809",
         "showOnMap": false
       },
@@ -17341,7 +17341,7 @@ var birthplaces = {
         "Id": 7.811,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Louargat (C\u00ef\u00bf\u00bdtes-du-N)",
-        "Last Name": "Scolan",
+        "lastName": "Scolan",
         "dateOfBirth": "09/11/1834",
         "showOnMap": false
       },
@@ -17359,7 +17359,7 @@ var birthplaces = {
         "Id": 7.812,
         "yearOfBirth": 1830.0,
         "Place of Birth": "Harelbeke (Fl Or)",
-        "Last Name": "van Tieghem",
+        "lastName": "van Tieghem",
         "dateOfBirth": "04/07/1830",
         "showOnMap": false
       },
@@ -17377,7 +17377,7 @@ var birthplaces = {
         "Id": 7.813,
         "yearOfBirth": 1856.0,
         "Place of Birth": "Harz\u00ef\u00bf\u00bd (Li\u00ef\u00bf\u00bdge)",
-        "Last Name": "Bodson",
+        "lastName": "Bodson",
         "dateOfBirth": "02/03/1856",
         "showOnMap": false
       },
@@ -17395,7 +17395,7 @@ var birthplaces = {
         "Id": 7.814,
         "yearOfBirth": 1841.0,
         "Place of Birth": "Montbri\u00ef\u00bf\u00bd (Tarragona)",
-        "Last Name": "Rovira",
+        "lastName": "Rovira",
         "dateOfBirth": "10/07/1841",
         "showOnMap": false
       },
@@ -17413,7 +17413,7 @@ var birthplaces = {
         "Id": 7.815,
         "yearOfBirth": 1875.0,
         "Place of Birth": "Sta. Coloma de Queralt (Tarragona)",
-        "Last Name": "Padr\u00ef\u00bf\u00bd",
+        "lastName": "Padr\u00ef\u00bf\u00bd",
         "dateOfBirth": "01/26/1875",
         "showOnMap": false
       },
@@ -17431,7 +17431,7 @@ var birthplaces = {
         "Id": 7.816,
         "yearOfBirth": 1854.0,
         "Place of Birth": "Baracal (Beria-Baixa)",
-        "Last Name": "Marques",
+        "lastName": "Marques",
         "dateOfBirth": "06/11/1854",
         "showOnMap": false
       },
@@ -17449,7 +17449,7 @@ var birthplaces = {
         "Id": 7.817,
         "yearOfBirth": 1818.0,
         "Place of Birth": "? (Malta)",
-        "Last Name": "Pavia",
+        "lastName": "Pavia",
         "dateOfBirth": "11/17/1818",
         "showOnMap": false
       },
@@ -17467,7 +17467,7 @@ var birthplaces = {
         "Id": 7.818,
         "yearOfBirth": 1863.0,
         "Place of Birth": "Saulcy (Bern)",
-        "Last Name": "Lovis",
+        "lastName": "Lovis",
         "dateOfBirth": "04/27/1863",
         "showOnMap": false
       },
@@ -17485,7 +17485,7 @@ var birthplaces = {
         "Id": 7.819,
         "yearOfBirth": 1815.0,
         "Place of Birth": "Cessingen (par. Hollerich, Gr. D. de Luxemburg)",
-        "Last Name": "Niederkorn",
+        "lastName": "Niederkorn",
         "dateOfBirth": "05/15/1815",
         "showOnMap": false
       },
@@ -17503,7 +17503,7 @@ var birthplaces = {
         "Id": 7.82,
         "yearOfBirth": 1844.0,
         "Place of Birth": "Ainay-le-Ch\u00ef\u00bf\u00bdteau (Allier)",
-        "Last Name": "R\u00ef\u00bf\u00bdtif",
+        "lastName": "R\u00ef\u00bf\u00bdtif",
         "dateOfBirth": "04/25/1844",
         "showOnMap": false
       },
@@ -17521,7 +17521,7 @@ var birthplaces = {
         "Id": 7.821,
         "yearOfBirth": 1865.0,
         "Place of Birth": "? (Australia)",
-        "Last Name": "Newman",
+        "lastName": "Newman",
         "dateOfBirth": "06/07/1865",
         "showOnMap": false
       },
@@ -17539,7 +17539,7 @@ var birthplaces = {
         "Id": 7.822,
         "yearOfBirth": 1843.0,
         "Place of Birth": "Valmunster (Moselle)",
-        "Last Name": "Fetter",
+        "lastName": "Fetter",
         "dateOfBirth": "05/02/1843",
         "showOnMap": false
       },
@@ -17557,7 +17557,7 @@ var birthplaces = {
         "Id": 7.823,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Pannerden (Gelderland)",
-        "Last Name": "Terwindt",
+        "lastName": "Terwindt",
         "dateOfBirth": "12/17/1825",
         "showOnMap": false
       },
@@ -17575,7 +17575,7 @@ var birthplaces = {
         "Id": 7.824,
         "yearOfBirth": 1836.0,
         "Place of Birth": "Trento",
-        "Last Name": "Giuliani",
+        "lastName": "Giuliani",
         "dateOfBirth": "11/11/1836",
         "showOnMap": false
       },
@@ -17593,7 +17593,7 @@ var birthplaces = {
         "Id": 7.825,
         "yearOfBirth": 1863.0,
         "Place of Birth": "Lebanon, Ky",
-        "Last Name": "Brown",
+        "lastName": "Brown",
         "dateOfBirth": "12/31/1863",
         "showOnMap": false
       },
@@ -17611,7 +17611,7 @@ var birthplaces = {
         "Id": 7.826,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Philipstown (King's)",
-        "Last Name": "Scully",
+        "lastName": "Scully",
         "dateOfBirth": "11/26/1826",
         "showOnMap": false
       },
@@ -17629,7 +17629,7 @@ var birthplaces = {
         "Id": 7.827,
         "yearOfBirth": 1849.0,
         "Place of Birth": "Hinojosa del Duque (C\u00ef\u00bf\u00bdrdoba)",
-        "Last Name": "Sandoval",
+        "lastName": "Sandoval",
         "dateOfBirth": "09/03/1849",
         "showOnMap": false
       },
@@ -17647,7 +17647,7 @@ var birthplaces = {
         "Id": 7.828,
         "yearOfBirth": 1854.0,
         "Place of Birth": "Labastida (\u00ef\u00bf\u00bdlava)",
-        "Last Name": "Ozalla",
+        "lastName": "Ozalla",
         "dateOfBirth": "01/17/1854",
         "showOnMap": false
       },
@@ -17665,7 +17665,7 @@ var birthplaces = {
         "Id": 7.829,
         "yearOfBirth": 1812.0,
         "Place of Birth": "Fribourg",
-        "Last Name": "Cotting",
+        "lastName": "Cotting",
         "dateOfBirth": "05/23/1812",
         "showOnMap": false
       },
@@ -17683,7 +17683,7 @@ var birthplaces = {
         "Id": 7.83,
         "yearOfBirth": 1807.0,
         "Place of Birth": "Reggio Emilia",
-        "Last Name": "Predelli",
+        "lastName": "Predelli",
         "dateOfBirth": "01/16/1807",
         "showOnMap": false
       },
@@ -17701,7 +17701,7 @@ var birthplaces = {
         "Id": 7.831,
         "yearOfBirth": 1856.0,
         "Place of Birth": "La Bourget-du-Lac (Savoie)",
-        "Last Name": "Richard",
+        "lastName": "Richard",
         "dateOfBirth": "05/23/1856",
         "showOnMap": false
       },
@@ -17719,7 +17719,7 @@ var birthplaces = {
         "Id": 7.832,
         "yearOfBirth": 1817.0,
         "Place of Birth": "St-Jean-en-Royans (Dr\u00ef\u00bf\u00bdme)",
-        "Last Name": "de Fonclayer",
+        "lastName": "de Fonclayer",
         "dateOfBirth": "08/18/1817",
         "showOnMap": false
       },
@@ -17737,7 +17737,7 @@ var birthplaces = {
         "Id": 7.833,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Torino",
-        "Last Name": "Arduino",
+        "lastName": "Arduino",
         "dateOfBirth": "03/01/1817",
         "showOnMap": false
       },
@@ -17755,7 +17755,7 @@ var birthplaces = {
         "Id": 7.834,
         "yearOfBirth": 1818.0,
         "Place of Birth": "Chomutov (Cechy)",
-        "Last Name": "Kulas",
+        "lastName": "Kulas",
         "dateOfBirth": "01/20/1818",
         "showOnMap": false
       },
@@ -17773,7 +17773,7 @@ var birthplaces = {
         "Id": 7.835,
         "yearOfBirth": 1819.0,
         "Place of Birth": "Soize (Aisne)",
-        "Last Name": "Douce",
+        "lastName": "Douce",
         "dateOfBirth": "11/24/1819",
         "showOnMap": false
       },
@@ -17791,7 +17791,7 @@ var birthplaces = {
         "Id": 7.836,
         "yearOfBirth": 1872.0,
         "Place of Birth": "Madrid",
-        "Last Name": "Gonz\u00ef\u00bf\u00bdlez",
+        "lastName": "Gonz\u00ef\u00bf\u00bdlez",
         "dateOfBirth": "07/15/1872",
         "showOnMap": false
       },
@@ -17809,7 +17809,7 @@ var birthplaces = {
         "Id": 7.837,
         "yearOfBirth": 1867.0,
         "Place of Birth": "El Bonillo (Albacete)",
-        "Last Name": "Gonz\u00ef\u00bf\u00bdlez",
+        "lastName": "Gonz\u00ef\u00bf\u00bdlez",
         "dateOfBirth": "04/13/1867",
         "showOnMap": false
       },
@@ -17827,7 +17827,7 @@ var birthplaces = {
         "Id": 7.838,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Vermes (Bern)",
-        "Last Name": "Charmillot",
+        "lastName": "Charmillot",
         "dateOfBirth": "12/19/1820",
         "showOnMap": false
       },
@@ -17845,7 +17845,7 @@ var birthplaces = {
         "Id": 7.839,
         "yearOfBirth": 1851.0,
         "Place of Birth": "Manresa",
-        "Last Name": "Morera",
+        "lastName": "Morera",
         "dateOfBirth": "03/10/1851",
         "showOnMap": false
       },
@@ -17863,7 +17863,7 @@ var birthplaces = {
         "Id": 7.84,
         "yearOfBirth": 1815.0,
         "Place of Birth": "Schladen (Hannover)",
-        "Last Name": "Wippern",
+        "lastName": "Wippern",
         "dateOfBirth": "06/25/1815",
         "showOnMap": false
       },
@@ -17881,7 +17881,7 @@ var birthplaces = {
         "Id": 7.841,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Palermo",
-        "Last Name": "Previti",
+        "lastName": "Previti",
         "dateOfBirth": "08/13/1822",
         "showOnMap": false
       },
@@ -17899,7 +17899,7 @@ var birthplaces = {
         "Id": 7.842,
         "yearOfBirth": 1857.0,
         "Place of Birth": "Paialvo (Extremadura)",
-        "Last Name": "de Freitas",
+        "lastName": "de Freitas",
         "dateOfBirth": "11/23/1857",
         "showOnMap": false
       },
@@ -17917,7 +17917,7 @@ var birthplaces = {
         "Id": 7.843,
         "yearOfBirth": 1882.0,
         "Place of Birth": "La Malmaison (Aisne)",
-        "Last Name": "Catillion",
+        "lastName": "Catillion",
         "dateOfBirth": "09/27/1882",
         "showOnMap": false
       },
@@ -17935,7 +17935,7 @@ var birthplaces = {
         "Id": 7.844,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Rebourguil (Aveyron)",
-        "Last Name": "Mazards",
+        "lastName": "Mazards",
         "dateOfBirth": "05/17/1817",
         "showOnMap": false
       },
@@ -17953,7 +17953,7 @@ var birthplaces = {
         "Id": 7.845,
         "yearOfBirth": 1837.0,
         "Place of Birth": "Ce\u00ef\u00bf\u00bdnuri (Vizcaya)",
-        "Last Name": "Aldecoa",
+        "lastName": "Aldecoa",
         "dateOfBirth": "04/28/1837",
         "showOnMap": false
       },
@@ -17971,7 +17971,7 @@ var birthplaces = {
         "Id": 7.846,
         "yearOfBirth": 1810.0,
         "Place of Birth": "Krems, N.\u00ef\u00bf\u00bd.",
-        "Last Name": "Marckhgott",
+        "lastName": "Marckhgott",
         "dateOfBirth": "11/17/1810",
         "showOnMap": false
       },
@@ -17989,7 +17989,7 @@ var birthplaces = {
         "Id": 7.848,
         "yearOfBirth": 1843.0,
         "Place of Birth": "Liverpool",
-        "Last Name": "Splaine",
+        "lastName": "Splaine",
         "dateOfBirth": "10/03/1843",
         "showOnMap": false
       },
@@ -18007,7 +18007,7 @@ var birthplaces = {
         "Id": 7.849,
         "yearOfBirth": 1828.0,
         "Place of Birth": "Elbergen (Hannover)",
-        "Last Name": "Daling",
+        "lastName": "Daling",
         "dateOfBirth": "08/10/1828",
         "showOnMap": false
       },
@@ -18025,7 +18025,7 @@ var birthplaces = {
         "Id": 7.85,
         "yearOfBirth": 1832.0,
         "Place of Birth": "Le Montet-et-Bouxal (Lot)",
-        "Last Name": "Lalardie",
+        "lastName": "Lalardie",
         "dateOfBirth": "08/18/1832",
         "showOnMap": false
       },
@@ -18043,7 +18043,7 @@ var birthplaces = {
         "Id": 7.851,
         "yearOfBirth": 1870.0,
         "Place of Birth": "Druille (par. Ste-Juliette, Aveyron)",
-        "Last Name": "Mazars",
+        "lastName": "Mazars",
         "dateOfBirth": "02/28/1870",
         "showOnMap": false
       },
@@ -18061,7 +18061,7 @@ var birthplaces = {
         "Id": 7.852,
         "yearOfBirth": 1841.0,
         "Place of Birth": "Viladr\u00ef\u00bf\u00bdu (Gerona)",
-        "Last Name": "Pal\u00ef\u00bf\u00bdu",
+        "lastName": "Pal\u00ef\u00bf\u00bdu",
         "dateOfBirth": "02/25/1841",
         "showOnMap": false
       },
@@ -18079,7 +18079,7 @@ var birthplaces = {
         "Id": 7.853,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Foxearths (Stafford)",
-        "Last Name": "Clifford",
+        "lastName": "Clifford",
         "dateOfBirth": "07/05/1820",
         "showOnMap": false
       },
@@ -18097,7 +18097,7 @@ var birthplaces = {
         "Id": 7.854,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Roulers (Fl Oc)",
-        "Last Name": "de Meester",
+        "lastName": "de Meester",
         "dateOfBirth": "10/06/1817",
         "showOnMap": false
       },
@@ -18115,7 +18115,7 @@ var birthplaces = {
         "Id": 7.855,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Zwolle (Overijsel)",
-        "Last Name": "Zwakenberg",
+        "lastName": "Zwakenberg",
         "dateOfBirth": "04/28/1831",
         "showOnMap": false
       },
@@ -18133,7 +18133,7 @@ var birthplaces = {
         "Id": 7.856,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Castrelo de Puebla de Trives (Orense)",
-        "Last Name": "Fern\u00ef\u00bf\u00bdndez (Remesal)",
+        "lastName": "Fern\u00ef\u00bf\u00bdndez (Remesal)",
         "dateOfBirth": "08/18/1834",
         "showOnMap": false
       },
@@ -18151,7 +18151,7 @@ var birthplaces = {
         "Id": 7.857,
         "yearOfBirth": 1824.0,
         "Place of Birth": "Goa.",
-        "Last Name": "Jaques",
+        "lastName": "Jaques",
         "dateOfBirth": "12/05/1824",
         "showOnMap": false
       },
@@ -18169,7 +18169,7 @@ var birthplaces = {
         "Id": 7.858,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Tincry (Meurthe)",
-        "Last Name": "B\u00ef\u00bf\u00bdgin",
+        "lastName": "B\u00ef\u00bf\u00bdgin",
         "dateOfBirth": "09/21/1820",
         "showOnMap": false
       },
@@ -18187,7 +18187,7 @@ var birthplaces = {
         "Id": 7.859,
         "yearOfBirth": 1852.0,
         "Place of Birth": "Prochowice, Wrocl",
-        "Last Name": "Weinert",
+        "lastName": "Weinert",
         "dateOfBirth": "08/01/1852",
         "showOnMap": false
       },
@@ -18205,7 +18205,7 @@ var birthplaces = {
         "Id": 7.86,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Paris",
-        "Last Name": "Chambellan",
+        "lastName": "Chambellan",
         "dateOfBirth": "01/18/1834",
         "showOnMap": false
       },
@@ -18223,7 +18223,7 @@ var birthplaces = {
         "Id": 7.862,
         "yearOfBirth": 1847.0,
         "Place of Birth": "Charlestown, N.H.",
-        "Last Name": "Robertson",
+        "lastName": "Robertson",
         "dateOfBirth": "03/22/1847",
         "showOnMap": false
       },
@@ -18241,7 +18241,7 @@ var birthplaces = {
         "Id": 7.863,
         "yearOfBirth": 1872.0,
         "Place of Birth": "Kilnanare (Kerry)",
-        "Last Name": "Lyons",
+        "lastName": "Lyons",
         "dateOfBirth": "12/11/1872",
         "showOnMap": false
       },
@@ -18259,7 +18259,7 @@ var birthplaces = {
         "Id": 7.864,
         "yearOfBirth": 1848.0,
         "Place of Birth": "Manresa",
-        "Last Name": "Bosch",
+        "lastName": "Bosch",
         "dateOfBirth": "01/28/1848",
         "showOnMap": false
       },
@@ -18277,7 +18277,7 @@ var birthplaces = {
         "Id": 7.865,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Alzano Maggiore (Bergamo)",
-        "Last Name": "Valenti",
+        "lastName": "Valenti",
         "dateOfBirth": "06/20/1826",
         "showOnMap": false
       },
@@ -18295,7 +18295,7 @@ var birthplaces = {
         "Id": 7.866,
         "yearOfBirth": 1832.0,
         "Place of Birth": "Ch\u00ef\u00bf\u00bdry-l\u00ef\u00bf\u00bds-Rozoy (Aisne)",
-        "Last Name": "Boitte",
+        "lastName": "Boitte",
         "dateOfBirth": "07/18/1832",
         "showOnMap": false
       },
@@ -18313,7 +18313,7 @@ var birthplaces = {
         "Id": 7.867,
         "yearOfBirth": 1845.0,
         "Place of Birth": "Guatemala",
-        "Last Name": "C\u00ef\u00bf\u00bdceres",
+        "lastName": "C\u00ef\u00bf\u00bdceres",
         "dateOfBirth": "10/19/1845",
         "showOnMap": false
       },
@@ -18331,7 +18331,7 @@ var birthplaces = {
         "Id": 7.868,
         "yearOfBirth": 1860.0,
         "Place of Birth": "Erie, Pa.",
-        "Last Name": "Ehret",
+        "lastName": "Ehret",
         "dateOfBirth": "03/05/1860",
         "showOnMap": false
       },
@@ -18349,7 +18349,7 @@ var birthplaces = {
         "Id": 7.87,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Amsterdam",
-        "Last Name": "Weetink",
+        "lastName": "Weetink",
         "dateOfBirth": "02/21/1831",
         "showOnMap": false
       },
@@ -18367,7 +18367,7 @@ var birthplaces = {
         "Id": 7.871,
         "yearOfBirth": 1857.0,
         "Place of Birth": "Orj\u00ef\u00bf\u00bdes (Beira Baixa)",
-        "Last Name": "Carvalho",
+        "lastName": "Carvalho",
         "dateOfBirth": "05/07/1857",
         "showOnMap": false
       },
@@ -18385,7 +18385,7 @@ var birthplaces = {
         "Id": 7.872,
         "yearOfBirth": 1861.0,
         "Place of Birth": "Gourlizon (Finist\u00ef\u00bf\u00bdre)",
-        "Last Name": "Le Bars",
+        "lastName": "Le Bars",
         "dateOfBirth": "11/05/1861",
         "showOnMap": false
       },
@@ -18403,7 +18403,7 @@ var birthplaces = {
         "Id": 7.873,
         "yearOfBirth": 1854.0,
         "Place of Birth": "Proen\u00ef\u00bf\u00bda Nova (Beira Baixa)",
-        "Last Name": "da Silva",
+        "lastName": "da Silva",
         "dateOfBirth": "04/02/1854",
         "showOnMap": false
       },
@@ -18421,7 +18421,7 @@ var birthplaces = {
         "Id": 7.875,
         "yearOfBirth": 1828.0,
         "Place of Birth": "Zevenaar (Gelderland)",
-        "Last Name": "Heynen",
+        "lastName": "Heynen",
         "dateOfBirth": "01/30/1828",
         "showOnMap": false
       },
@@ -18439,7 +18439,7 @@ var birthplaces = {
         "Id": 7.876,
         "yearOfBirth": 1816.0,
         "Place of Birth": "Nowy S?cz",
-        "Last Name": "Plaski",
+        "lastName": "Plaski",
         "dateOfBirth": "05/16/1816",
         "showOnMap": false
       },
@@ -18457,7 +18457,7 @@ var birthplaces = {
         "Id": 7.877,
         "yearOfBirth": 1843.0,
         "Place of Birth": "Namur",
-        "Last Name": "Brabant",
+        "lastName": "Brabant",
         "dateOfBirth": "03/24/1843",
         "showOnMap": false
       },
@@ -18475,7 +18475,7 @@ var birthplaces = {
         "Id": 7.878,
         "yearOfBirth": 1818.0,
         "Place of Birth": "Reutte (Tirol)",
-        "Last Name": "Dengel",
+        "lastName": "Dengel",
         "dateOfBirth": "01/28/1818",
         "showOnMap": false
       },
@@ -18493,7 +18493,7 @@ var birthplaces = {
         "Id": 7.879,
         "yearOfBirth": 1807.0,
         "Place of Birth": "Anvers",
-        "Last Name": "Lusyterborgh",
+        "lastName": "Lusyterborgh",
         "dateOfBirth": "12/27/1807",
         "showOnMap": false
       },
@@ -18511,7 +18511,7 @@ var birthplaces = {
         "Id": 7.88,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Osterfeine (Damme, Oldenburg)",
-        "Last Name": "Reinerding",
+        "lastName": "Reinerding",
         "dateOfBirth": "03/25/1827",
         "showOnMap": false
       },
@@ -18529,7 +18529,7 @@ var birthplaces = {
         "Id": 7.881,
         "yearOfBirth": 1825.0,
         "Place of Birth": "S. Estevan de Geraz (Minho)",
-        "Last Name": "Moraes",
+        "lastName": "Moraes",
         "dateOfBirth": "02/14/1825",
         "showOnMap": false
       },
@@ -18547,7 +18547,7 @@ var birthplaces = {
         "Id": 7.882,
         "yearOfBirth": 1860.0,
         "Place of Birth": "Manchester",
-        "Last Name": "Faulkner",
+        "lastName": "Faulkner",
         "dateOfBirth": "06/30/1860",
         "showOnMap": false
       },
@@ -18565,7 +18565,7 @@ var birthplaces = {
         "Id": 7.883,
         "yearOfBirth": 1862.0,
         "Place of Birth": "Alquer\u00ef\u00bf\u00bdas (Murcia)",
-        "Last Name": "Garre P\u00ef\u00bf\u00bdrez",
+        "lastName": "Garre P\u00ef\u00bf\u00bdrez",
         "dateOfBirth": "11/13/1862",
         "showOnMap": false
       },
@@ -18583,7 +18583,7 @@ var birthplaces = {
         "Id": 7.884,
         "yearOfBirth": 1828.0,
         "Place of Birth": "Wijchen (Gelderland)",
-        "Last Name": "van den Gheijn",
+        "lastName": "van den Gheijn",
         "dateOfBirth": "10/25/1828",
         "showOnMap": false
       },
@@ -18601,7 +18601,7 @@ var birthplaces = {
         "Id": 7.885,
         "yearOfBirth": 1809.0,
         "Place of Birth": "Canepina (Roma)",
-        "Last Name": "Angelini (Rota)",
+        "lastName": "Angelini (Rota)",
         "dateOfBirth": "01/26/1809",
         "showOnMap": false
       },
@@ -18619,7 +18619,7 @@ var birthplaces = {
         "Id": 7.886,
         "yearOfBirth": 1873.0,
         "Place of Birth": "Durango",
-        "Last Name": "Uriguen",
+        "lastName": "Uriguen",
         "dateOfBirth": "01/13/1873",
         "showOnMap": false
       },
@@ -18637,7 +18637,7 @@ var birthplaces = {
         "Id": 7.887,
         "yearOfBirth": 1838.0,
         "Place of Birth": "Truchtersheim (B-Rhin)",
-        "Last Name": "Jung",
+        "lastName": "Jung",
         "dateOfBirth": "04/06/1838",
         "showOnMap": false
       },
@@ -18655,7 +18655,7 @@ var birthplaces = {
         "Id": 7.888,
         "yearOfBirth": 1844.0,
         "Place of Birth": "Tortosa",
-        "Last Name": "Valldeperes",
+        "lastName": "Valldeperes",
         "dateOfBirth": "08/01/1844",
         "showOnMap": false
       },
@@ -18673,7 +18673,7 @@ var birthplaces = {
         "Id": 7.889,
         "yearOfBirth": 1810.0,
         "Place of Birth": "Cuitzlo de la Laguna (Michoacan)",
-        "Last Name": "Reyes",
+        "lastName": "Reyes",
         "dateOfBirth": "11/14/1810",
         "showOnMap": false
       },
@@ -18691,7 +18691,7 @@ var birthplaces = {
         "Id": 7.89,
         "yearOfBirth": 1859.0,
         "Place of Birth": "Woszczyce, Kat.",
-        "Last Name": "Kozubek",
+        "lastName": "Kozubek",
         "dateOfBirth": "03/07/1859",
         "showOnMap": false
       },
@@ -18709,7 +18709,7 @@ var birthplaces = {
         "Id": 7.891,
         "yearOfBirth": 1810.0,
         "Place of Birth": "Salerno",
-        "Last Name": "Liberatore",
+        "lastName": "Liberatore",
         "dateOfBirth": "08/14/1810",
         "showOnMap": false
       },
@@ -18727,7 +18727,7 @@ var birthplaces = {
         "Id": 7.892,
         "yearOfBirth": 1808.0,
         "Place of Birth": "Cingoli (Macerata)",
-        "Last Name": "Severi",
+        "lastName": "Severi",
         "dateOfBirth": "01/19/1808",
         "showOnMap": false
       },
@@ -18745,7 +18745,7 @@ var birthplaces = {
         "Id": 7.893,
         "yearOfBirth": 1816.0,
         "Place of Birth": "Villafranca (Massa)",
-        "Last Name": "Malaspina",
+        "lastName": "Malaspina",
         "dateOfBirth": "07/08/1816",
         "showOnMap": false
       },
@@ -18763,7 +18763,7 @@ var birthplaces = {
         "Id": 7.894,
         "yearOfBirth": 1828.0,
         "Place of Birth": "Lerida",
-        "Last Name": "Mies",
+        "lastName": "Mies",
         "dateOfBirth": "05/10/1828",
         "showOnMap": false
       },
@@ -18781,7 +18781,7 @@ var birthplaces = {
         "Id": 7.895,
         "yearOfBirth": 1865.0,
         "Place of Birth": "Campos (Mallorca)",
-        "Last Name": "Llado",
+        "lastName": "Llado",
         "dateOfBirth": "09/17/1865",
         "showOnMap": false
       },
@@ -18799,7 +18799,7 @@ var birthplaces = {
         "Id": 7.896,
         "yearOfBirth": 1838.0,
         "Place of Birth": "Herwen en Aard (Gelderland)",
-        "Last Name": "Huink",
+        "lastName": "Huink",
         "dateOfBirth": "09/16/1838",
         "showOnMap": false
       },
@@ -18817,7 +18817,7 @@ var birthplaces = {
         "Id": 7.897,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Turnhout",
-        "Last Name": "Haeren",
+        "lastName": "Haeren",
         "dateOfBirth": "08/09/1831",
         "showOnMap": false
       },
@@ -18835,7 +18835,7 @@ var birthplaces = {
         "Id": 7.898,
         "yearOfBirth": 1852.0,
         "Place of Birth": "Lenz (Graubunden)",
-        "Last Name": "Nadig",
+        "lastName": "Nadig",
         "dateOfBirth": "06/14/1852",
         "showOnMap": false
       },
@@ -18853,7 +18853,7 @@ var birthplaces = {
         "Id": 7.899,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Stimpfach (Wurtemberg)",
-        "Last Name": "Piscalar",
+        "lastName": "Piscalar",
         "dateOfBirth": "05/24/1817",
         "showOnMap": false
       },
@@ -18871,7 +18871,7 @@ var birthplaces = {
         "Id": 7.9,
         "yearOfBirth": 1862.0,
         "Place of Birth": "Huacho (Chancay, Lima)",
-        "Last Name": "Cano",
+        "lastName": "Cano",
         "dateOfBirth": "05/16/1862",
         "showOnMap": false
       },
@@ -18889,7 +18889,7 @@ var birthplaces = {
         "Id": 7.901,
         "yearOfBirth": 1813.0,
         "Place of Birth": "Mallow (Cork)",
-        "Last Name": "Kelleher",
+        "lastName": "Kelleher",
         "dateOfBirth": "04/15/1813",
         "showOnMap": false
       },
@@ -18907,7 +18907,7 @@ var birthplaces = {
         "Id": 7.902,
         "yearOfBirth": 1816.0,
         "Place of Birth": "Muhldorf (Bayern)",
-        "Last Name": "Kobler",
+        "lastName": "Kobler",
         "dateOfBirth": "06/22/1816",
         "showOnMap": false
       },
@@ -18925,7 +18925,7 @@ var birthplaces = {
         "Id": 7.903,
         "yearOfBirth": 1818.0,
         "Place of Birth": "Clermont (Liege)",
-        "Last Name": "Denis",
+        "lastName": "Denis",
         "dateOfBirth": "08/05/1818",
         "showOnMap": false
       },
@@ -18943,7 +18943,7 @@ var birthplaces = {
         "Id": 7.904,
         "yearOfBirth": 1829.0,
         "Place of Birth": "Bogot\u00ef\u00bf\u00bd",
-        "Last Name": "Fonseca",
+        "lastName": "Fonseca",
         "dateOfBirth": "12/09/1829",
         "showOnMap": false
       },
@@ -18961,7 +18961,7 @@ var birthplaces = {
         "Id": 7.905,
         "yearOfBirth": 1841.0,
         "Place of Birth": "Olvan (Barcelona)",
-        "Last Name": "Minoves",
+        "lastName": "Minoves",
         "dateOfBirth": "06/13/1841",
         "showOnMap": false
       },
@@ -18979,7 +18979,7 @@ var birthplaces = {
         "Id": 7.906,
         "yearOfBirth": 1836.0,
         "Place of Birth": "Heinsberg (Rheinland)",
-        "Last Name": "Friderici",
+        "lastName": "Friderici",
         "dateOfBirth": "06/24/1836",
         "showOnMap": false
       },
@@ -18997,7 +18997,7 @@ var birthplaces = {
         "Id": 7.907,
         "yearOfBirth": 1850.0,
         "Place of Birth": "Tarbes (H-Pyrenees)",
-        "Last Name": "Lafaye",
+        "lastName": "Lafaye",
         "dateOfBirth": "05/03/1850",
         "showOnMap": false
       },
@@ -19015,7 +19015,7 @@ var birthplaces = {
         "Id": 7.908,
         "yearOfBirth": 1862.0,
         "Place of Birth": "Azpeitia",
-        "Last Name": "Cendoya",
+        "lastName": "Cendoya",
         "dateOfBirth": "11/29/1862",
         "showOnMap": false
       },
@@ -19033,7 +19033,7 @@ var birthplaces = {
         "Id": 7.909,
         "yearOfBirth": 1835.0,
         "Place of Birth": "Montceaux-l'Etoile (Saone-et-L)",
-        "Last Name": "Aupecle",
+        "lastName": "Aupecle",
         "dateOfBirth": "12/23/1835",
         "showOnMap": false
       },
@@ -19051,7 +19051,7 @@ var birthplaces = {
         "Id": 7.91,
         "yearOfBirth": 1871.0,
         "Place of Birth": "Lgota, Krak.",
-        "Last Name": "Klaput",
+        "lastName": "Klaput",
         "dateOfBirth": "09/01/1871",
         "showOnMap": false
       },
@@ -19069,7 +19069,7 @@ var birthplaces = {
         "Id": 7.911,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Cairate (Milano)",
-        "Last Name": "Mantegazzi",
+        "lastName": "Mantegazzi",
         "dateOfBirth": "08/03/1817",
         "showOnMap": false
       },
@@ -19087,7 +19087,7 @@ var birthplaces = {
         "Id": 7.912,
         "yearOfBirth": 1837.0,
         "Place of Birth": "Albersloh (Westfalen)",
-        "Last Name": "Rother",
+        "lastName": "Rother",
         "dateOfBirth": "01/01/1837",
         "showOnMap": false
       },
@@ -19105,7 +19105,7 @@ var birthplaces = {
         "Id": 7.914,
         "yearOfBirth": 1816.0,
         "Place of Birth": "Lecce",
-        "Last Name": "Rossi",
+        "lastName": "Rossi",
         "dateOfBirth": "11/28/1816",
         "showOnMap": false
       },
@@ -19123,7 +19123,7 @@ var birthplaces = {
         "Id": 7.915,
         "yearOfBirth": 1858.0,
         "Place of Birth": "Toulouse",
-        "Last Name": "de Resseguier",
+        "lastName": "de Resseguier",
         "dateOfBirth": "11/22/1858",
         "showOnMap": false
       },
@@ -19141,7 +19141,7 @@ var birthplaces = {
         "Id": 7.916,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Melckwesez (Brabant)",
-        "Last Name": "Es",
+        "lastName": "Es",
         "dateOfBirth": "10/01/1821",
         "showOnMap": false
       },
@@ -19159,7 +19159,7 @@ var birthplaces = {
         "Id": 7.917,
         "yearOfBirth": 1871.0,
         "Place of Birth": "Radnotfaja (Transylvanie)",
-        "Last Name": "Kol",
+        "lastName": "Kol",
         "dateOfBirth": "05/19/1871",
         "showOnMap": false
       },
@@ -19177,7 +19177,7 @@ var birthplaces = {
         "Id": 7.918,
         "yearOfBirth": 1829.0,
         "Place of Birth": "Montecchio (Reggio Emilia)",
-        "Last Name": "Jemmi",
+        "lastName": "Jemmi",
         "dateOfBirth": "07/17/1829",
         "showOnMap": false
       },
@@ -19195,7 +19195,7 @@ var birthplaces = {
         "Id": 7.919,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Herzele (Fl Or)",
-        "Last Name": "Van Den Eede",
+        "lastName": "Van Den Eede",
         "dateOfBirth": "04/05/1822",
         "showOnMap": false
       },
@@ -19213,7 +19213,7 @@ var birthplaces = {
         "Id": 7.92,
         "yearOfBirth": 1857.0,
         "Place of Birth": "Aups (Var)",
-        "Last Name": "Laure",
+        "lastName": "Laure",
         "dateOfBirth": "01/29/1857",
         "showOnMap": false
       },
@@ -19231,7 +19231,7 @@ var birthplaces = {
         "Id": 7.921,
         "yearOfBirth": 1873.0,
         "Place of Birth": "Maashees (N-Brabant)",
-        "Last Name": "Gielen",
+        "lastName": "Gielen",
         "dateOfBirth": "02/02/1873",
         "showOnMap": false
       },
@@ -19249,7 +19249,7 @@ var birthplaces = {
         "Id": 7.922,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Pistoia (Firenze)",
-        "Last Name": "Vannucci",
+        "lastName": "Vannucci",
         "dateOfBirth": "09/18/1825",
         "showOnMap": false
       },
@@ -19267,7 +19267,7 @@ var birthplaces = {
         "Id": 7.923,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Issoudum (Indre)",
-        "Last Name": "Blanchard",
+        "lastName": "Blanchard",
         "dateOfBirth": "01/28/1825",
         "showOnMap": false
       },
@@ -19285,7 +19285,7 @@ var birthplaces = {
         "Id": 7.924,
         "yearOfBirth": 1865.0,
         "Place of Birth": "Gijon (Oviedo)",
-        "Last Name": "Lopez Acebal",
+        "lastName": "Lopez Acebal",
         "dateOfBirth": "03/24/1865",
         "showOnMap": false
       },
@@ -19303,7 +19303,7 @@ var birthplaces = {
         "Id": 7.925,
         "yearOfBirth": 1818.0,
         "Place of Birth": "Beauvais (Oise)",
-        "Last Name": "Daniel",
+        "lastName": "Daniel",
         "dateOfBirth": "12/31/1818",
         "showOnMap": false
       },
@@ -19321,7 +19321,7 @@ var birthplaces = {
         "Id": 7.926,
         "yearOfBirth": 1821.0,
         "Place of Birth": "London",
-        "Last Name": "Kingdon",
+        "lastName": "Kingdon",
         "dateOfBirth": "11/30/1821",
         "showOnMap": false
       },
@@ -19339,7 +19339,7 @@ var birthplaces = {
         "Id": 7.927,
         "yearOfBirth": 1862.0,
         "Place of Birth": "Friedberg (Bayern)",
-        "Last Name": "Schwarz",
+        "lastName": "Schwarz",
         "dateOfBirth": "06/02/1862",
         "showOnMap": false
       },
@@ -19357,7 +19357,7 @@ var birthplaces = {
         "Id": 7.928,
         "yearOfBirth": 1832.0,
         "Place of Birth": "New York",
-        "Last Name": "Gormley",
+        "lastName": "Gormley",
         "dateOfBirth": "04/08/1832",
         "showOnMap": false
       },
@@ -19375,7 +19375,7 @@ var birthplaces = {
         "Id": 7.93,
         "yearOfBirth": 1854.0,
         "Place of Birth": "Wollmatingen (Baden)",
-        "Last Name": "Oehry",
+        "lastName": "Oehry",
         "dateOfBirth": "12/02/1854",
         "showOnMap": false
       },
@@ -19393,7 +19393,7 @@ var birthplaces = {
         "Id": 7.931,
         "yearOfBirth": 1803.0,
         "Place of Birth": "Paris",
-        "Last Name": "(Aleno) de ST-Alouarn",
+        "lastName": "(Aleno) de ST-Alouarn",
         "dateOfBirth": "05/13/1803",
         "showOnMap": false
       },
@@ -19411,7 +19411,7 @@ var birthplaces = {
         "Id": 7.932,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Senzeilles (Namur)",
-        "Last Name": "Meuret",
+        "lastName": "Meuret",
         "dateOfBirth": "08/14/1825",
         "showOnMap": false
       },
@@ -19429,7 +19429,7 @@ var birthplaces = {
         "Id": 7.933,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Mittelberg (Vorarlberg)",
-        "Last Name": "Fritz",
+        "lastName": "Fritz",
         "dateOfBirth": "03/19/1827",
         "showOnMap": false
       },
@@ -19447,7 +19447,7 @@ var birthplaces = {
         "Id": 7.934,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Moulme\u00ef\u00bf\u00bdn (Burma)",
-        "Last Name": "Abreu",
+        "lastName": "Abreu",
         "dateOfBirth": "04/04/1827",
         "showOnMap": false
       },
@@ -19465,7 +19465,7 @@ var birthplaces = {
         "Id": 7.935,
         "yearOfBirth": 1868.0,
         "Place of Birth": "Condominas (par. Nages, Tarn)",
-        "Last Name": "Vidal",
+        "lastName": "Vidal",
         "dateOfBirth": "07/07/1868",
         "showOnMap": false
       },
@@ -19483,7 +19483,7 @@ var birthplaces = {
         "Id": 7.936,
         "yearOfBirth": 1868.0,
         "Place of Birth": "Trois-Pistoles, Qu\u00ef\u00bf\u00bd",
-        "Last Name": "Rioux",
+        "lastName": "Rioux",
         "dateOfBirth": "02/26/1868",
         "showOnMap": false
       },
@@ -19501,7 +19501,7 @@ var birthplaces = {
         "Id": 7.937,
         "yearOfBirth": 1875.0,
         "Place of Birth": "Belovar (Croatie)",
-        "Last Name": "Premuzic",
+        "lastName": "Premuzic",
         "dateOfBirth": "12/08/1875",
         "showOnMap": false
       },
@@ -19519,7 +19519,7 @@ var birthplaces = {
         "Id": 7.938,
         "yearOfBirth": 1829.0,
         "Place of Birth": "Ch\u00ef\u00bf\u00bdtellerault (Vienne)",
-        "Last Name": "Dutau",
+        "lastName": "Dutau",
         "dateOfBirth": "06/30/1829",
         "showOnMap": false
       },
@@ -19537,7 +19537,7 @@ var birthplaces = {
         "Id": 7.939,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Booterstown (Dublin)",
-        "Last Name": "Nolan",
+        "lastName": "Nolan",
         "dateOfBirth": "03/10/1826",
         "showOnMap": false
       },
@@ -19555,7 +19555,7 @@ var birthplaces = {
         "Id": 7.94,
         "yearOfBirth": 1841.0,
         "Place of Birth": "Plandogau (L\u00ef\u00bf\u00bdrida)",
-        "Last Name": "Soler",
+        "lastName": "Soler",
         "dateOfBirth": "02/13/1841",
         "showOnMap": false
       },
@@ -19573,7 +19573,7 @@ var birthplaces = {
         "Id": 7.941,
         "yearOfBirth": 1828.0,
         "Place of Birth": "Banada Abbey (Sligo)",
-        "Last Name": "Jones",
+        "lastName": "Jones",
         "dateOfBirth": "03/28/1828",
         "showOnMap": false
       },
@@ -19591,7 +19591,7 @@ var birthplaces = {
         "Id": 7.942,
         "yearOfBirth": 1824.0,
         "Place of Birth": "Largenti\u00ef\u00bf\u00bdre (Ardeche)",
-        "Last Name": "de Rochemure",
+        "lastName": "de Rochemure",
         "dateOfBirth": "10/07/1824",
         "showOnMap": false
       },
@@ -19609,7 +19609,7 @@ var birthplaces = {
         "Id": 7.943,
         "yearOfBirth": 1832.0,
         "Place of Birth": "Amsterdam",
-        "Last Name": "(Oosterwyck) Veldhuis",
+        "lastName": "(Oosterwyck) Veldhuis",
         "dateOfBirth": "08/22/1832",
         "showOnMap": false
       },
@@ -19627,7 +19627,7 @@ var birthplaces = {
         "Id": 7.944,
         "yearOfBirth": 1845.0,
         "Place of Birth": "Hall (Tirol)",
-        "Last Name": "Passmoser",
+        "lastName": "Passmoser",
         "dateOfBirth": "04/07/1845",
         "showOnMap": false
       },
@@ -19645,7 +19645,7 @@ var birthplaces = {
         "Id": 7.945,
         "yearOfBirth": 1818.0,
         "Place of Birth": "Killarney (Kerry)",
-        "Last Name": "Sullivan",
+        "lastName": "Sullivan",
         "dateOfBirth": "05/12/1818",
         "showOnMap": false
       },
@@ -19663,7 +19663,7 @@ var birthplaces = {
         "Id": 7.946,
         "yearOfBirth": 1851.0,
         "Place of Birth": "London",
-        "Last Name": "O'Connor",
+        "lastName": "O'Connor",
         "dateOfBirth": "01/01/1851",
         "showOnMap": false
       },
@@ -19681,7 +19681,7 @@ var birthplaces = {
         "Id": 7.947,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Palermo",
-        "Last Name": "Di Giorgio",
+        "lastName": "Di Giorgio",
         "dateOfBirth": "07/31/1834",
         "showOnMap": false
       },
@@ -19699,7 +19699,7 @@ var birthplaces = {
         "Id": 7.948,
         "yearOfBirth": 1838.0,
         "Place of Birth": "Tolox (M\u00ef\u00bf\u00bdlaga)",
-        "Last Name": "Gonz\u00ef\u00bf\u00bdlez",
+        "lastName": "Gonz\u00ef\u00bf\u00bdlez",
         "dateOfBirth": "01/17/1838",
         "showOnMap": false
       },
@@ -19717,7 +19717,7 @@ var birthplaces = {
         "Id": 7.949,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Bilch (Rheinland)",
-        "Last Name": "Viehoff",
+        "lastName": "Viehoff",
         "dateOfBirth": "05/19/1823",
         "showOnMap": false
       },
@@ -19735,7 +19735,7 @@ var birthplaces = {
         "Id": 7.95,
         "yearOfBirth": 1819.0,
         "Place of Birth": "Vitr\u00ef\u00bf\u00bd (Ille-et-V)",
-        "Last Name": "(de la Dou\u00ef\u00bf\u00bdppe) Du Fougerais",
+        "lastName": "(de la Dou\u00ef\u00bf\u00bdppe) Du Fougerais",
         "dateOfBirth": "03/14/1819",
         "showOnMap": false
       },
@@ -19753,7 +19753,7 @@ var birthplaces = {
         "Id": 7.951,
         "yearOfBirth": 1824.0,
         "Place of Birth": "Hell\u00ef\u00bf\u00bdn (Albacete)",
-        "Last Name": "Perier",
+        "lastName": "Perier",
         "dateOfBirth": "08/02/1824",
         "showOnMap": false
       },
@@ -19771,7 +19771,7 @@ var birthplaces = {
         "Id": 7.952,
         "yearOfBirth": 1829.0,
         "Place of Birth": "Geneva",
-        "Last Name": "Sanguineti",
+        "lastName": "Sanguineti",
         "dateOfBirth": "10/12/1829",
         "showOnMap": false
       },
@@ -19789,7 +19789,7 @@ var birthplaces = {
         "Id": 7.953,
         "yearOfBirth": 1866.0,
         "Place of Birth": "Foresto (Bergamo)",
-        "Last Name": "Duci",
+        "lastName": "Duci",
         "dateOfBirth": "08/22/1866",
         "showOnMap": false
       },
@@ -19807,7 +19807,7 @@ var birthplaces = {
         "Id": 7.954,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Sevilla",
-        "Last Name": "Maruri",
+        "lastName": "Maruri",
         "dateOfBirth": "10/24/1820",
         "showOnMap": false
       },
@@ -19825,7 +19825,7 @@ var birthplaces = {
         "Id": 7.955,
         "yearOfBirth": 1793.0,
         "Place of Birth": "Kilworth (Cork)",
-        "Last Name": "Ginivan",
+        "lastName": "Ginivan",
         "dateOfBirth": "02/08/1793",
         "showOnMap": false
       },
@@ -19843,7 +19843,7 @@ var birthplaces = {
         "Id": 7.956,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Carrigaholt (Clare)",
-        "Last Name": "Foley",
+        "lastName": "Foley",
         "dateOfBirth": "01/06/1826",
         "showOnMap": false
       },
@@ -19861,7 +19861,7 @@ var birthplaces = {
         "Id": 7.957,
         "yearOfBirth": 1871.0,
         "Place of Birth": "Dinan (C\u00ef\u00bf\u00bdtes-du-N)",
-        "Last Name": "Adam",
+        "lastName": "Adam",
         "dateOfBirth": "05/10/1871",
         "showOnMap": false
       },
@@ -19879,7 +19879,7 @@ var birthplaces = {
         "Id": 7.958,
         "yearOfBirth": 1866.0,
         "Place of Birth": "London",
-        "Last Name": "Fraser",
+        "lastName": "Fraser",
         "dateOfBirth": "03/21/1866",
         "showOnMap": false
       },
@@ -19897,7 +19897,7 @@ var birthplaces = {
         "Id": 7.959,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Agrate (Novara)",
-        "Last Name": "Julitta",
+        "lastName": "Julitta",
         "dateOfBirth": "02/06/1831",
         "showOnMap": false
       },
@@ -19915,7 +19915,7 @@ var birthplaces = {
         "Id": 7.96,
         "yearOfBirth": 1863.0,
         "Place of Birth": "Modena",
-        "Last Name": "Campioli",
+        "lastName": "Campioli",
         "dateOfBirth": "02/18/1863",
         "showOnMap": false
       },
@@ -19933,7 +19933,7 @@ var birthplaces = {
         "Id": 7.961,
         "yearOfBirth": 1819.0,
         "Place of Birth": "Campos (Mallorca)",
-        "Last Name": "Llad\u00ef\u00bf\u00bd",
+        "lastName": "Llad\u00ef\u00bf\u00bd",
         "dateOfBirth": "01/16/1819",
         "showOnMap": false
       },
@@ -19951,7 +19951,7 @@ var birthplaces = {
         "Id": 7.962,
         "yearOfBirth": 1830.0,
         "Place of Birth": "Mun\u00ef\u00bf\u00bdbrega (Zaragoza)",
-        "Last Name": "Morlanes",
+        "lastName": "Morlanes",
         "dateOfBirth": "07/29/1830",
         "showOnMap": false
       },
@@ -19969,7 +19969,7 @@ var birthplaces = {
         "Id": 7.963,
         "yearOfBirth": 1811.0,
         "Place of Birth": "Champignelles (Yonne)",
-        "Last Name": "Fleaux",
+        "lastName": "Fleaux",
         "dateOfBirth": "04/15/1811",
         "showOnMap": false
       },
@@ -19987,7 +19987,7 @@ var birthplaces = {
         "Id": 7.964,
         "yearOfBirth": 1833.0,
         "Place of Birth": "Courgeout (Orne)",
-        "Last Name": "de Beaumont",
+        "lastName": "de Beaumont",
         "dateOfBirth": "06/24/1833",
         "showOnMap": false
       },
@@ -20005,7 +20005,7 @@ var birthplaces = {
         "Id": 7.965,
         "yearOfBirth": 1824.0,
         "Place of Birth": "Lys\u00ef\u00bf\u00bd (?echy)",
-        "Last Name": "Dworz\u00ef\u00bf\u00bdk",
+        "lastName": "Dworz\u00ef\u00bf\u00bdk",
         "dateOfBirth": "11/23/1824",
         "showOnMap": false
       },
@@ -20023,7 +20023,7 @@ var birthplaces = {
         "Id": 7.966,
         "yearOfBirth": 1849.0,
         "Place of Birth": "Sarlat",
-        "Last Name": "Poulange",
+        "lastName": "Poulange",
         "dateOfBirth": "11/11/1849",
         "showOnMap": false
       },
@@ -20041,7 +20041,7 @@ var birthplaces = {
         "Id": 7.967,
         "yearOfBirth": 1854.0,
         "Place of Birth": "Wrotham (Kent)",
-        "Last Name": "Williams",
+        "lastName": "Williams",
         "dateOfBirth": "06/14/1854",
         "showOnMap": false
       },
@@ -20059,7 +20059,7 @@ var birthplaces = {
         "Id": 7.968,
         "yearOfBirth": 1871.0,
         "Place of Birth": "St-Nicolas (Fl Or)",
-        "Last Name": "Poppe",
+        "lastName": "Poppe",
         "dateOfBirth": "07/31/1871",
         "showOnMap": false
       },
@@ -20077,7 +20077,7 @@ var birthplaces = {
         "Id": 7.969,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Askeaton (Limerick)",
-        "Last Name": "Nash",
+        "lastName": "Nash",
         "dateOfBirth": "11/01/1820",
         "showOnMap": false
       },
@@ -20095,7 +20095,7 @@ var birthplaces = {
         "Id": 7.97,
         "yearOfBirth": 1839.0,
         "Place of Birth": "Castle Gregory (Kerry)",
-        "Last Name": "O'Farrell",
+        "lastName": "O'Farrell",
         "dateOfBirth": "04/06/1839",
         "showOnMap": false
       },
@@ -20113,7 +20113,7 @@ var birthplaces = {
         "Id": 7.971,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Framerville (Somme)",
-        "Last Name": "Delavenne",
+        "lastName": "Delavenne",
         "dateOfBirth": "01/18/1827",
         "showOnMap": false
       },
@@ -20131,7 +20131,7 @@ var birthplaces = {
         "Id": 7.972,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Montalto (Torino)",
-        "Last Name": "Cerutti",
+        "lastName": "Cerutti",
         "dateOfBirth": "09/10/1817",
         "showOnMap": false
       },
@@ -20149,7 +20149,7 @@ var birthplaces = {
         "Id": 7.973,
         "yearOfBirth": 1835.0,
         "Place of Birth": "Chioggia",
-        "Last Name": "Perini",
+        "lastName": "Perini",
         "dateOfBirth": "09/08/1835",
         "showOnMap": false
       },
@@ -20167,7 +20167,7 @@ var birthplaces = {
         "Id": 7.975,
         "yearOfBirth": 1838.0,
         "Place of Birth": "Bourg-de-P\u00ef\u00bf\u00bdage (Dr\u00ef\u00bf\u00bdme)",
-        "Last Name": "Mazelier",
+        "lastName": "Mazelier",
         "dateOfBirth": "08/19/1838",
         "showOnMap": false
       },
@@ -20185,7 +20185,7 @@ var birthplaces = {
         "Id": 7.976,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Manresa",
-        "Last Name": "Coma",
+        "lastName": "Coma",
         "dateOfBirth": "01/26/1827",
         "showOnMap": false
       },
@@ -20203,7 +20203,7 @@ var birthplaces = {
         "Id": 7.977,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Argenteuil (Seine-et-O)",
-        "Last Name": "Chevreuil",
+        "lastName": "Chevreuil",
         "dateOfBirth": "09/29/1827",
         "showOnMap": false
       },
@@ -20221,7 +20221,7 @@ var birthplaces = {
         "Id": 7.978,
         "yearOfBirth": 1857.0,
         "Place of Birth": "Springfield, Ill.",
-        "Last Name": "Paillou",
+        "lastName": "Paillou",
         "dateOfBirth": "08/11/1857",
         "showOnMap": false
       },
@@ -20239,7 +20239,7 @@ var birthplaces = {
         "Id": 7.979,
         "yearOfBirth": 1838.0,
         "Place of Birth": "Placencia (Guip\u00ef\u00bf\u00bdzcoa)",
-        "Last Name": "Oregui",
+        "lastName": "Oregui",
         "dateOfBirth": "08/21/1838",
         "showOnMap": false
       },
@@ -20257,7 +20257,7 @@ var birthplaces = {
         "Id": 7.98,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Anna di Sotto (Bolzano)",
-        "Last Name": "Tuzer",
+        "lastName": "Tuzer",
         "dateOfBirth": "04/16/1817",
         "showOnMap": false
       },
@@ -20275,7 +20275,7 @@ var birthplaces = {
         "Id": 7.981,
         "yearOfBirth": 1837.0,
         "Place of Birth": "Waldenrath (Rheinland)",
-        "Last Name": "Fratz",
+        "lastName": "Fratz",
         "dateOfBirth": "08/15/1837",
         "showOnMap": false
       },
@@ -20293,7 +20293,7 @@ var birthplaces = {
         "Id": 7.982,
         "yearOfBirth": 1861.0,
         "Place of Birth": "Huarte (Navarra)",
-        "Last Name": "Miranda",
+        "lastName": "Miranda",
         "dateOfBirth": "04/04/1861",
         "showOnMap": false
       },
@@ -20311,7 +20311,7 @@ var birthplaces = {
         "Id": 7.983,
         "yearOfBirth": 1853.0,
         "Place of Birth": "Alost",
-        "Last Name": "van Hove",
+        "lastName": "van Hove",
         "dateOfBirth": "02/18/1853",
         "showOnMap": false
       },
@@ -20329,7 +20329,7 @@ var birthplaces = {
         "Id": 7.984,
         "yearOfBirth": 1835.0,
         "Place of Birth": "Coleraine (Londonderry)",
-        "Last Name": "Begley",
+        "lastName": "Begley",
         "dateOfBirth": "06/21/1835",
         "showOnMap": false
       },
@@ -20347,7 +20347,7 @@ var birthplaces = {
         "Id": 7.985,
         "yearOfBirth": 1835.0,
         "Place of Birth": "Kildare",
-        "Last Name": "Geekie",
+        "lastName": "Geekie",
         "dateOfBirth": "12/27/1835",
         "showOnMap": false
       },
@@ -20365,7 +20365,7 @@ var birthplaces = {
         "Id": 7.986,
         "yearOfBirth": 1858.0,
         "Place of Birth": "Overhagen (Lippstadt, Westfalen)",
-        "Last Name": "de Schorlemer",
+        "lastName": "de Schorlemer",
         "dateOfBirth": "04/17/1858",
         "showOnMap": false
       },
@@ -20383,7 +20383,7 @@ var birthplaces = {
         "Id": 7.987,
         "yearOfBirth": 1835.0,
         "Place of Birth": "Sans (Barcelona)",
-        "Last Name": "Bofill",
+        "lastName": "Bofill",
         "dateOfBirth": "11/21/1835",
         "showOnMap": false
       },
@@ -20401,7 +20401,7 @@ var birthplaces = {
         "Id": 7.988,
         "yearOfBirth": 1846.0,
         "Place of Birth": "Valencia",
-        "Last Name": "Chamb\u00ef\u00bf\u00bd",
+        "lastName": "Chamb\u00ef\u00bf\u00bd",
         "dateOfBirth": "01/16/1846",
         "showOnMap": false
       },
@@ -20419,7 +20419,7 @@ var birthplaces = {
         "Id": 7.989,
         "yearOfBirth": 1832.0,
         "Place of Birth": "Seneffe (Hainaut)",
-        "Last Name": "Deham",
+        "lastName": "Deham",
         "dateOfBirth": "08/20/1832",
         "showOnMap": false
       },
@@ -20437,7 +20437,7 @@ var birthplaces = {
         "Id": 7.99,
         "yearOfBirth": 1809.0,
         "Place of Birth": "Haasdonck (Fl Or)",
-        "Last Name": "Weemaes",
+        "lastName": "Weemaes",
         "dateOfBirth": "01/10/1809",
         "showOnMap": false
       },
@@ -20455,7 +20455,7 @@ var birthplaces = {
         "Id": 7.991,
         "yearOfBirth": 1874.0,
         "Place of Birth": "Amsterdam",
-        "Last Name": "Klamer",
+        "lastName": "Klamer",
         "dateOfBirth": "06/07/1874",
         "showOnMap": false
       },
@@ -20473,7 +20473,7 @@ var birthplaces = {
         "Id": 7.992,
         "yearOfBirth": 1832.0,
         "Place of Birth": "Elbing (Gdansj)",
-        "Last Name": "Kolberg",
+        "lastName": "Kolberg",
         "dateOfBirth": "02/24/1832",
         "showOnMap": false
       },
@@ -20491,7 +20491,7 @@ var birthplaces = {
         "Id": 7.993,
         "yearOfBirth": 1872.0,
         "Place of Birth": "Lopidana (\u00ef\u00bf\u00bdlava)",
-        "Last Name": "L\u00ef\u00bf\u00bdpez",
+        "lastName": "L\u00ef\u00bf\u00bdpez",
         "dateOfBirth": "01/24/1872",
         "showOnMap": false
       },
@@ -20509,7 +20509,7 @@ var birthplaces = {
         "Id": 7.994,
         "yearOfBirth": 1844.0,
         "Place of Birth": "Millstreet (Cork)",
-        "Last Name": "Macswyney",
+        "lastName": "Macswyney",
         "dateOfBirth": "03/22/1844",
         "showOnMap": false
       },
@@ -20527,7 +20527,7 @@ var birthplaces = {
         "Id": 7.995,
         "yearOfBirth": 1828.0,
         "Place of Birth": "Bagnalstown (Carlow)",
-        "Last Name": "Timmon",
+        "lastName": "Timmon",
         "dateOfBirth": "02/02/1828",
         "showOnMap": false
       },
@@ -20545,7 +20545,7 @@ var birthplaces = {
         "Id": 7.996,
         "yearOfBirth": 1844.0,
         "Place of Birth": "Dingle (Kerry)",
-        "Last Name": "Manning",
+        "lastName": "Manning",
         "dateOfBirth": "04/07/1844",
         "showOnMap": false
       },
@@ -20563,7 +20563,7 @@ var birthplaces = {
         "Id": 7.998,
         "yearOfBirth": 1863.0,
         "Place of Birth": "Orl\u00ef\u00bf\u00bdans (Loiret)",
-        "Last Name": "Daudier",
+        "lastName": "Daudier",
         "dateOfBirth": "03/09/1863",
         "showOnMap": false
       },
@@ -20581,7 +20581,7 @@ var birthplaces = {
         "Id": 7.999,
         "yearOfBirth": 1839.0,
         "Place of Birth": "Lavaltrie, Qu\u00ef\u00bf\u00bd.",
-        "Last Name": "Rosselin",
+        "lastName": "Rosselin",
         "dateOfBirth": "12/26/1839",
         "showOnMap": false
       },
@@ -20599,7 +20599,7 @@ var birthplaces = {
         "Id": 8,
         "yearOfBirth": 1863.0,
         "Place of Birth": "Cincinnati",
-        "Last Name": "Flannery",
+        "lastName": "Flannery",
         "dateOfBirth": "07/27/1863",
         "showOnMap": false
       },
@@ -20617,7 +20617,7 @@ var birthplaces = {
         "Id": 8.001,
         "yearOfBirth": 1840.0,
         "Place of Birth": "Neuwied (Rheinland)",
-        "Last Name": "Kloft",
+        "lastName": "Kloft",
         "dateOfBirth": "02/13/1840",
         "showOnMap": false
       },
@@ -20635,7 +20635,7 @@ var birthplaces = {
         "Id": 8.002,
         "yearOfBirth": 1873.0,
         "Place of Birth": "Napoli",
-        "Last Name": "De Rosa",
+        "lastName": "De Rosa",
         "dateOfBirth": "11/25/1873",
         "showOnMap": false
       },
@@ -20653,7 +20653,7 @@ var birthplaces = {
         "Id": 8.003,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Guildford (Surrey)",
-        "Last Name": "Stevens",
+        "lastName": "Stevens",
         "dateOfBirth": "11/29/1817",
         "showOnMap": false
       },
@@ -20671,7 +20671,7 @@ var birthplaces = {
         "Id": 8.004,
         "yearOfBirth": 1864.0,
         "Place of Birth": "Listowel (Kerry)",
-        "Last Name": "Wolfe",
+        "lastName": "Wolfe",
         "dateOfBirth": "09/29/1864",
         "showOnMap": false
       },
@@ -20689,7 +20689,7 @@ var birthplaces = {
         "Id": 8.005,
         "yearOfBirth": 1828.0,
         "Place of Birth": "s-Hertogenbosch",
-        "Last Name": "Marijnen",
+        "lastName": "Marijnen",
         "dateOfBirth": "12/22/1828",
         "showOnMap": false
       },
@@ -20707,7 +20707,7 @@ var birthplaces = {
         "Id": 8.006,
         "yearOfBirth": 1812.0,
         "Place of Birth": "Baons-le-Conte (Seine-M)",
-        "Last Name": "Fessard",
+        "lastName": "Fessard",
         "dateOfBirth": "02/10/1812",
         "showOnMap": false
       },
@@ -20725,7 +20725,7 @@ var birthplaces = {
         "Id": 8.007,
         "yearOfBirth": 1815.0,
         "Place of Birth": "Allahabad, Ind.",
-        "Last Name": "Tickell",
+        "lastName": "Tickell",
         "dateOfBirth": "12/12/1815",
         "showOnMap": false
       },
@@ -20743,7 +20743,7 @@ var birthplaces = {
         "Id": 8.008,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Altshausen (Wurtemberg)",
-        "Last Name": "Rimmele",
+        "lastName": "Rimmele",
         "dateOfBirth": "08/07/1831",
         "showOnMap": false
       },
@@ -20761,7 +20761,7 @@ var birthplaces = {
         "Id": 8.009,
         "yearOfBirth": 1843.0,
         "Place of Birth": "Sta. Eulalia de Riuprimer (Barcelona)",
-        "Last Name": "Terricabras",
+        "lastName": "Terricabras",
         "dateOfBirth": "07/06/1843",
         "showOnMap": false
       },
@@ -20779,7 +20779,7 @@ var birthplaces = {
         "Id": 8.01,
         "yearOfBirth": 1832.0,
         "Place of Birth": "Paseka ohr Unicov (Morava)",
-        "Last Name": "Ott",
+        "lastName": "Ott",
         "dateOfBirth": "02/14/1832",
         "showOnMap": false
       },
@@ -20797,7 +20797,7 @@ var birthplaces = {
         "Id": 8.011,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Umkirch (Baden)",
-        "Last Name": "Sonderer",
+        "lastName": "Sonderer",
         "dateOfBirth": "12/03/1823",
         "showOnMap": false
       },
@@ -20815,7 +20815,7 @@ var birthplaces = {
         "Id": 8.012,
         "yearOfBirth": 1845.0,
         "Place of Birth": "Lille",
-        "Last Name": "Kolb",
+        "lastName": "Kolb",
         "dateOfBirth": "10/16/1845",
         "showOnMap": false
       },
@@ -20833,7 +20833,7 @@ var birthplaces = {
         "Id": 8.013,
         "yearOfBirth": 1839.0,
         "Place of Birth": "Mallavia (Vizcaya)",
-        "Last Name": "Olarra",
+        "lastName": "Olarra",
         "dateOfBirth": "02/29/1839",
         "showOnMap": false
       },
@@ -20851,7 +20851,7 @@ var birthplaces = {
         "Id": 8.015,
         "yearOfBirth": 1850.0,
         "Place of Birth": "Cane di Vione (Brescia)",
-        "Last Name": "Tommasi",
+        "lastName": "Tommasi",
         "dateOfBirth": "01/24/1850",
         "showOnMap": false
       },
@@ -20869,7 +20869,7 @@ var birthplaces = {
         "Id": 8.016,
         "yearOfBirth": 1872.0,
         "Place of Birth": "San Jose, Calif.",
-        "Last Name": "Gerlach",
+        "lastName": "Gerlach",
         "dateOfBirth": "08/08/1872",
         "showOnMap": false
       },
@@ -20887,7 +20887,7 @@ var birthplaces = {
         "Id": 8.017,
         "yearOfBirth": 1870.0,
         "Place of Birth": "Torokbalint (Pest)",
-        "Last Name": "Kaufler",
+        "lastName": "Kaufler",
         "dateOfBirth": "01/28/1870",
         "showOnMap": false
       },
@@ -20905,7 +20905,7 @@ var birthplaces = {
         "Id": 8.018,
         "yearOfBirth": 1822.0,
         "Place of Birth": "London",
-        "Last Name": "Coleridge",
+        "lastName": "Coleridge",
         "dateOfBirth": "09/20/1822",
         "showOnMap": false
       },
@@ -20923,7 +20923,7 @@ var birthplaces = {
         "Id": 8.019,
         "yearOfBirth": 1860.0,
         "Place of Birth": "Biar (Alicante)",
-        "Last Name": "Quilez",
+        "lastName": "Quilez",
         "dateOfBirth": "02/24/1860",
         "showOnMap": false
       },
@@ -20941,7 +20941,7 @@ var birthplaces = {
         "Id": 8.02,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Ferentino (Roma)",
-        "Last Name": "Cocumelli",
+        "lastName": "Cocumelli",
         "dateOfBirth": "05/10/1831",
         "showOnMap": false
       },
@@ -20959,7 +20959,7 @@ var birthplaces = {
         "Id": 8.021,
         "yearOfBirth": 1842.0,
         "Place of Birth": "Scilla (Reggio Calabria)",
-        "Last Name": "Minasi",
+        "lastName": "Minasi",
         "dateOfBirth": "03/13/1842",
         "showOnMap": false
       },
@@ -20977,7 +20977,7 @@ var birthplaces = {
         "Id": 8.023,
         "yearOfBirth": 1875.0,
         "Place of Birth": "Charleville (Cork)",
-        "Last Name": "O'Mahony",
+        "lastName": "O'Mahony",
         "dateOfBirth": "11/24/1875",
         "showOnMap": false
       },
@@ -20995,7 +20995,7 @@ var birthplaces = {
         "Id": 8.024,
         "yearOfBirth": 1868.0,
         "Place of Birth": "Abadiano-Celayeta (Vizcaya)",
-        "Last Name": "Sarriortuzar",
+        "lastName": "Sarriortuzar",
         "dateOfBirth": "03/15/1868",
         "showOnMap": false
       },
@@ -21013,7 +21013,7 @@ var birthplaces = {
         "Id": 8.025,
         "yearOfBirth": 1813.0,
         "Place of Birth": "Auroux (Lozere)",
-        "Last Name": "Balmadier",
+        "lastName": "Balmadier",
         "dateOfBirth": "05/10/1813",
         "showOnMap": false
       },
@@ -21031,7 +21031,7 @@ var birthplaces = {
         "Id": 8.026,
         "yearOfBirth": 1819.0,
         "Place of Birth": "Castel San Pietro (Bologna)",
-        "Last Name": "Spisi",
+        "lastName": "Spisi",
         "dateOfBirth": "06/23/1819",
         "showOnMap": false
       },
@@ -21049,7 +21049,7 @@ var birthplaces = {
         "Id": 8.027,
         "yearOfBirth": 1835.0,
         "Place of Birth": "St-Agil (Loir-et-Ch)",
-        "Last Name": "de St-Maixent",
+        "lastName": "de St-Maixent",
         "dateOfBirth": "07/30/1835",
         "showOnMap": false
       },
@@ -21067,7 +21067,7 @@ var birthplaces = {
         "Id": 8.028,
         "yearOfBirth": 1816.0,
         "Place of Birth": "Harmelen (Utrecht)",
-        "Last Name": "van der Berg",
+        "lastName": "van der Berg",
         "dateOfBirth": "12/17/1816",
         "showOnMap": false
       },
@@ -21085,7 +21085,7 @@ var birthplaces = {
         "Id": 8.029,
         "yearOfBirth": 1834.0,
         "Place of Birth": "St-Yvi (Finistere)",
-        "Last Name": "Bleuzen",
+        "lastName": "Bleuzen",
         "dateOfBirth": "03/05/1834",
         "showOnMap": false
       },
@@ -21103,7 +21103,7 @@ var birthplaces = {
         "Id": 8.03,
         "yearOfBirth": 1867.0,
         "Place of Birth": "Preston",
-        "Last Name": "Mercer",
+        "lastName": "Mercer",
         "dateOfBirth": "12/18/1867",
         "showOnMap": false
       },
@@ -21121,7 +21121,7 @@ var birthplaces = {
         "Id": 8.031,
         "yearOfBirth": 1872.0,
         "Place of Birth": "Port-Louis (Maurice)",
-        "Last Name": "Gonnet",
+        "lastName": "Gonnet",
         "dateOfBirth": "09/24/1872",
         "showOnMap": false
       },
@@ -21139,7 +21139,7 @@ var birthplaces = {
         "Id": 8.032,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Yamaska, Que",
-        "Last Name": "Hebert",
+        "lastName": "Hebert",
         "dateOfBirth": "11/10/1834",
         "showOnMap": false
       },
@@ -21157,7 +21157,7 @@ var birthplaces = {
         "Id": 8.033,
         "yearOfBirth": 1830.0,
         "Place of Birth": "Courtrai",
-        "Last Name": "Vercruysse",
+        "lastName": "Vercruysse",
         "dateOfBirth": "03/08/1830",
         "showOnMap": false
       },
@@ -21175,7 +21175,7 @@ var birthplaces = {
         "Id": 8.034,
         "yearOfBirth": 1847.0,
         "Place of Birth": "Alleyras (H-Loire)",
-        "Last Name": "Pradier",
+        "lastName": "Pradier",
         "dateOfBirth": "10/26/1847",
         "showOnMap": false
       },
@@ -21193,7 +21193,7 @@ var birthplaces = {
         "Id": 8.035,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Le Breul-Barret (Vendee)",
-        "Last Name": "Cornuau",
+        "lastName": "Cornuau",
         "dateOfBirth": "01/23/1817",
         "showOnMap": false
       },
@@ -21211,7 +21211,7 @@ var birthplaces = {
         "Id": 8.036,
         "yearOfBirth": 1824.0,
         "Place of Birth": "Pesmes (H-Saone)",
-        "Last Name": "Darlin",
+        "lastName": "Darlin",
         "dateOfBirth": "04/10/1824",
         "showOnMap": false
       },
@@ -21229,7 +21229,7 @@ var birthplaces = {
         "Id": 8.037,
         "yearOfBirth": 1820.0,
         "Place of Birth": "St-Andre-lez-Dalhem (Liege)",
-        "Last Name": "Lipstadt",
+        "lastName": "Lipstadt",
         "dateOfBirth": "02/01/1820",
         "showOnMap": false
       },
@@ -21247,7 +21247,7 @@ var birthplaces = {
         "Id": 8.038,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Flacey (Saone-et-L)",
-        "Last Name": "Buchaillat",
+        "lastName": "Buchaillat",
         "dateOfBirth": "11/17/1820",
         "showOnMap": false
       },
@@ -21265,7 +21265,7 @@ var birthplaces = {
         "Id": 8.039,
         "yearOfBirth": 1810.0,
         "Place of Birth": "Rennes (Ille-et-V)",
-        "Last Name": "Morvan",
+        "lastName": "Morvan",
         "dateOfBirth": "07/19/1810",
         "showOnMap": false
       },
@@ -21283,7 +21283,7 @@ var birthplaces = {
         "Id": 8.04,
         "yearOfBirth": 1808.0,
         "Place of Birth": "Pustomer (Morava)",
-        "Last Name": "Gregor",
+        "lastName": "Gregor",
         "dateOfBirth": "07/18/1808",
         "showOnMap": false
       },
@@ -21301,7 +21301,7 @@ var birthplaces = {
         "Id": 8.041,
         "yearOfBirth": 1871.0,
         "Place of Birth": "Calvizzano (Napoli)",
-        "Last Name": "D'Errico",
+        "lastName": "D'Errico",
         "dateOfBirth": "10/10/1871",
         "showOnMap": false
       },
@@ -21319,7 +21319,7 @@ var birthplaces = {
         "Id": 8.042,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Grottaglie (Lecce)",
-        "Last Name": "Manigrasso",
+        "lastName": "Manigrasso",
         "dateOfBirth": "03/31/1834",
         "showOnMap": false
       },
@@ -21337,7 +21337,7 @@ var birthplaces = {
         "Id": 8.043,
         "yearOfBirth": 1819.0,
         "Place of Birth": "Werl (Westfalen)",
-        "Last Name": "Schwerter",
+        "lastName": "Schwerter",
         "dateOfBirth": "06/01/1819",
         "showOnMap": false
       },
@@ -21355,7 +21355,7 @@ var birthplaces = {
         "Id": 8.044,
         "yearOfBirth": 1855.0,
         "Place of Birth": "Berga (Barcelona)",
-        "Last Name": "Casals",
+        "lastName": "Casals",
         "dateOfBirth": "09/28/1855",
         "showOnMap": false
       },
@@ -21373,7 +21373,7 @@ var birthplaces = {
         "Id": 8.045,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Lille",
-        "Last Name": "Desmons",
+        "lastName": "Desmons",
         "dateOfBirth": "07/10/1820",
         "showOnMap": false
       },
@@ -21391,7 +21391,7 @@ var birthplaces = {
         "Id": 8.046,
         "yearOfBirth": 1846.0,
         "Place of Birth": "Cette (Herault)",
-        "Last Name": "Vons",
+        "lastName": "Vons",
         "dateOfBirth": "04/15/1846",
         "showOnMap": false
       },
@@ -21409,7 +21409,7 @@ var birthplaces = {
         "Id": 8.047,
         "yearOfBirth": 1872.0,
         "Place of Birth": "Gand",
-        "Last Name": "Botte",
+        "lastName": "Botte",
         "dateOfBirth": "12/20/1872",
         "showOnMap": false
       },
@@ -21427,7 +21427,7 @@ var birthplaces = {
         "Id": 8.048,
         "yearOfBirth": 1830.0,
         "Place of Birth": "Noirmoutier (Vendee)",
-        "Last Name": "Monnier",
+        "lastName": "Monnier",
         "dateOfBirth": "04/02/1830",
         "showOnMap": false
       },
@@ -21445,7 +21445,7 @@ var birthplaces = {
         "Id": 8.049,
         "yearOfBirth": 1869.0,
         "Place of Birth": "San Francisco",
-        "Last Name": "Casserly",
+        "lastName": "Casserly",
         "dateOfBirth": "09/18/1869",
         "showOnMap": false
       },
@@ -21463,7 +21463,7 @@ var birthplaces = {
         "Id": 8.05,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Tronchiennes",
-        "Last Name": "De Boever",
+        "lastName": "De Boever",
         "dateOfBirth": "04/03/1834",
         "showOnMap": false
       },
@@ -21481,7 +21481,7 @@ var birthplaces = {
         "Id": 8.051,
         "yearOfBirth": 1844.0,
         "Place of Birth": "Vannes",
-        "Last Name": "Le Falher",
+        "lastName": "Le Falher",
         "dateOfBirth": "10/24/1844",
         "showOnMap": false
       },
@@ -21499,7 +21499,7 @@ var birthplaces = {
         "Id": 8.052,
         "yearOfBirth": 1815.0,
         "Place of Birth": "Bourcy (Luxembourg)",
-        "Last Name": "Baltus",
+        "lastName": "Baltus",
         "dateOfBirth": "10/11/1815",
         "showOnMap": false
       },
@@ -21517,7 +21517,7 @@ var birthplaces = {
         "Id": 8.053,
         "yearOfBirth": 1847.0,
         "Place of Birth": "Sigmaringen (Hohenzollern)",
-        "Last Name": "Allseits",
+        "lastName": "Allseits",
         "dateOfBirth": "01/14/1847",
         "showOnMap": false
       },
@@ -21535,7 +21535,7 @@ var birthplaces = {
         "Id": 8.054,
         "yearOfBirth": 1840.0,
         "Place of Birth": "Arras (Pas-de-C)",
-        "Last Name": "Cotteau",
+        "lastName": "Cotteau",
         "dateOfBirth": "03/19/1840",
         "showOnMap": false
       },
@@ -21553,7 +21553,7 @@ var birthplaces = {
         "Id": 8.055,
         "yearOfBirth": 1819.0,
         "Place of Birth": "Onate (Guipuzcoa)",
-        "Last Name": "Mendia",
+        "lastName": "Mendia",
         "dateOfBirth": "08/04/1819",
         "showOnMap": false
       },
@@ -21571,7 +21571,7 @@ var birthplaces = {
         "Id": 8.056,
         "yearOfBirth": 1843.0,
         "Place of Birth": "Liege",
-        "Last Name": "Dumont",
+        "lastName": "Dumont",
         "dateOfBirth": "07/26/1843",
         "showOnMap": false
       },
@@ -21589,7 +21589,7 @@ var birthplaces = {
         "Id": 8.057,
         "yearOfBirth": 1837.0,
         "Place of Birth": "s-Hertogenbosch",
-        "Last Name": "van Rijckevorsel",
+        "lastName": "van Rijckevorsel",
         "dateOfBirth": "10/04/1837",
         "showOnMap": false
       },
@@ -21607,7 +21607,7 @@ var birthplaces = {
         "Id": 8.058,
         "yearOfBirth": 1840.0,
         "Place of Birth": "Jaslowice (Halicz)",
-        "Last Name": "Malewicz",
+        "lastName": "Malewicz",
         "dateOfBirth": "01/06/1840",
         "showOnMap": false
       },
@@ -21625,7 +21625,7 @@ var birthplaces = {
         "Id": 8.059,
         "yearOfBirth": 1818.0,
         "Place of Birth": "Racalmuto (Girgenti)",
-        "Last Name": "Nalbone",
+        "lastName": "Nalbone",
         "dateOfBirth": "02/03/1818",
         "showOnMap": false
       },
@@ -21643,7 +21643,7 @@ var birthplaces = {
         "Id": 8.06,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Toulon (Var)",
-        "Last Name": "Hubert",
+        "lastName": "Hubert",
         "dateOfBirth": "07/19/1823",
         "showOnMap": false
       },
@@ -21661,7 +21661,7 @@ var birthplaces = {
         "Id": 8.061,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Montreal",
-        "Last Name": "Resther",
+        "lastName": "Resther",
         "dateOfBirth": "08/26/1823",
         "showOnMap": false
       },
@@ -21679,7 +21679,7 @@ var birthplaces = {
         "Id": 8.062,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Nimes",
-        "Last Name": "Lecointe",
+        "lastName": "Lecointe",
         "dateOfBirth": "09/14/1823",
         "showOnMap": false
       },
@@ -21697,7 +21697,7 @@ var birthplaces = {
         "Id": 8.063,
         "yearOfBirth": 1870.0,
         "Place of Birth": "Dunkelthal (Cechy)",
-        "Last Name": "Prediger",
+        "lastName": "Prediger",
         "dateOfBirth": "11/24/1870",
         "showOnMap": false
       },
@@ -21715,7 +21715,7 @@ var birthplaces = {
         "Id": 8.064,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Pfaffendorf",
-        "Last Name": "Rimbaugh",
+        "lastName": "Rimbaugh",
         "dateOfBirth": "03/25/1825",
         "showOnMap": false
       },
@@ -21733,7 +21733,7 @@ var birthplaces = {
         "Id": 8.065,
         "yearOfBirth": 1859.0,
         "Place of Birth": "Nieuwerkerken (Fl Or)",
-        "Last Name": "Lievens",
+        "lastName": "Lievens",
         "dateOfBirth": "07/12/1859",
         "showOnMap": false
       },
@@ -21751,7 +21751,7 @@ var birthplaces = {
         "Id": 8.066,
         "yearOfBirth": 1863.0,
         "Place of Birth": "Usson (Vienne)",
-        "Last Name": "de Baglion",
+        "lastName": "de Baglion",
         "dateOfBirth": "09/09/1863",
         "showOnMap": false
       },
@@ -21769,7 +21769,7 @@ var birthplaces = {
         "Id": 8.067,
         "yearOfBirth": 1824.0,
         "Place of Birth": "Treguier (Cotes-du-N)",
-        "Last Name": "Ropers",
+        "lastName": "Ropers",
         "dateOfBirth": "03/24/1824",
         "showOnMap": false
       },
@@ -21787,7 +21787,7 @@ var birthplaces = {
         "Id": 8.068,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Sassari",
-        "Last Name": "Talongo",
+        "lastName": "Talongo",
         "dateOfBirth": "07/31/1822",
         "showOnMap": false
       },
@@ -21805,7 +21805,7 @@ var birthplaces = {
         "Id": 8.069,
         "yearOfBirth": 1819.0,
         "Place of Birth": "Sumene (Gard)",
-        "Last Name": "Serviere",
+        "lastName": "Serviere",
         "dateOfBirth": "09/12/1819",
         "showOnMap": false
       },
@@ -21823,7 +21823,7 @@ var birthplaces = {
         "Id": 8.07,
         "yearOfBirth": 1810.0,
         "Place of Birth": "Liverpool",
-        "Last Name": "Johnson",
+        "lastName": "Johnson",
         "dateOfBirth": "04/28/1810",
         "showOnMap": false
       },
@@ -21841,7 +21841,7 @@ var birthplaces = {
         "Id": 8.071,
         "yearOfBirth": 1830.0,
         "Place of Birth": "Lourical (Beira-Baixa)",
-        "Last Name": "Guitterres",
+        "lastName": "Guitterres",
         "dateOfBirth": "07/06/1830",
         "showOnMap": false
       },
@@ -21859,7 +21859,7 @@ var birthplaces = {
         "Id": 8.072,
         "yearOfBirth": 1843.0,
         "Place of Birth": "Mesanger (Loire-A)",
-        "Last Name": "Hourdeau",
+        "lastName": "Hourdeau",
         "dateOfBirth": "09/09/1843",
         "showOnMap": false
       },
@@ -21877,7 +21877,7 @@ var birthplaces = {
         "Id": 8.073,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Napoli",
-        "Last Name": "Barbella",
+        "lastName": "Barbella",
         "dateOfBirth": "04/03/1827",
         "showOnMap": false
       },
@@ -21895,7 +21895,7 @@ var birthplaces = {
         "Id": 8.074,
         "yearOfBirth": 1851.0,
         "Place of Birth": "Romagnieu (Isere)",
-        "Last Name": "Vangeon",
+        "lastName": "Vangeon",
         "dateOfBirth": "06/12/1851",
         "showOnMap": false
       },
@@ -21913,7 +21913,7 @@ var birthplaces = {
         "Id": 8.075,
         "yearOfBirth": 1835.0,
         "Place of Birth": "Tronchiennes",
-        "Last Name": "Lambrecht",
+        "lastName": "Lambrecht",
         "dateOfBirth": "03/23/1835",
         "showOnMap": false
       },
@@ -21931,7 +21931,7 @@ var birthplaces = {
         "Id": 8.076,
         "yearOfBirth": 1853.0,
         "Place of Birth": "Martelange (Luxembourg)",
-        "Last Name": "Gengler",
+        "lastName": "Gengler",
         "dateOfBirth": "09/26/1853",
         "showOnMap": false
       },
@@ -21949,7 +21949,7 @@ var birthplaces = {
         "Id": 8.077,
         "yearOfBirth": 1871.0,
         "Place of Birth": "Gerona",
-        "Last Name": "Pumarola",
+        "lastName": "Pumarola",
         "dateOfBirth": "06/18/1871",
         "showOnMap": false
       },
@@ -21967,7 +21967,7 @@ var birthplaces = {
         "Id": 8.078,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Bruges",
-        "Last Name": "Steyaert",
+        "lastName": "Steyaert",
         "dateOfBirth": "12/26/1826",
         "showOnMap": false
       },
@@ -21985,7 +21985,7 @@ var birthplaces = {
         "Id": 8.079,
         "yearOfBirth": 1812.0,
         "Place of Birth": "Poperinghe (Fl Oc)",
-        "Last Name": "Isacq",
+        "lastName": "Isacq",
         "dateOfBirth": "11/04/1812",
         "showOnMap": false
       },
@@ -22003,7 +22003,7 @@ var birthplaces = {
         "Id": 8.08,
         "yearOfBirth": 1837.0,
         "Place of Birth": "Poboleda (Tarragona)",
-        "Last Name": "Vines",
+        "lastName": "Vines",
         "dateOfBirth": "09/19/1837",
         "showOnMap": false
       },
@@ -22021,7 +22021,7 @@ var birthplaces = {
         "Id": 8.081,
         "yearOfBirth": 1858.0,
         "Place of Birth": "Cork",
-        "Last Name": "Lynch",
+        "lastName": "Lynch",
         "dateOfBirth": "08/06/1858",
         "showOnMap": false
       },
@@ -22039,7 +22039,7 @@ var birthplaces = {
         "Id": 8.082,
         "yearOfBirth": 1845.0,
         "Place of Birth": "Floriana (Malta)",
-        "Last Name": "Magro",
+        "lastName": "Magro",
         "dateOfBirth": "11/25/1845",
         "showOnMap": false
       },
@@ -22057,7 +22057,7 @@ var birthplaces = {
         "Id": 8.083,
         "yearOfBirth": 1851.0,
         "Place of Birth": "Castellgal\u00ef\u00bf\u00bd (Barcelona)",
-        "Last Name": "Debant",
+        "lastName": "Debant",
         "dateOfBirth": "10/02/1851",
         "showOnMap": false
       },
@@ -22075,7 +22075,7 @@ var birthplaces = {
         "Id": 8.084,
         "yearOfBirth": 1874.0,
         "Place of Birth": "Les Ponts-de-C\u00ef\u00bf\u00bd (Maine-et-L)",
-        "Last Name": "V\u00ef\u00bf\u00bdtault",
+        "lastName": "V\u00ef\u00bf\u00bdtault",
         "dateOfBirth": "01/19/1874",
         "showOnMap": false
       },
@@ -22093,7 +22093,7 @@ var birthplaces = {
         "Id": 8.085,
         "yearOfBirth": 1856.0,
         "Place of Birth": "Villafranca Montes de Oca (Burgos)",
-        "Last Name": "Bola\u00ef\u00bf\u00bdos Garc\u00ef\u00bf\u00bda",
+        "lastName": "Bola\u00ef\u00bf\u00bdos Garc\u00ef\u00bf\u00bda",
         "dateOfBirth": "09/22/1856",
         "showOnMap": false
       },
@@ -22111,7 +22111,7 @@ var birthplaces = {
         "Id": 8.086,
         "yearOfBirth": 1874.0,
         "Place of Birth": "Courtrai",
-        "Last Name": "Ghyoot",
+        "lastName": "Ghyoot",
         "dateOfBirth": "08/21/1874",
         "showOnMap": false
       },
@@ -22129,7 +22129,7 @@ var birthplaces = {
         "Id": 8.087,
         "yearOfBirth": 1875.0,
         "Place of Birth": "Camarones (Sta. Clara, Cuba)",
-        "Last Name": "Pell\u00ef\u00bf\u00bdn",
+        "lastName": "Pell\u00ef\u00bf\u00bdn",
         "dateOfBirth": "04/20/1875",
         "showOnMap": false
       },
@@ -22147,7 +22147,7 @@ var birthplaces = {
         "Id": 8.088,
         "yearOfBirth": 1818.0,
         "Place of Birth": "Napoli",
-        "Last Name": "Blois",
+        "lastName": "Blois",
         "dateOfBirth": "07/19/1818",
         "showOnMap": false
       },
@@ -22165,7 +22165,7 @@ var birthplaces = {
         "Id": 8.089,
         "yearOfBirth": 1837.0,
         "Place of Birth": "? (Meath)",
-        "Last Name": "Curry",
+        "lastName": "Curry",
         "dateOfBirth": "12/23/1837",
         "showOnMap": false
       },
@@ -22183,7 +22183,7 @@ var birthplaces = {
         "Id": 8.09,
         "yearOfBirth": 1809.0,
         "Place of Birth": "St-Amand-les-Eaux (Nord)",
-        "Last Name": "Delcourt",
+        "lastName": "Delcourt",
         "dateOfBirth": "10/26/1809",
         "showOnMap": false
       },
@@ -22201,7 +22201,7 @@ var birthplaces = {
         "Id": 8.091,
         "yearOfBirth": 1818.0,
         "Place of Birth": "Hoorebeke-Ste-Marie (Fl Or)",
-        "Last Name": "De Temmerman",
+        "lastName": "De Temmerman",
         "dateOfBirth": "02/16/1818",
         "showOnMap": false
       },
@@ -22219,7 +22219,7 @@ var birthplaces = {
         "Id": 8.092,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Florac (Loz\u00ef\u00bf\u00bdre)",
-        "Last Name": "Blanchard",
+        "lastName": "Blanchard",
         "dateOfBirth": "03/30/1825",
         "showOnMap": false
       },
@@ -22237,7 +22237,7 @@ var birthplaces = {
         "Id": 8.093,
         "yearOfBirth": 1811.0,
         "Place of Birth": "Dublin",
-        "Last Name": "MacDonald",
+        "lastName": "MacDonald",
         "dateOfBirth": "06/26/1811",
         "showOnMap": false
       },
@@ -22255,7 +22255,7 @@ var birthplaces = {
         "Id": 8.094,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Escamps (Lot)",
-        "Last Name": "Elorza",
+        "lastName": "Elorza",
         "dateOfBirth": "08/28/1831",
         "showOnMap": false
       },
@@ -22273,7 +22273,7 @@ var birthplaces = {
         "Id": 8.095,
         "yearOfBirth": 1868.0,
         "Place of Birth": "St-Vincent (Laval, Qu\u00ef\u00bf\u00bd)",
-        "Last Name": "Joubert",
+        "lastName": "Joubert",
         "dateOfBirth": "09/14/1868",
         "showOnMap": false
       },
@@ -22291,7 +22291,7 @@ var birthplaces = {
         "Id": 8.096,
         "yearOfBirth": 1860.0,
         "Place of Birth": "Nantes",
-        "Last Name": "Potiron",
+        "lastName": "Potiron",
         "dateOfBirth": "08/28/1860",
         "showOnMap": false
       },
@@ -22309,7 +22309,7 @@ var birthplaces = {
         "Id": 8.097,
         "yearOfBirth": 1874.0,
         "Place of Birth": "Bochum (Westfalen)",
-        "Last Name": "Passmann",
+        "lastName": "Passmann",
         "dateOfBirth": "02/09/1874",
         "showOnMap": false
       },
@@ -22327,7 +22327,7 @@ var birthplaces = {
         "Id": 8.098,
         "yearOfBirth": 1821.0,
         "Place of Birth": "London",
-        "Last Name": "Harper",
+        "lastName": "Harper",
         "dateOfBirth": "09/26/1821",
         "showOnMap": false
       },
@@ -22345,7 +22345,7 @@ var birthplaces = {
         "Id": 8.099,
         "yearOfBirth": 1837.0,
         "Place of Birth": "Villafranca (Torino)",
-        "Last Name": "Ballerino",
+        "lastName": "Ballerino",
         "dateOfBirth": "11/25/1837",
         "showOnMap": false
       },
@@ -22363,7 +22363,7 @@ var birthplaces = {
         "Id": 8.1,
         "yearOfBirth": 1872.0,
         "Place of Birth": "Castrop (Arnsberg, Westfalen)",
-        "Last Name": "Todt",
+        "lastName": "Todt",
         "dateOfBirth": "05/17/1872",
         "showOnMap": false
       },
@@ -22381,7 +22381,7 @@ var birthplaces = {
         "Id": 8.101,
         "yearOfBirth": 1840.0,
         "Place of Birth": "Manila",
-        "Last Name": "Labayru",
+        "lastName": "Labayru",
         "dateOfBirth": "05/07/1840",
         "showOnMap": false
       },
@@ -22399,7 +22399,7 @@ var birthplaces = {
         "Id": 8.102,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Pig\u00ef\u00bf\u00bdre",
-        "Last Name": "Souche",
+        "lastName": "Souche",
         "dateOfBirth": "07/13/1821",
         "showOnMap": false
       },
@@ -22417,7 +22417,7 @@ var birthplaces = {
         "Id": 8.103,
         "yearOfBirth": 1806.0,
         "Place of Birth": "Palermo",
-        "Last Name": "Amico",
+        "lastName": "Amico",
         "dateOfBirth": "11/06/1806",
         "showOnMap": false
       },
@@ -22435,7 +22435,7 @@ var birthplaces = {
         "Id": 8.104,
         "yearOfBirth": 1843.0,
         "Place of Birth": "Chauteuges (H-Loire)",
-        "Last Name": "Bonhomme",
+        "lastName": "Bonhomme",
         "dateOfBirth": "04/09/1843",
         "showOnMap": false
       },
@@ -22453,7 +22453,7 @@ var birthplaces = {
         "Id": 8.105,
         "yearOfBirth": 1844.0,
         "Place of Birth": "Fahy (Bern)",
-        "Last Name": "Beureux",
+        "lastName": "Beureux",
         "dateOfBirth": "01/25/1844",
         "showOnMap": false
       },
@@ -22471,7 +22471,7 @@ var birthplaces = {
         "Id": 8.106,
         "yearOfBirth": 1855.0,
         "Place of Birth": "Apalachicola, Fla",
-        "Last Name": "O'Connor",
+        "lastName": "O'Connor",
         "dateOfBirth": "04/02/1855",
         "showOnMap": false
       },
@@ -22489,7 +22489,7 @@ var birthplaces = {
         "Id": 8.107,
         "yearOfBirth": 1875.0,
         "Place of Birth": "Mieras (Gerona)",
-        "Last Name": "Codinach",
+        "lastName": "Codinach",
         "dateOfBirth": "10/13/1875",
         "showOnMap": false
       },
@@ -22507,7 +22507,7 @@ var birthplaces = {
         "Id": 8.108,
         "yearOfBirth": 1838.0,
         "Place of Birth": "S\u00ef\u00bf\u00bdlhuben (Bayern)",
-        "Last Name": "Aigner",
+        "lastName": "Aigner",
         "dateOfBirth": "04/04/1838",
         "showOnMap": false
       },
@@ -22525,7 +22525,7 @@ var birthplaces = {
         "Id": 8.109,
         "yearOfBirth": 1838.0,
         "Place of Birth": "Gr\u00ef\u00bf\u00bdvalos (Lorgro\u00ef\u00bf\u00bdo)",
-        "Last Name": "Garriga",
+        "lastName": "Garriga",
         "dateOfBirth": "05/01/1838",
         "showOnMap": false
       },
@@ -22543,7 +22543,7 @@ var birthplaces = {
         "Id": 8.11,
         "yearOfBirth": 1832.0,
         "Place of Birth": "Mantilly (Orne)",
-        "Last Name": "Maillard",
+        "lastName": "Maillard",
         "dateOfBirth": "12/24/1832",
         "showOnMap": false
       },
@@ -22561,7 +22561,7 @@ var birthplaces = {
         "Id": 8.111,
         "yearOfBirth": 1864.0,
         "Place of Birth": "Penmaenmawr (Caernarvon)",
-        "Last Name": "Thomas",
+        "lastName": "Thomas",
         "dateOfBirth": "08/31/1864",
         "showOnMap": false
       },
@@ -22579,7 +22579,7 @@ var birthplaces = {
         "Id": 8.112,
         "yearOfBirth": 1851.0,
         "Place of Birth": "Gij\u00ef\u00bf\u00bdn (Oviedo)",
-        "Last Name": "\u00ef\u00bf\u00bdlvarez",
+        "lastName": "\u00ef\u00bf\u00bdlvarez",
         "dateOfBirth": "07/26/1851",
         "showOnMap": false
       },
@@ -22597,7 +22597,7 @@ var birthplaces = {
         "Id": 8.113,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Cognin pr Chamb\u00ef\u00bf\u00bdry",
-        "Last Name": "Bouchet",
+        "lastName": "Bouchet",
         "dateOfBirth": "08/25/1825",
         "showOnMap": false
       },
@@ -22615,7 +22615,7 @@ var birthplaces = {
         "Id": 8.114,
         "yearOfBirth": 1852.0,
         "Place of Birth": "Biervliet (Zeeland)",
-        "Last Name": "Calon",
+        "lastName": "Calon",
         "dateOfBirth": "04/16/1852",
         "showOnMap": false
       },
@@ -22633,7 +22633,7 @@ var birthplaces = {
         "Id": 8.115,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Souternon (Loire)",
-        "Last Name": "Donjon",
+        "lastName": "Donjon",
         "dateOfBirth": "09/01/1825",
         "showOnMap": false
       },
@@ -22651,7 +22651,7 @@ var birthplaces = {
         "Id": 8.116,
         "yearOfBirth": 1836.0,
         "Place of Birth": "K\u00ef\u00bf\u00bdln",
-        "Last Name": "Kamp",
+        "lastName": "Kamp",
         "dateOfBirth": "01/27/1836",
         "showOnMap": false
       },
@@ -22669,7 +22669,7 @@ var birthplaces = {
         "Id": 8.117,
         "yearOfBirth": 1863.0,
         "Place of Birth": "Cru\u00ef\u00bf\u00bdjouls (Aveyron)",
-        "Last Name": "Loubi\u00ef\u00bf\u00bdre",
+        "lastName": "Loubi\u00ef\u00bf\u00bdre",
         "dateOfBirth": "01/07/1863",
         "showOnMap": false
       },
@@ -22687,7 +22687,7 @@ var birthplaces = {
         "Id": 8.118,
         "yearOfBirth": 1869.0,
         "Place of Birth": "St-Roch-de-Richelieu, Qu\u00ef\u00bf\u00bd",
-        "Last Name": "Lapointe",
+        "lastName": "Lapointe",
         "dateOfBirth": "08/11/1869",
         "showOnMap": false
       },
@@ -22705,7 +22705,7 @@ var birthplaces = {
         "Id": 8.119,
         "yearOfBirth": 1818.0,
         "Place of Birth": "Marineo (Palermo)",
-        "Last Name": "Orlando",
+        "lastName": "Orlando",
         "dateOfBirth": "11/09/1818",
         "showOnMap": false
       },
@@ -22723,7 +22723,7 @@ var birthplaces = {
         "Id": 8.12,
         "yearOfBirth": 1851.0,
         "Place of Birth": "Tolosa (Guip\u00ef\u00bf\u00bdzcoa)",
-        "Last Name": "Iriatre",
+        "lastName": "Iriatre",
         "dateOfBirth": "02/13/1851",
         "showOnMap": false
       },
@@ -22741,7 +22741,7 @@ var birthplaces = {
         "Id": 8.121,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Palazzago (Bergamo)",
-        "Last Name": "Fenili",
+        "lastName": "Fenili",
         "dateOfBirth": "04/10/1820",
         "showOnMap": false
       },
@@ -22759,7 +22759,7 @@ var birthplaces = {
         "Id": 8.122,
         "yearOfBirth": 1859.0,
         "Place of Birth": "Lourtier (Valais)",
-        "Last Name": "Perrodin",
+        "lastName": "Perrodin",
         "dateOfBirth": "12/30/1859",
         "showOnMap": false
       },
@@ -22777,7 +22777,7 @@ var birthplaces = {
         "Id": 8.123,
         "yearOfBirth": 1813.0,
         "Place of Birth": "Vilvorde (Brabant)",
-        "Last Name": "van Derker",
+        "lastName": "van Derker",
         "dateOfBirth": "05/16/1813",
         "showOnMap": false
       },
@@ -22795,7 +22795,7 @@ var birthplaces = {
         "Id": 8.124,
         "yearOfBirth": 1852.0,
         "Place of Birth": "Dublin",
-        "Last Name": "Curtis",
+        "lastName": "Curtis",
         "dateOfBirth": "04/07/1852",
         "showOnMap": false
       },
@@ -22813,7 +22813,7 @@ var birthplaces = {
         "Id": 8.125,
         "yearOfBirth": 1836.0,
         "Place of Birth": "San Jordi (Gerona)",
-        "Last Name": "Vi\u00ef\u00bf\u00bdals",
+        "lastName": "Vi\u00ef\u00bf\u00bdals",
         "dateOfBirth": "08/04/1836",
         "showOnMap": false
       },
@@ -22831,7 +22831,7 @@ var birthplaces = {
         "Id": 8.126,
         "yearOfBirth": 1828.0,
         "Place of Birth": "Montfort-en-Chalosse (Landes)",
-        "Last Name": "Candeloup",
+        "lastName": "Candeloup",
         "dateOfBirth": "08/31/1828",
         "showOnMap": false
       },
@@ -22849,7 +22849,7 @@ var birthplaces = {
         "Id": 8.127,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Reggio Emilia",
-        "Last Name": "Capelli",
+        "lastName": "Capelli",
         "dateOfBirth": "02/23/1827",
         "showOnMap": false
       },
@@ -22867,7 +22867,7 @@ var birthplaces = {
         "Id": 8.128,
         "yearOfBirth": 1848.0,
         "Place of Birth": "Cert\u00ef\u00bf\u00bd (Beira-Baixa)",
-        "Last Name": "Ferreira",
+        "lastName": "Ferreira",
         "dateOfBirth": "07/04/1848",
         "showOnMap": false
       },
@@ -22885,7 +22885,7 @@ var birthplaces = {
         "Id": 8.129,
         "yearOfBirth": 1841.0,
         "Place of Birth": "Bobingen (Schwaben)",
-        "Last Name": "Fischer",
+        "lastName": "Fischer",
         "dateOfBirth": "01/31/1841",
         "showOnMap": false
       },
@@ -22903,7 +22903,7 @@ var birthplaces = {
         "Id": 8.13,
         "yearOfBirth": 1870.0,
         "Place of Birth": "Granada",
-        "Last Name": "Mata",
+        "lastName": "Mata",
         "dateOfBirth": "02/11/1870",
         "showOnMap": false
       },
@@ -22921,7 +22921,7 @@ var birthplaces = {
         "Id": 8.131,
         "yearOfBirth": 1869.0,
         "Place of Birth": "Philadelphia",
-        "Last Name": "Duross",
+        "lastName": "Duross",
         "dateOfBirth": "02/15/1869",
         "showOnMap": false
       },
@@ -22939,7 +22939,7 @@ var birthplaces = {
         "Id": 8.132,
         "yearOfBirth": 1837.0,
         "Place of Birth": "Civaux (Vienne)",
-        "Last Name": "Touchard",
+        "lastName": "Touchard",
         "dateOfBirth": "03/23/1837",
         "showOnMap": false
       },
@@ -22957,7 +22957,7 @@ var birthplaces = {
         "Id": 8.133,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Rouffach (H-Rhin)",
-        "Last Name": "Denis",
+        "lastName": "Denis",
         "dateOfBirth": "12/03/1831",
         "showOnMap": false
       },
@@ -22975,7 +22975,7 @@ var birthplaces = {
         "Id": 8.134,
         "yearOfBirth": 1816.0,
         "Place of Birth": "Pommier (Is\u00ef\u00bf\u00bdre)",
-        "Last Name": "Noir",
+        "lastName": "Noir",
         "dateOfBirth": "12/21/1816",
         "showOnMap": false
       },
@@ -22993,7 +22993,7 @@ var birthplaces = {
         "Id": 8.136,
         "yearOfBirth": 1828.0,
         "Place of Birth": "Mirabel-et-Blacons (Dr\u00ef\u00bf\u00bdme)",
-        "Last Name": "Bonnemaison",
+        "lastName": "Bonnemaison",
         "dateOfBirth": "01/07/1828",
         "showOnMap": false
       },
@@ -23011,7 +23011,7 @@ var birthplaces = {
         "Id": 8.137,
         "yearOfBirth": 1824.0,
         "Place of Birth": "Pr\u00ef\u00bf\u00bdaux (Ardeche)",
-        "Last Name": "Sauz\u00ef\u00bf\u00bdat",
+        "lastName": "Sauz\u00ef\u00bf\u00bdat",
         "dateOfBirth": "07/22/1824",
         "showOnMap": false
       },
@@ -23029,7 +23029,7 @@ var birthplaces = {
         "Id": 8.138,
         "yearOfBirth": 1840.0,
         "Place of Birth": "Maastricht",
-        "Last Name": "Haenen",
+        "lastName": "Haenen",
         "dateOfBirth": "12/08/1840",
         "showOnMap": false
       },
@@ -23047,7 +23047,7 @@ var birthplaces = {
         "Id": 8.139,
         "yearOfBirth": 1836.0,
         "Place of Birth": "Gr\u00ef\u00bf\u00bdnstadt (Bayern)",
-        "Last Name": "Heichemer",
+        "lastName": "Heichemer",
         "dateOfBirth": "07/31/1836",
         "showOnMap": false
       },
@@ -23065,7 +23065,7 @@ var birthplaces = {
         "Id": 8.14,
         "yearOfBirth": 1814.0,
         "Place of Birth": "Hitzendorf (Steiermark)",
-        "Last Name": "Schreiner",
+        "lastName": "Schreiner",
         "dateOfBirth": "06/16/1814",
         "showOnMap": false
       },
@@ -23083,7 +23083,7 @@ var birthplaces = {
         "Id": 8.141,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Ootacamund",
-        "Last Name": "Morris",
+        "lastName": "Morris",
         "dateOfBirth": "07/04/1826",
         "showOnMap": false
       },
@@ -23101,7 +23101,7 @@ var birthplaces = {
         "Id": 8.142,
         "yearOfBirth": 1838.0,
         "Place of Birth": "Millen (Limbourg)",
-        "Last Name": "Vrindts",
+        "lastName": "Vrindts",
         "dateOfBirth": "06/12/1838",
         "showOnMap": false
       },
@@ -23119,7 +23119,7 @@ var birthplaces = {
         "Id": 8.143,
         "yearOfBirth": 1833.0,
         "Place of Birth": "Vannes",
-        "Last Name": "Duperron",
+        "lastName": "Duperron",
         "dateOfBirth": "08/13/1833",
         "showOnMap": false
       },
@@ -23137,7 +23137,7 @@ var birthplaces = {
         "Id": 8.144,
         "yearOfBirth": 1835.0,
         "Place of Birth": "Tarnopol",
-        "Last Name": "Zielinski",
+        "lastName": "Zielinski",
         "dateOfBirth": "12/13/1835",
         "showOnMap": false
       },
@@ -23155,7 +23155,7 @@ var birthplaces = {
         "Id": 8.145,
         "yearOfBirth": 1810.0,
         "Place of Birth": "Anjengo",
-        "Last Name": "Rodr\u00ef\u00bf\u00bdguez",
+        "lastName": "Rodr\u00ef\u00bf\u00bdguez",
         "dateOfBirth": "02/20/1810",
         "showOnMap": false
       },
@@ -23173,7 +23173,7 @@ var birthplaces = {
         "Id": 8.146,
         "yearOfBirth": 1844.0,
         "Place of Birth": "Anvers",
-        "Last Name": "Fierens",
+        "lastName": "Fierens",
         "dateOfBirth": "10/08/1844",
         "showOnMap": false
       },
@@ -23191,7 +23191,7 @@ var birthplaces = {
         "Id": 8.147,
         "yearOfBirth": 1856.0,
         "Place of Birth": "Moorslede (Fl Oc)",
-        "Last Name": "Lievens",
+        "lastName": "Lievens",
         "dateOfBirth": "04/11/1856",
         "showOnMap": false
       },
@@ -23209,7 +23209,7 @@ var birthplaces = {
         "Id": 8.148,
         "yearOfBirth": 1864.0,
         "Place of Birth": "Chiavari (Genova)",
-        "Last Name": "Solari",
+        "lastName": "Solari",
         "dateOfBirth": "03/18/1864",
         "showOnMap": false
       },
@@ -23227,7 +23227,7 @@ var birthplaces = {
         "Id": 8.149,
         "yearOfBirth": 1835.0,
         "Place of Birth": "Goscieszyn",
-        "Last Name": "Koczorowski",
+        "lastName": "Koczorowski",
         "dateOfBirth": "05/01/1835",
         "showOnMap": false
       },
@@ -23245,7 +23245,7 @@ var birthplaces = {
         "Id": 8.15,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Torino",
-        "Last Name": "Franco",
+        "lastName": "Franco",
         "dateOfBirth": "01/22/1817",
         "showOnMap": false
       },
@@ -23263,7 +23263,7 @@ var birthplaces = {
         "Id": 8.152,
         "yearOfBirth": 1854.0,
         "Place of Birth": "Bouxwiller (H-Rhin)",
-        "Last Name": "Kuentz",
+        "lastName": "Kuentz",
         "dateOfBirth": "08/31/1854",
         "showOnMap": false
       },
@@ -23281,7 +23281,7 @@ var birthplaces = {
         "Id": 8.153,
         "yearOfBirth": 1837.0,
         "Place of Birth": "Land\u00ef\u00bf\u00bdda (Finist\u00ef\u00bf\u00bdre)",
-        "Last Name": "Gourv\u00ef\u00bf\u00bdnec",
+        "lastName": "Gourv\u00ef\u00bf\u00bdnec",
         "dateOfBirth": "02/05/1837",
         "showOnMap": false
       },
@@ -23299,7 +23299,7 @@ var birthplaces = {
         "Id": 8.154,
         "yearOfBirth": 1833.0,
         "Place of Birth": "Guatemala",
-        "Last Name": "Manzano",
+        "lastName": "Manzano",
         "dateOfBirth": "01/01/1833",
         "showOnMap": false
       },
@@ -23317,7 +23317,7 @@ var birthplaces = {
         "Id": 8.155,
         "yearOfBirth": 1862.0,
         "Place of Birth": "Wolsum (Friesland)",
-        "Last Name": "Jorna",
+        "lastName": "Jorna",
         "dateOfBirth": "02/23/1862",
         "showOnMap": false
       },
@@ -23335,7 +23335,7 @@ var birthplaces = {
         "Id": 8.156,
         "yearOfBirth": 1819.0,
         "Place of Birth": "Weil die Stadt (W\u00ef\u00bf\u00bdrtemberg)",
-        "Last Name": "Dolfinger",
+        "lastName": "Dolfinger",
         "dateOfBirth": "01/14/1819",
         "showOnMap": false
       },
@@ -23353,7 +23353,7 @@ var birthplaces = {
         "Id": 8.157,
         "yearOfBirth": 1868.0,
         "Place of Birth": "Napoli",
-        "Last Name": "Zuppa",
+        "lastName": "Zuppa",
         "dateOfBirth": "09/27/1868",
         "showOnMap": false
       },
@@ -23371,7 +23371,7 @@ var birthplaces = {
         "Id": 8.158,
         "yearOfBirth": 1816.0,
         "Place of Birth": "Roma",
-        "Last Name": "Ciampi",
+        "lastName": "Ciampi",
         "dateOfBirth": "01/31/1816",
         "showOnMap": false
       },
@@ -23389,7 +23389,7 @@ var birthplaces = {
         "Id": 8.159,
         "yearOfBirth": 1821.0,
         "Place of Birth": "La C\u00ef\u00bf\u00bdte-St-Andr\u00ef\u00bf\u00bd (Is\u00ef\u00bf\u00bdre)",
-        "Last Name": "Berton",
+        "lastName": "Berton",
         "dateOfBirth": "09/05/1821",
         "showOnMap": false
       },
@@ -23407,7 +23407,7 @@ var birthplaces = {
         "Id": 8.16,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Wodecq (Hainaut)",
-        "Last Name": "Blocq",
+        "lastName": "Blocq",
         "dateOfBirth": "12/21/1817",
         "showOnMap": false
       },
@@ -23425,7 +23425,7 @@ var birthplaces = {
         "Id": 8.161,
         "yearOfBirth": 1833.0,
         "Place of Birth": "Elg\u00ef\u00bf\u00bdibar (Guip\u00ef\u00bf\u00bdzcoa)",
-        "Last Name": "Iturrioz",
+        "lastName": "Iturrioz",
         "dateOfBirth": "12/07/1833",
         "showOnMap": false
       },
@@ -23443,7 +23443,7 @@ var birthplaces = {
         "Id": 8.162,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Innsbruck",
-        "Last Name": "Malfatti",
+        "lastName": "Malfatti",
         "dateOfBirth": "08/15/1825",
         "showOnMap": false
       },
@@ -23461,7 +23461,7 @@ var birthplaces = {
         "Id": 8.163,
         "yearOfBirth": 1843.0,
         "Place of Birth": "Salzig (Rheinland)",
-        "Last Name": "Gras",
+        "lastName": "Gras",
         "dateOfBirth": "04/16/1843",
         "showOnMap": false
       },
@@ -23479,7 +23479,7 @@ var birthplaces = {
         "Id": 8.164,
         "yearOfBirth": 1859.0,
         "Place of Birth": "Ch\u00ef\u00bf\u00bdrisey (Moselle)",
-        "Last Name": "Bronne",
+        "lastName": "Bronne",
         "dateOfBirth": "06/14/1859",
         "showOnMap": false
       },
@@ -23497,7 +23497,7 @@ var birthplaces = {
         "Id": 8.165,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Louroux, par. St-Priest (Creuse)",
-        "Last Name": "de Bar",
+        "lastName": "de Bar",
         "dateOfBirth": "09/19/1822",
         "showOnMap": false
       },
@@ -23515,7 +23515,7 @@ var birthplaces = {
         "Id": 8.166,
         "yearOfBirth": 1837.0,
         "Place of Birth": "Aurach, O.\u00ef\u00bf\u00bd",
-        "Last Name": "Hoeller",
+        "lastName": "Hoeller",
         "dateOfBirth": "06/17/1837",
         "showOnMap": false
       },
@@ -23533,7 +23533,7 @@ var birthplaces = {
         "Id": 8.167,
         "yearOfBirth": 1816.0,
         "Place of Birth": "Gambatesa (Campobasso)",
-        "Last Name": "Berardinelli",
+        "lastName": "Berardinelli",
         "dateOfBirth": "06/16/1816",
         "showOnMap": false
       },
@@ -23551,7 +23551,7 @@ var birthplaces = {
         "Id": 8.169,
         "yearOfBirth": 1832.0,
         "Place of Birth": "Racale (Lecce)",
-        "Last Name": "Vitale",
+        "lastName": "Vitale",
         "dateOfBirth": "03/17/1832",
         "showOnMap": false
       },
@@ -23569,7 +23569,7 @@ var birthplaces = {
         "Id": 8.17,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Nowy Sacz",
-        "Last Name": "W\u00ef\u00bf\u00bdjcikowski",
+        "lastName": "W\u00ef\u00bf\u00bdjcikowski",
         "dateOfBirth": "06/09/1826",
         "showOnMap": false
       },
@@ -23587,7 +23587,7 @@ var birthplaces = {
         "Id": 8.171,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Gudia (Malta)",
-        "Last Name": "Azzopradi",
+        "lastName": "Azzopradi",
         "dateOfBirth": "05/05/1826",
         "showOnMap": false
       },
@@ -23605,7 +23605,7 @@ var birthplaces = {
         "Id": 8.172,
         "yearOfBirth": 1803.0,
         "Place of Birth": "Aubers (Nord)",
-        "Last Name": "Cordonnier",
+        "lastName": "Cordonnier",
         "dateOfBirth": "12/22/1803",
         "showOnMap": false
       },
@@ -23623,7 +23623,7 @@ var birthplaces = {
         "Id": 8.173,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Diersbach, O.\u00ef\u00bf\u00bd.",
-        "Last Name": "Hoeller",
+        "lastName": "Hoeller",
         "dateOfBirth": "06/26/1834",
         "showOnMap": false
       },
@@ -23641,7 +23641,7 @@ var birthplaces = {
         "Id": 8.174,
         "yearOfBirth": 1837.0,
         "Place of Birth": "Monasterio (Burgos)",
-        "Last Name": "Colina",
+        "lastName": "Colina",
         "dateOfBirth": "01/21/1837",
         "showOnMap": false
       },
@@ -23659,7 +23659,7 @@ var birthplaces = {
         "Id": 8.175,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Olomouc (Morava)",
-        "Last Name": "Janalik",
+        "lastName": "Janalik",
         "dateOfBirth": "11/29/1823",
         "showOnMap": false
       },
@@ -23677,7 +23677,7 @@ var birthplaces = {
         "Id": 8.176,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Noriglio (Roveredo)",
-        "Last Name": "Fontana",
+        "lastName": "Fontana",
         "dateOfBirth": "03/05/1831",
         "showOnMap": false
       },
@@ -23695,7 +23695,7 @@ var birthplaces = {
         "Id": 8.177,
         "yearOfBirth": 1838.0,
         "Place of Birth": "Tosa (Gerona)",
-        "Last Name": "Mor\u00ef\u00bf\u00bd",
+        "lastName": "Mor\u00ef\u00bf\u00bd",
         "dateOfBirth": "01/13/1838",
         "showOnMap": false
       },
@@ -23713,7 +23713,7 @@ var birthplaces = {
         "Id": 8.178,
         "yearOfBirth": 1830.0,
         "Place of Birth": "L\u00ef\u00bf\u00bdrida",
-        "Last Name": "Freixes",
+        "lastName": "Freixes",
         "dateOfBirth": "01/01/1830",
         "showOnMap": false
       },
@@ -23731,7 +23731,7 @@ var birthplaces = {
         "Id": 8.179,
         "yearOfBirth": 1851.0,
         "Place of Birth": "Burgberg (W\u00ef\u00bf\u00bdrtemberg)",
-        "Last Name": "Brenner",
+        "lastName": "Brenner",
         "dateOfBirth": "02/10/1851",
         "showOnMap": false
       },
@@ -23749,7 +23749,7 @@ var birthplaces = {
         "Id": 8.18,
         "yearOfBirth": 1831.0,
         "Place of Birth": "St-Herblain (Loire-A)",
-        "Last Name": "de R\u00ef\u00bf\u00bdgnon",
+        "lastName": "de R\u00ef\u00bf\u00bdgnon",
         "dateOfBirth": "10/10/1831",
         "showOnMap": false
       },
@@ -23767,7 +23767,7 @@ var birthplaces = {
         "Id": 8.181,
         "yearOfBirth": 1871.0,
         "Place of Birth": "Mishawak, Ind.",
-        "Last Name": "Jenn",
+        "lastName": "Jenn",
         "dateOfBirth": "03/23/1871",
         "showOnMap": false
       },
@@ -23785,7 +23785,7 @@ var birthplaces = {
         "Id": 8.182,
         "yearOfBirth": 1822.0,
         "Place of Birth": "H\u00ef\u00bf\u00bdrsching, O.\u00ef\u00bf\u00bd.",
-        "Last Name": "Ranzmaier",
+        "lastName": "Ranzmaier",
         "dateOfBirth": "03/13/1822",
         "showOnMap": false
       },
@@ -23803,7 +23803,7 @@ var birthplaces = {
         "Id": 8.183,
         "yearOfBirth": 1832.0,
         "Place of Birth": "Partinico (Palermo)",
-        "Last Name": "Lovasco",
+        "lastName": "Lovasco",
         "dateOfBirth": "07/02/1832",
         "showOnMap": false
       },
@@ -23821,7 +23821,7 @@ var birthplaces = {
         "Id": 8.184,
         "yearOfBirth": 1810.0,
         "Place of Birth": "Chiavari (Genova)",
-        "Last Name": "Coari",
+        "lastName": "Coari",
         "dateOfBirth": "09/14/1810",
         "showOnMap": false
       },
@@ -23839,7 +23839,7 @@ var birthplaces = {
         "Id": 8.185,
         "yearOfBirth": 1830.0,
         "Place of Birth": "R\u00ef\u00bf\u00bdgil (Guip\u00ef\u00bf\u00bdzcoa)",
-        "Last Name": "Aguerreche",
+        "lastName": "Aguerreche",
         "dateOfBirth": "09/23/1830",
         "showOnMap": false
       },
@@ -23857,7 +23857,7 @@ var birthplaces = {
         "Id": 8.186,
         "yearOfBirth": 1865.0,
         "Place of Birth": "St-S\u00ef\u00bf\u00bdbastien, Qu\u00ef\u00bf\u00bd.",
-        "Last Name": "Couture",
+        "lastName": "Couture",
         "dateOfBirth": "03/20/1865",
         "showOnMap": false
       },
@@ -23875,7 +23875,7 @@ var birthplaces = {
         "Id": 8.187,
         "yearOfBirth": 1860.0,
         "Place of Birth": "Radolfzell (Baden)",
-        "Last Name": "Kressibuch",
+        "lastName": "Kressibuch",
         "dateOfBirth": "01/09/1860",
         "showOnMap": false
       },
@@ -23893,7 +23893,7 @@ var birthplaces = {
         "Id": 8.188,
         "yearOfBirth": 1819.0,
         "Place of Birth": "Bingelraade (Limburg)",
-        "Last Name": "Sch\u00ef\u00bf\u00bdnen",
+        "lastName": "Sch\u00ef\u00bf\u00bdnen",
         "dateOfBirth": "03/18/1819",
         "showOnMap": false
       },
@@ -23911,7 +23911,7 @@ var birthplaces = {
         "Id": 8.189,
         "yearOfBirth": 1845.0,
         "Place of Birth": "Reusel (N-Brabant)",
-        "Last Name": "Moonen",
+        "lastName": "Moonen",
         "dateOfBirth": "07/28/1845",
         "showOnMap": false
       },
@@ -23929,7 +23929,7 @@ var birthplaces = {
         "Id": 8.19,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Hatfield-Peverell (Essex)",
-        "Last Name": "Walford",
+        "lastName": "Walford",
         "dateOfBirth": "03/27/1834",
         "showOnMap": false
       },
@@ -23947,7 +23947,7 @@ var birthplaces = {
         "Id": 8.191,
         "yearOfBirth": 1853.0,
         "Place of Birth": "Karikal (dc Trivandren)",
-        "Last Name": "Amirdanader",
+        "lastName": "Amirdanader",
         "dateOfBirth": "09/04/1853",
         "showOnMap": false
       },
@@ -23965,7 +23965,7 @@ var birthplaces = {
         "Id": 8.192,
         "yearOfBirth": 1870.0,
         "Place of Birth": "Azcoitia",
-        "Last Name": "Garate",
+        "lastName": "Garate",
         "dateOfBirth": "05/19/1870",
         "showOnMap": false
       },
@@ -23983,7 +23983,7 @@ var birthplaces = {
         "Id": 8.193,
         "yearOfBirth": 1831.0,
         "Place of Birth": "St-Laurent-en-Grandvaux (Jura)",
-        "Last Name": "Besson",
+        "lastName": "Besson",
         "dateOfBirth": "01/21/1831",
         "showOnMap": false
       },
@@ -24001,7 +24001,7 @@ var birthplaces = {
         "Id": 8.194,
         "yearOfBirth": 1827.0,
         "Place of Birth": "St-Nicolas (Fl Or)",
-        "Last Name": "de Wolf",
+        "lastName": "de Wolf",
         "dateOfBirth": "09/17/1827",
         "showOnMap": false
       },
@@ -24019,7 +24019,7 @@ var birthplaces = {
         "Id": 8.195,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Alost",
-        "Last Name": "de Loose",
+        "lastName": "de Loose",
         "dateOfBirth": "10/28/1834",
         "showOnMap": false
       },
@@ -24037,7 +24037,7 @@ var birthplaces = {
         "Id": 8.196,
         "yearOfBirth": 1841.0,
         "Place of Birth": "San Sebasti\u00ef\u00bf\u00bdn",
-        "Last Name": "Azarola",
+        "lastName": "Azarola",
         "dateOfBirth": "12/20/1841",
         "showOnMap": false
       },
@@ -24055,7 +24055,7 @@ var birthplaces = {
         "Id": 8.197,
         "yearOfBirth": 1830.0,
         "Place of Birth": "Clermont (Puy-de-D)",
-        "Last Name": "Servier",
+        "lastName": "Servier",
         "dateOfBirth": "07/02/1830",
         "showOnMap": false
       },
@@ -24073,7 +24073,7 @@ var birthplaces = {
         "Id": 8.198,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Losinj (Croatie)",
-        "Last Name": "Budinich",
+        "lastName": "Budinich",
         "dateOfBirth": "02/15/1825",
         "showOnMap": false
       },
@@ -24091,7 +24091,7 @@ var birthplaces = {
         "Id": 8.199,
         "yearOfBirth": 1812.0,
         "Place of Birth": "Tydavnet (Monaghan)",
-        "Last Name": "Macelroy",
+        "lastName": "Macelroy",
         "dateOfBirth": "05/01/1812",
         "showOnMap": false
       },
@@ -24109,7 +24109,7 @@ var birthplaces = {
         "Id": 8.2,
         "yearOfBirth": 1846.0,
         "Place of Birth": "Livron (Dr\u00ef\u00bf\u00bdme)",
-        "Last Name": "Courtois",
+        "lastName": "Courtois",
         "dateOfBirth": "12/12/1846",
         "showOnMap": false
       },
@@ -24127,7 +24127,7 @@ var birthplaces = {
         "Id": 8.201,
         "yearOfBirth": 1830.0,
         "Place of Birth": "Anvers",
-        "Last Name": "van Eeckhoven",
+        "lastName": "van Eeckhoven",
         "dateOfBirth": "07/16/1830",
         "showOnMap": false
       },
@@ -24145,7 +24145,7 @@ var birthplaces = {
         "Id": 8.202,
         "yearOfBirth": 1804.0,
         "Place of Birth": "F\u00ef\u00bf\u00bdternes (Savoie)",
-        "Last Name": "Bougeon",
+        "lastName": "Bougeon",
         "dateOfBirth": "08/01/1804",
         "showOnMap": false
       },
@@ -24163,7 +24163,7 @@ var birthplaces = {
         "Id": 8.203,
         "yearOfBirth": 1814.0,
         "Place of Birth": "Cagliari",
-        "Last Name": "Vincenti",
+        "lastName": "Vincenti",
         "dateOfBirth": "01/06/1814",
         "showOnMap": false
       },
@@ -24181,7 +24181,7 @@ var birthplaces = {
         "Id": 8.204,
         "yearOfBirth": 1869.0,
         "Place of Birth": "St-Julien-Molhesabate (H-Loire)",
-        "Last Name": "Fayard",
+        "lastName": "Fayard",
         "dateOfBirth": "09/01/1869",
         "showOnMap": false
       },
@@ -24199,7 +24199,7 @@ var birthplaces = {
         "Id": 8.205,
         "yearOfBirth": 1819.0,
         "Place of Birth": "St-James (Manche)",
-        "Last Name": "Bailleul",
+        "lastName": "Bailleul",
         "dateOfBirth": "04/01/1819",
         "showOnMap": false
       },
@@ -24217,7 +24217,7 @@ var birthplaces = {
         "Id": 8.206,
         "yearOfBirth": 1865.0,
         "Place of Birth": "Matarello (Trento)",
-        "Last Name": "Gentili",
+        "lastName": "Gentili",
         "dateOfBirth": "08/22/1865",
         "showOnMap": false
       },
@@ -24235,7 +24235,7 @@ var birthplaces = {
         "Id": 8.207,
         "yearOfBirth": 1803.0,
         "Place of Birth": "Dinan (C\u00ef\u00bf\u00bdtes-du-N)",
-        "Last Name": "Bazin",
+        "lastName": "Bazin",
         "dateOfBirth": "11/25/1803",
         "showOnMap": false
       },
@@ -24253,7 +24253,7 @@ var birthplaces = {
         "Id": 8.208,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Palma de Mallorca",
-        "Last Name": "Llad\u00ef\u00bf\u00bd",
+        "lastName": "Llad\u00ef\u00bf\u00bd",
         "dateOfBirth": "04/14/1834",
         "showOnMap": false
       },
@@ -24271,7 +24271,7 @@ var birthplaces = {
         "Id": 8.209,
         "yearOfBirth": 1852.0,
         "Place of Birth": "Gross-Neudorf, Opole",
-        "Last Name": "Boeger",
+        "lastName": "Boeger",
         "dateOfBirth": "10/06/1852",
         "showOnMap": false
       },
@@ -24289,7 +24289,7 @@ var birthplaces = {
         "Id": 8.21,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Terre-Bonne, La.",
-        "Last Name": "Boudreaux",
+        "lastName": "Boudreaux",
         "dateOfBirth": "05/22/1821",
         "showOnMap": false
       },
@@ -24307,7 +24307,7 @@ var birthplaces = {
         "Id": 8.211,
         "yearOfBirth": 1849.0,
         "Place of Birth": "Smolnik (Sl. sko)",
-        "Last Name": "Czimmermann",
+        "lastName": "Czimmermann",
         "dateOfBirth": "03/13/1849",
         "showOnMap": false
       },
@@ -24325,7 +24325,7 @@ var birthplaces = {
         "Id": 8.212,
         "yearOfBirth": 1856.0,
         "Place of Birth": "Laer (M\u00ef\u00bf\u00bdnster)",
-        "Last Name": "Temming",
+        "lastName": "Temming",
         "dateOfBirth": "02/29/1856",
         "showOnMap": false
       },
@@ -24343,7 +24343,7 @@ var birthplaces = {
         "Id": 8.213,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Ber\u00ef\u00bf\u00bdstegui (Guip\u00ef\u00bf\u00bdzcoa)",
-        "Last Name": "Garciarena",
+        "lastName": "Garciarena",
         "dateOfBirth": "03/24/1827",
         "showOnMap": false
       },
@@ -24361,7 +24361,7 @@ var birthplaces = {
         "Id": 8.214,
         "yearOfBirth": 1859.0,
         "Place of Birth": "Calpan, Pue.",
-        "Last Name": "Velazquez",
+        "lastName": "Velazquez",
         "dateOfBirth": "11/17/1859",
         "showOnMap": false
       },
@@ -24379,7 +24379,7 @@ var birthplaces = {
         "Id": 8.215,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Faenza (Ravenna)",
-        "Last Name": "Bellenghi",
+        "lastName": "Bellenghi",
         "dateOfBirth": "08/20/1820",
         "showOnMap": false
       },
@@ -24397,7 +24397,7 @@ var birthplaces = {
         "Id": 8.216,
         "yearOfBirth": 1839.0,
         "Place of Birth": "Mainz (Rheinland)",
-        "Last Name": "Holzem",
+        "lastName": "Holzem",
         "dateOfBirth": "05/08/1839",
         "showOnMap": false
       },
@@ -24415,7 +24415,7 @@ var birthplaces = {
         "Id": 8.217,
         "yearOfBirth": 1853.0,
         "Place of Birth": "Monagear (pr Clone Wexford)",
-        "Last Name": "Murphy",
+        "lastName": "Murphy",
         "dateOfBirth": "03/17/1853",
         "showOnMap": false
       },
@@ -24433,7 +24433,7 @@ var birthplaces = {
         "Id": 8.218,
         "yearOfBirth": 1843.0,
         "Place of Birth": "Pleyben (Finistere)",
-        "Last Name": "Le Moal",
+        "lastName": "Le Moal",
         "dateOfBirth": "12/12/1843",
         "showOnMap": false
       },
@@ -24451,7 +24451,7 @@ var birthplaces = {
         "Id": 8.219,
         "yearOfBirth": 1819.0,
         "Place of Birth": "Hilversum (N-Brabant)",
-        "Last Name": "Fennis",
+        "lastName": "Fennis",
         "dateOfBirth": "12/27/1819",
         "showOnMap": false
       },
@@ -24469,7 +24469,7 @@ var birthplaces = {
         "Id": 8.22,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Almodovar del Campo (Ciudad Real)",
-        "Last Name": "Delgado",
+        "lastName": "Delgado",
         "dateOfBirth": "10/15/1826",
         "showOnMap": false
       },
@@ -24487,7 +24487,7 @@ var birthplaces = {
         "Id": 8.221,
         "yearOfBirth": 1848.0,
         "Place of Birth": "Anvers",
-        "Last Name": "Van De Weyer",
+        "lastName": "Van De Weyer",
         "dateOfBirth": "02/24/1848",
         "showOnMap": false
       },
@@ -24505,7 +24505,7 @@ var birthplaces = {
         "Id": 8.222,
         "yearOfBirth": 1816.0,
         "Place of Birth": "Albens (Savoie)",
-        "Last Name": "Blanc",
+        "lastName": "Blanc",
         "dateOfBirth": "05/04/1816",
         "showOnMap": false
       },
@@ -24523,7 +24523,7 @@ var birthplaces = {
         "Id": 8.223,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Merin (Morava)",
-        "Last Name": "Kozeny",
+        "lastName": "Kozeny",
         "dateOfBirth": "01/10/1827",
         "showOnMap": false
       },
@@ -24541,7 +24541,7 @@ var birthplaces = {
         "Id": 8.224,
         "yearOfBirth": 1870.0,
         "Place of Birth": "Liverpool",
-        "Last Name": "Picinich",
+        "lastName": "Picinich",
         "dateOfBirth": "09/04/1870",
         "showOnMap": false
       },
@@ -24559,7 +24559,7 @@ var birthplaces = {
         "Id": 8.225,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Marsous (H-Pyrenees)",
-        "Last Name": "Picou",
+        "lastName": "Picou",
         "dateOfBirth": "10/13/1826",
         "showOnMap": false
       },
@@ -24577,7 +24577,7 @@ var birthplaces = {
         "Id": 8.226,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Sariegos (Leon)",
-        "Last Name": "Gordon",
+        "lastName": "Gordon",
         "dateOfBirth": "03/27/1834",
         "showOnMap": false
       },
@@ -24595,7 +24595,7 @@ var birthplaces = {
         "Id": 8.227,
         "yearOfBirth": 1841.0,
         "Place of Birth": "Ploumillian (Cotes-du-N)",
-        "Last Name": "Dagorn",
+        "lastName": "Dagorn",
         "dateOfBirth": "06/05/1841",
         "showOnMap": false
       },
@@ -24613,7 +24613,7 @@ var birthplaces = {
         "Id": 8.228,
         "yearOfBirth": 1845.0,
         "Place of Birth": "Villeurbanne (Rhone)",
-        "Last Name": "Heritier",
+        "lastName": "Heritier",
         "dateOfBirth": "07/01/1845",
         "showOnMap": false
       },
@@ -24631,7 +24631,7 @@ var birthplaces = {
         "Id": 8.229,
         "yearOfBirth": 1832.0,
         "Place of Birth": "Villanueva de Araquil (Navarra)",
-        "Last Name": "Aizcorbe",
+        "lastName": "Aizcorbe",
         "dateOfBirth": "07/31/1832",
         "showOnMap": false
       },
@@ -24649,7 +24649,7 @@ var birthplaces = {
         "Id": 8.23,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Salemi (Trapani)",
-        "Last Name": "Marino",
+        "lastName": "Marino",
         "dateOfBirth": "09/21/1826",
         "showOnMap": false
       },
@@ -24667,7 +24667,7 @@ var birthplaces = {
         "Id": 8.231,
         "yearOfBirth": 1844.0,
         "Place of Birth": "Cavareno (Trento)",
-        "Last Name": "Borzaga",
+        "lastName": "Borzaga",
         "dateOfBirth": "02/19/1844",
         "showOnMap": false
       },
@@ -24685,7 +24685,7 @@ var birthplaces = {
         "Id": 8.232,
         "yearOfBirth": 1832.0,
         "Place of Birth": "Nort (Loire-A)",
-        "Last Name": "Riot",
+        "lastName": "Riot",
         "dateOfBirth": "11/11/1832",
         "showOnMap": false
       },
@@ -24703,7 +24703,7 @@ var birthplaces = {
         "Id": 8.233,
         "yearOfBirth": 1840.0,
         "Place of Birth": "Rambla (Cordoba)",
-        "Last Name": "Cabello",
+        "lastName": "Cabello",
         "dateOfBirth": "09/04/1840",
         "showOnMap": false
       },
@@ -24721,7 +24721,7 @@ var birthplaces = {
         "Id": 8.234,
         "yearOfBirth": 1830.0,
         "Place of Birth": "Arnhem (Gelderland)",
-        "Last Name": "de Bruyn",
+        "lastName": "de Bruyn",
         "dateOfBirth": "05/29/1830",
         "showOnMap": false
       },
@@ -24739,7 +24739,7 @@ var birthplaces = {
         "Id": 8.235,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Roma",
-        "Last Name": "Belli",
+        "lastName": "Belli",
         "dateOfBirth": "03/23/1823",
         "showOnMap": false
       },
@@ -24757,7 +24757,7 @@ var birthplaces = {
         "Id": 8.236,
         "yearOfBirth": 1825.0,
         "Place of Birth": "St-Agreve (Ardeche)",
-        "Last Name": "Deleage",
+        "lastName": "Deleage",
         "dateOfBirth": "07/24/1825",
         "showOnMap": false
       },
@@ -24775,7 +24775,7 @@ var birthplaces = {
         "Id": 8.237,
         "yearOfBirth": 1824.0,
         "Place of Birth": "Gerde (H-Pyrenees)",
-        "Last Name": "Lavigne",
+        "lastName": "Lavigne",
         "dateOfBirth": "07/09/1824",
         "showOnMap": false
       },
@@ -24793,7 +24793,7 @@ var birthplaces = {
         "Id": 8.238,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Courtomer (Orne)",
-        "Last Name": "Levillain",
+        "lastName": "Levillain",
         "dateOfBirth": "04/18/1822",
         "showOnMap": false
       },
@@ -24811,7 +24811,7 @@ var birthplaces = {
         "Id": 8.239,
         "yearOfBirth": 1810.0,
         "Place of Birth": "Schwyz",
-        "Last Name": "de Weber",
+        "lastName": "de Weber",
         "dateOfBirth": "09/09/1810",
         "showOnMap": false
       },
@@ -24829,7 +24829,7 @@ var birthplaces = {
         "Id": 8.24,
         "yearOfBirth": 1859.0,
         "Place of Birth": "Batya (Bacs-Kiskun)",
-        "Last Name": "Nemeth",
+        "lastName": "Nemeth",
         "dateOfBirth": "06/01/1859",
         "showOnMap": false
       },
@@ -24847,7 +24847,7 @@ var birthplaces = {
         "Id": 8.241,
         "yearOfBirth": 1853.0,
         "Place of Birth": "Cincinnati",
-        "Last Name": "Votel",
+        "lastName": "Votel",
         "dateOfBirth": "03/06/1853",
         "showOnMap": false
       },
@@ -24865,7 +24865,7 @@ var birthplaces = {
         "Id": 8.242,
         "yearOfBirth": 1818.0,
         "Place of Birth": "Saugues (H-Loire)",
-        "Last Name": "Trincal",
+        "lastName": "Trincal",
         "dateOfBirth": "01/20/1818",
         "showOnMap": false
       },
@@ -24883,7 +24883,7 @@ var birthplaces = {
         "Id": 8.243,
         "yearOfBirth": 1848.0,
         "Place of Birth": "Arihuela",
-        "Last Name": "Canovas",
+        "lastName": "Canovas",
         "dateOfBirth": "10/12/1848",
         "showOnMap": false
       },
@@ -24901,7 +24901,7 @@ var birthplaces = {
         "Id": 8.244,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Marsens (Fribourg)",
-        "Last Name": "Magnin",
+        "lastName": "Magnin",
         "dateOfBirth": "05/13/1826",
         "showOnMap": false
       },
@@ -24919,7 +24919,7 @@ var birthplaces = {
         "Id": 8.245,
         "yearOfBirth": 1848.0,
         "Place of Birth": "Wiebelsheim (Rheinland)",
-        "Last Name": "Oppermann",
+        "lastName": "Oppermann",
         "dateOfBirth": "03/03/1848",
         "showOnMap": false
       },
@@ -24937,7 +24937,7 @@ var birthplaces = {
         "Id": 8.246,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Ploudaniel (Finistere)",
-        "Last Name": "Gouriou",
+        "lastName": "Gouriou",
         "dateOfBirth": "07/09/1834",
         "showOnMap": false
       },
@@ -24955,7 +24955,7 @@ var birthplaces = {
         "Id": 8.247,
         "yearOfBirth": 1849.0,
         "Place of Birth": "Mundeldingen (Wurtemburg)",
-        "Last Name": "Strahl",
+        "lastName": "Strahl",
         "dateOfBirth": "01/10/1849",
         "showOnMap": false
       },
@@ -24973,7 +24973,7 @@ var birthplaces = {
         "Id": 8.248,
         "yearOfBirth": 1872.0,
         "Place of Birth": "San Pedro de Valldeneu (Barcelona)",
-        "Last Name": "Matheu",
+        "lastName": "Matheu",
         "dateOfBirth": "02/03/1872",
         "showOnMap": false
       },
@@ -24991,7 +24991,7 @@ var birthplaces = {
         "Id": 8.249,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Leest (Anvers)",
-        "Last Name": "Moons",
+        "lastName": "Moons",
         "dateOfBirth": "01/23/1817",
         "showOnMap": false
       },
@@ -25009,7 +25009,7 @@ var birthplaces = {
         "Id": 8.25,
         "yearOfBirth": 1824.0,
         "Place of Birth": "Rush (Dublin)",
-        "Last Name": "Maguire",
+        "lastName": "Maguire",
         "dateOfBirth": "03/19/1824",
         "showOnMap": false
       },
@@ -25027,7 +25027,7 @@ var birthplaces = {
         "Id": 8.251,
         "yearOfBirth": 1875.0,
         "Place of Birth": "Richmond, Minn.",
-        "Last Name": "Simonitsch",
+        "lastName": "Simonitsch",
         "dateOfBirth": "12/03/1875",
         "showOnMap": false
       },
@@ -25045,7 +25045,7 @@ var birthplaces = {
         "Id": 8.252,
         "yearOfBirth": 1837.0,
         "Place of Birth": "Zar\u00ef\u00bf\u00bduz (Guip\u00ef\u00bf\u00bdzcoa)",
-        "Last Name": "Echave",
+        "lastName": "Echave",
         "dateOfBirth": "05/06/1837",
         "showOnMap": false
       },
@@ -25063,7 +25063,7 @@ var birthplaces = {
         "Id": 8.253,
         "yearOfBirth": 1835.0,
         "Place of Birth": "Gorges (Manche)",
-        "Last Name": "Brotelande",
+        "lastName": "Brotelande",
         "dateOfBirth": "10/25/1835",
         "showOnMap": false
       },
@@ -25081,7 +25081,7 @@ var birthplaces = {
         "Id": 8.254,
         "yearOfBirth": 1874.0,
         "Place of Birth": "Montevideo (Rocha)",
-        "Last Name": "Terra",
+        "lastName": "Terra",
         "dateOfBirth": "05/30/1874",
         "showOnMap": false
       },
@@ -25099,7 +25099,7 @@ var birthplaces = {
         "Id": 8.255,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Araches (H-Savoie)",
-        "Last Name": "Plantaz",
+        "lastName": "Plantaz",
         "dateOfBirth": "02/23/1827",
         "showOnMap": false
       },
@@ -25117,7 +25117,7 @@ var birthplaces = {
         "Id": 8.256,
         "yearOfBirth": 1824.0,
         "Place of Birth": "St-Ch\u00ef\u00bf\u00bdly-d'Apcher (Loz\u00ef\u00bf\u00bdre)",
-        "Last Name": "Biron",
+        "lastName": "Biron",
         "dateOfBirth": "01/21/1824",
         "showOnMap": false
       },
@@ -25135,7 +25135,7 @@ var birthplaces = {
         "Id": 8.257,
         "yearOfBirth": 1817.0,
         "Place of Birth": "St-Omer (Pas-de-C)",
-        "Last Name": "de Lage",
+        "lastName": "de Lage",
         "dateOfBirth": "06/03/1817",
         "showOnMap": false
       },
@@ -25153,7 +25153,7 @@ var birthplaces = {
         "Id": 8.258,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Tolosa (Guip\u00ef\u00bf\u00bdzcoa)",
-        "Last Name": "Egu\u00ef\u00bf\u00bdluz",
+        "lastName": "Egu\u00ef\u00bf\u00bdluz",
         "dateOfBirth": "12/14/1817",
         "showOnMap": false
       },
@@ -25171,7 +25171,7 @@ var birthplaces = {
         "Id": 8.259,
         "yearOfBirth": 1836.0,
         "Place of Birth": "Stara Wies",
-        "Last Name": "Pyra",
+        "lastName": "Pyra",
         "dateOfBirth": "03/19/1836",
         "showOnMap": false
       },
@@ -25189,7 +25189,7 @@ var birthplaces = {
         "Id": 8.26,
         "yearOfBirth": 1808.0,
         "Place of Birth": "Feldkirch",
-        "Last Name": "Ilg",
+        "lastName": "Ilg",
         "dateOfBirth": "07/17/1808",
         "showOnMap": false
       },
@@ -25207,7 +25207,7 @@ var birthplaces = {
         "Id": 8.261,
         "yearOfBirth": 1856.0,
         "Place of Birth": "Villanueva de Ador (Valencia)",
-        "Last Name": "Estruch",
+        "lastName": "Estruch",
         "dateOfBirth": "10/25/1856",
         "showOnMap": false
       },
@@ -25225,7 +25225,7 @@ var birthplaces = {
         "Id": 8.262,
         "yearOfBirth": 1805.0,
         "Place of Birth": "Paris",
-        "Last Name": "Esteve",
+        "lastName": "Esteve",
         "dateOfBirth": "06/23/1805",
         "showOnMap": false
       },
@@ -25243,7 +25243,7 @@ var birthplaces = {
         "Id": 8.263,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Nonantola (Modena)",
-        "Last Name": "Vaccari",
+        "lastName": "Vaccari",
         "dateOfBirth": "02/17/1820",
         "showOnMap": false
       },
@@ -25261,7 +25261,7 @@ var birthplaces = {
         "Id": 8.264,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Bremgarten (Aargau)",
-        "Last Name": "Dosenbach",
+        "lastName": "Dosenbach",
         "dateOfBirth": "08/24/1822",
         "showOnMap": false
       },
@@ -25279,7 +25279,7 @@ var birthplaces = {
         "Id": 8.265,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Ijsselstein (Utrecht)",
-        "Last Name": "Van den Anker",
+        "lastName": "Van den Anker",
         "dateOfBirth": "07/16/1821",
         "showOnMap": false
       },
@@ -25297,7 +25297,7 @@ var birthplaces = {
         "Id": 8.266,
         "yearOfBirth": 1814.0,
         "Place of Birth": "Curieres (Aveyron)",
-        "Last Name": "Viguier",
+        "lastName": "Viguier",
         "dateOfBirth": "10/13/1814",
         "showOnMap": false
       },
@@ -25315,7 +25315,7 @@ var birthplaces = {
         "Id": 8.267,
         "yearOfBirth": 1806.0,
         "Place of Birth": "Flassa (Gerona)",
-        "Last Name": "Costa",
+        "lastName": "Costa",
         "dateOfBirth": "10/11/1806",
         "showOnMap": false
       },
@@ -25333,7 +25333,7 @@ var birthplaces = {
         "Id": 8.268,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Pondichery",
-        "Last Name": "Dayriam",
+        "lastName": "Dayriam",
         "dateOfBirth": "04/12/1823",
         "showOnMap": false
       },
@@ -25351,7 +25351,7 @@ var birthplaces = {
         "Id": 6.269,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Utrecht",
-        "Last Name": "Van Kuik",
+        "lastName": "Van Kuik",
         "dateOfBirth": "09/12/1823",
         "showOnMap": false
       },
@@ -25369,7 +25369,7 @@ var birthplaces = {
         "Id": 8.27,
         "yearOfBirth": 1832.0,
         "Place of Birth": "Valtierra (Navarra)",
-        "Last Name": "Aramend\u00ef\u00bf\u00bda",
+        "lastName": "Aramend\u00ef\u00bf\u00bda",
         "dateOfBirth": "02/10/1832",
         "showOnMap": false
       },
@@ -25387,7 +25387,7 @@ var birthplaces = {
         "Id": 8.271,
         "yearOfBirth": 1835.0,
         "Place of Birth": "Tipperary",
-        "Last Name": "Molloy",
+        "lastName": "Molloy",
         "dateOfBirth": "01/06/1835",
         "showOnMap": false
       },
@@ -25405,7 +25405,7 @@ var birthplaces = {
         "Id": 8.272,
         "yearOfBirth": 1857.0,
         "Place of Birth": "Reggio Calabria",
-        "Last Name": "Spinelli",
+        "lastName": "Spinelli",
         "dateOfBirth": "02/23/1857",
         "showOnMap": false
       },
@@ -25423,7 +25423,7 @@ var birthplaces = {
         "Id": 8.273,
         "yearOfBirth": 1840.0,
         "Place of Birth": "St-Barth\u00ef\u00bf\u00bdlemy (B-Alpes)",
-        "Last Name": "L\u00ef\u00bf\u00bdautier",
+        "lastName": "L\u00ef\u00bf\u00bdautier",
         "dateOfBirth": "08/20/1840",
         "showOnMap": false
       },
@@ -25441,7 +25441,7 @@ var birthplaces = {
         "Id": 8.274,
         "yearOfBirth": 1857.0,
         "Place of Birth": "San Savino (Cremona)",
-        "Last Name": "Parizzi",
+        "lastName": "Parizzi",
         "dateOfBirth": "04/06/1857",
         "showOnMap": false
       },
@@ -25459,7 +25459,7 @@ var birthplaces = {
         "Id": 8.276,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Caprycke (Fl Or)",
-        "Last Name": "Van Vooren",
+        "lastName": "Van Vooren",
         "dateOfBirth": "02/11/1822",
         "showOnMap": false
       },
@@ -25477,7 +25477,7 @@ var birthplaces = {
         "Id": 8.277,
         "yearOfBirth": 1871.0,
         "Place of Birth": "Cerignola (Foggia)",
-        "Last Name": "Palumbo",
+        "lastName": "Palumbo",
         "dateOfBirth": "11/10/1871",
         "showOnMap": false
       },
@@ -25495,7 +25495,7 @@ var birthplaces = {
         "Id": 8.278,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Kazan; RSFSR",
-        "Last Name": "Martinov",
+        "lastName": "Martinov",
         "dateOfBirth": "10/07/1821",
         "showOnMap": false
       },
@@ -25513,7 +25513,7 @@ var birthplaces = {
         "Id": 8.279,
         "yearOfBirth": 1824.0,
         "Place of Birth": "Sart\u00ef\u00bf\u00bdne (Corse)",
-        "Last Name": "Pietri",
+        "lastName": "Pietri",
         "dateOfBirth": "11/08/1824",
         "showOnMap": false
       },
@@ -25531,7 +25531,7 @@ var birthplaces = {
         "Id": 8.28,
         "yearOfBirth": 1843.0,
         "Place of Birth": "Dublin",
-        "Last Name": "O'Connor",
+        "lastName": "O'Connor",
         "dateOfBirth": "12/01/1843",
         "showOnMap": false
       },
@@ -25549,7 +25549,7 @@ var birthplaces = {
         "Id": 8.281,
         "yearOfBirth": 1829.0,
         "Place of Birth": "Allerton (York)",
-        "Last Name": "Young",
+        "lastName": "Young",
         "dateOfBirth": "01/24/1829",
         "showOnMap": false
       },
@@ -25567,7 +25567,7 @@ var birthplaces = {
         "Id": 8.282,
         "yearOfBirth": 1859.0,
         "Place of Birth": "Milwaukee",
-        "Last Name": "Duggan",
+        "lastName": "Duggan",
         "dateOfBirth": "06/01/1859",
         "showOnMap": false
       },
@@ -25585,7 +25585,7 @@ var birthplaces = {
         "Id": 8.283,
         "yearOfBirth": 1835.0,
         "Place of Birth": "Liverpool",
-        "Last Name": "Scott",
+        "lastName": "Scott",
         "dateOfBirth": "01/26/1835",
         "showOnMap": false
       },
@@ -25603,7 +25603,7 @@ var birthplaces = {
         "Id": 8.284,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Amsterdam",
-        "Last Name": "van Schaijik",
+        "lastName": "van Schaijik",
         "dateOfBirth": "05/27/1826",
         "showOnMap": false
       },
@@ -25621,7 +25621,7 @@ var birthplaces = {
         "Id": 8.285,
         "yearOfBirth": 1861.0,
         "Place of Birth": "*Curragh Camp (Kildare)",
-        "Last Name": "Griffin",
+        "lastName": "Griffin",
         "dateOfBirth": "11/19/1861",
         "showOnMap": false
       },
@@ -25639,7 +25639,7 @@ var birthplaces = {
         "Id": 8.286,
         "yearOfBirth": 1845.0,
         "Place of Birth": "*Bally Mac Cullom (Donegal)",
-        "Last Name": "Gallagher",
+        "lastName": "Gallagher",
         "dateOfBirth": "05/15/1845",
         "showOnMap": false
       },
@@ -25657,7 +25657,7 @@ var birthplaces = {
         "Id": 8.287,
         "yearOfBirth": 1810.0,
         "Place of Birth": "Roma",
-        "Last Name": "Tortolini",
+        "lastName": "Tortolini",
         "dateOfBirth": "09/14/1810",
         "showOnMap": false
       },
@@ -25675,7 +25675,7 @@ var birthplaces = {
         "Id": 8.288,
         "yearOfBirth": 1875.0,
         "Place of Birth": "Gonzeville (Seine-M)",
-        "Last Name": "Bonay",
+        "lastName": "Bonay",
         "dateOfBirth": "06/28/1875",
         "showOnMap": false
       },
@@ -25693,7 +25693,7 @@ var birthplaces = {
         "Id": 8.289,
         "yearOfBirth": 1819.0,
         "Place of Birth": "Nocera de' Pagani (Salerno)",
-        "Last Name": "Angrisani",
+        "lastName": "Angrisani",
         "dateOfBirth": "11/03/1819",
         "showOnMap": false
       },
@@ -25711,7 +25711,7 @@ var birthplaces = {
         "Id": 8.29,
         "yearOfBirth": 1836.0,
         "Place of Birth": "Herenthals (Anvers)",
-        "Last Name": "Leysen",
+        "lastName": "Leysen",
         "dateOfBirth": "08/29/1836",
         "showOnMap": false
       },
@@ -25729,7 +25729,7 @@ var birthplaces = {
         "Id": 8.291,
         "yearOfBirth": 1862.0,
         "Place of Birth": "Eicks (Rheinland)",
-        "Last Name": "Keller",
+        "lastName": "Keller",
         "dateOfBirth": "01/22/1862",
         "showOnMap": false
       },
@@ -25747,7 +25747,7 @@ var birthplaces = {
         "Id": 8.292,
         "yearOfBirth": 1864.0,
         "Place of Birth": "Ternopol; USSR",
-        "Last Name": "Wagilewiecz",
+        "lastName": "Wagilewiecz",
         "dateOfBirth": "01/18/1864",
         "showOnMap": false
       },
@@ -25765,7 +25765,7 @@ var birthplaces = {
         "Id": 8.293,
         "yearOfBirth": 1858.0,
         "Place of Birth": "Fourmies (Nord)",
-        "Last Name": "Bontemps",
+        "lastName": "Bontemps",
         "dateOfBirth": "09/23/1858",
         "showOnMap": false
       },
@@ -25783,7 +25783,7 @@ var birthplaces = {
         "Id": 8.294,
         "yearOfBirth": 1818.0,
         "Place of Birth": "Settimo San Pietro (Cagliari)",
-        "Last Name": "Lussu",
+        "lastName": "Lussu",
         "dateOfBirth": "11/19/1818",
         "showOnMap": false
       },
@@ -25801,7 +25801,7 @@ var birthplaces = {
         "Id": 8.295,
         "yearOfBirth": 1864.0,
         "Place of Birth": "Barcelona",
-        "Last Name": "de Gibert",
+        "lastName": "de Gibert",
         "dateOfBirth": "12/01/1864",
         "showOnMap": false
       },
@@ -25819,7 +25819,7 @@ var birthplaces = {
         "Id": 8.296,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Hettingen (Hohenzollern)",
-        "Last Name": "Schneider",
+        "lastName": "Schneider",
         "dateOfBirth": "02/13/1826",
         "showOnMap": false
       },
@@ -25837,7 +25837,7 @@ var birthplaces = {
         "Id": 8.297,
         "yearOfBirth": 1836.0,
         "Place of Birth": "Reus (Tarragona)",
-        "Last Name": "Salvad\u00ef\u00bf\u00bd",
+        "lastName": "Salvad\u00ef\u00bf\u00bd",
         "dateOfBirth": "03/10/1836",
         "showOnMap": false
       },
@@ -25855,7 +25855,7 @@ var birthplaces = {
         "Id": 8.298,
         "yearOfBirth": 1814.0,
         "Place of Birth": "Cumiana (Torino)",
-        "Last Name": "Raimondo",
+        "lastName": "Raimondo",
         "dateOfBirth": "10/25/1814",
         "showOnMap": false
       },
@@ -25873,7 +25873,7 @@ var birthplaces = {
         "Id": 8.299,
         "yearOfBirth": 1815.0,
         "Place of Birth": "Lucca",
-        "Last Name": "Provenzali",
+        "lastName": "Provenzali",
         "dateOfBirth": "06/15/1815",
         "showOnMap": false
       },
@@ -25891,7 +25891,7 @@ var birthplaces = {
         "Id": 8.3,
         "yearOfBirth": 1830.0,
         "Place of Birth": "Arpajon (Cantal)",
-        "Last Name": "Boyssou",
+        "lastName": "Boyssou",
         "dateOfBirth": "12/19/1830",
         "showOnMap": false
       },
@@ -25909,7 +25909,7 @@ var birthplaces = {
         "Id": 8.301,
         "yearOfBirth": 1872.0,
         "Place of Birth": "Trnava",
-        "Last Name": "Richter",
+        "lastName": "Richter",
         "dateOfBirth": "07/04/1872",
         "showOnMap": false
       },
@@ -25927,7 +25927,7 @@ var birthplaces = {
         "Id": 8.302,
         "yearOfBirth": 1857.0,
         "Place of Birth": "Wyler (Lotschenchthal, Valais)",
-        "Last Name": "Rieder",
+        "lastName": "Rieder",
         "dateOfBirth": "06/18/1857",
         "showOnMap": false
       },
@@ -25945,7 +25945,7 @@ var birthplaces = {
         "Id": 8.303,
         "yearOfBirth": 1814.0,
         "Place of Birth": "Baliard (Ariege)",
-        "Last Name": "Delort",
+        "lastName": "Delort",
         "dateOfBirth": "09/14/1814",
         "showOnMap": false
       },
@@ -25963,7 +25963,7 @@ var birthplaces = {
         "Id": 8.304,
         "yearOfBirth": 1844.0,
         "Place of Birth": "Vossem (Brabant)",
-        "Last Name": "Belym",
+        "lastName": "Belym",
         "dateOfBirth": "01/04/1844",
         "showOnMap": false
       },
@@ -25981,7 +25981,7 @@ var birthplaces = {
         "Id": 8.305,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Arnhem",
-        "Last Name": "Mulder",
+        "lastName": "Mulder",
         "dateOfBirth": "09/08/1825",
         "showOnMap": false
       },
@@ -25999,7 +25999,7 @@ var birthplaces = {
         "Id": 8.306,
         "yearOfBirth": 1837.0,
         "Place of Birth": "Gent",
-        "Last Name": "Hogger",
+        "lastName": "Hogger",
         "dateOfBirth": "06/15/1837",
         "showOnMap": false
       },
@@ -26017,7 +26017,7 @@ var birthplaces = {
         "Id": 8.307,
         "yearOfBirth": 1837.0,
         "Place of Birth": "Bogota",
-        "Last Name": "Borda",
+        "lastName": "Borda",
         "dateOfBirth": "07/22/1837",
         "showOnMap": false
       },
@@ -26035,7 +26035,7 @@ var birthplaces = {
         "Id": 8.309,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Manresa",
-        "Last Name": "Balaguer",
+        "lastName": "Balaguer",
         "dateOfBirth": "12/27/1831",
         "showOnMap": false
       },
@@ -26053,7 +26053,7 @@ var birthplaces = {
         "Id": 8.311,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Castandet (Landes)",
-        "Last Name": "Cadillon",
+        "lastName": "Cadillon",
         "dateOfBirth": "10/27/1817",
         "showOnMap": false
       },
@@ -26071,7 +26071,7 @@ var birthplaces = {
         "Id": 8.312,
         "yearOfBirth": 1810.0,
         "Place of Birth": "Bailleul (Nord)",
-        "Last Name": "De Heere",
+        "lastName": "De Heere",
         "dateOfBirth": "08/27/1810",
         "showOnMap": false
       },
@@ -26089,7 +26089,7 @@ var birthplaces = {
         "Id": 8.313,
         "yearOfBirth": 1836.0,
         "Place of Birth": "Umpeau (Eure-et-L)",
-        "Last Name": "Ouellard",
+        "lastName": "Ouellard",
         "dateOfBirth": "10/31/1836",
         "showOnMap": false
       },
@@ -26107,7 +26107,7 @@ var birthplaces = {
         "Id": 8.315,
         "yearOfBirth": 1819.0,
         "Place of Birth": "Apremont (Savoie)",
-        "Last Name": "Viboux",
+        "lastName": "Viboux",
         "dateOfBirth": "03/17/1819",
         "showOnMap": false
       },
@@ -26125,7 +26125,7 @@ var birthplaces = {
         "Id": 8.316,
         "yearOfBirth": 1840.0,
         "Place of Birth": "St-Marcel (H-Sa\u00ef\u00bf\u00bdne)",
-        "Last Name": "Jacottin",
+        "lastName": "Jacottin",
         "dateOfBirth": "11/08/1840",
         "showOnMap": false
       },
@@ -26143,7 +26143,7 @@ var birthplaces = {
         "Id": 8.317,
         "yearOfBirth": 1843.0,
         "Place of Birth": "S. Pietro in Valle Aurina (Bolzano)",
-        "Last Name": "Hofer",
+        "lastName": "Hofer",
         "dateOfBirth": "06/27/1843",
         "showOnMap": false
       },
@@ -26161,7 +26161,7 @@ var birthplaces = {
         "Id": 8.318,
         "yearOfBirth": 1821.0,
         "Place of Birth": "St Helen's (Lancashire)",
-        "Last Name": "Cooper",
+        "lastName": "Cooper",
         "dateOfBirth": "05/29/1821",
         "showOnMap": false
       },
@@ -26179,7 +26179,7 @@ var birthplaces = {
         "Id": 8.319,
         "yearOfBirth": 1829.0,
         "Place of Birth": "Naas (Kildare)",
-        "Last Name": "Lawless",
+        "lastName": "Lawless",
         "dateOfBirth": "01/04/1829",
         "showOnMap": false
       },
@@ -26197,7 +26197,7 @@ var birthplaces = {
         "Id": 8.32,
         "yearOfBirth": 1829.0,
         "Place of Birth": "Sta Coloma de Centelles (Barcelona)",
-        "Last Name": "Dalm\u00ef\u00bf\u00bdu",
+        "lastName": "Dalm\u00ef\u00bf\u00bdu",
         "dateOfBirth": "02/15/1829",
         "showOnMap": false
       },
@@ -26215,7 +26215,7 @@ var birthplaces = {
         "Id": 8.321,
         "yearOfBirth": 1848.0,
         "Place of Birth": "Wormeldange (Gr. D. de Luxembourg)",
-        "Last Name": "Schmit",
+        "lastName": "Schmit",
         "dateOfBirth": "08/04/1848",
         "showOnMap": false
       },
@@ -26233,7 +26233,7 @@ var birthplaces = {
         "Id": 8.322,
         "yearOfBirth": 1862.0,
         "Place of Birth": "Halberbracht (Westfalen)",
-        "Last Name": "Behme",
+        "lastName": "Behme",
         "dateOfBirth": "01/16/1862",
         "showOnMap": false
       },
@@ -26251,7 +26251,7 @@ var birthplaces = {
         "Id": 8.323,
         "yearOfBirth": 1819.0,
         "Place of Birth": "Genova",
-        "Last Name": "Piccolo",
+        "lastName": "Piccolo",
         "dateOfBirth": "11/08/1819",
         "showOnMap": false
       },
@@ -26269,7 +26269,7 @@ var birthplaces = {
         "Id": 8.324,
         "yearOfBirth": 1828.0,
         "Place of Birth": "Tayac (Aveyron)",
-        "Last Name": "Rey",
+        "lastName": "Rey",
         "dateOfBirth": "05/25/1828",
         "showOnMap": false
       },
@@ -26287,7 +26287,7 @@ var birthplaces = {
         "Id": 8.325,
         "yearOfBirth": 1846.0,
         "Place of Birth": "Bosas (Ard\u00ef\u00bf\u00bdche)",
-        "Last Name": "Daronat",
+        "lastName": "Daronat",
         "dateOfBirth": "04/14/1846",
         "showOnMap": false
       },
@@ -26305,7 +26305,7 @@ var birthplaces = {
         "Id": 8.326,
         "yearOfBirth": 1832.0,
         "Place of Birth": "Tillac (Gers)",
-        "Last Name": "Matharan",
+        "lastName": "Matharan",
         "dateOfBirth": "03/26/1832",
         "showOnMap": false
       },
@@ -26323,7 +26323,7 @@ var birthplaces = {
         "Id": 8.327,
         "yearOfBirth": 1814.0,
         "Place of Birth": "Avent (Valais)",
-        "Last Name": "Sauthi\u00ef\u00bf\u00bd",
+        "lastName": "Sauthi\u00ef\u00bf\u00bd",
         "dateOfBirth": "11/08/1814",
         "showOnMap": false
       },
@@ -26341,7 +26341,7 @@ var birthplaces = {
         "Id": 8.328,
         "yearOfBirth": 1857.0,
         "Place of Birth": "Mainz (Rheinland)",
-        "Last Name": "Genelli",
+        "lastName": "Genelli",
         "dateOfBirth": "02/12/1857",
         "showOnMap": false
       },
@@ -26359,7 +26359,7 @@ var birthplaces = {
         "Id": 8.329,
         "yearOfBirth": 1875.0,
         "Place of Birth": "Rasueros (\u00ef\u00bf\u00bdvila)",
-        "Last Name": "Velasco",
+        "lastName": "Velasco",
         "dateOfBirth": "05/15/1875",
         "showOnMap": false
       },
@@ -26377,7 +26377,7 @@ var birthplaces = {
         "Id": 8.33,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Gr\u00ef\u00bf\u00bdfenhausen (Baden)",
-        "Last Name": "H\u00ef\u00bf\u00bdfele",
+        "lastName": "H\u00ef\u00bf\u00bdfele",
         "dateOfBirth": "02/19/1820",
         "showOnMap": false
       },
@@ -26395,7 +26395,7 @@ var birthplaces = {
         "Id": 8.331,
         "yearOfBirth": 1852.0,
         "Place of Birth": "Cervera (L\u00ef\u00bf\u00bdrida)",
-        "Last Name": "Pujol",
+        "lastName": "Pujol",
         "dateOfBirth": "02/09/1852",
         "showOnMap": false
       },
@@ -26413,7 +26413,7 @@ var birthplaces = {
         "Id": 8.332,
         "yearOfBirth": 1828.0,
         "Place of Birth": "Vercelli (Novara)",
-        "Last Name": "(Arborio) Mella",
+        "lastName": "(Arborio) Mella",
         "dateOfBirth": "02/13/1828",
         "showOnMap": false
       },
@@ -26431,7 +26431,7 @@ var birthplaces = {
         "Id": 8.333,
         "yearOfBirth": 1830.0,
         "Place of Birth": "Essen (Rheinland)",
-        "Last Name": "Tewes",
+        "lastName": "Tewes",
         "dateOfBirth": "11/13/1830",
         "showOnMap": false
       },
@@ -26449,7 +26449,7 @@ var birthplaces = {
         "Id": 8.334,
         "yearOfBirth": 1832.0,
         "Place of Birth": "Lacalm (Aveyron)",
-        "Last Name": "Mestre",
+        "lastName": "Mestre",
         "dateOfBirth": "02/14/1832",
         "showOnMap": false
       },
@@ -26467,7 +26467,7 @@ var birthplaces = {
         "Id": "8.334*",
         "yearOfBirth": 1869.0,
         "Place of Birth": "Flandre",
-        "Last Name": "de Smedt",
+        "lastName": "de Smedt",
         "dateOfBirth": "04/14/1869",
         "showOnMap": false
       },
@@ -26485,7 +26485,7 @@ var birthplaces = {
         "Id": 8.335,
         "yearOfBirth": 1857.0,
         "Place of Birth": "Bailleul (Nord)",
-        "Last Name": "Liefooghe",
+        "lastName": "Liefooghe",
         "dateOfBirth": "05/22/1857",
         "showOnMap": false
       },
@@ -26503,7 +26503,7 @@ var birthplaces = {
         "Id": 8.336,
         "yearOfBirth": 1874.0,
         "Place of Birth": "Marcinelle (Hainaut)",
-        "Last Name": "Bierny",
+        "lastName": "Bierny",
         "dateOfBirth": "12/31/1874",
         "showOnMap": false
       },
@@ -26521,7 +26521,7 @@ var birthplaces = {
         "Id": 8.337,
         "yearOfBirth": 1850.0,
         "Place of Birth": "St-\u00ef\u00bf\u00bdtienne",
-        "Last Name": "Mounier",
+        "lastName": "Mounier",
         "dateOfBirth": "11/19/1850",
         "showOnMap": false
       },
@@ -26539,7 +26539,7 @@ var birthplaces = {
         "Id": 8.339,
         "yearOfBirth": 1871.0,
         "Place of Birth": "L'Assomption, Qu\u00ef\u00bf\u00bd.",
-        "Last Name": "Vaillant",
+        "lastName": "Vaillant",
         "dateOfBirth": "12/08/1871",
         "showOnMap": false
       },
@@ -26557,7 +26557,7 @@ var birthplaces = {
         "Id": 8.34,
         "yearOfBirth": 1835.0,
         "Place of Birth": "Neuenkirchen (Westfalen)",
-        "Last Name": "Epping",
+        "lastName": "Epping",
         "dateOfBirth": "12/01/1835",
         "showOnMap": false
       },
@@ -26575,7 +26575,7 @@ var birthplaces = {
         "Id": 8.341,
         "yearOfBirth": 1809.0,
         "Place of Birth": "Moyvally (Kildare)",
-        "Last Name": "Killian",
+        "lastName": "Killian",
         "dateOfBirth": "04/15/1809",
         "showOnMap": false
       },
@@ -26593,7 +26593,7 @@ var birthplaces = {
         "Id": 8.342,
         "yearOfBirth": 1874.0,
         "Place of Birth": "Prades (Pyr\u00ef\u00bf\u00bdn\u00ef\u00bf\u00bdes-Or)",
-        "Last Name": "Pal\u00ef\u00bf\u00bdu",
+        "lastName": "Pal\u00ef\u00bf\u00bdu",
         "dateOfBirth": "04/18/1874",
         "showOnMap": false
       },
@@ -26611,7 +26611,7 @@ var birthplaces = {
         "Id": 8.343,
         "yearOfBirth": 1812.0,
         "Place of Birth": "Geseke (Westfalen)",
-        "Last Name": "Menke",
+        "lastName": "Menke",
         "dateOfBirth": "03/02/1812",
         "showOnMap": false
       },
@@ -26629,7 +26629,7 @@ var birthplaces = {
         "Id": 8.344,
         "yearOfBirth": 1830.0,
         "Place of Birth": "Napoli",
-        "Last Name": "Amato",
+        "lastName": "Amato",
         "dateOfBirth": "05/26/1830",
         "showOnMap": false
       },
@@ -26647,7 +26647,7 @@ var birthplaces = {
         "Id": 8.345,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Sta Cruz de Campezo",
-        "Last Name": "R\u00ef\u00bf\u00bdmon",
+        "lastName": "R\u00ef\u00bf\u00bdmon",
         "dateOfBirth": "11/28/1834",
         "showOnMap": false
       },
@@ -26665,7 +26665,7 @@ var birthplaces = {
         "Id": 8.346,
         "yearOfBirth": 1824.0,
         "Place of Birth": "Roma",
-        "Last Name": "Valle",
+        "lastName": "Valle",
         "dateOfBirth": "10/16/1824",
         "showOnMap": false
       },
@@ -26683,7 +26683,7 @@ var birthplaces = {
         "Id": 8.347,
         "yearOfBirth": 1848.0,
         "Place of Birth": "Ferentino (Roma)",
-        "Last Name": "Bianchi",
+        "lastName": "Bianchi",
         "dateOfBirth": "01/28/1848",
         "showOnMap": false
       },
@@ -26701,7 +26701,7 @@ var birthplaces = {
         "Id": 8.348,
         "yearOfBirth": 1850.0,
         "Place of Birth": "Ideikkattur (dc Madhuraien)",
-        "Last Name": "Saverimutu",
+        "lastName": "Saverimutu",
         "dateOfBirth": "03/28/1850",
         "showOnMap": false
       },
@@ -26719,7 +26719,7 @@ var birthplaces = {
         "Id": 8.349,
         "yearOfBirth": 1815.0,
         "Place of Birth": "Estavayer-le-Lac",
-        "Last Name": "Chaney",
+        "lastName": "Chaney",
         "dateOfBirth": "07/23/1815",
         "showOnMap": false
       },
@@ -26737,7 +26737,7 @@ var birthplaces = {
         "Id": 8.35,
         "yearOfBirth": 1849.0,
         "Place of Birth": "Lisboa",
-        "Last Name": "Nunes",
+        "lastName": "Nunes",
         "dateOfBirth": "02/04/1849",
         "showOnMap": false
       },
@@ -26755,7 +26755,7 @@ var birthplaces = {
         "Id": 8.351,
         "yearOfBirth": 1854.0,
         "Place of Birth": "Matadepera (Barcelona)",
-        "Last Name": "Torrella",
+        "lastName": "Torrella",
         "dateOfBirth": "12/08/1854",
         "showOnMap": false
       },
@@ -26773,7 +26773,7 @@ var birthplaces = {
         "Id": 8.352,
         "yearOfBirth": 1818.0,
         "Place of Birth": "Forl\u00ef\u00bf\u00bd",
-        "Last Name": "Mazza",
+        "lastName": "Mazza",
         "dateOfBirth": "03/12/1818",
         "showOnMap": false
       },
@@ -26791,7 +26791,7 @@ var birthplaces = {
         "Id": 8.353,
         "yearOfBirth": 1816.0,
         "Place of Birth": "Wodecq (Hainaut)",
-        "Last Name": "Barbieux",
+        "lastName": "Barbieux",
         "dateOfBirth": "04/23/1816",
         "showOnMap": false
       },
@@ -26809,7 +26809,7 @@ var birthplaces = {
         "Id": 8.354,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Landshut (Bayern)",
-        "Last Name": "Karlst\u00ef\u00bf\u00bdtter",
+        "lastName": "Karlst\u00ef\u00bf\u00bdtter",
         "dateOfBirth": "03/23/1827",
         "showOnMap": false
       },
@@ -26827,7 +26827,7 @@ var birthplaces = {
         "Id": 8.355,
         "yearOfBirth": 1870.0,
         "Place of Birth": "Didam (Gelderland)",
-        "Last Name": "ter Laak",
+        "lastName": "ter Laak",
         "dateOfBirth": "04/07/1870",
         "showOnMap": false
       },
@@ -26845,7 +26845,7 @@ var birthplaces = {
         "Id": 8.356,
         "yearOfBirth": 1838.0,
         "Place of Birth": "St. Helens (Lancashire)",
-        "Last Name": "Murphy",
+        "lastName": "Murphy",
         "dateOfBirth": "08/06/1838",
         "showOnMap": false
       },
@@ -26863,7 +26863,7 @@ var birthplaces = {
         "Id": 8.357,
         "yearOfBirth": 1833.0,
         "Place of Birth": "London",
-        "Last Name": "Dignam",
+        "lastName": "Dignam",
         "dateOfBirth": "05/08/1833",
         "showOnMap": false
       },
@@ -26881,7 +26881,7 @@ var birthplaces = {
         "Id": 8.358,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Caltanissetta",
-        "Last Name": "Labso",
+        "lastName": "Labso",
         "dateOfBirth": "02/01/1827",
         "showOnMap": false
       },
@@ -26899,7 +26899,7 @@ var birthplaces = {
         "Id": 8.359,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Escaunets (H-Pyr\u00ef\u00bf\u00bdn\u00ef\u00bf\u00bdes)",
-        "Last Name": "Guichot",
+        "lastName": "Guichot",
         "dateOfBirth": "07/28/1834",
         "showOnMap": false
       },
@@ -26917,7 +26917,7 @@ var birthplaces = {
         "Id": 8.36,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Wipperfuerth (K\u00ef\u00bf\u00bdln)",
-        "Last Name": "Platzweg",
+        "lastName": "Platzweg",
         "dateOfBirth": "03/04/1827",
         "showOnMap": false
       },
@@ -26935,7 +26935,7 @@ var birthplaces = {
         "Id": 8.361,
         "yearOfBirth": 1875.0,
         "Place of Birth": "Boston",
-        "Last Name": "Hilling",
+        "lastName": "Hilling",
         "dateOfBirth": "01/01/1875",
         "showOnMap": false
       },
@@ -26953,7 +26953,7 @@ var birthplaces = {
         "Id": 8.362,
         "yearOfBirth": 1837.0,
         "Place of Birth": "Alba da Tormes (Salamanca)",
-        "Last Name": "S\u00ef\u00bf\u00bdnchez Teruel",
+        "lastName": "S\u00ef\u00bf\u00bdnchez Teruel",
         "dateOfBirth": "12/04/1837",
         "showOnMap": false
       },
@@ -26971,7 +26971,7 @@ var birthplaces = {
         "Id": 8.363,
         "yearOfBirth": 1871.0,
         "Place of Birth": "Suchorzew, Pozn.",
-        "Last Name": "Szarama",
+        "lastName": "Szarama",
         "dateOfBirth": "01/27/1871",
         "showOnMap": false
       },
@@ -26989,7 +26989,7 @@ var birthplaces = {
         "Id": 8.364,
         "yearOfBirth": 1839.0,
         "Place of Birth": "Casci (Pavia)",
-        "Last Name": "Megazzini",
+        "lastName": "Megazzini",
         "dateOfBirth": "03/31/1839",
         "showOnMap": false
       },
@@ -27007,7 +27007,7 @@ var birthplaces = {
         "Id": 8.365,
         "yearOfBirth": 1828.0,
         "Place of Birth": "Callen (Landes)",
-        "Last Name": "Martinov",
+        "lastName": "Martinov",
         "dateOfBirth": "10/26/1828",
         "showOnMap": false
       },
@@ -27025,7 +27025,7 @@ var birthplaces = {
         "Id": 8.366,
         "yearOfBirth": 1838.0,
         "Place of Birth": "Nachitoches, La.",
-        "Last Name": "Wets",
+        "lastName": "Wets",
         "dateOfBirth": "01/30/1838",
         "showOnMap": false
       },
@@ -27043,7 +27043,7 @@ var birthplaces = {
         "Id": 8.367,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Bedouin (Vaucluse)",
-        "Last Name": "Imbert",
+        "lastName": "Imbert",
         "dateOfBirth": "01/20/1820",
         "showOnMap": false
       },
@@ -27061,7 +27061,7 @@ var birthplaces = {
         "Id": 8.368,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Drumkeeran (Fermanagh)",
-        "Last Name": "Corrigan",
+        "lastName": "Corrigan",
         "dateOfBirth": "05/02/1821",
         "showOnMap": false
       },
@@ -27079,7 +27079,7 @@ var birthplaces = {
         "Id": 8.369,
         "yearOfBirth": 1826.0,
         "Place of Birth": "Evreux (Eure)",
-        "Last Name": "de Cacqueray",
+        "lastName": "de Cacqueray",
         "dateOfBirth": "02/19/1826",
         "showOnMap": false
       },
@@ -27097,7 +27097,7 @@ var birthplaces = {
         "Id": 8.37,
         "yearOfBirth": 1825.0,
         "Place of Birth": "Roderen (H-Rhin)",
-        "Last Name": "Rebuschung",
+        "lastName": "Rebuschung",
         "dateOfBirth": "04/13/1825",
         "showOnMap": false
       },
@@ -27115,7 +27115,7 @@ var birthplaces = {
         "Id": 8.371,
         "yearOfBirth": 1872.0,
         "Place of Birth": "Aizarna (Guip\u00ef\u00bf\u00bdzcoa)",
-        "Last Name": "Eguiburu",
+        "lastName": "Eguiburu",
         "dateOfBirth": "02/25/1872",
         "showOnMap": false
       },
@@ -27133,7 +27133,7 @@ var birthplaces = {
         "Id": 8.372,
         "yearOfBirth": 1853.0,
         "Place of Birth": "Castelltersol (Barcelona)",
-        "Last Name": "Guardiet",
+        "lastName": "Guardiet",
         "dateOfBirth": "11/28/1853",
         "showOnMap": false
       },
@@ -27151,7 +27151,7 @@ var birthplaces = {
         "Id": 8.373,
         "yearOfBirth": 1833.0,
         "Place of Birth": "Thuer (Koblenz)",
-        "Last Name": "Eultgen",
+        "lastName": "Eultgen",
         "dateOfBirth": "06/27/1833",
         "showOnMap": false
       },
@@ -27169,7 +27169,7 @@ var birthplaces = {
         "Id": 8.374,
         "yearOfBirth": 1815.0,
         "Place of Birth": "San Severino (Macerata)",
-        "Last Name": "Ciotti",
+        "lastName": "Ciotti",
         "dateOfBirth": "04/05/1815",
         "showOnMap": false
       },
@@ -27187,7 +27187,7 @@ var birthplaces = {
         "Id": 8.375,
         "yearOfBirth": 1843.0,
         "Place of Birth": "Rennes (Ille-et-V)",
-        "Last Name": "Boulais",
+        "lastName": "Boulais",
         "dateOfBirth": "02/28/1843",
         "showOnMap": false
       },
@@ -27205,7 +27205,7 @@ var birthplaces = {
         "Id": 8.376,
         "yearOfBirth": 1832.0,
         "Place of Birth": "Logelheim (H-Rhin)",
-        "Last Name": "Grosshoeny",
+        "lastName": "Grosshoeny",
         "dateOfBirth": "02/02/1832",
         "showOnMap": false
       },
@@ -27223,7 +27223,7 @@ var birthplaces = {
         "Id": 8.377,
         "yearOfBirth": 1835.0,
         "Place of Birth": "pr Montgomery, Ala.",
-        "Last Name": "Duncan",
+        "lastName": "Duncan",
         "dateOfBirth": "10/19/1835",
         "showOnMap": false
       },
@@ -27241,7 +27241,7 @@ var birthplaces = {
         "Id": 8.378,
         "yearOfBirth": 1839.0,
         "Place of Birth": "Beaupr\u00ef\u00bf\u00bdau (Maine-et-L)",
-        "Last Name": "Pouplard",
+        "lastName": "Pouplard",
         "dateOfBirth": "08/24/1839",
         "showOnMap": false
       },
@@ -27259,7 +27259,7 @@ var birthplaces = {
         "Id": 8.379,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Saverdun (Ari\u00ef\u00bf\u00bdge)",
-        "Last Name": "Roumieu",
+        "lastName": "Roumieu",
         "dateOfBirth": "05/28/1823",
         "showOnMap": false
       },
@@ -27277,7 +27277,7 @@ var birthplaces = {
         "Id": 8.38,
         "yearOfBirth": 1853.0,
         "Place of Birth": "Castellvell (Barcelona)",
-        "Last Name": "Brunet",
+        "lastName": "Brunet",
         "dateOfBirth": "01/08/1853",
         "showOnMap": false
       },
@@ -27295,7 +27295,7 @@ var birthplaces = {
         "Id": 8.381,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Terheiden (N-Brabant)",
-        "Last Name": "van Lommel",
+        "lastName": "van Lommel",
         "dateOfBirth": "10/03/1827",
         "showOnMap": false
       },
@@ -27313,7 +27313,7 @@ var birthplaces = {
         "Id": 8.382,
         "yearOfBirth": 1872.0,
         "Place of Birth": "Hamburg",
-        "Last Name": "Knoch",
+        "lastName": "Knoch",
         "dateOfBirth": "02/19/1872",
         "showOnMap": false
       },
@@ -27331,7 +27331,7 @@ var birthplaces = {
         "Id": 8.383,
         "yearOfBirth": 1827.0,
         "Place of Birth": "Livorno",
-        "Last Name": "Burnside",
+        "lastName": "Burnside",
         "dateOfBirth": "11/23/1827",
         "showOnMap": false
       },
@@ -27349,7 +27349,7 @@ var birthplaces = {
         "Id": 8.384,
         "yearOfBirth": 1873.0,
         "Place of Birth": "Oberbergheim (H-Rhin)",
-        "Last Name": "Ehrhard",
+        "lastName": "Ehrhard",
         "dateOfBirth": "07/25/1873",
         "showOnMap": false
       },
@@ -27367,7 +27367,7 @@ var birthplaces = {
         "Id": 8.385,
         "yearOfBirth": 1843.0,
         "Place of Birth": "Martouzin (Namur)",
-        "Last Name": "Motet",
+        "lastName": "Motet",
         "dateOfBirth": "03/20/1843",
         "showOnMap": false
       },
@@ -27385,7 +27385,7 @@ var birthplaces = {
         "Id": 8.386,
         "yearOfBirth": 1814.0,
         "Place of Birth": "Whitehaven (Cumberland)",
-        "Last Name": "Starkey",
+        "lastName": "Starkey",
         "dateOfBirth": "04/13/1814",
         "showOnMap": false
       },
@@ -27403,7 +27403,7 @@ var birthplaces = {
         "Id": 8.387,
         "yearOfBirth": 1842.0,
         "Place of Birth": "Aya pr Orio (Guip\u00ef\u00bf\u00bdzcoa)",
-        "Last Name": "Embil",
+        "lastName": "Embil",
         "dateOfBirth": "01/05/1842",
         "showOnMap": false
       },
@@ -27421,7 +27421,7 @@ var birthplaces = {
         "Id": 8.388,
         "yearOfBirth": 1819.0,
         "Place of Birth": "St. Cuthbert (Berthier, Qu\u00ef\u00bf\u00bd)",
-        "Last Name": "Cuellet",
+        "lastName": "Cuellet",
         "dateOfBirth": "12/22/1819",
         "showOnMap": false
       },
@@ -27439,7 +27439,7 @@ var birthplaces = {
         "Id": 8.389,
         "yearOfBirth": 1865.0,
         "Place of Birth": "Dunmore (Galway)",
-        "Last Name": "Macclelland",
+        "lastName": "Macclelland",
         "dateOfBirth": "08/31/1865",
         "showOnMap": false
       },
@@ -27457,7 +27457,7 @@ var birthplaces = {
         "Id": 8.39,
         "yearOfBirth": 1894.0,
         "Place of Birth": "Lohn (Rheinland)",
-        "Last Name": "Wolf",
+        "lastName": "Wolf",
         "dateOfBirth": "05/06/1894",
         "showOnMap": false
       },
@@ -27475,7 +27475,7 @@ var birthplaces = {
         "Id": 8.391,
         "yearOfBirth": 1841.0,
         "Place of Birth": "Biekenhead (Cheshire)",
-        "Last Name": "Smallwood",
+        "lastName": "Smallwood",
         "dateOfBirth": "05/11/1841",
         "showOnMap": false
       },
@@ -27493,7 +27493,7 @@ var birthplaces = {
         "Id": 8.392,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Windle (Lancashire)",
-        "Last Name": "Unsworth",
+        "lastName": "Unsworth",
         "dateOfBirth": "07/15/1817",
         "showOnMap": false
       },
@@ -27511,7 +27511,7 @@ var birthplaces = {
         "Id": 8.393,
         "yearOfBirth": 1813.0,
         "Place of Birth": "Koblenz",
-        "Last Name": "Pottgeisser",
+        "lastName": "Pottgeisser",
         "dateOfBirth": "03/10/1813",
         "showOnMap": false
       },
@@ -27529,7 +27529,7 @@ var birthplaces = {
         "Id": 8.394,
         "yearOfBirth": 1860.0,
         "Place of Birth": "Shk\u00ef\u00bf\u00bdder",
-        "Last Name": "Mala",
+        "lastName": "Mala",
         "dateOfBirth": "10/06/1860",
         "showOnMap": false
       },
@@ -27547,7 +27547,7 @@ var birthplaces = {
         "Id": 8.395,
         "yearOfBirth": 1815.0,
         "Place of Birth": "Genova",
-        "Last Name": "Di Negro",
+        "lastName": "Di Negro",
         "dateOfBirth": "03/08/1815",
         "showOnMap": false
       },
@@ -27565,7 +27565,7 @@ var birthplaces = {
         "Id": 8.396,
         "yearOfBirth": 1840.0,
         "Place of Birth": "Daimiel (Ciudad Real)",
-        "Last Name": "Molina",
+        "lastName": "Molina",
         "dateOfBirth": "10/14/1840",
         "showOnMap": false
       },
@@ -27583,7 +27583,7 @@ var birthplaces = {
         "Id": 8.397,
         "yearOfBirth": 1862.0,
         "Place of Birth": "Torino",
-        "Last Name": "Bovo",
+        "lastName": "Bovo",
         "dateOfBirth": "07/17/1862",
         "showOnMap": false
       },
@@ -27601,7 +27601,7 @@ var birthplaces = {
         "Id": 8.398,
         "yearOfBirth": 1831.0,
         "Place of Birth": "Vitoria (\u00ef\u00bf\u00bdlava)",
-        "Last Name": "Garc\u00ef\u00bf\u00bda Fresca",
+        "lastName": "Garc\u00ef\u00bf\u00bda Fresca",
         "dateOfBirth": "08/24/1831",
         "showOnMap": false
       },
@@ -27619,7 +27619,7 @@ var birthplaces = {
         "Id": 8.399,
         "yearOfBirth": 1814.0,
         "Place of Birth": "Sampigny (Sa\u00ef\u00bf\u00bdne-et-L)",
-        "Last Name": "Gautrelet",
+        "lastName": "Gautrelet",
         "dateOfBirth": "06/27/1814",
         "showOnMap": false
       },
@@ -27637,7 +27637,7 @@ var birthplaces = {
         "Id": 8.4,
         "yearOfBirth": 1836.0,
         "Place of Birth": "St-Aubin (Jura)",
-        "Last Name": "Brelot",
+        "lastName": "Brelot",
         "dateOfBirth": "06/20/1836",
         "showOnMap": false
       },
@@ -27655,7 +27655,7 @@ var birthplaces = {
         "Id": 8.401,
         "yearOfBirth": 1858.0,
         "Place of Birth": "Torre Caietani (Roma)",
-        "Last Name": "Lanzi",
+        "lastName": "Lanzi",
         "dateOfBirth": "02/06/1858",
         "showOnMap": false
       },
@@ -27673,7 +27673,7 @@ var birthplaces = {
         "Id": 8.402,
         "yearOfBirth": NaN,
         "Place of Birth": "Vallelunga (Caltanissetta)",
-        "Last Name": "Taglierini",
+        "lastName": "Taglierini",
         "dateOfBirth": "06/19/896?",
         "showOnMap": false
       },
@@ -27691,7 +27691,7 @@ var birthplaces = {
         "Id": 8.403,
         "yearOfBirth": 1817.0,
         "Place of Birth": "Borghetto Lodigiano (Milano)",
-        "Last Name": "Beretta",
+        "lastName": "Beretta",
         "dateOfBirth": "12/27/1817",
         "showOnMap": false
       },
@@ -27709,7 +27709,7 @@ var birthplaces = {
         "Id": 8.404,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Villeneuve (Torino)",
-        "Last Name": "Rosaire",
+        "lastName": "Rosaire",
         "dateOfBirth": "07/24/1821",
         "showOnMap": false
       },
@@ -27727,7 +27727,7 @@ var birthplaces = {
         "Id": 8.405,
         "yearOfBirth": 1844.0,
         "Place of Birth": "Lavalette (par. Langogne, Loz\u00ef\u00bf\u00bdre)",
-        "Last Name": "Amblard",
+        "lastName": "Amblard",
         "dateOfBirth": "08/15/1844",
         "showOnMap": false
       },
@@ -27745,7 +27745,7 @@ var birthplaces = {
         "Id": 8.406,
         "yearOfBirth": 1870.0,
         "Place of Birth": "Bernardsviller (Obeznai, B-Rhin)",
-        "Last Name": "Friedrich",
+        "lastName": "Friedrich",
         "dateOfBirth": "03/18/1870",
         "showOnMap": false
       },
@@ -27763,7 +27763,7 @@ var birthplaces = {
         "Id": 8.407,
         "yearOfBirth": 1834.0,
         "Place of Birth": "Gra\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdn (Logro\u00ef\u00bf\u00bdo)",
-        "Last Name": "Oca",
+        "lastName": "Oca",
         "dateOfBirth": "02/08/1834",
         "showOnMap": false
       },
@@ -27781,7 +27781,7 @@ var birthplaces = {
         "Id": 8.408,
         "yearOfBirth": 1837.0,
         "Place of Birth": "B\u00ef\u00bf\u00bdttelbronn (W\u00ef\u00bf\u00bdrtemberg)",
-        "Last Name": "Singer",
+        "lastName": "Singer",
         "dateOfBirth": "01/22/1837",
         "showOnMap": false
       },
@@ -27799,7 +27799,7 @@ var birthplaces = {
         "Id": 8.409,
         "yearOfBirth": 1824.0,
         "Place of Birth": "Seneffe (Hainaut)",
-        "Last Name": "Thomas",
+        "lastName": "Thomas",
         "dateOfBirth": "09/25/1824",
         "showOnMap": false
       },
@@ -27817,7 +27817,7 @@ var birthplaces = {
         "Id": 8.41,
         "yearOfBirth": 1830.0,
         "Place of Birth": "Montblanch (Tarragona)",
-        "Last Name": "Ferrer",
+        "lastName": "Ferrer",
         "dateOfBirth": "04/05/1830",
         "showOnMap": false
       },
@@ -27835,7 +27835,7 @@ var birthplaces = {
         "Id": 8.411,
         "yearOfBirth": 1867.0,
         "Place of Birth": "Albaredo (Sondrio)",
-        "Last Name": "Carabini",
+        "lastName": "Carabini",
         "dateOfBirth": "02/02/1867",
         "showOnMap": false
       },
@@ -27853,7 +27853,7 @@ var birthplaces = {
         "Id": 8.412,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Fontenelle-Montby (Doubs)",
-        "Last Name": "Rochelandet",
+        "lastName": "Rochelandet",
         "dateOfBirth": "02/14/1822",
         "showOnMap": false
       },
@@ -27871,7 +27871,7 @@ var birthplaces = {
         "Id": 8.413,
         "yearOfBirth": 1842.0,
         "Place of Birth": "Rafelbunal (Valencia)",
-        "Last Name": "Bosso",
+        "lastName": "Bosso",
         "dateOfBirth": "05/23/1842",
         "showOnMap": false
       },
@@ -27889,7 +27889,7 @@ var birthplaces = {
         "Id": 8.415,
         "yearOfBirth": 1824.0,
         "Place of Birth": "La Borie",
-        "Last Name": "Issoulier",
+        "lastName": "Issoulier",
         "dateOfBirth": "04/08/1824",
         "showOnMap": false
       },
@@ -27907,7 +27907,7 @@ var birthplaces = {
         "Id": 8.416,
         "yearOfBirth": 1824.0,
         "Place of Birth": "Le Mazel",
-        "Last Name": "Ginhac",
+        "lastName": "Ginhac",
         "dateOfBirth": "05/31/1824",
         "showOnMap": false
       },
@@ -27925,7 +27925,7 @@ var birthplaces = {
         "Id": 8.417,
         "yearOfBirth": 1836.0,
         "Place of Birth": "Champagne-sur-Vingeanne (Cote d'O)",
-        "Last Name": "Bartet",
+        "lastName": "Bartet",
         "dateOfBirth": "02/02/1836",
         "showOnMap": false
       },
@@ -27943,7 +27943,7 @@ var birthplaces = {
         "Id": 8.418,
         "yearOfBirth": 1870.0,
         "Place of Birth": "Cincinnati",
-        "Last Name": "Clasgens",
+        "lastName": "Clasgens",
         "dateOfBirth": "01/28/1870",
         "showOnMap": false
       },
@@ -27961,7 +27961,7 @@ var birthplaces = {
         "Id": 8.419,
         "yearOfBirth": 1835.0,
         "Place of Birth": "Angers",
-        "Last Name": "de Kersabiec",
+        "lastName": "de Kersabiec",
         "dateOfBirth": "04/12/1835",
         "showOnMap": false
       },
@@ -27979,7 +27979,7 @@ var birthplaces = {
         "Id": 8.42,
         "yearOfBirth": 1837.0,
         "Place of Birth": "Fermo (Ascoli Piceno)",
-        "Last Name": "De Melis",
+        "lastName": "De Melis",
         "dateOfBirth": "12/19/1837",
         "showOnMap": false
       },
@@ -27997,7 +27997,7 @@ var birthplaces = {
         "Id": 8.421,
         "yearOfBirth": 1829.0,
         "Place of Birth": "Hevilliers (Meuse)",
-        "Last Name": "Hannus",
+        "lastName": "Hannus",
         "dateOfBirth": "01/19/1829",
         "showOnMap": false
       },
@@ -28015,7 +28015,7 @@ var birthplaces = {
         "Id": 8.422,
         "yearOfBirth": 1830.0,
         "Place of Birth": "Godewaersvelde (Nord)",
-        "Last Name": "Houvenagel",
+        "lastName": "Houvenagel",
         "dateOfBirth": "05/08/1830",
         "showOnMap": false
       },
@@ -28033,7 +28033,7 @@ var birthplaces = {
         "Id": 8.423,
         "yearOfBirth": 1815.0,
         "Place of Birth": "Leningrad",
-        "Last Name": "Balabine",
+        "lastName": "Balabine",
         "dateOfBirth": "08/29/1815",
         "showOnMap": false
       },
@@ -28051,7 +28051,7 @@ var birthplaces = {
         "Id": 8.424,
         "yearOfBirth": 1819.0,
         "Place of Birth": "Amatrice (Aquila)",
-        "Last Name": "Tommasi",
+        "lastName": "Tommasi",
         "dateOfBirth": "05/29/1819",
         "showOnMap": false
       },
@@ -28069,7 +28069,7 @@ var birthplaces = {
         "Id": 8.425,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Scheidgen (Luxembourg)",
-        "Last Name": "Erdel",
+        "lastName": "Erdel",
         "dateOfBirth": "04/19/1823",
         "showOnMap": false
       },
@@ -28087,7 +28087,7 @@ var birthplaces = {
         "Id": 8.426,
         "yearOfBirth": 1838.0,
         "Place of Birth": "Lazions (Bolzano)",
-        "Last Name": "Kantioler",
+        "lastName": "Kantioler",
         "dateOfBirth": "07/05/1838",
         "showOnMap": false
       },
@@ -28105,7 +28105,7 @@ var birthplaces = {
         "Id": 8.427,
         "yearOfBirth": 1833.0,
         "Place of Birth": "Bilbao",
-        "Last Name": "Barua",
+        "lastName": "Barua",
         "dateOfBirth": "08/31/1833",
         "showOnMap": false
       },
@@ -28123,7 +28123,7 @@ var birthplaces = {
         "Id": 8.428,
         "yearOfBirth": 1841.0,
         "Place of Birth": "Langogne",
-        "Last Name": "Bonnefille",
+        "lastName": "Bonnefille",
         "dateOfBirth": "03/24/1841",
         "showOnMap": false
       },
@@ -28141,7 +28141,7 @@ var birthplaces = {
         "Id": 8.429,
         "yearOfBirth": 1833.0,
         "Place of Birth": "Limoges",
-        "Last Name": "Demartial",
+        "lastName": "Demartial",
         "dateOfBirth": "12/18/1833",
         "showOnMap": false
       },
@@ -28159,7 +28159,7 @@ var birthplaces = {
         "Id": 8.43,
         "yearOfBirth": 1876.0,
         "Place of Birth": "Logar do Alqueidao (Extremadura)",
-        "Last Name": "da Costa",
+        "lastName": "da Costa",
         "dateOfBirth": "09/12/1876",
         "showOnMap": false
       },
@@ -28177,7 +28177,7 @@ var birthplaces = {
         "Id": 8.431,
         "yearOfBirth": 1829.0,
         "Place of Birth": "Palermo",
-        "Last Name": "Tramita",
+        "lastName": "Tramita",
         "dateOfBirth": "02/15/1829",
         "showOnMap": false
       },
@@ -28195,7 +28195,7 @@ var birthplaces = {
         "Id": 8.432,
         "yearOfBirth": 1812.0,
         "Place of Birth": "Nurnberg (Bayern)",
-        "Last Name": "Rungaldier",
+        "lastName": "Rungaldier",
         "dateOfBirth": "03/17/1812",
         "showOnMap": false
       },
@@ -28213,7 +28213,7 @@ var birthplaces = {
         "Id": 8.433,
         "yearOfBirth": 1830.0,
         "Place of Birth": "Verona",
-        "Last Name": "Carli",
+        "lastName": "Carli",
         "dateOfBirth": "06/19/1830",
         "showOnMap": false
       },
@@ -28231,7 +28231,7 @@ var birthplaces = {
         "Id": 8.434,
         "yearOfBirth": 1818.0,
         "Place of Birth": "Radinghem (Nord)",
-        "Last Name": "Couvreur",
+        "lastName": "Couvreur",
         "dateOfBirth": "05/05/1818",
         "showOnMap": false
       },
@@ -28249,7 +28249,7 @@ var birthplaces = {
         "Id": 8.436,
         "yearOfBirth": 1806.0,
         "Place of Birth": "Berwick-on-Tweed (Northumberland)",
-        "Last Name": "Stevenson",
+        "lastName": "Stevenson",
         "dateOfBirth": "11/27/1806",
         "showOnMap": false
       },
@@ -28267,7 +28267,7 @@ var birthplaces = {
         "Id": 8.437,
         "yearOfBirth": 1806.0,
         "Place of Birth": "Liverpool",
-        "Last Name": "Cotham",
+        "lastName": "Cotham",
         "dateOfBirth": "08/30/1806",
         "showOnMap": false
       },
@@ -28285,7 +28285,7 @@ var birthplaces = {
         "Id": 8.438,
         "yearOfBirth": 1809.0,
         "Place of Birth": "Montesarchio (Benevento)",
-        "Last Name": "Zingone",
+        "lastName": "Zingone",
         "dateOfBirth": "03/20/1809",
         "showOnMap": false
       },
@@ -28303,7 +28303,7 @@ var birthplaces = {
         "Id": 8.439,
         "yearOfBirth": 1830.0,
         "Place of Birth": "Abionzo (Santander)",
-        "Last Name": "Sierra",
+        "lastName": "Sierra",
         "dateOfBirth": "08/11/1830",
         "showOnMap": false
       },
@@ -28321,7 +28321,7 @@ var birthplaces = {
         "Id": 8.44,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Bannio (Novara)",
-        "Last Name": "Buschaglia",
+        "lastName": "Buschaglia",
         "dateOfBirth": "04/08/1821",
         "showOnMap": false
       },
@@ -28339,7 +28339,7 @@ var birthplaces = {
         "Id": 8.441,
         "yearOfBirth": 1849.0,
         "Place of Birth": "Osek (Morava)",
-        "Last Name": "Bruna",
+        "lastName": "Bruna",
         "dateOfBirth": "05/31/1849",
         "showOnMap": false
       },
@@ -28357,7 +28357,7 @@ var birthplaces = {
         "Id": 8.442,
         "yearOfBirth": 1846.0,
         "Place of Birth": "Paris",
-        "Last Name": "Dauchez",
+        "lastName": "Dauchez",
         "dateOfBirth": "06/16/1846",
         "showOnMap": false
       },
@@ -28375,7 +28375,7 @@ var birthplaces = {
         "Id": 8.443,
         "yearOfBirth": 1810.0,
         "Place of Birth": "Ste-Menehould (Marne)",
-        "Last Name": "Desc\u00ef\u00bf\u00bdtes",
+        "lastName": "Desc\u00ef\u00bf\u00bdtes",
         "dateOfBirth": "12/26/1810",
         "showOnMap": false
       },
@@ -28393,7 +28393,7 @@ var birthplaces = {
         "Id": 8.444,
         "yearOfBirth": 1813.0,
         "Place of Birth": "Lana (Bolzano)",
-        "Last Name": "Gruber",
+        "lastName": "Gruber",
         "dateOfBirth": "08/23/1813",
         "showOnMap": false
       },
@@ -28411,7 +28411,7 @@ var birthplaces = {
         "Id": 8.445,
         "yearOfBirth": 1875.0,
         "Place of Birth": "La Terrasse (Is\u00ef\u00bf\u00bdre)",
-        "Last Name": "Savey",
+        "lastName": "Savey",
         "dateOfBirth": "03/17/1875",
         "showOnMap": false
       },
@@ -28429,7 +28429,7 @@ var birthplaces = {
         "Id": 8.446,
         "yearOfBirth": 1856.0,
         "Place of Birth": "Dokkum (Friesland)",
-        "Last Name": "Smit",
+        "lastName": "Smit",
         "dateOfBirth": "09/13/1856",
         "showOnMap": false
       },
@@ -28447,7 +28447,7 @@ var birthplaces = {
         "Id": 8.447,
         "yearOfBirth": 1818.0,
         "Place of Birth": "Schendelbeke (Fl Oc)",
-        "Last Name": "de Fru",
+        "lastName": "de Fru",
         "dateOfBirth": "10/20/1818",
         "showOnMap": false
       },
@@ -28465,7 +28465,7 @@ var birthplaces = {
         "Id": 8.448,
         "yearOfBirth": 1814.0,
         "Place of Birth": "Enfield (Meath)",
-        "Last Name": "Frayne",
+        "lastName": "Frayne",
         "dateOfBirth": "08/01/1814",
         "showOnMap": false
       },
@@ -28483,7 +28483,7 @@ var birthplaces = {
         "Id": 8.449,
         "yearOfBirth": 1840.0,
         "Place of Birth": "Lyon",
-        "Last Name": "Chenevaz",
+        "lastName": "Chenevaz",
         "dateOfBirth": "10/01/1840",
         "showOnMap": false
       },
@@ -28501,7 +28501,7 @@ var birthplaces = {
         "Id": 8.45,
         "yearOfBirth": 1836.0,
         "Place of Birth": "Esen (Fl Oc)",
-        "Last Name": "De Poorter",
+        "lastName": "De Poorter",
         "dateOfBirth": "04/23/1836",
         "showOnMap": false
       },
@@ -28519,7 +28519,7 @@ var birthplaces = {
         "Id": 8.451,
         "yearOfBirth": 1868.0,
         "Place of Birth": "Liverpool",
-        "Last Name": "Walsh",
+        "lastName": "Walsh",
         "dateOfBirth": "08/10/1868",
         "showOnMap": false
       },
@@ -28537,7 +28537,7 @@ var birthplaces = {
         "Id": 8.452,
         "yearOfBirth": 1818.0,
         "Place of Birth": "Sanremo",
-        "Last Name": "Arnaldi",
+        "lastName": "Arnaldi",
         "dateOfBirth": "02/04/1818",
         "showOnMap": false
       },
@@ -28555,7 +28555,7 @@ var birthplaces = {
         "Id": 8.453,
         "yearOfBirth": 1811.0,
         "Place of Birth": "Asti (Alessandria)",
-        "Last Name": "Saracco",
+        "lastName": "Saracco",
         "dateOfBirth": "01/09/1811",
         "showOnMap": false
       },
@@ -28573,7 +28573,7 @@ var birthplaces = {
         "Id": 8.454,
         "yearOfBirth": 1824.0,
         "Place of Birth": "St-Marcellin (Is\u00ef\u00bf\u00bdre)",
-        "Last Name": "Bonnet",
+        "lastName": "Bonnet",
         "dateOfBirth": "06/06/1824",
         "showOnMap": false
       },
@@ -28591,7 +28591,7 @@ var birthplaces = {
         "Id": 8.455,
         "yearOfBirth": 1858.0,
         "Place of Birth": "Fondremand (H-Sa\u00ef\u00bf\u00bdne)",
-        "Last Name": "Moussard",
+        "lastName": "Moussard",
         "dateOfBirth": "05/23/1858",
         "showOnMap": false
       },
@@ -28609,7 +28609,7 @@ var birthplaces = {
         "Id": 8.457,
         "yearOfBirth": 1837.0,
         "Place of Birth": "Castellabate (Salerno)",
-        "Last Name": "Naso",
+        "lastName": "Naso",
         "dateOfBirth": "07/31/1837",
         "showOnMap": false
       },
@@ -28627,7 +28627,7 @@ var birthplaces = {
         "Id": 8.458,
         "yearOfBirth": 1865.0,
         "Place of Birth": "Wigan (Lancashire)",
-        "Last Name": "Baldwin",
+        "lastName": "Baldwin",
         "dateOfBirth": "08/07/1865",
         "showOnMap": false
       },
@@ -28645,7 +28645,7 @@ var birthplaces = {
         "Id": 8.459,
         "yearOfBirth": 1819.0,
         "Place of Birth": "Valezan (Savoie)",
-        "Last Name": "Usannaz",
+        "lastName": "Usannaz",
         "dateOfBirth": "04/02/1819",
         "showOnMap": false
       },
@@ -28663,7 +28663,7 @@ var birthplaces = {
         "Id": 8.46,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Helzel (K\u00ef\u00bf\u00bdln)",
-        "Last Name": "Bollig",
+        "lastName": "Bollig",
         "dateOfBirth": "08/23/1821",
         "showOnMap": false
       },
@@ -28681,7 +28681,7 @@ var birthplaces = {
         "Id": 8.461,
         "yearOfBirth": 1818.0,
         "Place of Birth": "Avellino",
-        "Last Name": "Lanzilli",
+        "lastName": "Lanzilli",
         "dateOfBirth": "02/22/1818",
         "showOnMap": false
       },
@@ -28699,7 +28699,7 @@ var birthplaces = {
         "Id": 8.462,
         "yearOfBirth": 1840.0,
         "Place of Birth": "Wien",
-        "Last Name": "Rosenberg",
+        "lastName": "Rosenberg",
         "dateOfBirth": "12/10/1840",
         "showOnMap": false
       },
@@ -28717,7 +28717,7 @@ var birthplaces = {
         "Id": 8.463,
         "yearOfBirth": 1866.0,
         "Place of Birth": "Turnhout",
-        "Last Name": "Biernmans",
+        "lastName": "Biernmans",
         "dateOfBirth": "07/13/1866",
         "showOnMap": false
       },
@@ -28735,7 +28735,7 @@ var birthplaces = {
         "Id": 8.464,
         "yearOfBirth": 1816.0,
         "Place of Birth": "Estavayer-le-Lac",
-        "Last Name": "Billet",
+        "lastName": "Billet",
         "dateOfBirth": "03/08/1816",
         "showOnMap": false
       },
@@ -28753,7 +28753,7 @@ var birthplaces = {
         "Id": 8.465,
         "yearOfBirth": 1860.0,
         "Place of Birth": "Augsburg",
-        "Last Name": "Platzer",
+        "lastName": "Platzer",
         "dateOfBirth": "11/15/1860",
         "showOnMap": false
       },
@@ -28771,7 +28771,7 @@ var birthplaces = {
         "Id": 8.466,
         "yearOfBirth": 1822.0,
         "Place of Birth": "Vincennes, Ind.",
-        "Last Name": "Lalumiere",
+        "lastName": "Lalumiere",
         "dateOfBirth": "02/13/1822",
         "showOnMap": false
       },
@@ -28789,7 +28789,7 @@ var birthplaces = {
         "Id": 8.468,
         "yearOfBirth": 1830.0,
         "Place of Birth": "St-Christophe-du-Jambet (Sarthe)",
-        "Last Name": "Hersant",
+        "lastName": "Hersant",
         "dateOfBirth": "08/15/1830",
         "showOnMap": false
       },
@@ -28807,7 +28807,7 @@ var birthplaces = {
         "Id": 8.469,
         "yearOfBirth": 1823.0,
         "Place of Birth": "Napoli",
-        "Last Name": "Petrazzoli",
+        "lastName": "Petrazzoli",
         "dateOfBirth": "12/09/1823",
         "showOnMap": false
       },
@@ -28825,7 +28825,7 @@ var birthplaces = {
         "Id": 8.47,
         "yearOfBirth": 1843.0,
         "Place of Birth": "Enniscorty (Wexford)",
-        "Last Name": "Keating",
+        "lastName": "Keating",
         "dateOfBirth": "03/25/1843",
         "showOnMap": false
       },
@@ -28843,7 +28843,7 @@ var birthplaces = {
         "Id": 8.471,
         "yearOfBirth": 1859.0,
         "Place of Birth": "Elberfeld (Rheinl.)",
-        "Last Name": "Risse",
+        "lastName": "Risse",
         "dateOfBirth": "04/20/1859",
         "showOnMap": false
       },
@@ -28861,7 +28861,7 @@ var birthplaces = {
         "Id": 8.472,
         "yearOfBirth": 1868.0,
         "Place of Birth": "Ezcaray (Logro\u00ef\u00bf\u00bdo)",
-        "Last Name": "Izquierdo",
+        "lastName": "Izquierdo",
         "dateOfBirth": "03/02/1868",
         "showOnMap": false
       },
@@ -28879,7 +28879,7 @@ var birthplaces = {
         "Id": 8.473,
         "yearOfBirth": 1814.0,
         "Place of Birth": "Calazze (Caserta)",
-        "Last Name": "Sica",
+        "lastName": "Sica",
         "dateOfBirth": "09/06/1814",
         "showOnMap": false
       },
@@ -28897,7 +28897,7 @@ var birthplaces = {
         "Id": 8.474,
         "yearOfBirth": 1818.0,
         "Place of Birth": "Cocuy (Boyac\u00ef\u00bf\u00bd)",
-        "Last Name": "Taboada",
+        "lastName": "Taboada",
         "dateOfBirth": "07/05/1818",
         "showOnMap": false
       },
@@ -28915,7 +28915,7 @@ var birthplaces = {
         "Id": 8.475,
         "yearOfBirth": 1814.0,
         "Place of Birth": "Anagni (Roma)",
-        "Last Name": "D'Avoli",
+        "lastName": "D'Avoli",
         "dateOfBirth": "04/26/1814",
         "showOnMap": false
       },
@@ -28933,7 +28933,7 @@ var birthplaces = {
         "Id": 8.476,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Valls (Tarragona)",
-        "Last Name": "Carta\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+        "lastName": "Carta\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
         "dateOfBirth": "11/06/1821",
         "showOnMap": false
       },
@@ -28951,7 +28951,7 @@ var birthplaces = {
         "Id": 8.477,
         "yearOfBirth": 1833.0,
         "Place of Birth": "Salinas (Guip\u00ef\u00bf\u00bdzcoa)",
-        "Last Name": "\u00ef\u00bf\u00bdzaga",
+        "lastName": "\u00ef\u00bf\u00bdzaga",
         "dateOfBirth": "10/24/1833",
         "showOnMap": false
       },
@@ -28969,7 +28969,7 @@ var birthplaces = {
         "Id": 8.479,
         "yearOfBirth": 1855.0,
         "Place of Birth": "Baltimore",
-        "Last Name": "Tarr",
+        "lastName": "Tarr",
         "dateOfBirth": "09/19/1855",
         "showOnMap": false
       },
@@ -28987,7 +28987,7 @@ var birthplaces = {
         "Id": 8.48,
         "yearOfBirth": 1851.0,
         "Place of Birth": "Lierre (Anvers)",
-        "Last Name": "Van Neuten",
+        "lastName": "Van Neuten",
         "dateOfBirth": "01/11/1851",
         "showOnMap": false
       },
@@ -29005,7 +29005,7 @@ var birthplaces = {
         "Id": 8.481,
         "yearOfBirth": 1829.0,
         "Place of Birth": "Villareal (Guip\u00ef\u00bf\u00bdzcoa)",
-        "Last Name": "Alberdi",
+        "lastName": "Alberdi",
         "dateOfBirth": "11/13/1829",
         "showOnMap": false
       },
@@ -29023,7 +29023,7 @@ var birthplaces = {
         "Id": 8.482,
         "yearOfBirth": 1837.0,
         "Place of Birth": "St-\u00ef\u00bf\u00bdtienne-de-Tulmont (Tarn et G.)",
-        "Last Name": "Marty",
+        "lastName": "Marty",
         "dateOfBirth": "03/15/1837",
         "showOnMap": false
       },
@@ -29041,7 +29041,7 @@ var birthplaces = {
         "Id": 8.483,
         "yearOfBirth": 1813.0,
         "Place of Birth": "Napoli",
-        "Last Name": "Pellegrino",
+        "lastName": "Pellegrino",
         "dateOfBirth": "01/07/1813",
         "showOnMap": false
       },
@@ -29059,7 +29059,7 @@ var birthplaces = {
         "Id": 8.484,
         "yearOfBirth": 1821.0,
         "Place of Birth": "Michelbeke (Fl Or)",
-        "Last Name": "De Wolf",
+        "lastName": "De Wolf",
         "dateOfBirth": "07/21/1821",
         "showOnMap": false
       },
@@ -29077,7 +29077,7 @@ var birthplaces = {
         "Id": 8.485,
         "yearOfBirth": 1847.0,
         "Place of Birth": "Igualada (Barcelona)",
-        "Last Name": "Ferrer",
+        "lastName": "Ferrer",
         "dateOfBirth": "09/25/1847",
         "showOnMap": false
       },
@@ -29095,7 +29095,7 @@ var birthplaces = {
         "Id": 8.486,
         "yearOfBirth": 1842.0,
         "Place of Birth": "Laxenburg (Wien)",
-        "Last Name": "Bruckberger",
+        "lastName": "Bruckberger",
         "dateOfBirth": "08/20/1842",
         "showOnMap": false
       },
@@ -29113,7 +29113,7 @@ var birthplaces = {
         "Id": 8.487,
         "yearOfBirth": 1820.0,
         "Place of Birth": "Cagliari",
-        "Last Name": "Molle",
+        "lastName": "Molle",
         "dateOfBirth": "09/14/1820",
         "showOnMap": false
       },
@@ -29131,7 +29131,7 @@ var birthplaces = {
         "Id": 8.488,
         "yearOfBirth": 1839.0,
         "Place of Birth": "Poitiers",
-        "Last Name": "de Bizemont",
+        "lastName": "de Bizemont",
         "dateOfBirth": "03/28/1839",
         "showOnMap": false
       },
@@ -29149,7 +29149,7 @@ var birthplaces = {
         "Id": 8.489,
         "yearOfBirth": 1837.0,
         "Place of Birth": "Wallerstein (Bayern)",
-        "Last Name": "Hieber",
+        "lastName": "Hieber",
         "dateOfBirth": "07/22/1837",
         "showOnMap": false
       },
@@ -29167,7 +29167,7 @@ var birthplaces = {
         "Id": 8.49,
         "yearOfBirth": 1864.0,
         "Place of Birth": "Temploux (Namur)",
-        "Last Name": "Bovy",
+        "lastName": "Bovy",
         "dateOfBirth": "09/14/1864",
         "showOnMap": false
       },
@@ -29185,7 +29185,7 @@ var birthplaces = {
         "Id": 8.491,
         "yearOfBirth": 1842.0,
         "Place of Birth": "San Mart\u00ef\u00bf\u00bdn de Unx (Navarra)",
-        "Last Name": "Muruz\u00ef\u00bf\u00bdbal",
+        "lastName": "Muruz\u00ef\u00bf\u00bdbal",
         "dateOfBirth": "01/29/1842",
         "showOnMap": false
       },
@@ -29203,7 +29203,7 @@ var birthplaces = {
         "Id": 8.492,
         "yearOfBirth": 1832.0,
         "Place of Birth": "Bleibach (Baden)",
-        "Last Name": "Nopper",
+        "lastName": "Nopper",
         "dateOfBirth": "11/19/1832",
         "showOnMap": false
       },

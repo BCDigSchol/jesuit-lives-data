@@ -35,7 +35,8 @@ for i in range (0, len(people)):
             people[i]['deathlatitude'] = places[j]['Latitude']
             people[i]['deathlongitude'] = places[j]['Longitude']
             people[i]['dateOfDeath'] = people[i]['Death Date (+)\ndd-mm-yyyy']
-            people[i]['dateOfDeath'] = people[i]['dateOfDeath'].replace('-', '/')
+            people[i]['dateOfDeath'] = people[i]['dateOfDeath'][3:5] + "/" + people[i]['dateOfDeath'][0:2] + "/" + people[i]['dateOfDeath'][-4:]
+           
             
     
 
@@ -94,7 +95,7 @@ def df_to_geojson(df, properties, lat='latitude', lon='longitude'):
     
     return geojson
 
-useful_columns = ['Id', 'yearOfBirth', 'Place of Birth', 'lastName', 'dateOfBirth', 'showOnMap']
+useful_columns = ['Id', 'yearOfBirth', 'Place of Birth', 'lastName', 'dateOfBirth', 'showOnMap', 'dateOfDeath']
 
 geojson_dict = df_to_geojson(df_geo, properties=useful_columns)
 geojson_str = json.dumps(geojson_dict, indent=2)

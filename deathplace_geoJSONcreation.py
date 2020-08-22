@@ -28,7 +28,7 @@ for i in range (0, len(people)):
             people[i]['latitude'] = places[j]['Latitude']
             people[i]['longitude'] = places[j]['Longitude']
             people[i]['dateOfDeath'] = people[i]['Death Date (+)\ndd-mm-yyyy']
-            people[i]['dateOfDeath'] = people[i]['dateOfDeath'].replace('-', '/')
+            people[i]['dateOfDeath'] = people[i]['dateOfDeath'][3:5] + "/" + people[i]['dateOfDeath'][0:2] + "/" + people[i]['dateOfDeath'][-4:]
             people[i]['lastName'] = people[i]['Last Name']
     
 

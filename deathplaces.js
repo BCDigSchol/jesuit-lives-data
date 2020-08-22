@@ -5,7 +5,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.822,
-        "dateOfDeath": "25/05/1888",
+        "dateOfDeath": "05/25/1888",
         "Place of Death": "Lyon",
         "lastName": "Tissier"
       },
@@ -21,7 +21,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.823,
-        "dateOfDeath": "25/05/1888",
+        "dateOfDeath": "05/25/1888",
         "Place of Death": "Napoli",
         "lastName": "Visconti"
       },
@@ -37,7 +37,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.824,
-        "dateOfDeath": "31/05/1888",
+        "dateOfDeath": "05/31/1888",
         "Place of Death": "Toulouse",
         "lastName": "Capbal"
       },
@@ -53,7 +53,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.825,
-        "dateOfDeath": "01/06/1888",
+        "dateOfDeath": "06/01/1888",
         "Place of Death": "Palermo",
         "lastName": "Leggio"
       },
@@ -69,7 +69,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.826,
-        "dateOfDeath": "01/06/1888",
+        "dateOfDeath": "06/01/1888",
         "Place of Death": "St. Beuno's",
         "lastName": "Syrett"
       },
@@ -85,7 +85,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.827,
-        "dateOfDeath": "08/06/1888",
+        "dateOfDeath": "06/08/1888",
         "Place of Death": "Roma",
         "lastName": "Vannutelli"
       },
@@ -101,7 +101,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.828,
-        "dateOfDeath": "15/06/1888",
+        "dateOfDeath": "06/15/1888",
         "Place of Death": "Vannes",
         "lastName": "Maurivard"
       },
@@ -117,7 +117,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.829,
-        "dateOfDeath": "16/06/1888",
+        "dateOfDeath": "06/16/1888",
         "Place of Death": "Dunbrody (South Africa)",
         "lastName": "van Wersch"
       },
@@ -133,7 +133,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.83,
-        "dateOfDeath": "19/06/1888",
+        "dateOfDeath": "06/19/1888",
         "Place of Death": "Le Caire",
         "lastName": "Lefebvre"
       },
@@ -149,7 +149,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.831,
-        "dateOfDeath": "22/06/1888",
+        "dateOfDeath": "06/22/1888",
         "Place of Death": "Arlon",
         "lastName": "Bindels"
       },
@@ -165,7 +165,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.832,
-        "dateOfDeath": "22/06/1888",
+        "dateOfDeath": "06/22/1888",
         "Place of Death": "Montreal",
         "lastName": "Dwyer"
       },
@@ -181,7 +181,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.833,
-        "dateOfDeath": "23/06/1888",
+        "dateOfDeath": "06/23/1888",
         "Place of Death": "Beyrouth",
         "lastName": "Tallon"
       },
@@ -197,7 +197,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.834,
-        "dateOfDeath": "27/06/1888",
+        "dateOfDeath": "06/27/1888",
         "Place of Death": "Mendoza",
         "lastName": "Joffre"
       },
@@ -213,7 +213,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.835,
-        "dateOfDeath": "29/06/1888",
+        "dateOfDeath": "06/29/1888",
         "Place of Death": "Marseille",
         "lastName": "Calage"
       },
@@ -229,7 +229,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.836,
-        "dateOfDeath": "29/06/1888",
+        "dateOfDeath": "06/29/1888",
         "Place of Death": "Cincinnati",
         "lastName": "Weninger"
       },
@@ -245,7 +245,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.837,
-        "dateOfDeath": "01/07/1888",
+        "dateOfDeath": "07/01/1888",
         "Place of Death": "Lercara Friddi",
         "lastName": "Montesanto"
       },
@@ -261,7 +261,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.838,
-        "dateOfDeath": "01/07/1888",
+        "dateOfDeath": "07/01/1888",
         "Place of Death": "Sta. Clara",
         "lastName": "Lakebrink"
       },
@@ -277,7 +277,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.839,
-        "dateOfDeath": "04/07/1888",
+        "dateOfDeath": "07/04/1888",
         "Place of Death": "Chateau-des-Ouches",
         "lastName": "de La Coste"
       },
@@ -293,7 +293,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.84,
-        "dateOfDeath": "05/07/1888",
+        "dateOfDeath": "07/05/1888",
         "Place of Death": "Woodstock",
         "lastName": "Piccirillo"
       },
@@ -341,7 +341,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.843,
-        "dateOfDeath": "08/07/1888",
+        "dateOfDeath": "07/08/1888",
         "Place of Death": "Spring Hill, Ala",
         "lastName": "Jenny"
       },
@@ -357,7 +357,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.844,
-        "dateOfDeath": "09/07/1888",
+        "dateOfDeath": "07/09/1888",
         "Place of Death": "Surigao",
         "lastName": "Juan"
       },
@@ -373,7 +373,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.845,
-        "dateOfDeath": "13/07/1888",
+        "dateOfDeath": "07/13/1888",
         "Place of Death": "Pau",
         "lastName": "Frandin"
       },
@@ -389,7 +389,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.846,
-        "dateOfDeath": "13/07/1888",
+        "dateOfDeath": "07/13/1888",
         "Place of Death": "Reims",
         "lastName": "Rolland"
       },
@@ -405,7 +405,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.847,
-        "dateOfDeath": "17/07/1888",
+        "dateOfDeath": "07/17/1888",
         "Place of Death": "Tronchiennes",
         "lastName": "Deynoodt"
       },
@@ -421,7 +421,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.848,
-        "dateOfDeath": "18/07/1888",
+        "dateOfDeath": "07/18/1888",
         "Place of Death": "St.Beuno's",
         "lastName": "Mackeon"
       },
@@ -437,7 +437,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.849,
-        "dateOfDeath": "21/07/1888",
+        "dateOfDeath": "07/21/1888",
         "Place of Death": "Bombay",
         "lastName": "Macconnell"
       },
@@ -453,7 +453,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.85,
-        "dateOfDeath": "22/07/1888",
+        "dateOfDeath": "07/22/1888",
         "Place of Death": "Tronchiennes",
         "lastName": "Scheys"
       },
@@ -469,7 +469,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.851,
-        "dateOfDeath": "23/07/1888",
+        "dateOfDeath": "07/23/1888",
         "Place of Death": "Bratislava",
         "lastName": "Wassermann"
       },
@@ -485,7 +485,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.852,
-        "dateOfDeath": "26/07/1888",
+        "dateOfDeath": "07/26/1888",
         "Place of Death": "Aachen",
         "lastName": "Rolli"
       },
@@ -501,7 +501,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.854,
-        "dateOfDeath": "31/07/1888",
+        "dateOfDeath": "07/31/1888",
         "Place of Death": "Paris",
         "lastName": "de Briey"
       },
@@ -517,7 +517,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.855,
-        "dateOfDeath": "01/08/1888",
+        "dateOfDeath": "08/01/1888",
         "Place of Death": "Buffalo",
         "lastName": "Suermann"
       },
@@ -533,7 +533,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.856,
-        "dateOfDeath": "04/08/1888",
+        "dateOfDeath": "08/04/1888",
         "Place of Death": "Chicago",
         "lastName": "Macginn"
       },
@@ -549,7 +549,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.857,
-        "dateOfDeath": "06/08/1888",
+        "dateOfDeath": "08/06/1888",
         "Place of Death": "Marigliano (Caserta)",
         "lastName": "Valente"
       },
@@ -581,7 +581,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.859,
-        "dateOfDeath": "09/08/1888",
+        "dateOfDeath": "08/09/1888",
         "Place of Death": "Tuticorin",
         "lastName": "Chalchat"
       },
@@ -597,7 +597,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.86,
-        "dateOfDeath": "13/08/1888",
+        "dateOfDeath": "08/13/1888",
         "Place of Death": "Macon, Ga",
         "lastName": "Heylen"
       },
@@ -613,7 +613,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.861,
-        "dateOfDeath": "14/08/1888",
+        "dateOfDeath": "08/14/1888",
         "Place of Death": "Kerkrade (Limburg)",
         "lastName": "Hausherr"
       },
@@ -629,7 +629,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.862,
-        "dateOfDeath": "17/08/1888",
+        "dateOfDeath": "08/17/1888",
         "Place of Death": "Paris",
         "lastName": "Brutillot"
       },
@@ -645,7 +645,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.863,
-        "dateOfDeath": "17/08/1888",
+        "dateOfDeath": "08/17/1888",
         "Place of Death": "Prairie du Chien",
         "lastName": "Weinand"
       },
@@ -661,7 +661,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.864,
-        "dateOfDeath": "20/08/1888",
+        "dateOfDeath": "08/20/1888",
         "Place of Death": "Marigliano (Caserta)",
         "lastName": "D'Alessio"
       },
@@ -677,7 +677,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.865,
-        "dateOfDeath": "23/08/1888",
+        "dateOfDeath": "08/23/1888",
         "Place of Death": "Feldkirch",
         "lastName": "Feldkamp"
       },
@@ -693,7 +693,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.866,
-        "dateOfDeath": "26/08/1888",
+        "dateOfDeath": "08/26/1888",
         "Place of Death": "Angers",
         "lastName": "Grognet"
       },
@@ -709,7 +709,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.867,
-        "dateOfDeath": "27/08/1888",
+        "dateOfDeath": "08/27/1888",
         "Place of Death": "Boulogne",
         "lastName": "Paradis"
       },
@@ -725,7 +725,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.868,
-        "dateOfDeath": "29/08/1888",
+        "dateOfDeath": "08/29/1888",
         "Place of Death": "Sevenhill, S.A.",
         "lastName": "Kriessl"
       },
@@ -741,7 +741,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.869,
-        "dateOfDeath": "01/09/1888",
+        "dateOfDeath": "09/01/1888",
         "Place of Death": "Gemert",
         "lastName": "Wastin"
       },
@@ -757,7 +757,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.87,
-        "dateOfDeath": "07/09/1888",
+        "dateOfDeath": "09/07/1888",
         "Place of Death": "Li\u00ef\u00bf\u00bdge",
         "lastName": "Daurer"
       },
@@ -789,7 +789,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.872,
-        "dateOfDeath": "13/09/1888",
+        "dateOfDeath": "09/13/1888",
         "Place of Death": "Las Vegas, N. Mex.",
         "lastName": "Polino"
       },
@@ -805,7 +805,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.873,
-        "dateOfDeath": "15/09/1888",
+        "dateOfDeath": "09/15/1888",
         "Place of Death": "Quimper",
         "lastName": "Le Coniat"
       },
@@ -821,7 +821,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.874,
-        "dateOfDeath": "19/09/1888",
+        "dateOfDeath": "09/19/1888",
         "Place of Death": "Zamboanga (Mindanao)",
         "lastName": "Llaus\u00ef\u00bf\u00bds"
       },
@@ -837,7 +837,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.875,
-        "dateOfDeath": "22/09/1888",
+        "dateOfDeath": "09/22/1888",
         "Place of Death": "Enghien",
         "lastName": "de Ravinel"
       },
@@ -853,7 +853,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.876,
-        "dateOfDeath": "23/09/1888",
+        "dateOfDeath": "09/23/1888",
         "Place of Death": "Beyrouth",
         "lastName": "(Chapus) Dubost"
       },
@@ -869,7 +869,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.877,
-        "dateOfDeath": "24/09/1888",
+        "dateOfDeath": "09/24/1888",
         "Place of Death": "Wien",
         "lastName": "Oehler"
       },
@@ -885,7 +885,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.878,
-        "dateOfDeath": "27/09/1888",
+        "dateOfDeath": "09/27/1888",
         "Place of Death": "Baltimore",
         "lastName": "Cunningham"
       },
@@ -901,7 +901,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.879,
-        "dateOfDeath": "28/09/1888",
+        "dateOfDeath": "09/28/1888",
         "Place of Death": "Castel Gandolfo",
         "lastName": "Giannini"
       },
@@ -917,7 +917,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.88,
-        "dateOfDeath": "29/09/1888",
+        "dateOfDeath": "09/29/1888",
         "Place of Death": "St Beuno's",
         "lastName": "Porter"
       },
@@ -933,7 +933,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.881,
-        "dateOfDeath": "30/09/1888",
+        "dateOfDeath": "09/30/1888",
         "Place of Death": "Chieri",
         "lastName": "Ponzini"
       },
@@ -949,7 +949,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.882,
-        "dateOfDeath": "06/10/1888",
+        "dateOfDeath": "10/06/1888",
         "Place of Death": "Enghien",
         "lastName": "G\u00ef\u00bf\u00bdn\u00ef\u00bf\u00bdvrier"
       },
@@ -965,7 +965,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.883,
-        "dateOfDeath": "19/10/1888",
+        "dateOfDeath": "10/19/1888",
         "Place of Death": "Itu",
         "lastName": "Chiari"
       },
@@ -981,7 +981,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.884,
-        "dateOfDeath": "20/10/1888",
+        "dateOfDeath": "10/20/1888",
         "Place of Death": "S\u00ef\u00bf\u00bdo Paulo",
         "lastName": "Colangeli"
       },
@@ -997,7 +997,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.885,
-        "dateOfDeath": "21/10/1888",
+        "dateOfDeath": "10/21/1888",
         "Place of Death": "Mangalore",
         "lastName": "Stein"
       },
@@ -1013,7 +1013,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.886,
-        "dateOfDeath": "27/10/1888",
+        "dateOfDeath": "10/27/1888",
         "Place of Death": "Trnava",
         "lastName": "Lustinetz"
       },
@@ -1029,7 +1029,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.887,
-        "dateOfDeath": "28/10/1888",
+        "dateOfDeath": "10/28/1888",
         "Place of Death": "Veruela",
         "lastName": "Torrents"
       },
@@ -1045,7 +1045,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.889,
-        "dateOfDeath": "30/10/1888",
+        "dateOfDeath": "10/30/1888",
         "Place of Death": "Murcia",
         "lastName": "Segui"
       },
@@ -1061,7 +1061,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.89,
-        "dateOfDeath": "31/10/1888",
+        "dateOfDeath": "10/31/1888",
         "Place of Death": "Tortosa",
         "lastName": "Aguzzoni"
       },
@@ -1077,7 +1077,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.891,
-        "dateOfDeath": "31/10/1888",
+        "dateOfDeath": "10/31/1888",
         "Place of Death": "Tortosa",
         "lastName": "Tomas"
       },
@@ -1093,7 +1093,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.892,
-        "dateOfDeath": "01/11/1888",
+        "dateOfDeath": "11/01/1888",
         "Place of Death": "Spokane Falls, Wash",
         "lastName": "Barcelo"
       },
@@ -1109,7 +1109,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.893,
-        "dateOfDeath": "04/11/1888",
+        "dateOfDeath": "11/04/1888",
         "Place of Death": "Roma",
         "lastName": "Roccatelli"
       },
@@ -1125,7 +1125,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.894,
-        "dateOfDeath": "05/11/1888",
+        "dateOfDeath": "11/05/1888",
         "Place of Death": "Cincinnati",
         "lastName": "Weis"
       },
@@ -1141,7 +1141,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.895,
-        "dateOfDeath": "06/11/1888",
+        "dateOfDeath": "11/06/1888",
         "Place of Death": "Nagykapornak (Zala)",
         "lastName": "Rupp"
       },
@@ -1157,7 +1157,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.896,
-        "dateOfDeath": "06/11/1888",
+        "dateOfDeath": "11/06/1888",
         "Place of Death": "Padova",
         "lastName": "Saccardo"
       },
@@ -1173,7 +1173,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.897,
-        "dateOfDeath": "06/11/1888",
+        "dateOfDeath": "11/06/1888",
         "Place of Death": "Roma",
         "lastName": "Casaccia"
       },
@@ -1189,7 +1189,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.898,
-        "dateOfDeath": "12/11/1888",
+        "dateOfDeath": "11/12/1888",
         "Place of Death": "? (Canarias)",
         "lastName": "Waters"
       },
@@ -1205,7 +1205,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.899,
-        "dateOfDeath": "13/11/1888",
+        "dateOfDeath": "11/13/1888",
         "Place of Death": "Losinj (Croatie)",
         "lastName": "Pesci"
       },
@@ -1221,7 +1221,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.9,
-        "dateOfDeath": "15/11/1888",
+        "dateOfDeath": "11/15/1888",
         "Place of Death": "Manila",
         "lastName": "Bertran"
       },
@@ -1237,7 +1237,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.901,
-        "dateOfDeath": "17/11/1888",
+        "dateOfDeath": "11/17/1888",
         "Place of Death": "Louvain",
         "lastName": "Van De Reydt"
       },
@@ -1253,7 +1253,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.902,
-        "dateOfDeath": "18/11/1888",
+        "dateOfDeath": "11/18/1888",
         "Place of Death": "Angers",
         "lastName": "Danton"
       },
@@ -1269,7 +1269,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.903,
-        "dateOfDeath": "18/11/1888",
+        "dateOfDeath": "11/18/1888",
         "Place of Death": "Laval",
         "lastName": "Sarru"
       },
@@ -1285,7 +1285,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.904,
-        "dateOfDeath": "20/11/1888",
+        "dateOfDeath": "11/20/1888",
         "Place of Death": "Maria-Laach",
         "lastName": "Michels"
       },
@@ -1301,7 +1301,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.905,
-        "dateOfDeath": "22/11/1888",
+        "dateOfDeath": "11/22/1888",
         "Place of Death": "San Francisco",
         "lastName": "Tadini"
       },
@@ -1317,7 +1317,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.906,
-        "dateOfDeath": "22/11/1888",
+        "dateOfDeath": "11/22/1888",
         "Place of Death": "Zaragoza",
         "lastName": "Cervera"
       },
@@ -1333,7 +1333,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.907,
-        "dateOfDeath": "23/11/1888",
+        "dateOfDeath": "11/23/1888",
         "Place of Death": "Schermberg (Salzburg)",
         "lastName": "Haidegger"
       },
@@ -1349,7 +1349,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.908,
-        "dateOfDeath": "23/11/1888",
+        "dateOfDeath": "11/23/1888",
         "Place of Death": "Nova Friburgo (Rio de Janeiro)",
         "lastName": "Nardi"
       },
@@ -1365,7 +1365,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.909,
-        "dateOfDeath": "24/11/1888",
+        "dateOfDeath": "11/24/1888",
         "Place of Death": "Wijnandsrade",
         "lastName": "Schleiniger"
       },
@@ -1381,7 +1381,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.91,
-        "dateOfDeath": "25/11/1888",
+        "dateOfDeath": "11/25/1888",
         "Place of Death": "Tortosa",
         "lastName": "Catarineu"
       },
@@ -1397,7 +1397,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.911,
-        "dateOfDeath": "27/11/1888",
+        "dateOfDeath": "11/27/1888",
         "Place of Death": "Napoli",
         "lastName": "De Cristofaro"
       },
@@ -1413,7 +1413,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.913,
-        "dateOfDeath": "01/12/1888",
+        "dateOfDeath": "12/01/1888",
         "Place of Death": "Le Caire",
         "lastName": "Beccard"
       },
@@ -1429,7 +1429,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.914,
-        "dateOfDeath": "02/12/1888",
+        "dateOfDeath": "12/02/1888",
         "Place of Death": "Tiruchirapalli",
         "lastName": "Canoz"
       },
@@ -1445,7 +1445,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.915,
-        "dateOfDeath": "03/12/1888",
+        "dateOfDeath": "12/03/1888",
         "Place of Death": "Tortosa",
         "lastName": "Massaguer"
       },
@@ -1461,7 +1461,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.916,
-        "dateOfDeath": "06/12/1888",
+        "dateOfDeath": "12/06/1888",
         "Place of Death": "Blijenbeek (Limburg)",
         "lastName": "Pelzer"
       },
@@ -1477,7 +1477,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.917,
-        "dateOfDeath": "07/12/1888",
+        "dateOfDeath": "12/07/1888",
         "Place of Death": "Napoli",
         "lastName": "Ferullo"
       },
@@ -1493,7 +1493,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.918,
-        "dateOfDeath": "09/12/1888",
+        "dateOfDeath": "12/09/1888",
         "Place of Death": "Paray-le-Monial",
         "lastName": "de Launay"
       },
@@ -1509,7 +1509,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.919,
-        "dateOfDeath": "10/12/1888",
+        "dateOfDeath": "12/10/1888",
         "Place of Death": "Paris",
         "lastName": "Rubillon (du Lattay)"
       },
@@ -1525,7 +1525,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.92,
-        "dateOfDeath": "10/12/1888",
+        "dateOfDeath": "12/10/1888",
         "Place of Death": "Toulouse",
         "lastName": "Vuillermet"
       },
@@ -1541,7 +1541,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.921,
-        "dateOfDeath": "13/12/1888",
+        "dateOfDeath": "12/13/1888",
         "Place of Death": "Marigliano (Caserta)",
         "lastName": "Capozzi"
       },
@@ -1557,7 +1557,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.922,
-        "dateOfDeath": "13/12/1888",
+        "dateOfDeath": "12/13/1888",
         "Place of Death": "Sta. Venera (Malta)",
         "lastName": "Ferlisi"
       },
@@ -1573,7 +1573,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.924,
-        "dateOfDeath": "16/12/1888",
+        "dateOfDeath": "12/16/1888",
         "Place of Death": "Civitella Roveto",
         "lastName": "Ferrante"
       },
@@ -1589,7 +1589,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.925,
-        "dateOfDeath": "16/12/1888",
+        "dateOfDeath": "12/16/1888",
         "Place of Death": "Genoni",
         "lastName": "Porqueddu"
       },
@@ -1605,7 +1605,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.926,
-        "dateOfDeath": "16/12/1888",
+        "dateOfDeath": "12/16/1888",
         "Place of Death": "Laval",
         "lastName": "Roussel"
       },
@@ -1621,7 +1621,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.927,
-        "dateOfDeath": "17/12/1888",
+        "dateOfDeath": "12/17/1888",
         "Place of Death": "Tortosa",
         "lastName": "Ferreres"
       },
@@ -1637,7 +1637,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.928,
-        "dateOfDeath": "19/12/1888",
+        "dateOfDeath": "12/19/1888",
         "Place of Death": "St-Denis",
         "lastName": "Bidault"
       },
@@ -1653,7 +1653,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.929,
-        "dateOfDeath": "21/12/1888",
+        "dateOfDeath": "12/21/1888",
         "Place of Death": "Lyon",
         "lastName": "Valenti"
       },
@@ -1669,7 +1669,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.93,
-        "dateOfDeath": "22/12/1888",
+        "dateOfDeath": "12/22/1888",
         "Place of Death": "Chyr\u00ef\u00bf\u00bdw, USSR",
         "lastName": "Lenz"
       },
@@ -1685,7 +1685,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.931,
-        "dateOfDeath": "23/12/1888",
+        "dateOfDeath": "12/23/1888",
         "Place of Death": "Spokane Falls, Wash.",
         "lastName": "Debono"
       },
@@ -1701,7 +1701,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.932,
-        "dateOfDeath": "25/12/1888",
+        "dateOfDeath": "12/25/1888",
         "Place of Death": "Quito",
         "lastName": "Toledo"
       },
@@ -1733,7 +1733,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.934,
-        "dateOfDeath": "02/01/1889",
+        "dateOfDeath": "01/02/1889",
         "Place of Death": "El-Biar (Alg\u00ef\u00bf\u00bdrie)",
         "lastName": "Aragon"
       },
@@ -1749,7 +1749,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.935,
-        "dateOfDeath": "03/01/1889",
+        "dateOfDeath": "01/03/1889",
         "Place of Death": "Louvain",
         "lastName": "Ruppert"
       },
@@ -1765,7 +1765,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.936,
-        "dateOfDeath": "07/01/1889",
+        "dateOfDeath": "01/07/1889",
         "Place of Death": "Bordeaux",
         "lastName": "Vignet"
       },
@@ -1781,7 +1781,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.938,
-        "dateOfDeath": "09/01/1889",
+        "dateOfDeath": "01/09/1889",
         "Place of Death": "Barcelona",
         "lastName": "Vilalta"
       },
@@ -1797,7 +1797,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.939,
-        "dateOfDeath": "10/01/1889",
+        "dateOfDeath": "01/10/1889",
         "Place of Death": "Louvain",
         "lastName": "Vloeberghs"
       },
@@ -1813,7 +1813,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.94,
-        "dateOfDeath": "11/01/1889",
+        "dateOfDeath": "01/11/1889",
         "Place of Death": "Nagykapornak (Zala)",
         "lastName": "Ratzer"
       },
@@ -1829,7 +1829,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.941,
-        "dateOfDeath": "15/01/1889",
+        "dateOfDeath": "01/15/1889",
         "Place of Death": "Tronchiennes",
         "lastName": "Guns"
       },
@@ -1845,7 +1845,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.942,
-        "dateOfDeath": "16/01/1889",
+        "dateOfDeath": "01/16/1889",
         "Place of Death": "Exaten",
         "lastName": "Franksmann"
       },
@@ -1861,7 +1861,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.943,
-        "dateOfDeath": "18/01/1889",
+        "dateOfDeath": "01/18/1889",
         "Place of Death": "Nowy S?cz",
         "lastName": "?liwowski"
       },
@@ -1877,7 +1877,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.944,
-        "dateOfDeath": "18/01/1889",
+        "dateOfDeath": "01/18/1889",
         "Place of Death": "Roma",
         "lastName": "Fratazzi"
       },
@@ -1893,7 +1893,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.945,
-        "dateOfDeath": "18/01/1889",
+        "dateOfDeath": "01/18/1889",
         "Place of Death": "St-Acheul-l\u00ef\u00bf\u00bds-Amiens",
         "lastName": "Wintenberger"
       },
@@ -1909,7 +1909,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.946,
-        "dateOfDeath": "19/01/1889",
+        "dateOfDeath": "01/19/1889",
         "Place of Death": "Tivoli (Roma)",
         "lastName": "Carboni"
       },
@@ -1925,7 +1925,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.947,
-        "dateOfDeath": "19/01/1889",
+        "dateOfDeath": "01/19/1889",
         "Place of Death": "Manila",
         "lastName": "Tafalla"
       },
@@ -1941,7 +1941,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.948,
-        "dateOfDeath": "20/01/1889",
+        "dateOfDeath": "01/20/1889",
         "Place of Death": "Talavera de la Reina (Toledo)",
         "lastName": "Errasti"
       },
@@ -1957,7 +1957,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.949,
-        "dateOfDeath": "27/01/1889",
+        "dateOfDeath": "01/27/1889",
         "Place of Death": "Vico Equense (Napoli)",
         "lastName": "Jannelli"
       },
@@ -1973,7 +1973,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.95,
-        "dateOfDeath": "27/01/1889",
+        "dateOfDeath": "01/27/1889",
         "Place of Death": "Napoli",
         "lastName": "Scotti"
       },
@@ -1989,7 +1989,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.951,
-        "dateOfDeath": "27/01/1889",
+        "dateOfDeath": "01/27/1889",
         "Place of Death": "Buenos Aires",
         "lastName": "Sala"
       },
@@ -2005,7 +2005,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.952,
-        "dateOfDeath": "27/01/1889",
+        "dateOfDeath": "01/27/1889",
         "Place of Death": "Tortosa",
         "lastName": "Arnalot"
       },
@@ -2021,7 +2021,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.953,
-        "dateOfDeath": "28/01/1889",
+        "dateOfDeath": "01/28/1889",
         "Place of Death": "Santa Caterina",
         "lastName": "Nicosia"
       },
@@ -2037,7 +2037,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.954,
-        "dateOfDeath": "28/01/1889",
+        "dateOfDeath": "01/28/1889",
         "Place of Death": "St Beuno's",
         "lastName": "Postlewhite"
       },
@@ -2053,7 +2053,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.956,
-        "dateOfDeath": "01/02/1889",
+        "dateOfDeath": "02/01/1889",
         "Place of Death": "Exaten",
         "lastName": "Hallin"
       },
@@ -2069,7 +2069,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.957,
-        "dateOfDeath": "03/02/1889",
+        "dateOfDeath": "02/03/1889",
         "Place of Death": "P\u00ef\u00bf\u00bdrenchies (Nord)",
         "lastName": "Besse"
       },
@@ -2085,7 +2085,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.958,
-        "dateOfDeath": "05/02/1889",
+        "dateOfDeath": "02/05/1889",
         "Place of Death": "Ternopol; USSR",
         "lastName": "Dewechy"
       },
@@ -2101,7 +2101,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.959,
-        "dateOfDeath": "06/02/1889",
+        "dateOfDeath": "02/06/1889",
         "Place of Death": "S. Jos\u00ef\u00bf\u00bd do Hort\u00ef\u00bf\u00bdnsio (Rio Gr. do Sul)",
         "lastName": "K\u00ef\u00bf\u00bdmpfen"
       },
@@ -2117,7 +2117,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.96,
-        "dateOfDeath": "09/02/1889",
+        "dateOfDeath": "02/09/1889",
         "Place of Death": "Atapoepoe (Timor)",
         "lastName": "Kraayvanger"
       },
@@ -2133,7 +2133,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.961,
-        "dateOfDeath": "11/02/1889",
+        "dateOfDeath": "02/11/1889",
         "Place of Death": "Gent",
         "lastName": "Van Aken"
       },
@@ -2149,7 +2149,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.962,
-        "dateOfDeath": "13/02/1889",
+        "dateOfDeath": "02/13/1889",
         "Place of Death": "Campolide",
         "lastName": "Bernando"
       },
@@ -2165,7 +2165,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.963,
-        "dateOfDeath": "14/02/1889",
+        "dateOfDeath": "02/14/1889",
         "Place of Death": "Shanghai",
         "lastName": "Billot"
       },
@@ -2181,7 +2181,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.964,
-        "dateOfDeath": "15/02/1889",
+        "dateOfDeath": "02/15/1889",
         "Place of Death": "Castel Gandolfo",
         "lastName": "Mazzi"
       },
@@ -2197,7 +2197,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.965,
-        "dateOfDeath": "16/02/1889",
+        "dateOfDeath": "02/16/1889",
         "Place of Death": "Alexandria (Egypte)",
         "lastName": "Untereichner"
       },
@@ -2213,7 +2213,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.966,
-        "dateOfDeath": "17/02/1889",
+        "dateOfDeath": "02/17/1889",
         "Place of Death": "Ditton Hall (Lancashire)",
         "lastName": "Neville"
       },
@@ -2229,7 +2229,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.967,
-        "dateOfDeath": "17/02/1889",
+        "dateOfDeath": "02/17/1889",
         "Place of Death": "Le Mans",
         "lastName": "Minier"
       },
@@ -2245,7 +2245,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.968,
-        "dateOfDeath": "18/02/1889",
+        "dateOfDeath": "02/18/1889",
         "Place of Death": "Quimper",
         "lastName": "Le D\u00ef\u00bf\u00bdlaizir"
       },
@@ -2261,7 +2261,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.969,
-        "dateOfDeath": "21/02/1889",
+        "dateOfDeath": "02/21/1889",
         "Place of Death": "Concepci\u00ef\u00bf\u00bdn",
         "lastName": "Coluzzi"
       },
@@ -2277,7 +2277,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.97,
-        "dateOfDeath": "22/02/1889",
+        "dateOfDeath": "02/22/1889",
         "Place of Death": "Quilimane (Mo\u00ef\u00bf\u00bdambique)",
         "lastName": "B\u00ef\u00bf\u00bddard"
       },
@@ -2293,7 +2293,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.971,
-        "dateOfDeath": "23/02/1889",
+        "dateOfDeath": "02/23/1889",
         "Place of Death": "Avignon",
         "lastName": "Perrollaz"
       },
@@ -2309,7 +2309,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.972,
-        "dateOfDeath": "25/02/1889",
+        "dateOfDeath": "02/25/1889",
         "Place of Death": "Stonyhurst",
         "lastName": "Rigby"
       },
@@ -2325,7 +2325,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.973,
-        "dateOfDeath": "25/02/1889",
+        "dateOfDeath": "02/25/1889",
         "Place of Death": "Feldkirch",
         "lastName": "Verbeke"
       },
@@ -2341,7 +2341,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.974,
-        "dateOfDeath": "25/02/1889",
+        "dateOfDeath": "02/25/1889",
         "Place of Death": "Albuquerque, N. Mex.",
         "lastName": "Walmsley"
       },
@@ -2357,7 +2357,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.975,
-        "dateOfDeath": "26/02/1889",
+        "dateOfDeath": "02/26/1889",
         "Place of Death": "Kalksburg",
         "lastName": "Haladin"
       },
@@ -2373,7 +2373,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.976,
-        "dateOfDeath": "27/02/1889",
+        "dateOfDeath": "02/27/1889",
         "Place of Death": "Toulouse",
         "lastName": "Rossipon"
       },
@@ -2389,7 +2389,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.977,
-        "dateOfDeath": "28/02/1889",
+        "dateOfDeath": "02/28/1889",
         "Place of Death": "Kraljevica (Croatie)",
         "lastName": "Dalpr\u00ef\u00bf\u00bd"
       },
@@ -2405,7 +2405,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.978,
-        "dateOfDeath": "01/03/1889",
+        "dateOfDeath": "03/01/1889",
         "Place of Death": "Marseille",
         "lastName": "Lavay"
       },
@@ -2469,7 +2469,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.982,
-        "dateOfDeath": "04/03/1889",
+        "dateOfDeath": "03/04/1889",
         "Place of Death": "Bruxelles",
         "lastName": "Carbonnelle"
       },
@@ -2485,7 +2485,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.983,
-        "dateOfDeath": "05/03/1889",
+        "dateOfDeath": "03/05/1889",
         "Place of Death": "Dublin",
         "lastName": "O'Carroll"
       },
@@ -2501,7 +2501,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.984,
-        "dateOfDeath": "05/03/1889",
+        "dateOfDeath": "03/05/1889",
         "Place of Death": "Dunbrody (South Africa)",
         "lastName": "van den Putten"
       },
@@ -2517,7 +2517,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.985,
-        "dateOfDeath": "05/03/1889",
+        "dateOfDeath": "03/05/1889",
         "Place of Death": "Monaco",
         "lastName": "Blanchi"
       },
@@ -2533,7 +2533,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.986,
-        "dateOfDeath": "07/03/1889",
+        "dateOfDeath": "03/07/1889",
         "Place of Death": "Palermo",
         "lastName": "Galvagno"
       },
@@ -2549,7 +2549,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.987,
-        "dateOfDeath": "11/03/1889",
+        "dateOfDeath": "03/11/1889",
         "Place of Death": "Ambositra (Madagascar)",
         "lastName": "Galtier"
       },
@@ -2565,7 +2565,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.988,
-        "dateOfDeath": "13/03/1889",
+        "dateOfDeath": "03/13/1889",
         "Place of Death": "New York",
         "lastName": "Thiry"
       },
@@ -2581,7 +2581,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.989,
-        "dateOfDeath": "14/03/1889",
+        "dateOfDeath": "03/14/1889",
         "Place of Death": "Kalksburg",
         "lastName": "Mock"
       },
@@ -2597,7 +2597,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.99,
-        "dateOfDeath": "15/03/1889",
+        "dateOfDeath": "03/15/1889",
         "Place of Death": "Mariendaal",
         "lastName": "van der Wolk"
       },
@@ -2613,7 +2613,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.991,
-        "dateOfDeath": "17/03/1889",
+        "dateOfDeath": "03/17/1889",
         "Place of Death": "Marseilles",
         "lastName": "Perrard"
       },
@@ -2629,7 +2629,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.992,
-        "dateOfDeath": "18/03/1889",
+        "dateOfDeath": "03/18/1889",
         "Place of Death": "Barcelona",
         "lastName": "Verzosa"
       },
@@ -2645,7 +2645,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.993,
-        "dateOfDeath": "19/03/1889",
+        "dateOfDeath": "03/19/1889",
         "Place of Death": "Roma",
         "lastName": "Santi"
       },
@@ -2661,7 +2661,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.994,
-        "dateOfDeath": "20/03/1889",
+        "dateOfDeath": "03/20/1889",
         "Place of Death": "Namur",
         "lastName": "Broes"
       },
@@ -2677,7 +2677,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.996,
-        "dateOfDeath": "22/03/1889",
+        "dateOfDeath": "03/22/1889",
         "Place of Death": "Castel Gandolfo",
         "lastName": "Lera"
       },
@@ -2693,7 +2693,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.998,
-        "dateOfDeath": "26/03/1889",
+        "dateOfDeath": "03/26/1889",
         "Place of Death": "Mariaschein",
         "lastName": "Pietsch"
       },
@@ -2709,7 +2709,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.999,
-        "dateOfDeath": "27/03/1889",
+        "dateOfDeath": "03/27/1889",
         "Place of Death": "Denver",
         "lastName": "MacCarthy"
       },
@@ -2725,7 +2725,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7,
-        "dateOfDeath": "28/03/1889",
+        "dateOfDeath": "03/28/1889",
         "Place of Death": "Feldkirch",
         "lastName": "Menke"
       },
@@ -2741,7 +2741,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.001,
-        "dateOfDeath": "29/03/1889",
+        "dateOfDeath": "03/29/1889",
         "Place of Death": "S. Jo\u00ef\u00bf\u00bdo do Montenegro (Rio Gr. do Sul)",
         "lastName": "Ehring"
       },
@@ -2757,7 +2757,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.002,
-        "dateOfDeath": "29/03/1889",
+        "dateOfDeath": "03/29/1889",
         "Place of Death": "Woodstock",
         "lastName": "Vezza"
       },
@@ -2773,7 +2773,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.003,
-        "dateOfDeath": "30/03/1889",
+        "dateOfDeath": "03/30/1889",
         "Place of Death": "Lyon",
         "lastName": "Jaffre"
       },
@@ -2789,7 +2789,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.004,
-        "dateOfDeath": "07/04/1889",
+        "dateOfDeath": "04/07/1889",
         "Place of Death": "Quimper",
         "lastName": "Toulemont"
       },
@@ -2805,7 +2805,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.005,
-        "dateOfDeath": "08/04/1889",
+        "dateOfDeath": "04/08/1889",
         "Place of Death": "Bogot\u00ef\u00bf\u00bd",
         "lastName": "Paul"
       },
@@ -2821,7 +2821,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.006,
-        "dateOfDeath": "11/04/1889",
+        "dateOfDeath": "04/11/1889",
         "Place of Death": "Angers",
         "lastName": "Girre"
       },
@@ -2837,7 +2837,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.007,
-        "dateOfDeath": "13/04/1889",
+        "dateOfDeath": "04/13/1889",
         "Place of Death": "Philadelphia",
         "lastName": "Hilbert"
       },
@@ -2853,7 +2853,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.008,
-        "dateOfDeath": "14/04/1889",
+        "dateOfDeath": "04/14/1889",
         "Place of Death": "Istanbul",
         "lastName": "Borrello"
       },
@@ -2869,7 +2869,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.009,
-        "dateOfDeath": "14/01/1889",
+        "dateOfDeath": "01/14/1889",
         "Place of Death": "Mariaschein",
         "lastName": "Schmude"
       },
@@ -2885,7 +2885,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.01,
-        "dateOfDeath": "15/04/1889",
+        "dateOfDeath": "04/15/1889",
         "Place of Death": "Boulieu (Ard\u00ef\u00bf\u00bdche)",
         "lastName": "Barret"
       },
@@ -2901,7 +2901,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.011,
-        "dateOfDeath": "16/04/1889",
+        "dateOfDeath": "04/16/1889",
         "Place of Death": "Lille",
         "lastName": "Coeurdacier"
       },
@@ -2917,7 +2917,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.012,
-        "dateOfDeath": "16/04/1889",
+        "dateOfDeath": "04/16/1889",
         "Place of Death": "Jerez de la Fr.",
         "lastName": "Aranz\u00ef\u00bf\u00bdbal"
       },
@@ -2933,7 +2933,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.013,
-        "dateOfDeath": "22/04/1889",
+        "dateOfDeath": "04/22/1889",
         "Place of Death": "Chesterfield (Derby)",
         "lastName": "Williams"
       },
@@ -2949,7 +2949,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.014,
-        "dateOfDeath": "22/04/1889",
+        "dateOfDeath": "04/22/1889",
         "Place of Death": "Tronchiennes",
         "lastName": "Oers"
       },
@@ -2965,7 +2965,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.015,
-        "dateOfDeath": "24/04/1889",
+        "dateOfDeath": "04/24/1889",
         "Place of Death": "Worcester",
         "lastName": "Strain"
       },
@@ -2981,7 +2981,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.016,
-        "dateOfDeath": "26/04/1889",
+        "dateOfDeath": "04/26/1889",
         "Place of Death": "Lille",
         "lastName": "Engerand"
       },
@@ -2997,7 +2997,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.017,
-        "dateOfDeath": "26/06/1889",
+        "dateOfDeath": "06/26/1889",
         "Place of Death": "Cincinnati",
         "lastName": "Stephens"
       },
@@ -3013,7 +3013,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.018,
-        "dateOfDeath": "30/04/1889",
+        "dateOfDeath": "04/30/1889",
         "Place of Death": "Cincinnati",
         "lastName": "Kenealy"
       },
@@ -3029,7 +3029,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.019,
-        "dateOfDeath": "03/05/1889",
+        "dateOfDeath": "05/03/1889",
         "Place of Death": "St. Helier",
         "lastName": "Monchablon"
       },
@@ -3045,7 +3045,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.02,
-        "dateOfDeath": "06/05/1889",
+        "dateOfDeath": "05/06/1889",
         "Place of Death": "Culenborg",
         "lastName": "Van der Veeken"
       },
@@ -3061,7 +3061,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.021,
-        "dateOfDeath": "20/05/1889",
+        "dateOfDeath": "05/20/1889",
         "Place of Death": "Montreal",
         "lastName": "Cunningham"
       },
@@ -3077,7 +3077,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.022,
-        "dateOfDeath": "20/05/1889",
+        "dateOfDeath": "05/20/1889",
         "Place of Death": "Napoli",
         "lastName": "Grech"
       },
@@ -3093,7 +3093,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.023,
-        "dateOfDeath": "21/05/1889",
+        "dateOfDeath": "05/21/1889",
         "Place of Death": "Monaco",
         "lastName": "Hausemer"
       },
@@ -3109,7 +3109,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.025,
-        "dateOfDeath": "23/05/1889",
+        "dateOfDeath": "05/23/1889",
         "Place of Death": "Campolide",
         "lastName": "Barros"
       },
@@ -3125,7 +3125,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.026,
-        "dateOfDeath": "25/05/1889",
+        "dateOfDeath": "05/25/1889",
         "Place of Death": "Anvers",
         "lastName": "Van Alsenoy"
       },
@@ -3141,7 +3141,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.027,
-        "dateOfDeath": "25/05/1889",
+        "dateOfDeath": "05/25/1889",
         "Place of Death": "Sault-au-Recollet",
         "lastName": "Macdonald"
       },
@@ -3157,7 +3157,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.028,
-        "dateOfDeath": "28/05/1889",
+        "dateOfDeath": "05/28/1889",
         "Place of Death": "Barcelona",
         "lastName": "Casajoana"
       },
@@ -3173,7 +3173,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.029,
-        "dateOfDeath": "30/05/1889",
+        "dateOfDeath": "05/30/1889",
         "Place of Death": "Prairie du Chien",
         "lastName": "Krone"
       },
@@ -3189,7 +3189,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.03,
-        "dateOfDeath": "02/06/1889",
+        "dateOfDeath": "06/02/1889",
         "Place of Death": "Arlon",
         "lastName": "Degembe"
       },
@@ -3205,7 +3205,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.031,
-        "dateOfDeath": "05/06/1889",
+        "dateOfDeath": "06/05/1889",
         "Place of Death": "Maastricht",
         "lastName": "Jans"
       },
@@ -3221,7 +3221,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.032,
-        "dateOfDeath": "08/06/1889",
+        "dateOfDeath": "06/08/1889",
         "Place of Death": "Dublin",
         "lastName": "Hopkings"
       },
@@ -3237,7 +3237,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.033,
-        "dateOfDeath": "10/06/1889",
+        "dateOfDeath": "06/10/1889",
         "Place of Death": "Tronchiennes",
         "lastName": "Busiau"
       },
@@ -3253,7 +3253,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.034,
-        "dateOfDeath": "11/06/1889",
+        "dateOfDeath": "06/11/1889",
         "Place of Death": "Spring Hill, Ala",
         "lastName": "Samuel"
       },
@@ -3269,7 +3269,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.035,
-        "dateOfDeath": "15/06/1889",
+        "dateOfDeath": "06/15/1889",
         "Place of Death": "Paray-le-Monial (Saone-et-L)",
         "lastName": "Francia"
       },
@@ -3285,7 +3285,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.036,
-        "dateOfDeath": "15/06/1889",
+        "dateOfDeath": "06/15/1889",
         "Place of Death": "Mantova",
         "lastName": "Ziggiotti"
       },
@@ -3301,7 +3301,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.037,
-        "dateOfDeath": "20/06/1889",
+        "dateOfDeath": "06/20/1889",
         "Place of Death": "Beyrouth",
         "lastName": "Badour"
       },
@@ -3317,7 +3317,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.038,
-        "dateOfDeath": "22/06/1889",
+        "dateOfDeath": "06/22/1889",
         "Place of Death": "Suranam",
         "lastName": "Boyer"
       },
@@ -3333,7 +3333,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.039,
-        "dateOfDeath": "22/06/1889",
+        "dateOfDeath": "06/22/1889",
         "Place of Death": "Manila",
         "lastName": "Vallas"
       },
@@ -3349,7 +3349,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.04,
-        "dateOfDeath": "23/06/1889",
+        "dateOfDeath": "06/23/1889",
         "Place of Death": "Travnik (Bosna)",
         "lastName": "Plch"
       },
@@ -3365,7 +3365,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.041,
-        "dateOfDeath": "24/06/1889",
+        "dateOfDeath": "06/24/1889",
         "Place of Death": "Cincinnati",
         "lastName": "O'Hara"
       },
@@ -3381,7 +3381,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.042,
-        "dateOfDeath": "30/06/1889",
+        "dateOfDeath": "06/30/1889",
         "Place of Death": "Wijnandsrade",
         "lastName": "Voiss"
       },
@@ -3397,7 +3397,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.044,
-        "dateOfDeath": "01/07/1889",
+        "dateOfDeath": "07/01/1889",
         "Place of Death": "Montreal",
         "lastName": "Riordan"
       },
@@ -3413,7 +3413,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.045,
-        "dateOfDeath": "02/07/1889",
+        "dateOfDeath": "07/02/1889",
         "Place of Death": "Oudenbosch (N-Brabant)",
         "lastName": "Widdershoven"
       },
@@ -3429,7 +3429,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.046,
-        "dateOfDeath": "03/07/1889",
+        "dateOfDeath": "07/03/1889",
         "Place of Death": "Concepcion",
         "lastName": "Colldeforns"
       },
@@ -3445,7 +3445,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.048,
-        "dateOfDeath": "05/07/1889",
+        "dateOfDeath": "07/05/1889",
         "Place of Death": "Itu",
         "lastName": "Graziosi"
       },
@@ -3461,7 +3461,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.049,
-        "dateOfDeath": "05/07/1889",
+        "dateOfDeath": "07/05/1889",
         "Place of Death": "Namur",
         "lastName": "Bossyns"
       },
@@ -3477,7 +3477,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.05,
-        "dateOfDeath": "06/07/1889",
+        "dateOfDeath": "07/06/1889",
         "Place of Death": "Nova Trento (Sta.Catarina)",
         "lastName": "Missir"
       },
@@ -3509,7 +3509,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.053,
-        "dateOfDeath": "08/07/1889",
+        "dateOfDeath": "07/08/1889",
         "Place of Death": "Shanghai",
         "lastName": "Le Blond"
       },
@@ -3525,7 +3525,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.054,
-        "dateOfDeath": "11/07/1889",
+        "dateOfDeath": "07/11/1889",
         "Place of Death": "Napoli",
         "lastName": "Panzanelli"
       },
@@ -3541,7 +3541,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.055,
-        "dateOfDeath": "12/07/1889",
+        "dateOfDeath": "07/12/1889",
         "Place of Death": "Aix-en-Provence",
         "lastName": "Petot"
       },
@@ -3557,7 +3557,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.057,
-        "dateOfDeath": "15/07/1889",
+        "dateOfDeath": "07/15/1889",
         "Place of Death": "Bonn",
         "lastName": "Plenkers"
       },
@@ -3573,7 +3573,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.059,
-        "dateOfDeath": "16/07/1889",
+        "dateOfDeath": "07/16/1889",
         "Place of Death": "Nowy S?cz",
         "lastName": "Thiemann"
       },
@@ -3589,7 +3589,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.06,
-        "dateOfDeath": "18/07/1889",
+        "dateOfDeath": "07/18/1889",
         "Place of Death": "Madrid",
         "lastName": "Cort\u00ef\u00bf\u00bds"
       },
@@ -3605,7 +3605,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.061,
-        "dateOfDeath": "19/07/1889",
+        "dateOfDeath": "07/19/1889",
         "Place of Death": "Pau",
         "lastName": "Bicendaritz"
       },
@@ -3621,7 +3621,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.062,
-        "dateOfDeath": "24/07/1889",
+        "dateOfDeath": "07/24/1889",
         "Place of Death": "Georgetown",
         "lastName": "Curley"
       },
@@ -3637,7 +3637,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.063,
-        "dateOfDeath": "24/07/1889",
+        "dateOfDeath": "07/24/1889",
         "Place of Death": "Galashiels (Selkirk)",
         "lastName": "Pittar"
       },
@@ -3653,7 +3653,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.064,
-        "dateOfDeath": "30/07/1889",
+        "dateOfDeath": "07/30/1889",
         "Place of Death": "La Guardia",
         "lastName": "Ochoa"
       },
@@ -3669,7 +3669,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.065,
-        "dateOfDeath": "02/08/1889",
+        "dateOfDeath": "08/02/1889",
         "Place of Death": "Deusto",
         "lastName": "Ega\u00ef\u00bf\u00bda"
       },
@@ -3685,7 +3685,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.066,
-        "dateOfDeath": "02/08/1889",
+        "dateOfDeath": "08/02/1889",
         "Place of Death": "Santiago de Chile",
         "lastName": "Ramis"
       },
@@ -3701,7 +3701,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.067,
-        "dateOfDeath": "04/08/1889",
+        "dateOfDeath": "08/04/1889",
         "Place of Death": "Flavigny (Meurthe-et-M)",
         "lastName": "Godfroy"
       },
@@ -3717,7 +3717,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.068,
-        "dateOfDeath": "05/08/1889",
+        "dateOfDeath": "08/05/1889",
         "Place of Death": "Bruxelles",
         "lastName": "Vanderspeeten"
       },
@@ -3733,7 +3733,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.069,
-        "dateOfDeath": "05/08/1889",
+        "dateOfDeath": "08/05/1889",
         "Place of Death": "Albuquerque, N.Mex",
         "lastName": "Finck"
       },
@@ -3749,7 +3749,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.07,
-        "dateOfDeath": "10/08/1889",
+        "dateOfDeath": "08/10/1889",
         "Place of Death": "Ch\u00ef\u00bf\u00bdlons-sur-Marne (Marne)",
         "lastName": "Chartier"
       },
@@ -3765,7 +3765,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.071,
-        "dateOfDeath": "10/08/1889",
+        "dateOfDeath": "08/10/1889",
         "Place of Death": "S. Fiel (Beira-Baixa)",
         "lastName": "Bastos"
       },
@@ -3781,7 +3781,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.072,
-        "dateOfDeath": "10/08/1889",
+        "dateOfDeath": "08/10/1889",
         "Place of Death": "Beyrouth",
         "lastName": "Chanaan"
       },
@@ -3797,7 +3797,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.073,
-        "dateOfDeath": "11/08/1889",
+        "dateOfDeath": "08/11/1889",
         "Place of Death": "Fordham",
         "lastName": "Mac\u00ef\u00bf\u00bd"
       },
@@ -3813,7 +3813,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.074,
-        "dateOfDeath": "12/08/1889",
+        "dateOfDeath": "08/12/1889",
         "Place of Death": "Krak\u00ef\u00bf\u00bdw",
         "lastName": "Cze?owsk"
       },
@@ -3829,7 +3829,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.075,
-        "dateOfDeath": "12/08/1889",
+        "dateOfDeath": "08/12/1889",
         "Place of Death": "Exaten",
         "lastName": "Pachtler"
       },
@@ -3845,7 +3845,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.076,
-        "dateOfDeath": "12/08/1889",
+        "dateOfDeath": "08/12/1889",
         "Place of Death": "Woodstock",
         "lastName": "O'Sullivan"
       },
@@ -3861,7 +3861,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.078,
-        "dateOfDeath": "17/08/1889",
+        "dateOfDeath": "08/17/1889",
         "Place of Death": "Santa Fe, Arg.",
         "lastName": "Boix"
       },
@@ -3877,7 +3877,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.079,
-        "dateOfDeath": "17/08/1889",
+        "dateOfDeath": "08/17/1889",
         "Place of Death": "Innsbruck",
         "lastName": "Schmoranzer"
       },
@@ -3893,7 +3893,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.08,
-        "dateOfDeath": "19/08/1889",
+        "dateOfDeath": "08/19/1889",
         "Place of Death": "Avignon",
         "lastName": "Pin"
       },
@@ -3909,7 +3909,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.081,
-        "dateOfDeath": "20/08/1889",
+        "dateOfDeath": "08/20/1889",
         "Place of Death": "Santa Fe, Arg.",
         "lastName": "Vives"
       },
@@ -3925,7 +3925,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.082,
-        "dateOfDeath": "20/08/1889",
+        "dateOfDeath": "08/20/1889",
         "Place of Death": "Guadalupe",
         "lastName": "Gorosta"
       },
@@ -3941,7 +3941,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.083,
-        "dateOfDeath": "20/08/1889",
+        "dateOfDeath": "08/20/1889",
         "Place of Death": "Aversa (Castera)",
         "lastName": "Tateo"
       },
@@ -3957,7 +3957,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.084,
-        "dateOfDeath": "21/08/1889",
+        "dateOfDeath": "08/21/1889",
         "Place of Death": "St-Malo (Ille-et-V)",
         "lastName": "Dup\u00ef\u00bf\u00bd"
       },
@@ -3973,7 +3973,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.085,
-        "dateOfDeath": "21/08/1889",
+        "dateOfDeath": "08/21/1889",
         "Place of Death": "St-Malo (Ille-et-V)",
         "lastName": "de Quatrebarbes"
       },
@@ -3989,7 +3989,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.086,
-        "dateOfDeath": "21/08/1889",
+        "dateOfDeath": "08/21/1889",
         "Place of Death": "St-Malo (Ille-et-V)",
         "lastName": "Sabouraud"
       },
@@ -4005,7 +4005,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.087,
-        "dateOfDeath": "21/08/1889",
+        "dateOfDeath": "08/21/1889",
         "Place of Death": "Stara Wie?",
         "lastName": "Kucharski"
       },
@@ -4021,7 +4021,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.088,
-        "dateOfDeath": "21/08/1889",
+        "dateOfDeath": "08/21/1889",
         "Place of Death": "St-Malo (Ille-et-V)",
         "lastName": "Pfister"
       },
@@ -4037,7 +4037,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.089,
-        "dateOfDeath": "26/08/1889",
+        "dateOfDeath": "08/26/1889",
         "Place of Death": "Barcelona",
         "lastName": "Palou"
       },
@@ -4053,7 +4053,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.09,
-        "dateOfDeath": "04/09/1889",
+        "dateOfDeath": "09/04/1889",
         "Place of Death": "Shanghai",
         "lastName": "Durouchoux"
       },
@@ -4069,7 +4069,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.091,
-        "dateOfDeath": "04/09/1889",
+        "dateOfDeath": "09/04/1889",
         "Place of Death": "Paris",
         "lastName": "Verdi\u00ef\u00bf\u00bdre"
       },
@@ -4085,7 +4085,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.092,
-        "dateOfDeath": "04/09/1889",
+        "dateOfDeath": "09/04/1889",
         "Place of Death": "Krak\u00ef\u00bf\u00bdw",
         "lastName": "Kami?ski"
       },
@@ -4101,7 +4101,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.093,
-        "dateOfDeath": "07/09/1889",
+        "dateOfDeath": "09/07/1889",
         "Place of Death": "Courtrai",
         "lastName": "Triest"
       },
@@ -4117,7 +4117,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.094,
-        "dateOfDeath": "08/09/1889",
+        "dateOfDeath": "09/08/1889",
         "Place of Death": "Culemborg",
         "lastName": "Zwarts"
       },
@@ -4149,7 +4149,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.096,
-        "dateOfDeath": "10/09/1889",
+        "dateOfDeath": "09/10/1889",
         "Place of Death": "Lainz",
         "lastName": "Ebner"
       },
@@ -4165,7 +4165,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.098,
-        "dateOfDeath": "12/09/1889",
+        "dateOfDeath": "09/12/1889",
         "Place of Death": "Paris",
         "lastName": "Foucault"
       },
@@ -4181,7 +4181,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.099,
-        "dateOfDeath": "12/09/1889",
+        "dateOfDeath": "09/12/1889",
         "Place of Death": "Bournemouth (Hants)",
         "lastName": "Hawkins"
       },
@@ -4197,7 +4197,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.1,
-        "dateOfDeath": "15/09/1889",
+        "dateOfDeath": "09/15/1889",
         "Place of Death": "St. Helier",
         "lastName": "Gu\u00ef\u00bf\u00bdgan"
       },
@@ -4213,7 +4213,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.101,
-        "dateOfDeath": "16/09/1889",
+        "dateOfDeath": "09/16/1889",
         "Place of Death": "Kalksburg",
         "lastName": "Attlmayr"
       },
@@ -4229,7 +4229,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.102,
-        "dateOfDeath": "18/09/1889",
+        "dateOfDeath": "09/18/1889",
         "Place of Death": "Travnik (Bosna)",
         "lastName": "Hor\u00ef\u00bf\u00bdk"
       },
@@ -4245,7 +4245,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.103,
-        "dateOfDeath": "19/09/1889",
+        "dateOfDeath": "09/19/1889",
         "Place of Death": "Campolide",
         "lastName": "Catani"
       },
@@ -4261,7 +4261,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.104,
-        "dateOfDeath": "02/09/1889",
+        "dateOfDeath": "09/02/1889",
         "Place of Death": "Paris",
         "lastName": "Houget"
       },
@@ -4277,7 +4277,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.105,
-        "dateOfDeath": "21/09/1889",
+        "dateOfDeath": "09/21/1889",
         "Place of Death": "Sayda",
         "lastName": "Olivier"
       },
@@ -4293,7 +4293,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.106,
-        "dateOfDeath": "23/09/1889",
+        "dateOfDeath": "09/23/1889",
         "Place of Death": "Tivoli (Roma)",
         "lastName": "Ciampi"
       },
@@ -4309,7 +4309,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.107,
-        "dateOfDeath": "26/09/1889",
+        "dateOfDeath": "09/26/1889",
         "Place of Death": "Saluzzo (Cuneo)",
         "lastName": "Torti"
       },
@@ -4325,7 +4325,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.108,
-        "dateOfDeath": "26/09/1889",
+        "dateOfDeath": "09/26/1889",
         "Place of Death": "Gemert",
         "lastName": "Monvoisin"
       },
@@ -4341,7 +4341,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.109,
-        "dateOfDeath": "27/09/1889",
+        "dateOfDeath": "09/27/1889",
         "Place of Death": "Roma",
         "lastName": "Tosini"
       },
@@ -4357,7 +4357,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.11,
-        "dateOfDeath": "28/09/1889",
+        "dateOfDeath": "09/28/1889",
         "Place of Death": "Chieri",
         "lastName": "Ponte"
       },
@@ -4373,7 +4373,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.111,
-        "dateOfDeath": "28/09/1889",
+        "dateOfDeath": "09/28/1889",
         "Place of Death": "Bombay",
         "lastName": "Porter"
       },
@@ -4389,7 +4389,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.112,
-        "dateOfDeath": "01/10/1889",
+        "dateOfDeath": "10/01/1889",
         "Place of Death": "Fordham",
         "lastName": "Mulry"
       },
@@ -4405,7 +4405,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.113,
-        "dateOfDeath": "01/10/1889",
+        "dateOfDeath": "10/01/1889",
         "Place of Death": "Exaten",
         "lastName": "Merbeck"
       },
@@ -4421,7 +4421,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.114,
-        "dateOfDeath": "03/10/1889",
+        "dateOfDeath": "10/03/1889",
         "Place of Death": "Palermo",
         "lastName": "Pagano"
       },
@@ -4437,7 +4437,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.115,
-        "dateOfDeath": "09/10/1889",
+        "dateOfDeath": "10/09/1889",
         "Place of Death": "Kalksburg",
         "lastName": "Mathoy"
       },
@@ -4469,7 +4469,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.117,
-        "dateOfDeath": "14/10/1889",
+        "dateOfDeath": "10/14/1889",
         "Place of Death": "Napoli",
         "lastName": "Mangieri"
       },
@@ -4485,7 +4485,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.118,
-        "dateOfDeath": "15/10/1889",
+        "dateOfDeath": "10/15/1889",
         "Place of Death": "Guadalupe",
         "lastName": "Mart\u00ef\u00bf\u00bdnez"
       },
@@ -4501,7 +4501,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.119,
-        "dateOfDeath": "16/10/1889",
+        "dateOfDeath": "10/16/1889",
         "Place of Death": "Reims",
         "lastName": "Oster"
       },
@@ -4517,7 +4517,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.12,
-        "dateOfDeath": "20/10/1889",
+        "dateOfDeath": "10/20/1889",
         "Place of Death": "Louvain",
         "lastName": "Bogaerts"
       },
@@ -4533,7 +4533,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.121,
-        "dateOfDeath": "21/10/1889",
+        "dateOfDeath": "10/21/1889",
         "Place of Death": "Douai (Nord)",
         "lastName": "de la Gorce"
       },
@@ -4549,7 +4549,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.122,
-        "dateOfDeath": "24/10/1889",
+        "dateOfDeath": "10/24/1889",
         "Place of Death": "Qu\u00ef\u00bf\u00bdbec",
         "lastName": "Sach\u00ef\u00bf\u00bd"
       },
@@ -4565,7 +4565,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.123,
-        "dateOfDeath": "26/10/1889",
+        "dateOfDeath": "10/26/1889",
         "Place of Death": "Loyola",
         "lastName": "Echeverr\u00ef\u00bf\u00bda"
       },
@@ -4581,7 +4581,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.124,
-        "dateOfDeath": "27/10/1889",
+        "dateOfDeath": "10/27/1889",
         "Place of Death": "S\u00ef\u00bf\u00bdo Leopoldo",
         "lastName": "Schorro"
       },
@@ -4597,7 +4597,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.125,
-        "dateOfDeath": "29/10/1889",
+        "dateOfDeath": "10/29/1889",
         "Place of Death": "Pasto",
         "lastName": "Prada"
       },
@@ -4613,7 +4613,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.126,
-        "dateOfDeath": "30/10/1889",
+        "dateOfDeath": "10/30/1889",
         "Place of Death": "Amiens",
         "lastName": "Barbelin"
       },
@@ -4629,7 +4629,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.127,
-        "dateOfDeath": "30/10/1889",
+        "dateOfDeath": "10/30/1889",
         "Place of Death": "Malines",
         "lastName": "van der Burgt"
       },
@@ -4645,7 +4645,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.128,
-        "dateOfDeath": "01/11/1889",
+        "dateOfDeath": "11/01/1889",
         "Place of Death": "Toulouse",
         "lastName": "Varnier"
       },
@@ -4661,7 +4661,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.129,
-        "dateOfDeath": "02/11/1889",
+        "dateOfDeath": "11/02/1889",
         "Place of Death": "Barcelona",
         "lastName": "Barris"
       },
@@ -4677,7 +4677,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.13,
-        "dateOfDeath": "02/11/1889",
+        "dateOfDeath": "11/02/1889",
         "Place of Death": "St. Louis",
         "lastName": "Verdin"
       },
@@ -4693,7 +4693,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.131,
-        "dateOfDeath": "03/11/1889",
+        "dateOfDeath": "11/03/1889",
         "Place of Death": "Lyon",
         "lastName": "Del\u00ef\u00bf\u00bdglise"
       },
@@ -4709,7 +4709,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.132,
-        "dateOfDeath": "07/11/1889",
+        "dateOfDeath": "11/07/1889",
         "Place of Death": "Santiago de Chile",
         "lastName": "de Zuazo"
       },
@@ -4725,7 +4725,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.133,
-        "dateOfDeath": "10/11/1889",
+        "dateOfDeath": "11/10/1889",
         "Place of Death": "Veruela",
         "lastName": "Ripoll"
       },
@@ -4741,7 +4741,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.134,
-        "dateOfDeath": "11/01/1889",
+        "dateOfDeath": "01/11/1889",
         "Place of Death": "Larantuka (Flores)",
         "lastName": "Boelen"
       },
@@ -4773,7 +4773,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.136,
-        "dateOfDeath": "13/11/1889",
+        "dateOfDeath": "11/13/1889",
         "Place of Death": "Panam\u00ef\u00bf\u00bd",
         "lastName": "C\u00ef\u00bf\u00bdrdenas"
       },
@@ -4789,7 +4789,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.137,
-        "dateOfDeath": "14/11/1889",
+        "dateOfDeath": "11/14/1889",
         "Place of Death": "St Beuno's",
         "lastName": "Bampton"
       },
@@ -4805,7 +4805,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.138,
-        "dateOfDeath": "16/11/1889",
+        "dateOfDeath": "11/16/1889",
         "Place of Death": "Mantova",
         "lastName": "Cassiani Ingoni"
       },
@@ -4821,7 +4821,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.139,
-        "dateOfDeath": "16/11/1889",
+        "dateOfDeath": "11/16/1889",
         "Place of Death": "Tournai",
         "lastName": "Libert"
       },
@@ -4837,7 +4837,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.14,
-        "dateOfDeath": "18/11/1889",
+        "dateOfDeath": "11/18/1889",
         "Place of Death": "Los Gatos",
         "lastName": "Masnata"
       },
@@ -4853,7 +4853,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.141,
-        "dateOfDeath": "19/11/1889",
+        "dateOfDeath": "11/19/1889",
         "Place of Death": "Manresa",
         "lastName": "Boada"
       },
@@ -4869,7 +4869,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.142,
-        "dateOfDeath": "19/11/1889",
+        "dateOfDeath": "11/19/1889",
         "Place of Death": "Paris",
         "lastName": "de Bonniot"
       },
@@ -4885,7 +4885,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.143,
-        "dateOfDeath": "21/11/1889",
+        "dateOfDeath": "11/21/1889",
         "Place of Death": "Mantova",
         "lastName": "Quieti"
       },
@@ -4901,7 +4901,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.144,
-        "dateOfDeath": "25/11/1889",
+        "dateOfDeath": "11/25/1889",
         "Place of Death": "Enghien",
         "lastName": "Watrelos"
       },
@@ -4917,7 +4917,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.145,
-        "dateOfDeath": "27/11/1889",
+        "dateOfDeath": "11/27/1889",
         "Place of Death": "Caselle in Pittari",
         "lastName": "Navazio"
       },
@@ -4933,7 +4933,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.146,
-        "dateOfDeath": "02/12/1889",
+        "dateOfDeath": "12/02/1889",
         "Place of Death": "Kurseong",
         "lastName": "de Wever"
       },
@@ -4949,7 +4949,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.147,
-        "dateOfDeath": "04/12/1889",
+        "dateOfDeath": "12/04/1889",
         "Place of Death": "Tournai",
         "lastName": "Crez"
       },
@@ -4965,7 +4965,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.148,
-        "dateOfDeath": "05/12/1889",
+        "dateOfDeath": "12/05/1889",
         "Place of Death": "Loyola",
         "lastName": "Ruiz (de Velasco)"
       },
@@ -4981,7 +4981,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.149,
-        "dateOfDeath": "10/12/1889",
+        "dateOfDeath": "12/10/1889",
         "Place of Death": "Conewago, Pa.",
         "lastName": "Emig"
       },
@@ -4997,7 +4997,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.15,
-        "dateOfDeath": "10/12/1889",
+        "dateOfDeath": "12/10/1889",
         "Place of Death": "Philadelphia",
         "lastName": "Macgunegle"
       },
@@ -5013,7 +5013,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.151,
-        "dateOfDeath": "11/12/1889",
+        "dateOfDeath": "12/11/1889",
         "Place of Death": "Toledo, Ohio",
         "lastName": "Kockerols"
       },
@@ -5045,7 +5045,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.153,
-        "dateOfDeath": "14/12/1889",
+        "dateOfDeath": "12/14/1889",
         "Place of Death": "Deusto",
         "lastName": "Gonz\u00ef\u00bf\u00bdlez P\u00ef\u00bf\u00bdrez"
       },
@@ -5061,7 +5061,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.154,
-        "dateOfDeath": "15/12/1889",
+        "dateOfDeath": "12/15/1889",
         "Place of Death": "Dunbrody (South Africa)",
         "lastName": "Causse"
       },
@@ -5077,7 +5077,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.155,
-        "dateOfDeath": "16/12/1889",
+        "dateOfDeath": "12/16/1889",
         "Place of Death": "St. Andr\u00ef\u00bf\u00bd",
         "lastName": "Lasbacher"
       },
@@ -5093,7 +5093,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.156,
-        "dateOfDeath": "16/12/1889",
+        "dateOfDeath": "12/16/1889",
         "Place of Death": "Los Gatos",
         "lastName": "O'Connor"
       },
@@ -5109,7 +5109,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.157,
-        "dateOfDeath": "22/12/1889",
+        "dateOfDeath": "12/22/1889",
         "Place of Death": "Lyon",
         "lastName": "Labor\u00ef\u00bf\u00bd"
       },
@@ -5125,7 +5125,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.158,
-        "dateOfDeath": "24/12/1889",
+        "dateOfDeath": "12/24/1889",
         "Place of Death": "Itu",
         "lastName": "Rodr\u00ef\u00bf\u00bdguez"
       },
@@ -5141,7 +5141,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.159,
-        "dateOfDeath": "25/12/1889",
+        "dateOfDeath": "12/25/1889",
         "Place of Death": "Paris",
         "lastName": "Gamard"
       },
@@ -5157,7 +5157,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.16,
-        "dateOfDeath": "27/12/1889",
+        "dateOfDeath": "12/27/1889",
         "Place of Death": "San Francisco",
         "lastName": "Bouchard"
       },
@@ -5173,7 +5173,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.161,
-        "dateOfDeath": "27/12/1889",
+        "dateOfDeath": "12/27/1889",
         "Place of Death": "Demerara (Guyane Angl)",
         "lastName": "Perry"
       },
@@ -5189,7 +5189,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.162,
-        "dateOfDeath": "28/12/1889",
+        "dateOfDeath": "12/28/1889",
         "Place of Death": "Paris",
         "lastName": "Bouix"
       },
@@ -5205,7 +5205,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.163,
-        "dateOfDeath": "28/12/1889",
+        "dateOfDeath": "12/28/1889",
         "Place of Death": "Sanremo",
         "lastName": "Corrado"
       },
@@ -5221,7 +5221,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.164,
-        "dateOfDeath": "31/12/1889",
+        "dateOfDeath": "12/31/1889",
         "Place of Death": "Bruxelles",
         "lastName": "Van Innis"
       },
@@ -5253,7 +5253,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.166,
-        "dateOfDeath": "02/01/1890",
+        "dateOfDeath": "01/02/1890",
         "Place of Death": "Slough (Buckingham)",
         "lastName": "Beaussier"
       },
@@ -5269,7 +5269,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.167,
-        "dateOfDeath": "03/01/1890",
+        "dateOfDeath": "01/03/1890",
         "Place of Death": "Chieri",
         "lastName": "Strigini"
       },
@@ -5285,7 +5285,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.168,
-        "dateOfDeath": "04/01/1890",
+        "dateOfDeath": "01/04/1890",
         "Place of Death": "Tours (Indre-et-L)",
         "lastName": "Babin"
       },
@@ -5301,7 +5301,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.169,
-        "dateOfDeath": "05/01/1890",
+        "dateOfDeath": "01/05/1890",
         "Place of Death": "Tours",
         "lastName": "Weber"
       },
@@ -5317,7 +5317,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.17,
-        "dateOfDeath": "06/01/1890",
+        "dateOfDeath": "01/06/1890",
         "Place of Death": "Woodstock",
         "lastName": "Cassidy"
       },
@@ -5333,7 +5333,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.171,
-        "dateOfDeath": "06/01/1890",
+        "dateOfDeath": "01/06/1890",
         "Place of Death": "Kalocsa",
         "lastName": "Nassivera"
       },
@@ -5349,7 +5349,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.172,
-        "dateOfDeath": "08/01/1890",
+        "dateOfDeath": "01/08/1890",
         "Place of Death": "Sion (Valais)",
         "lastName": "Bole"
       },
@@ -5365,7 +5365,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.173,
-        "dateOfDeath": "08/01/1890",
+        "dateOfDeath": "01/08/1890",
         "Place of Death": "Chamartin",
         "lastName": "Moncayo"
       },
@@ -5381,7 +5381,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.174,
-        "dateOfDeath": "10/01/1890",
+        "dateOfDeath": "01/10/1890",
         "Place of Death": "Valencia",
         "lastName": "Marigot"
       },
@@ -5397,7 +5397,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.175,
-        "dateOfDeath": "11/01/1890",
+        "dateOfDeath": "01/11/1890",
         "Place of Death": "Innsbruck",
         "lastName": "Jung"
       },
@@ -5413,7 +5413,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.176,
-        "dateOfDeath": "11/01/1890",
+        "dateOfDeath": "01/11/1890",
         "Place of Death": "New York",
         "lastName": "O'Leary"
       },
@@ -5429,7 +5429,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.177,
-        "dateOfDeath": "13/01/1890",
+        "dateOfDeath": "01/13/1890",
         "Place of Death": "Toulouse",
         "lastName": "Valdejo"
       },
@@ -5445,7 +5445,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.178,
-        "dateOfDeath": "13/01/1890",
+        "dateOfDeath": "01/13/1890",
         "Place of Death": "Canterbury",
         "lastName": "Feune"
       },
@@ -5461,7 +5461,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.179,
-        "dateOfDeath": "14/01/1890",
+        "dateOfDeath": "01/14/1890",
         "Place of Death": "Trnava",
         "lastName": "Hannemann"
       },
@@ -5477,7 +5477,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.18,
-        "dateOfDeath": "15/01/1890",
+        "dateOfDeath": "01/15/1890",
         "Place of Death": "Turnhout",
         "lastName": "Franck"
       },
@@ -5493,7 +5493,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.181,
-        "dateOfDeath": "16/01/1890",
+        "dateOfDeath": "01/16/1890",
         "Place of Death": "Paris",
         "lastName": "Plainemaison"
       },
@@ -5509,7 +5509,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.182,
-        "dateOfDeath": "17/01/1890",
+        "dateOfDeath": "01/17/1890",
         "Place of Death": "Manresa",
         "lastName": "de La Fuente"
       },
@@ -5525,7 +5525,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.183,
-        "dateOfDeath": "17/01/1890",
+        "dateOfDeath": "01/17/1890",
         "Place of Death": "Frederick",
         "lastName": "Sestini"
       },
@@ -5541,7 +5541,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.184,
-        "dateOfDeath": "18/01/1890",
+        "dateOfDeath": "01/18/1890",
         "Place of Death": "Mafeking (South Africa)",
         "lastName": "Booms"
       },
@@ -5557,7 +5557,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.185,
-        "dateOfDeath": "18/01/1890",
+        "dateOfDeath": "01/18/1890",
         "Place of Death": "Bordeaux",
         "lastName": "de St-Angel"
       },
@@ -5573,7 +5573,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.186,
-        "dateOfDeath": "18/01/1890",
+        "dateOfDeath": "01/18/1890",
         "Place of Death": "Toulouse",
         "lastName": "Sourreau"
       },
@@ -5589,7 +5589,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.187,
-        "dateOfDeath": "21/01/1890",
+        "dateOfDeath": "01/21/1890",
         "Place of Death": "Firenze",
         "lastName": "Bonvicini"
       },
@@ -5605,7 +5605,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.188,
-        "dateOfDeath": "21/01/1890",
+        "dateOfDeath": "01/21/1890",
         "Place of Death": "Satu Mare",
         "lastName": "Ernst"
       },
@@ -5621,7 +5621,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.189,
-        "dateOfDeath": "22/01/1890",
+        "dateOfDeath": "01/22/1890",
         "Place of Death": "Sion (Valais)",
         "lastName": "Lovis"
       },
@@ -5637,7 +5637,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.19,
-        "dateOfDeath": "22/01/1890",
+        "dateOfDeath": "01/22/1890",
         "Place of Death": "Montpellier",
         "lastName": "Blanchard"
       },
@@ -5653,7 +5653,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.191,
-        "dateOfDeath": "22/01/1890",
+        "dateOfDeath": "01/22/1890",
         "Place of Death": "Enghien",
         "lastName": "Benoit"
       },
@@ -5669,7 +5669,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.192,
-        "dateOfDeath": "23/01/1890",
+        "dateOfDeath": "01/23/1890",
         "Place of Death": "St.Mary's, Kans",
         "lastName": "Kavanagh"
       },
@@ -5685,7 +5685,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.193,
-        "dateOfDeath": "24/01/1890",
+        "dateOfDeath": "01/24/1890",
         "Place of Death": "Piacenza",
         "lastName": "Labati"
       },
@@ -5701,7 +5701,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.194,
-        "dateOfDeath": "24/01/1890",
+        "dateOfDeath": "01/24/1890",
         "Place of Death": "Fordham",
         "lastName": "Perron"
       },
@@ -5717,7 +5717,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.195,
-        "dateOfDeath": "24/01/1890",
+        "dateOfDeath": "01/24/1890",
         "Place of Death": "Culemborg",
         "lastName": "Wijnen"
       },
@@ -5733,7 +5733,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.196,
-        "dateOfDeath": "25/01/1890",
+        "dateOfDeath": "01/25/1890",
         "Place of Death": "Dole",
         "lastName": "Bourdin"
       },
@@ -5749,7 +5749,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.197,
-        "dateOfDeath": "26/01/1890",
+        "dateOfDeath": "01/26/1890",
         "Place of Death": "Keilands (South Africa)",
         "lastName": "Fraser"
       },
@@ -5765,7 +5765,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.198,
-        "dateOfDeath": "27/01/1890",
+        "dateOfDeath": "01/27/1890",
         "Place of Death": "Lille",
         "lastName": "Androuard"
       },
@@ -5781,7 +5781,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.199,
-        "dateOfDeath": "27/01/1890",
+        "dateOfDeath": "01/27/1890",
         "Place of Death": "Poitiers",
         "lastName": "Rousseau"
       },
@@ -5797,7 +5797,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.2,
-        "dateOfDeath": "29/01/1890",
+        "dateOfDeath": "01/29/1890",
         "Place of Death": "Culemborg",
         "lastName": "Dijckmann"
       },
@@ -5813,7 +5813,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.201,
-        "dateOfDeath": "29/01/1890",
+        "dateOfDeath": "01/29/1890",
         "Place of Death": "Marigliano (Caserta)",
         "lastName": "Pierro"
       },
@@ -5845,7 +5845,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.203,
-        "dateOfDeath": "04/02/1890",
+        "dateOfDeath": "02/04/1890",
         "Place of Death": "Mariendaal",
         "lastName": "van Achthoven"
       },
@@ -5861,7 +5861,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.204,
-        "dateOfDeath": "05/02/1890",
+        "dateOfDeath": "02/05/1890",
         "Place of Death": "Mantova",
         "lastName": "Bettonagli"
       },
@@ -5877,7 +5877,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.205,
-        "dateOfDeath": "09/02/1890",
+        "dateOfDeath": "02/09/1890",
         "Place of Death": "Roma",
         "lastName": "Pecci"
       },
@@ -5893,7 +5893,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.206,
-        "dateOfDeath": "09/02/1890",
+        "dateOfDeath": "02/09/1890",
         "Place of Death": "Paris",
         "lastName": "Labourey"
       },
@@ -5909,7 +5909,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.207,
-        "dateOfDeath": "09/02/1890",
+        "dateOfDeath": "02/09/1890",
         "Place of Death": "Doesbourg",
         "lastName": "Overmaat"
       },
@@ -5925,7 +5925,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.208,
-        "dateOfDeath": "11/02/1890",
+        "dateOfDeath": "02/11/1890",
         "Place of Death": "Concepcion",
         "lastName": "Tubau"
       },
@@ -5941,7 +5941,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.209,
-        "dateOfDeath": "12/02/1890",
+        "dateOfDeath": "02/12/1890",
         "Place of Death": "Napoli",
         "lastName": "Turri"
       },
@@ -5957,7 +5957,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.21,
-        "dateOfDeath": "14/02/1890",
+        "dateOfDeath": "02/14/1890",
         "Place of Death": "Pau",
         "lastName": "Magnes"
       },
@@ -5973,7 +5973,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.211,
-        "dateOfDeath": "15/02/1890",
+        "dateOfDeath": "02/15/1890",
         "Place of Death": "Barcelona",
         "lastName": "Vilalta"
       },
@@ -5989,7 +5989,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.212,
-        "dateOfDeath": "17/02/1890",
+        "dateOfDeath": "02/17/1890",
         "Place of Death": "St-Dizier (H-Marne)",
         "lastName": "Dirr"
       },
@@ -6005,7 +6005,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.213,
-        "dateOfDeath": "21/02/1890",
+        "dateOfDeath": "02/21/1890",
         "Place of Death": "Madrid",
         "lastName": "Epalza"
       },
@@ -6021,7 +6021,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.214,
-        "dateOfDeath": "25/02/1890",
+        "dateOfDeath": "02/25/1890",
         "Place of Death": "Carrion",
         "lastName": "Romero"
       },
@@ -6037,7 +6037,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.215,
-        "dateOfDeath": "25/02/1890",
+        "dateOfDeath": "02/25/1890",
         "Place of Death": "Fiesole (Firenze)",
         "lastName": "Spinell"
       },
@@ -6053,7 +6053,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.216,
-        "dateOfDeath": "26/02/1890",
+        "dateOfDeath": "02/26/1890",
         "Place of Death": "Toulouse",
         "lastName": "Vivies"
       },
@@ -6069,7 +6069,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.217,
-        "dateOfDeath": "27/02/1890",
+        "dateOfDeath": "02/27/1890",
         "Place of Death": "Tronchiennes",
         "lastName": "Lallemant"
       },
@@ -6085,7 +6085,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.218,
-        "dateOfDeath": "01/03/1890",
+        "dateOfDeath": "03/01/1890",
         "Place of Death": "Charleroi",
         "lastName": "Robe"
       },
@@ -6101,7 +6101,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.219,
-        "dateOfDeath": "02/03/1890",
+        "dateOfDeath": "03/02/1890",
         "Place of Death": "Gort (Galway)",
         "lastName": "Lynch"
       },
@@ -6117,7 +6117,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.221,
-        "dateOfDeath": "05/03/1890",
+        "dateOfDeath": "03/05/1890",
         "Place of Death": "D\u00ef\u00bf\u00bdle",
         "lastName": "Grimaud"
       },
@@ -6133,7 +6133,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.222,
-        "dateOfDeath": "06/03/1890",
+        "dateOfDeath": "03/06/1890",
         "Place of Death": "Praha",
         "lastName": "Dotta"
       },
@@ -6149,7 +6149,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.223,
-        "dateOfDeath": "06/03/1890",
+        "dateOfDeath": "03/06/1890",
         "Place of Death": "Amiens",
         "lastName": "Douchet"
       },
@@ -6165,7 +6165,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.224,
-        "dateOfDeath": "07/03/1890",
+        "dateOfDeath": "03/07/1890",
         "Place of Death": "Napoli",
         "lastName": "di Mattia"
       },
@@ -6181,7 +6181,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.225,
-        "dateOfDeath": "09/03/1890",
+        "dateOfDeath": "03/09/1890",
         "Place of Death": "Worcester",
         "lastName": "Farrell"
       },
@@ -6197,7 +6197,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.226,
-        "dateOfDeath": "12/03/1890",
+        "dateOfDeath": "03/12/1890",
         "Place of Death": "Beaumont (Berkshire)",
         "lastName": "Jarrett"
       },
@@ -6213,7 +6213,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.227,
-        "dateOfDeath": "14/03/1890",
+        "dateOfDeath": "03/14/1890",
         "Place of Death": "S. Jo\u00ef\u00bf\u00bdo do Montenegro (Rio Gr. do Sul)",
         "lastName": "Schleper"
       },
@@ -6229,7 +6229,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.228,
-        "dateOfDeath": "14/03/1890",
+        "dateOfDeath": "03/14/1890",
         "Place of Death": "Enghien",
         "lastName": "Mille"
       },
@@ -6245,7 +6245,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.229,
-        "dateOfDeath": "14/03/1890",
+        "dateOfDeath": "03/14/1890",
         "Place of Death": "Chyr\u00ef\u00bf\u00bdw, USSR",
         "lastName": "Ratajski"
       },
@@ -6261,7 +6261,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.23,
-        "dateOfDeath": "15/03/1890",
+        "dateOfDeath": "03/15/1890",
         "Place of Death": "Melbourne",
         "lastName": "Jacques"
       },
@@ -6277,7 +6277,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.231,
-        "dateOfDeath": "16/05/1890",
+        "dateOfDeath": "05/16/1890",
         "Place of Death": "Mariendaal",
         "lastName": "de Kort"
       },
@@ -6293,7 +6293,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.232,
-        "dateOfDeath": "20/04/1890",
+        "dateOfDeath": "04/20/1890",
         "Place of Death": "Lons-le-Saulnier (Jura)",
         "lastName": "Molin"
       },
@@ -6309,7 +6309,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.233,
-        "dateOfDeath": "21/03/1890",
+        "dateOfDeath": "03/21/1890",
         "Place of Death": "Umatilla, Ore.",
         "lastName": "Grassi"
       },
@@ -6325,7 +6325,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.234,
-        "dateOfDeath": "21/03/1890",
+        "dateOfDeath": "03/21/1890",
         "Place of Death": "Orihuela",
         "lastName": "Jordana"
       },
@@ -6341,7 +6341,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.235,
-        "dateOfDeath": "21/03/1890",
+        "dateOfDeath": "03/21/1890",
         "Place of Death": "Mongr\u00ef\u00bf\u00bd (Rh\u00ef\u00bf\u00bdne)",
         "lastName": "Benoit"
       },
@@ -6357,7 +6357,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.236,
-        "dateOfDeath": "22/03/1890",
+        "dateOfDeath": "03/22/1890",
         "Place of Death": "Troy, N.Y.",
         "lastName": "Wellworth"
       },
@@ -6373,7 +6373,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.237,
-        "dateOfDeath": "24/03/1890",
+        "dateOfDeath": "03/24/1890",
         "Place of Death": "Edinburgh",
         "lastName": "Selby"
       },
@@ -6389,7 +6389,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.238,
-        "dateOfDeath": "26/03/1890",
+        "dateOfDeath": "03/26/1890",
         "Place of Death": "Buenos Aires",
         "lastName": "Del-Val"
       },
@@ -6405,7 +6405,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.239,
-        "dateOfDeath": "26/03/1890",
+        "dateOfDeath": "03/26/1890",
         "Place of Death": "St-Acheul-l\u00ef\u00bf\u00bds-Amiens",
         "lastName": "Laubacher"
       },
@@ -6421,7 +6421,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.24,
-        "dateOfDeath": "29/03/1890",
+        "dateOfDeath": "03/29/1890",
         "Place of Death": "Feldkirch",
         "lastName": "Ehrensberger"
       },
@@ -6437,7 +6437,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.241,
-        "dateOfDeath": "29/03/1890",
+        "dateOfDeath": "03/29/1890",
         "Place of Death": "Gratz",
         "lastName": "Mayr"
       },
@@ -6453,7 +6453,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.242,
-        "dateOfDeath": "29/03/1890",
+        "dateOfDeath": "03/29/1890",
         "Place of Death": "Ciempozuelos (Madrid)",
         "lastName": "Fidalgo"
       },
@@ -6469,7 +6469,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.243,
-        "dateOfDeath": "29/03/1890",
+        "dateOfDeath": "03/29/1890",
         "Place of Death": "Clongowes (Kildare)",
         "lastName": "Temple"
       },
@@ -6485,7 +6485,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.244,
-        "dateOfDeath": "30/03/1890",
+        "dateOfDeath": "03/30/1890",
         "Place of Death": "St. Helier",
         "lastName": "Bureau"
       },
@@ -6501,7 +6501,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.245,
-        "dateOfDeath": "01/04/1890",
+        "dateOfDeath": "04/01/1890",
         "Place of Death": "Sao Leopoldo",
         "lastName": "Loffler"
       },
@@ -6517,7 +6517,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.246,
-        "dateOfDeath": "01/04/1890",
+        "dateOfDeath": "04/01/1890",
         "Place of Death": "Shanghai",
         "lastName": "Stroesser"
       },
@@ -6533,7 +6533,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.247,
-        "dateOfDeath": "03/04/1890",
+        "dateOfDeath": "04/03/1890",
         "Place of Death": "Cotabato",
         "lastName": "de Bea"
       },
@@ -6549,7 +6549,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.248,
-        "dateOfDeath": "05/04/1890",
+        "dateOfDeath": "04/05/1890",
         "Place of Death": "Paris",
         "lastName": "Alet"
       },
@@ -6565,7 +6565,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.249,
-        "dateOfDeath": "05/04/1890",
+        "dateOfDeath": "04/05/1890",
         "Place of Death": "Ferentino (Roma)",
         "lastName": "Massaruti"
       },
@@ -6581,7 +6581,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.25,
-        "dateOfDeath": "09/04/1890",
+        "dateOfDeath": "04/09/1890",
         "Place of Death": "Marigliano (Caserta)",
         "lastName": "Nardi"
       },
@@ -6597,7 +6597,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.251,
-        "dateOfDeath": "11/04/1890",
+        "dateOfDeath": "04/11/1890",
         "Place of Death": "Napoli",
         "lastName": "Di Mattia"
       },
@@ -6613,7 +6613,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.252,
-        "dateOfDeath": "12/04/1890",
+        "dateOfDeath": "04/12/1890",
         "Place of Death": "London",
         "lastName": "Rochford"
       },
@@ -6629,7 +6629,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.253,
-        "dateOfDeath": "01/04/1890",
+        "dateOfDeath": "04/01/1890",
         "Place of Death": "Mangalore",
         "lastName": "Ryan"
       },
@@ -6645,7 +6645,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.254,
-        "dateOfDeath": "16/04/1890",
+        "dateOfDeath": "04/16/1890",
         "Place of Death": "Stara Wies",
         "lastName": "Dabrowski"
       },
@@ -6661,7 +6661,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.255,
-        "dateOfDeath": "17/04/1890",
+        "dateOfDeath": "04/17/1890",
         "Place of Death": "Krakow",
         "lastName": "Bartkiewicz"
       },
@@ -6677,7 +6677,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.256,
-        "dateOfDeath": "20/04/1890",
+        "dateOfDeath": "04/20/1890",
         "Place of Death": "Chamartin",
         "lastName": "Suarez"
       },
@@ -6693,7 +6693,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.257,
-        "dateOfDeath": "24/04/1890",
+        "dateOfDeath": "04/24/1890",
         "Place of Death": "Napoli",
         "lastName": "Longhi"
       },
@@ -6709,7 +6709,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.258,
-        "dateOfDeath": "25/04/1890",
+        "dateOfDeath": "04/25/1890",
         "Place of Death": "Angres",
         "lastName": "Tricard"
       },
@@ -6725,7 +6725,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.259,
-        "dateOfDeath": "26/04/1890",
+        "dateOfDeath": "04/26/1890",
         "Place of Death": "Calcutta",
         "lastName": "Muuls"
       },
@@ -6741,7 +6741,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.26,
-        "dateOfDeath": "26/04/1890",
+        "dateOfDeath": "04/26/1890",
         "Place of Death": "Bordeaux",
         "lastName": "Chevola"
       },
@@ -6757,7 +6757,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.261,
-        "dateOfDeath": "28/04/1890",
+        "dateOfDeath": "04/28/1890",
         "Place of Death": "Montevideo",
         "lastName": "Delgado"
       },
@@ -6773,7 +6773,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.262,
-        "dateOfDeath": "02/05/1890",
+        "dateOfDeath": "05/02/1890",
         "Place of Death": "Riobamba (Chimborazo)",
         "lastName": "Reyes"
       },
@@ -6789,7 +6789,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.263,
-        "dateOfDeath": "03/05/1890",
+        "dateOfDeath": "05/03/1890",
         "Place of Death": "Culemborg",
         "lastName": "Sanders"
       },
@@ -6805,7 +6805,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.264,
-        "dateOfDeath": "04/05/1890",
+        "dateOfDeath": "05/04/1890",
         "Place of Death": "Diest (Brabant)",
         "lastName": "Geron"
       },
@@ -6837,7 +6837,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.266,
-        "dateOfDeath": "07/05/1890",
+        "dateOfDeath": "05/07/1890",
         "Place of Death": "Kulur (dc Mangaloren)",
         "lastName": "Mozzoni"
       },
@@ -6853,7 +6853,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.267,
-        "dateOfDeath": "09/05/1890",
+        "dateOfDeath": "05/09/1890",
         "Place of Death": "Linz",
         "lastName": "Dohr"
       },
@@ -6869,7 +6869,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.268,
-        "dateOfDeath": "11/05/1890",
+        "dateOfDeath": "05/11/1890",
         "Place of Death": "Portico (Lancashire)",
         "lastName": "Beenen"
       },
@@ -6885,7 +6885,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.269,
-        "dateOfDeath": "12/05/1890",
+        "dateOfDeath": "05/12/1890",
         "Place of Death": "Genova",
         "lastName": "Simonetti"
       },
@@ -6901,7 +6901,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.27,
-        "dateOfDeath": "17/05/1890",
+        "dateOfDeath": "05/17/1890",
         "Place of Death": "St.Helier",
         "lastName": "Cador"
       },
@@ -6917,7 +6917,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.271,
-        "dateOfDeath": "30/05/1890",
+        "dateOfDeath": "05/30/1890",
         "Place of Death": "Madurai",
         "lastName": "Buisson"
       },
@@ -6933,7 +6933,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.272,
-        "dateOfDeath": "02/06/1890",
+        "dateOfDeath": "06/02/1890",
         "Place of Death": "Jamestown (Australia)",
         "lastName": "Pallhuber"
       },
@@ -6949,7 +6949,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.273,
-        "dateOfDeath": "03/06/1890",
+        "dateOfDeath": "06/03/1890",
         "Place of Death": "Arlon",
         "lastName": "De Roost"
       },
@@ -6965,7 +6965,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.274,
-        "dateOfDeath": "04/06/1890",
+        "dateOfDeath": "06/04/1890",
         "Place of Death": "Macon, Ga",
         "lastName": "Albert"
       },
@@ -6981,7 +6981,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.275,
-        "dateOfDeath": "04/06/1890",
+        "dateOfDeath": "06/04/1890",
         "Place of Death": "Toulouse",
         "lastName": "Sarrade"
       },
@@ -6997,7 +6997,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.276,
-        "dateOfDeath": "05/06/1890",
+        "dateOfDeath": "06/05/1890",
         "Place of Death": "Douai (Nord)",
         "lastName": "Simonin"
       },
@@ -7013,7 +7013,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.277,
-        "dateOfDeath": "08/06/1890",
+        "dateOfDeath": "06/08/1890",
         "Place of Death": "Shanghai",
         "lastName": "Rathouis"
       },
@@ -7029,7 +7029,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.278,
-        "dateOfDeath": "12/06/1890",
+        "dateOfDeath": "06/12/1890",
         "Place of Death": "O\u00ef\u00bf\u00bda",
         "lastName": "Garc\u00ef\u00bf\u00bda"
       },
@@ -7045,7 +7045,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.279,
-        "dateOfDeath": "15/06/1890",
+        "dateOfDeath": "06/15/1890",
         "Place of Death": "Gent",
         "lastName": "de Maeyer"
       },
@@ -7061,7 +7061,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.28,
-        "dateOfDeath": "15/06/1890",
+        "dateOfDeath": "06/15/1890",
         "Place of Death": "Roma",
         "lastName": "Cianfanelli"
       },
@@ -7077,7 +7077,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.281,
-        "dateOfDeath": "17/06/1890",
+        "dateOfDeath": "06/17/1890",
         "Place of Death": "Surigao (Mindanao)",
         "lastName": "Bov\u00ef\u00bf\u00bd"
       },
@@ -7093,7 +7093,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.282,
-        "dateOfDeath": "19/06/1890",
+        "dateOfDeath": "06/19/1890",
         "Place of Death": "Panam\u00ef\u00bf\u00bd",
         "lastName": "Cenarruzabeitia"
       },
@@ -7109,7 +7109,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.283,
-        "dateOfDeath": "19/06/1890",
+        "dateOfDeath": "06/19/1890",
         "Place of Death": "St-Dizier (H-Marne)",
         "lastName": "Clavey"
       },
@@ -7125,7 +7125,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.284,
-        "dateOfDeath": "19/06/1890",
+        "dateOfDeath": "06/19/1890",
         "Place of Death": "Durango",
         "lastName": "Elorza"
       },
@@ -7141,7 +7141,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.286,
-        "dateOfDeath": "22/06/1890",
+        "dateOfDeath": "06/22/1890",
         "Place of Death": "St-Germaine-en-Laye (Seine-et-O)",
         "lastName": "Crocq"
       },
@@ -7157,7 +7157,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.287,
-        "dateOfDeath": "23/06/1890",
+        "dateOfDeath": "06/23/1890",
         "Place of Death": "Lyon",
         "lastName": "Rolland"
       },
@@ -7173,7 +7173,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.288,
-        "dateOfDeath": "26/06/1890",
+        "dateOfDeath": "06/26/1890",
         "Place of Death": "Angers",
         "lastName": "Moreau"
       },
@@ -7189,7 +7189,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.289,
-        "dateOfDeath": "29/06/1890",
+        "dateOfDeath": "06/29/1890",
         "Place of Death": "Ponthaux (Fribourg)",
         "lastName": "Del\u00ef\u00bf\u00bdglise"
       },
@@ -7205,7 +7205,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.29,
-        "dateOfDeath": "03/07/1890",
+        "dateOfDeath": "07/03/1890",
         "Place of Death": "Buenos Aires",
         "lastName": "Vendrell"
       },
@@ -7221,7 +7221,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.291,
-        "dateOfDeath": "04/07/1890",
+        "dateOfDeath": "07/04/1890",
         "Place of Death": "St. Helier",
         "lastName": "Desurmont"
       },
@@ -7237,7 +7237,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.292,
-        "dateOfDeath": "04/07/1890",
+        "dateOfDeath": "07/04/1890",
         "Place of Death": "Fordham",
         "lastName": "Hennen"
       },
@@ -7253,7 +7253,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.293,
-        "dateOfDeath": "06/07/1890",
+        "dateOfDeath": "07/06/1890",
         "Place of Death": "Mantova",
         "lastName": "Pavoni"
       },
@@ -7333,7 +7333,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.298,
-        "dateOfDeath": "08/07/1890",
+        "dateOfDeath": "07/08/1890",
         "Place of Death": "Fordham",
         "lastName": "Prachensky"
       },
@@ -7349,7 +7349,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.299,
-        "dateOfDeath": "08/07/1890",
+        "dateOfDeath": "07/08/1890",
         "Place of Death": "Notabile (Malta)",
         "lastName": "Siracusa"
       },
@@ -7365,7 +7365,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.3,
-        "dateOfDeath": "14/07/1890",
+        "dateOfDeath": "07/14/1890",
         "Place of Death": "Bordeaux",
         "lastName": "Batut"
       },
@@ -7381,7 +7381,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.301,
-        "dateOfDeath": "14/07/1890",
+        "dateOfDeath": "07/14/1890",
         "Place of Death": "Calcutta",
         "lastName": "Coutto"
       },
@@ -7397,7 +7397,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.302,
-        "dateOfDeath": "22/07/1890",
+        "dateOfDeath": "07/22/1890",
         "Place of Death": "Castel Gandolfo",
         "lastName": "Baori"
       },
@@ -7413,7 +7413,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.303,
-        "dateOfDeath": "22/07/1890",
+        "dateOfDeath": "07/22/1890",
         "Place of Death": "Roma",
         "lastName": "Fontana"
       },
@@ -7429,7 +7429,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.304,
-        "dateOfDeath": "24/07/1890",
+        "dateOfDeath": "07/24/1890",
         "Place of Death": "Ranchi",
         "lastName": "Cl\u00ef\u00bf\u00bdment"
       },
@@ -7445,7 +7445,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.305,
-        "dateOfDeath": "24/07/1890",
+        "dateOfDeath": "07/24/1890",
         "Place of Death": "Mariendaal",
         "lastName": "van Born"
       },
@@ -7461,7 +7461,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.306,
-        "dateOfDeath": "24/07/1890",
+        "dateOfDeath": "07/24/1890",
         "Place of Death": "Grahamstown (South Africa)",
         "lastName": "Weld"
       },
@@ -7477,7 +7477,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.307,
-        "dateOfDeath": "25/07/1890",
+        "dateOfDeath": "07/25/1890",
         "Place of Death": "Roma",
         "lastName": "Gigli"
       },
@@ -7493,7 +7493,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.308,
-        "dateOfDeath": "28/07/1890",
+        "dateOfDeath": "07/28/1890",
         "Place of Death": "Roehampton",
         "lastName": "Anderdon"
       },
@@ -7509,7 +7509,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.309,
-        "dateOfDeath": "30/07/1890",
+        "dateOfDeath": "07/30/1890",
         "Place of Death": "Anvers",
         "lastName": "Schermers"
       },
@@ -7525,7 +7525,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.31,
-        "dateOfDeath": "30/07/1890",
+        "dateOfDeath": "07/30/1890",
         "Place of Death": "Avignon",
         "lastName": "Akel"
       },
@@ -7541,7 +7541,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.311,
-        "dateOfDeath": "03/08/1890",
+        "dateOfDeath": "08/03/1890",
         "Place of Death": "Angers",
         "lastName": "Dezaire"
       },
@@ -7557,7 +7557,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.312,
-        "dateOfDeath": "04/08/1890",
+        "dateOfDeath": "08/04/1890",
         "Place of Death": "Kalskburg",
         "lastName": "B\u00ef\u00bf\u00bdrger"
       },
@@ -7573,7 +7573,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.313,
-        "dateOfDeath": "06/08/1890",
+        "dateOfDeath": "08/06/1890",
         "Place of Death": "Calcutta",
         "lastName": "de Cock"
       },
@@ -7589,7 +7589,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.314,
-        "dateOfDeath": "06/08/1890",
+        "dateOfDeath": "08/06/1890",
         "Place of Death": "Lyon",
         "lastName": "Chiron"
       },
@@ -7605,7 +7605,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.315,
-        "dateOfDeath": "07/08/1890",
+        "dateOfDeath": "08/07/1890",
         "Place of Death": "Denver",
         "lastName": "Weckx"
       },
@@ -7621,7 +7621,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.316,
-        "dateOfDeath": "10/08/1890",
+        "dateOfDeath": "08/10/1890",
         "Place of Death": "Zikawei",
         "lastName": "Bonnet"
       },
@@ -7637,7 +7637,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.317,
-        "dateOfDeath": "13/08/1890",
+        "dateOfDeath": "08/13/1890",
         "Place of Death": "Maastricht",
         "lastName": "Beusker"
       },
@@ -7653,7 +7653,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.318,
-        "dateOfDeath": "13/08/1890",
+        "dateOfDeath": "08/13/1890",
         "Place of Death": "Roma",
         "lastName": "Tongiorgi"
       },
@@ -7669,7 +7669,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.319,
-        "dateOfDeath": "17/08/1890",
+        "dateOfDeath": "08/17/1890",
         "Place of Death": "Wuhu (Ahnwei)",
         "lastName": "Andr\u00ef\u00bf\u00bd"
       },
@@ -7685,7 +7685,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.32,
-        "dateOfDeath": "17/08/1890",
+        "dateOfDeath": "08/17/1890",
         "Place of Death": "Genova",
         "lastName": "Cetta"
       },
@@ -7701,7 +7701,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.321,
-        "dateOfDeath": "17/08/1890",
+        "dateOfDeath": "08/17/1890",
         "Place of Death": "St Louis",
         "lastName": "Weber"
       },
@@ -7717,7 +7717,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.322,
-        "dateOfDeath": "17/08/1890",
+        "dateOfDeath": "08/17/1890",
         "Place of Death": "Napoli",
         "lastName": "Avallone"
       },
@@ -7733,7 +7733,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.324,
-        "dateOfDeath": "18/09/1890",
+        "dateOfDeath": "09/18/1890",
         "Place of Death": "Loyola",
         "lastName": "Osoro"
       },
@@ -7749,7 +7749,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.325,
-        "dateOfDeath": "20/08/1890",
+        "dateOfDeath": "08/20/1890",
         "Place of Death": "O\u00ef\u00bf\u00bda",
         "lastName": "Larr\u00ef\u00bf\u00bdnaga"
       },
@@ -7765,7 +7765,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.326,
-        "dateOfDeath": "21/08/1890",
+        "dateOfDeath": "08/21/1890",
         "Place of Death": "Glin, pr Mons.",
         "lastName": "Degrelle"
       },
@@ -7781,7 +7781,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.327,
-        "dateOfDeath": "21/08/1890",
+        "dateOfDeath": "08/21/1890",
         "Place of Death": "Huesca",
         "lastName": "Serra (Cabaner)"
       },
@@ -7797,7 +7797,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.328,
-        "dateOfDeath": "21/08/1890",
+        "dateOfDeath": "08/21/1890",
         "Place of Death": "Larantuka (Flores)",
         "lastName": "ten Brink"
       },
@@ -7813,7 +7813,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.329,
-        "dateOfDeath": "27/08/1890",
+        "dateOfDeath": "08/27/1890",
         "Place of Death": "Pifo (Pichincha)",
         "lastName": "Guerrero"
       },
@@ -7829,7 +7829,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.33,
-        "dateOfDeath": "28/08/1890",
+        "dateOfDeath": "08/28/1890",
         "Place of Death": "Bombay",
         "lastName": "de B\u00ef\u00bf\u00bdselager"
       },
@@ -7845,7 +7845,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.331,
-        "dateOfDeath": "31/08/1890",
+        "dateOfDeath": "08/31/1890",
         "Place of Death": "Shanghai",
         "lastName": "Simonin"
       },
@@ -7861,7 +7861,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.332,
-        "dateOfDeath": "01/09/1890",
+        "dateOfDeath": "09/01/1890",
         "Place of Death": "Oudenbosch (N-Brabant)",
         "lastName": "van Shcaik"
       },
@@ -7877,7 +7877,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.333,
-        "dateOfDeath": "02/09/1890",
+        "dateOfDeath": "09/02/1890",
         "Place of Death": "Veruela",
         "lastName": "Mart\u00ef\u00bf\u00bd"
       },
@@ -7893,7 +7893,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.334,
-        "dateOfDeath": "04/09/1890",
+        "dateOfDeath": "09/04/1890",
         "Place of Death": "Palermo",
         "lastName": "Calogero"
       },
@@ -7909,7 +7909,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.335,
-        "dateOfDeath": "06/09/1890",
+        "dateOfDeath": "09/06/1890",
         "Place of Death": "Deusto",
         "lastName": "Alcolado"
       },
@@ -7925,7 +7925,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.336,
-        "dateOfDeath": "06/09/1890",
+        "dateOfDeath": "09/06/1890",
         "Place of Death": "Tronchiennes",
         "lastName": "Eijkholt"
       },
@@ -7941,7 +7941,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.337,
-        "dateOfDeath": "07/09/1890",
+        "dateOfDeath": "09/07/1890",
         "Place of Death": "Tivoli (Roma)",
         "lastName": "Cavazzi"
       },
@@ -7989,7 +7989,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.34,
-        "dateOfDeath": "12/09/1890",
+        "dateOfDeath": "09/12/1890",
         "Place of Death": "Rotterdam",
         "lastName": "van der Velde"
       },
@@ -8005,7 +8005,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.341,
-        "dateOfDeath": "13/09/1890",
+        "dateOfDeath": "09/13/1890",
         "Place of Death": "Tivoli (Roma)",
         "lastName": "Folchi"
       },
@@ -8021,7 +8021,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.342,
-        "dateOfDeath": "14/09/1890",
+        "dateOfDeath": "09/14/1890",
         "Place of Death": "New Orleans",
         "lastName": "Miles"
       },
@@ -8037,7 +8037,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.343,
-        "dateOfDeath": "16/09/1890",
+        "dateOfDeath": "09/16/1890",
         "Place of Death": "Mariendaal",
         "lastName": "Heijligers"
       },
@@ -8053,7 +8053,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.344,
-        "dateOfDeath": "18/09/1890",
+        "dateOfDeath": "09/18/1890",
         "Place of Death": "Manresa",
         "lastName": "Sol\u00ef\u00bf\u00bd"
       },
@@ -8069,7 +8069,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.345,
-        "dateOfDeath": "21/09/1890",
+        "dateOfDeath": "09/21/1890",
         "Place of Death": "Tronchiennes",
         "lastName": "Jacqmotte"
       },
@@ -8085,7 +8085,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.346,
-        "dateOfDeath": "24/09/1890",
+        "dateOfDeath": "09/24/1890",
         "Place of Death": "Ucl\u00ef\u00bf\u00bds (Cuenca, Esp.)",
         "lastName": "Ichard"
       },
@@ -8101,7 +8101,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.347,
-        "dateOfDeath": "24/09/1890",
+        "dateOfDeath": "09/24/1890",
         "Place of Death": "Bordeaux",
         "lastName": "Pascau"
       },
@@ -8117,7 +8117,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.348,
-        "dateOfDeath": "24/09/1890",
+        "dateOfDeath": "09/24/1890",
         "Place of Death": "Sault-au R\u00ef\u00bf\u00bdcollet",
         "lastName": "Allaire"
       },
@@ -8133,7 +8133,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.349,
-        "dateOfDeath": "28/09/1890",
+        "dateOfDeath": "09/28/1890",
         "Place of Death": "Shanghai",
         "lastName": "Puntscher"
       },
@@ -8149,7 +8149,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.35,
-        "dateOfDeath": "30/09/1890",
+        "dateOfDeath": "09/30/1890",
         "Place of Death": "Lille",
         "lastName": "Brucker"
       },
@@ -8165,7 +8165,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.351,
-        "dateOfDeath": "30/09/1890",
+        "dateOfDeath": "09/30/1890",
         "Place of Death": "Louvain",
         "lastName": "Franck"
       },
@@ -8181,7 +8181,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.352,
-        "dateOfDeath": "03/10/1890",
+        "dateOfDeath": "10/03/1890",
         "Place of Death": "Port-Louis (Maurice)",
         "lastName": "Etcheverry"
       },
@@ -8197,7 +8197,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.353,
-        "dateOfDeath": "03/10/1890",
+        "dateOfDeath": "10/03/1890",
         "Place of Death": "Dijon",
         "lastName": "Vasseur"
       },
@@ -8213,7 +8213,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.354,
-        "dateOfDeath": "06/10/1890",
+        "dateOfDeath": "10/06/1890",
         "Place of Death": "Edinburgh",
         "lastName": "Lea"
       },
@@ -8229,7 +8229,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.355,
-        "dateOfDeath": "09/10/1890",
+        "dateOfDeath": "10/09/1890",
         "Place of Death": "Calcutat",
         "lastName": "Koppes"
       },
@@ -8277,7 +8277,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.358,
-        "dateOfDeath": "11/10/1890",
+        "dateOfDeath": "10/11/1890",
         "Place of Death": "Feldkirch",
         "lastName": "Allet"
       },
@@ -8293,7 +8293,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.359,
-        "dateOfDeath": "13/10/1890",
+        "dateOfDeath": "10/13/1890",
         "Place of Death": "Trnava",
         "lastName": "Lewetz"
       },
@@ -8309,7 +8309,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.36,
-        "dateOfDeath": "16/10/1890",
+        "dateOfDeath": "10/16/1890",
         "Place of Death": "Gent",
         "lastName": "Vionnet"
       },
@@ -8325,7 +8325,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.361,
-        "dateOfDeath": "17/10/1890",
+        "dateOfDeath": "10/17/1890",
         "Place of Death": "Washington",
         "lastName": "Clarke"
       },
@@ -8341,7 +8341,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.362,
-        "dateOfDeath": "19/10/1890",
+        "dateOfDeath": "10/19/1890",
         "Place of Death": "Santa Fe, Arg",
         "lastName": "Domingo"
       },
@@ -8357,7 +8357,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.363,
-        "dateOfDeath": "21/10/1890",
+        "dateOfDeath": "10/21/1890",
         "Place of Death": "Louvain",
         "lastName": "Roelandt"
       },
@@ -8373,7 +8373,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.364,
-        "dateOfDeath": "22/10/1890",
+        "dateOfDeath": "10/22/1890",
         "Place of Death": "Dole",
         "lastName": "Touplain"
       },
@@ -8389,7 +8389,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.365,
-        "dateOfDeath": "23/10/1890",
+        "dateOfDeath": "10/23/1890",
         "Place of Death": "Toulouse",
         "lastName": "Goubaux"
       },
@@ -8405,7 +8405,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.366,
-        "dateOfDeath": "23/10/1890",
+        "dateOfDeath": "10/23/1890",
         "Place of Death": "Porto Alegre",
         "lastName": "Strobel"
       },
@@ -8421,7 +8421,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.367,
-        "dateOfDeath": "24/10/1890",
+        "dateOfDeath": "10/24/1890",
         "Place of Death": "Surigao",
         "lastName": "Hernandez"
       },
@@ -8437,7 +8437,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.368,
-        "dateOfDeath": "24/10/1890",
+        "dateOfDeath": "10/24/1890",
         "Place of Death": "Sao Leopoldo",
         "lastName": "Jungmann"
       },
@@ -8453,7 +8453,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.369,
-        "dateOfDeath": "25/10/1890",
+        "dateOfDeath": "10/25/1890",
         "Place of Death": "Graz",
         "lastName": "Hunner"
       },
@@ -8469,7 +8469,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.37,
-        "dateOfDeath": "25/10/1890",
+        "dateOfDeath": "10/25/1890",
         "Place of Death": "Florissant",
         "lastName": "Duncan"
       },
@@ -8485,7 +8485,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.371,
-        "dateOfDeath": "25/10/1890",
+        "dateOfDeath": "10/25/1890",
         "Place of Death": "Tamontaca (Mindanao)",
         "lastName": "Vinolas"
       },
@@ -8501,7 +8501,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.372,
-        "dateOfDeath": "26/10/1890",
+        "dateOfDeath": "10/26/1890",
         "Place of Death": "Avignon",
         "lastName": "Bouchet"
       },
@@ -8517,7 +8517,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.373,
-        "dateOfDeath": "27/10/1890",
+        "dateOfDeath": "10/27/1890",
         "Place of Death": "Westminster",
         "lastName": "Zanetti"
       },
@@ -8533,7 +8533,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.374,
-        "dateOfDeath": "27/10/1890",
+        "dateOfDeath": "10/27/1890",
         "Place of Death": "Arlon",
         "lastName": "Douret"
       },
@@ -8549,7 +8549,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.375,
-        "dateOfDeath": "28/10/1890",
+        "dateOfDeath": "10/28/1890",
         "Place of Death": "Montevideo",
         "lastName": "Cabeza"
       },
@@ -8565,7 +8565,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.376,
-        "dateOfDeath": "28/10/1890",
+        "dateOfDeath": "10/28/1890",
         "Place of Death": "Valparaiso",
         "lastName": "Cubas"
       },
@@ -8581,7 +8581,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.377,
-        "dateOfDeath": "29/10/1890",
+        "dateOfDeath": "10/29/1890",
         "Place of Death": "Linz",
         "lastName": "Hofer"
       },
@@ -8597,7 +8597,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.378,
-        "dateOfDeath": "31/10/1890",
+        "dateOfDeath": "10/31/1890",
         "Place of Death": "Maokiawotseu (Anhwei)",
         "lastName": "bienvenu"
       },
@@ -8613,7 +8613,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.38,
-        "dateOfDeath": "07/11/1890",
+        "dateOfDeath": "11/07/1890",
         "Place of Death": "Tours",
         "lastName": "Guyot"
       },
@@ -8629,7 +8629,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.381,
-        "dateOfDeath": "07/11/1890",
+        "dateOfDeath": "11/07/1890",
         "Place of Death": "Stara Wies",
         "lastName": "Gierz"
       },
@@ -8693,7 +8693,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.385,
-        "dateOfDeath": "12/11/1890",
+        "dateOfDeath": "11/12/1890",
         "Place of Death": "Tronchiennes",
         "lastName": "Callaert"
       },
@@ -8709,7 +8709,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.386,
-        "dateOfDeath": "14/11/1890",
+        "dateOfDeath": "11/14/1890",
         "Place of Death": "Monteforte Irpino",
         "lastName": "Parziale"
       },
@@ -8725,7 +8725,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.387,
-        "dateOfDeath": "14/11/1890",
+        "dateOfDeath": "11/14/1890",
         "Place of Death": "Paris",
         "lastName": "Gallais"
       },
@@ -8741,7 +8741,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.388,
-        "dateOfDeath": "15/11/1890",
+        "dateOfDeath": "11/15/1890",
         "Place of Death": "Georgetown",
         "lastName": "Dunn"
       },
@@ -8757,7 +8757,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.389,
-        "dateOfDeath": "16/11/1890",
+        "dateOfDeath": "11/16/1890",
         "Place of Death": "Worcester",
         "lastName": "Heuisler"
       },
@@ -8773,7 +8773,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.39,
-        "dateOfDeath": "16/11/1890",
+        "dateOfDeath": "11/16/1890",
         "Place of Death": "St-Acheul-l\u00ef\u00bf\u00bds-Amiens",
         "lastName": "Sternjacob"
       },
@@ -8789,7 +8789,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.391,
-        "dateOfDeath": "17/11/1890",
+        "dateOfDeath": "11/17/1890",
         "Place of Death": "Boston",
         "lastName": "Dompieri"
       },
@@ -8805,7 +8805,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.392,
-        "dateOfDeath": "18/11/1890",
+        "dateOfDeath": "11/18/1890",
         "Place of Death": "Wijnandsrade",
         "lastName": "Dohmen"
       },
@@ -8821,7 +8821,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.393,
-        "dateOfDeath": "19/11/1890",
+        "dateOfDeath": "11/19/1890",
         "Place of Death": "Napoli",
         "lastName": "Pragliola"
       },
@@ -8837,7 +8837,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.394,
-        "dateOfDeath": "25/11/1890",
+        "dateOfDeath": "11/25/1890",
         "Place of Death": "Exaten",
         "lastName": "Niemoller"
       },
@@ -8853,7 +8853,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.395,
-        "dateOfDeath": "25/11/1890",
+        "dateOfDeath": "11/25/1890",
         "Place of Death": "Toulouse",
         "lastName": "de Sainte-Valiere"
       },
@@ -8869,7 +8869,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.396,
-        "dateOfDeath": "25/11/1890",
+        "dateOfDeath": "11/25/1890",
         "Place of Death": "Napoli",
         "lastName": "Barattolo"
       },
@@ -8885,7 +8885,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.397,
-        "dateOfDeath": "25/11/1890",
+        "dateOfDeath": "11/25/1890",
         "Place of Death": "Gemert",
         "lastName": "Mellinger"
       },
@@ -8901,7 +8901,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.398,
-        "dateOfDeath": "26/11/1890",
+        "dateOfDeath": "11/26/1890",
         "Place of Death": "Toulouse",
         "lastName": "Bach"
       },
@@ -8917,7 +8917,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.399,
-        "dateOfDeath": "27/11/1890",
+        "dateOfDeath": "11/27/1890",
         "Place of Death": "Setubal",
         "lastName": "Antunes"
       },
@@ -8933,7 +8933,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.4,
-        "dateOfDeath": "29/11/1890",
+        "dateOfDeath": "11/29/1890",
         "Place of Death": "Bastia",
         "lastName": "Cornillac"
       },
@@ -8949,7 +8949,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.401,
-        "dateOfDeath": "01/12/1890",
+        "dateOfDeath": "12/01/1890",
         "Place of Death": "Tournai",
         "lastName": "Delhaye"
       },
@@ -8965,7 +8965,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.402,
-        "dateOfDeath": "08/12/1890",
+        "dateOfDeath": "12/08/1890",
         "Place of Death": "Nowy Sacz",
         "lastName": "Scholz"
       },
@@ -8981,7 +8981,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.403,
-        "dateOfDeath": "08/12/1890",
+        "dateOfDeath": "12/08/1890",
         "Place of Death": "Exaten",
         "lastName": "Richter"
       },
@@ -8997,7 +8997,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.404,
-        "dateOfDeath": "09/12/1890",
+        "dateOfDeath": "12/09/1890",
         "Place of Death": "Fordham",
         "lastName": "Doucet"
       },
@@ -9013,7 +9013,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.405,
-        "dateOfDeath": "09/12/1890",
+        "dateOfDeath": "12/09/1890",
         "Place of Death": "Gumiel de Hizan (Burgos)",
         "lastName": "Echeverria"
       },
@@ -9029,7 +9029,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.406,
-        "dateOfDeath": "10/12/1890",
+        "dateOfDeath": "12/10/1890",
         "Place of Death": "Mantova",
         "lastName": "Corna Pellegrini"
       },
@@ -9045,7 +9045,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.407,
-        "dateOfDeath": "11/12/1890",
+        "dateOfDeath": "12/11/1890",
         "Place of Death": "Grand Coteau",
         "lastName": "Rigues"
       },
@@ -9061,7 +9061,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.408,
-        "dateOfDeath": "11/12/1890",
+        "dateOfDeath": "12/11/1890",
         "Place of Death": "Chicago",
         "lastName": "Murphi"
       },
@@ -9077,7 +9077,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.409,
-        "dateOfDeath": "14/12/1890",
+        "dateOfDeath": "12/14/1890",
         "Place of Death": "Sao Leopoldo",
         "lastName": "Kohler"
       },
@@ -9093,7 +9093,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.41,
-        "dateOfDeath": "15/12/1890",
+        "dateOfDeath": "12/15/1890",
         "Place of Death": "Gorizia",
         "lastName": "Roncaglia"
       },
@@ -9109,7 +9109,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.411,
-        "dateOfDeath": "16/12/1890",
+        "dateOfDeath": "12/16/1890",
         "Place of Death": "Grand Coteau",
         "lastName": "Abbadie"
       },
@@ -9125,7 +9125,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.412,
-        "dateOfDeath": "16/12/1890",
+        "dateOfDeath": "12/16/1890",
         "Place of Death": "Manresa",
         "lastName": "Riba"
       },
@@ -9141,7 +9141,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.413,
-        "dateOfDeath": "21/12/1890",
+        "dateOfDeath": "12/21/1890",
         "Place of Death": "Reims",
         "lastName": "Bannvart"
       },
@@ -9157,7 +9157,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.414,
-        "dateOfDeath": "22/12/1890",
+        "dateOfDeath": "12/22/1890",
         "Place of Death": "Exaten",
         "lastName": "Kraus"
       },
@@ -9173,7 +9173,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.415,
-        "dateOfDeath": "23/12/1890",
+        "dateOfDeath": "12/23/1890",
         "Place of Death": "Bordeaux",
         "lastName": "Dubourg"
       },
@@ -9189,7 +9189,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.416,
-        "dateOfDeath": "25/12/1890",
+        "dateOfDeath": "12/25/1890",
         "Place of Death": "Quimper",
         "lastName": "Guillou"
       },
@@ -9205,7 +9205,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.417,
-        "dateOfDeath": "26/12/1890",
+        "dateOfDeath": "12/26/1890",
         "Place of Death": "Marigliano (Caserta)",
         "lastName": "Alaggia"
       },
@@ -9221,7 +9221,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.418,
-        "dateOfDeath": "26/12/1890",
+        "dateOfDeath": "12/26/1890",
         "Place of Death": "Spring Hill, Ala.",
         "lastName": "Hussey"
       },
@@ -9237,7 +9237,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.419,
-        "dateOfDeath": "27/12/1890",
+        "dateOfDeath": "12/27/1890",
         "Place of Death": "Norwood (Australia)",
         "lastName": "Hager"
       },
@@ -9253,7 +9253,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.42,
-        "dateOfDeath": "27/12/1890",
+        "dateOfDeath": "12/27/1890",
         "Place of Death": "Charleroi",
         "lastName": "Raes"
       },
@@ -9269,7 +9269,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.421,
-        "dateOfDeath": "30/12/1890",
+        "dateOfDeath": "12/30/1890",
         "Place of Death": "Ravenna",
         "lastName": "Ferrari"
       },
@@ -9285,7 +9285,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.422,
-        "dateOfDeath": "30/12/1890",
+        "dateOfDeath": "12/30/1890",
         "Place of Death": "Pifo (Pichincha)",
         "lastName": "Franco"
       },
@@ -9301,7 +9301,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.423,
-        "dateOfDeath": "31/12/1890",
+        "dateOfDeath": "12/31/1890",
         "Place of Death": "Castel Gandolfo",
         "lastName": "Jacobini"
       },
@@ -9317,7 +9317,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.424,
-        "dateOfDeath": "31/12/1890",
+        "dateOfDeath": "12/31/1890",
         "Place of Death": "Ucl\u00ef\u00bf\u00bds (Cuenca, Esp.)",
         "lastName": "Terrin"
       },
@@ -9333,7 +9333,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.425,
-        "dateOfDeath": "02/01/1891",
+        "dateOfDeath": "01/02/1891",
         "Place of Death": "s-Gravenhage",
         "lastName": "Richel"
       },
@@ -9349,7 +9349,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.426,
-        "dateOfDeath": "03/01/1891",
+        "dateOfDeath": "01/03/1891",
         "Place of Death": "C\u00ef\u00bf\u00bdrdoba, Arg.",
         "lastName": "Muz\u00ef\u00bf\u00bds"
       },
@@ -9365,7 +9365,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.427,
-        "dateOfDeath": "04/01/1891",
+        "dateOfDeath": "01/04/1891",
         "Place of Death": "Santiago de Chile",
         "lastName": "Gorordo"
       },
@@ -9381,7 +9381,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.428,
-        "dateOfDeath": "05/01/1891",
+        "dateOfDeath": "01/05/1891",
         "Place of Death": "Montpellier",
         "lastName": "Rouquette"
       },
@@ -9397,7 +9397,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.429,
-        "dateOfDeath": "06/01/1891",
+        "dateOfDeath": "01/06/1891",
         "Place of Death": "Roma",
         "lastName": "Cardella"
       },
@@ -9413,7 +9413,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.43,
-        "dateOfDeath": "08/01/1891",
+        "dateOfDeath": "01/08/1891",
         "Place of Death": "Louvain",
         "lastName": "Otto"
       },
@@ -9429,7 +9429,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.431,
-        "dateOfDeath": "10/01/1891",
+        "dateOfDeath": "01/10/1891",
         "Place of Death": "Montr\u00ef\u00bf\u00bdal",
         "lastName": "F\u00ef\u00bf\u00bdrard"
       },
@@ -9445,7 +9445,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.432,
-        "dateOfDeath": "12/01/1891",
+        "dateOfDeath": "01/12/1891",
         "Place of Death": "Amsterdam",
         "lastName": "Verweerd"
       },
@@ -9461,7 +9461,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.433,
-        "dateOfDeath": "12/01/1891",
+        "dateOfDeath": "01/12/1891",
         "Place of Death": "Stonyhurst",
         "lastName": "Eastham"
       },
@@ -9477,7 +9477,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.434,
-        "dateOfDeath": "14/01/1891",
+        "dateOfDeath": "01/14/1891",
         "Place of Death": "Fordham",
         "lastName": "Moylan"
       },
@@ -9493,7 +9493,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.435,
-        "dateOfDeath": "14/01/1891",
+        "dateOfDeath": "01/14/1891",
         "Place of Death": "Ucl\u00ef\u00bf\u00bds (Cuenca, Esp.)",
         "lastName": "Ustara"
       },
@@ -9509,7 +9509,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.436,
-        "dateOfDeath": "14/01/1891",
+        "dateOfDeath": "01/14/1891",
         "Place of Death": "Ixl\u00ef\u00bf\u00bdn San Sim\u00ef\u00bf\u00bdn (Michoac\u00ef\u00bf\u00bdn)",
         "lastName": "Blume"
       },
@@ -9525,7 +9525,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.437,
-        "dateOfDeath": "15/01/1891",
+        "dateOfDeath": "01/15/1891",
         "Place of Death": "Spring Hill, Ala.",
         "lastName": "Lagger"
       },
@@ -9541,7 +9541,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.438,
-        "dateOfDeath": "18/01/1891",
+        "dateOfDeath": "01/18/1891",
         "Place of Death": "Wijnandsrade",
         "lastName": "Forler"
       },
@@ -9557,7 +9557,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.439,
-        "dateOfDeath": "19/01/1891",
+        "dateOfDeath": "01/19/1891",
         "Place of Death": "Los Gatos",
         "lastName": "Savio"
       },
@@ -9573,7 +9573,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.44,
-        "dateOfDeath": "27/01/1891",
+        "dateOfDeath": "01/27/1891",
         "Place of Death": "Tours",
         "lastName": "Lecoq"
       },
@@ -9589,7 +9589,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.441,
-        "dateOfDeath": "27/01/1891",
+        "dateOfDeath": "01/27/1891",
         "Place of Death": "Napoli",
         "lastName": "Salvio"
       },
@@ -9605,7 +9605,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.442,
-        "dateOfDeath": "27/01/1891",
+        "dateOfDeath": "01/27/1891",
         "Place of Death": "Barcelona",
         "lastName": "Torrents"
       },
@@ -9621,7 +9621,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.443,
-        "dateOfDeath": "30/01/1891",
+        "dateOfDeath": "01/30/1891",
         "Place of Death": "Marigliano (Caserta)",
         "lastName": "Giaquinto"
       },
@@ -9637,7 +9637,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.444,
-        "dateOfDeath": "30/01/1891",
+        "dateOfDeath": "01/30/1891",
         "Place of Death": "Castel Gandolfo",
         "lastName": "Giuliani"
       },
@@ -9653,7 +9653,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.445,
-        "dateOfDeath": "31/01/1891",
+        "dateOfDeath": "01/31/1891",
         "Place of Death": "Louvain",
         "lastName": "Houwen"
       },
@@ -9669,7 +9669,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.446,
-        "dateOfDeath": "03/02/1891",
+        "dateOfDeath": "02/03/1891",
         "Place of Death": "Biech\u00ef\u00bf\u00bdw, Opole",
         "lastName": "Strauss"
       },
@@ -9685,7 +9685,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.447,
-        "dateOfDeath": "03/02/1891",
+        "dateOfDeath": "02/03/1891",
         "Place of Death": "Stara Wies",
         "lastName": "Sasiadek"
       },
@@ -9701,7 +9701,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.448,
-        "dateOfDeath": "11/02/1891",
+        "dateOfDeath": "02/11/1891",
         "Place of Death": "Genova",
         "lastName": "Marchetti"
       },
@@ -9717,7 +9717,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.449,
-        "dateOfDeath": "12/02/1891",
+        "dateOfDeath": "02/12/1891",
         "Place of Death": "Mantova",
         "lastName": "Suardi"
       },
@@ -9733,7 +9733,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.45,
-        "dateOfDeath": "13/02/1891",
+        "dateOfDeath": "02/13/1891",
         "Place of Death": "St. Helier",
         "lastName": "Arambarri"
       },
@@ -9749,7 +9749,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.451,
-        "dateOfDeath": "13/02/1891",
+        "dateOfDeath": "02/13/1891",
         "Place of Death": "Mantova",
         "lastName": "Rizzi"
       },
@@ -9765,7 +9765,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.452,
-        "dateOfDeath": "15/02/1891",
+        "dateOfDeath": "02/15/1891",
         "Place of Death": "Marseille",
         "lastName": "Bouvet"
       },
@@ -9781,7 +9781,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.453,
-        "dateOfDeath": "15/02/1891",
+        "dateOfDeath": "02/15/1891",
         "Place of Death": "Trento",
         "lastName": "Zanoni"
       },
@@ -9797,7 +9797,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.454,
-        "dateOfDeath": "16/02/1891",
+        "dateOfDeath": "02/16/1891",
         "Place of Death": "Louvain",
         "lastName": "Philippen"
       },
@@ -9813,7 +9813,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.455,
-        "dateOfDeath": "17/02/1891",
+        "dateOfDeath": "02/17/1891",
         "Place of Death": "Krakow",
         "lastName": "Merkel"
       },
@@ -9829,7 +9829,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.456,
-        "dateOfDeath": "18/02/1891",
+        "dateOfDeath": "02/18/1891",
         "Place of Death": "Trnava",
         "lastName": "Hovanecz"
       },
@@ -9845,7 +9845,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.457,
-        "dateOfDeath": "18/02/1891",
+        "dateOfDeath": "02/18/1891",
         "Place of Death": "Napoli",
         "lastName": "Ippoliti"
       },
@@ -9861,7 +9861,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.458,
-        "dateOfDeath": "19/02/1891",
+        "dateOfDeath": "02/19/1891",
         "Place of Death": "Poitiers",
         "lastName": "Thebault"
       },
@@ -9877,7 +9877,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.459,
-        "dateOfDeath": "20/02/1891",
+        "dateOfDeath": "02/20/1891",
         "Place of Death": "Naxxar (Malta)",
         "lastName": "Zerbo"
       },
@@ -9893,7 +9893,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.46,
-        "dateOfDeath": "22/02/1891",
+        "dateOfDeath": "02/22/1891",
         "Place of Death": "Tronchiennes",
         "lastName": "De Bie"
       },
@@ -9909,7 +9909,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.461,
-        "dateOfDeath": "22/02/1891",
+        "dateOfDeath": "02/22/1891",
         "Place of Death": "Roma",
         "lastName": "Molza"
       },
@@ -9925,7 +9925,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.462,
-        "dateOfDeath": "23/02/1891",
+        "dateOfDeath": "02/23/1891",
         "Place of Death": "Rio de Janeiro",
         "lastName": "Terrier"
       },
@@ -9941,7 +9941,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.463,
-        "dateOfDeath": "23/02/1891",
+        "dateOfDeath": "02/23/1891",
         "Place of Death": "Louvain",
         "lastName": "Kauder"
       },
@@ -9957,7 +9957,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.464,
-        "dateOfDeath": "24/02/1891",
+        "dateOfDeath": "02/24/1891",
         "Place of Death": "Grand Coteau",
         "lastName": "Cronin"
       },
@@ -9973,7 +9973,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.465,
-        "dateOfDeath": "24/02/1891",
+        "dateOfDeath": "02/24/1891",
         "Place of Death": "Namur",
         "lastName": "Theys"
       },
@@ -9989,7 +9989,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.466,
-        "dateOfDeath": "26/02/1891",
+        "dateOfDeath": "02/26/1891",
         "Place of Death": "Namur",
         "lastName": "Delsaulx"
       },
@@ -10005,7 +10005,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.467,
-        "dateOfDeath": "27/02/1891",
+        "dateOfDeath": "02/27/1891",
         "Place of Death": "Tortosa",
         "lastName": "Canudas"
       },
@@ -10021,7 +10021,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.468,
-        "dateOfDeath": "27/02/1891",
+        "dateOfDeath": "02/27/1891",
         "Place of Death": "New York",
         "lastName": "O'Connor"
       },
@@ -10037,7 +10037,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.469,
-        "dateOfDeath": "02/03/1891",
+        "dateOfDeath": "03/02/1891",
         "Place of Death": "Fiesole (Firenze)",
         "lastName": "Manelli"
       },
@@ -10053,7 +10053,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.47,
-        "dateOfDeath": "07/03/1891",
+        "dateOfDeath": "03/07/1891",
         "Place of Death": "Munchen-Gladbach (Rheinland)",
         "lastName": "Ottiger"
       },
@@ -10069,7 +10069,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.471,
-        "dateOfDeath": "10/03/1891",
+        "dateOfDeath": "03/10/1891",
         "Place of Death": "Moullins (Allier)",
         "lastName": "Jomand"
       },
@@ -10085,7 +10085,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.472,
-        "dateOfDeath": "12/03/1891",
+        "dateOfDeath": "03/12/1891",
         "Place of Death": "Washington",
         "lastName": "Kevill"
       },
@@ -10101,7 +10101,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.473,
-        "dateOfDeath": "13/03/1891",
+        "dateOfDeath": "03/13/1891",
         "Place of Death": "Lille",
         "lastName": "Regnault"
       },
@@ -10117,7 +10117,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.474,
-        "dateOfDeath": "16/03/1891",
+        "dateOfDeath": "03/16/1891",
         "Place of Death": "Welehrad (Morava)",
         "lastName": "Zatloukal"
       },
@@ -10133,7 +10133,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.475,
-        "dateOfDeath": "19/03/1891",
+        "dateOfDeath": "03/19/1891",
         "Place of Death": "Omaha",
         "lastName": "O'Sullivan"
       },
@@ -10149,7 +10149,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.476,
-        "dateOfDeath": "19/03/1891",
+        "dateOfDeath": "03/19/1891",
         "Place of Death": "Milano",
         "lastName": "Tedeschi"
       },
@@ -10165,7 +10165,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.477,
-        "dateOfDeath": "19/03/1891",
+        "dateOfDeath": "03/19/1891",
         "Place of Death": "Guadalupe",
         "lastName": "Gomez"
       },
@@ -10181,7 +10181,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.478,
-        "dateOfDeath": "22/03/1891",
+        "dateOfDeath": "03/22/1891",
         "Place of Death": "Montreal",
         "lastName": "Beaudevin"
       },
@@ -10197,7 +10197,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.48,
-        "dateOfDeath": "22/03/1891",
+        "dateOfDeath": "03/22/1891",
         "Place of Death": "Mount St Mary's (Chesterfield, Derby)",
         "lastName": "Macclement"
       },
@@ -10213,7 +10213,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.481,
-        "dateOfDeath": "23/02/1891",
+        "dateOfDeath": "02/23/1891",
         "Place of Death": "Mold (Flint)",
         "lastName": "Robert"
       },
@@ -10229,7 +10229,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.482,
-        "dateOfDeath": "23/03/1891",
+        "dateOfDeath": "03/23/1891",
         "Place of Death": "Worcester",
         "lastName": "Muldoon"
       },
@@ -10245,7 +10245,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.483,
-        "dateOfDeath": "24/03/1891",
+        "dateOfDeath": "03/24/1891",
         "Place of Death": "Saluzzo (Cuneo)",
         "lastName": "Ferrari"
       },
@@ -10261,7 +10261,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.484,
-        "dateOfDeath": "22/03/1891",
+        "dateOfDeath": "03/22/1891",
         "Place of Death": "Georgetown",
         "lastName": "Brady"
       },
@@ -10277,7 +10277,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.485,
-        "dateOfDeath": "27/03/1891",
+        "dateOfDeath": "03/27/1891",
         "Place of Death": "Boston",
         "lastName": "Racicot"
       },
@@ -10293,7 +10293,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.486,
-        "dateOfDeath": "28/03/1891",
+        "dateOfDeath": "03/28/1891",
         "Place of Death": "Shanghai",
         "lastName": "Capitaine"
       },
@@ -10309,7 +10309,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.487,
-        "dateOfDeath": "29/03/1891",
+        "dateOfDeath": "03/29/1891",
         "Place of Death": "? (Malta)",
         "lastName": "Tombari"
       },
@@ -10325,7 +10325,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.488,
-        "dateOfDeath": "02/04/1891",
+        "dateOfDeath": "04/02/1891",
         "Place of Death": "Naxxar (Malta)",
         "lastName": "Dell'Aria"
       },
@@ -10341,7 +10341,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.489,
-        "dateOfDeath": "02/04/1891",
+        "dateOfDeath": "04/02/1891",
         "Place of Death": "Kalocsa",
         "lastName": "Stara"
       },
@@ -10357,7 +10357,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.49,
-        "dateOfDeath": "07/04/1891",
+        "dateOfDeath": "04/07/1891",
         "Place of Death": "New York",
         "lastName": "Farrell"
       },
@@ -10373,7 +10373,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.491,
-        "dateOfDeath": "08/04/1891",
+        "dateOfDeath": "04/08/1891",
         "Place of Death": "Bruxelles",
         "lastName": "Le Tellier"
       },
@@ -10389,7 +10389,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.492,
-        "dateOfDeath": "09/04/1891",
+        "dateOfDeath": "04/09/1891",
         "Place of Death": "Fordham",
         "lastName": "Hanrahan"
       },
@@ -10405,7 +10405,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.493,
-        "dateOfDeath": "09/04/1891",
+        "dateOfDeath": "04/09/1891",
         "Place of Death": "Noci",
         "lastName": "Mandoj"
       },
@@ -10421,7 +10421,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.494,
-        "dateOfDeath": "09/04/1891",
+        "dateOfDeath": "04/09/1891",
         "Place of Death": "Aalbeek pr Valkenburg",
         "lastName": "Akotter"
       },
@@ -10437,7 +10437,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.495,
-        "dateOfDeath": "10/04/1891",
+        "dateOfDeath": "04/10/1891",
         "Place of Death": "Chapinero",
         "lastName": "Velasco"
       },
@@ -10453,7 +10453,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.496,
-        "dateOfDeath": "12/04/1891",
+        "dateOfDeath": "04/12/1891",
         "Place of Death": "Arlon",
         "lastName": "Bresmal"
       },
@@ -10469,7 +10469,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.497,
-        "dateOfDeath": "12/04/1891",
+        "dateOfDeath": "04/12/1891",
         "Place of Death": "Exaten",
         "lastName": "Kroff"
       },
@@ -10485,7 +10485,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.498,
-        "dateOfDeath": "15/04/1891",
+        "dateOfDeath": "04/15/1891",
         "Place of Death": "Palma de Mallorca",
         "lastName": "Jusama"
       },
@@ -10501,7 +10501,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.499,
-        "dateOfDeath": "19/04/1891",
+        "dateOfDeath": "04/19/1891",
         "Place of Death": "Fordham",
         "lastName": "De Pooter"
       },
@@ -10517,7 +10517,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.5,
-        "dateOfDeath": "21/04/1891",
+        "dateOfDeath": "04/21/1891",
         "Place of Death": "Barcelona",
         "lastName": "Requesens"
       },
@@ -10533,7 +10533,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.501,
-        "dateOfDeath": "21/04/1891",
+        "dateOfDeath": "04/21/1891",
         "Place of Death": "Porto Alegre",
         "lastName": "Gotte"
       },
@@ -10549,7 +10549,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.502,
-        "dateOfDeath": "21/04/1891",
+        "dateOfDeath": "04/21/1891",
         "Place of Death": "Madrid",
         "lastName": "de Ayala"
       },
@@ -10565,7 +10565,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.503,
-        "dateOfDeath": "21/04/1891",
+        "dateOfDeath": "04/21/1891",
         "Place of Death": "Boroma (Mocambique)",
         "lastName": "Prihoda"
       },
@@ -10581,7 +10581,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.504,
-        "dateOfDeath": "23/04/1891",
+        "dateOfDeath": "04/23/1891",
         "Place of Death": "Paris",
         "lastName": "de Unzueta"
       },
@@ -10597,7 +10597,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.505,
-        "dateOfDeath": "23/04/1891",
+        "dateOfDeath": "04/23/1891",
         "Place of Death": "Gorizia",
         "lastName": "Costa"
       },
@@ -10613,7 +10613,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.506,
-        "dateOfDeath": "27/04/1891",
+        "dateOfDeath": "04/27/1891",
         "Place of Death": "Missoula, Mont.",
         "lastName": "Menetrey"
       },
@@ -10629,7 +10629,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.507,
-        "dateOfDeath": "28/04/1891",
+        "dateOfDeath": "04/28/1891",
         "Place of Death": "Ditton Hall (Lancashire)",
         "lastName": "Hover"
       },
@@ -10645,7 +10645,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.508,
-        "dateOfDeath": "01/05/1891",
+        "dateOfDeath": "05/01/1891",
         "Place of Death": "Arlon",
         "lastName": "Fritsch"
       },
@@ -10661,7 +10661,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.509,
-        "dateOfDeath": "01/05/1891",
+        "dateOfDeath": "05/01/1891",
         "Place of Death": "Pau",
         "lastName": "Lory"
       },
@@ -10677,7 +10677,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.51,
-        "dateOfDeath": "01/05/1891",
+        "dateOfDeath": "05/01/1891",
         "Place of Death": "Brest (Finistere)",
         "lastName": "Marsille"
       },
@@ -10693,7 +10693,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.511,
-        "dateOfDeath": "02/05/1891",
+        "dateOfDeath": "05/02/1891",
         "Place of Death": "London",
         "lastName": "Christie"
       },
@@ -10709,7 +10709,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.512,
-        "dateOfDeath": "01/05/1891",
+        "dateOfDeath": "05/01/1891",
         "Place of Death": "Arequipa",
         "lastName": "Urdaneta"
       },
@@ -10725,7 +10725,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.513,
-        "dateOfDeath": "03/05/1891",
+        "dateOfDeath": "05/03/1891",
         "Place of Death": "Florissant",
         "lastName": "Perou"
       },
@@ -10773,7 +10773,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.516,
-        "dateOfDeath": "06/05/1891",
+        "dateOfDeath": "05/06/1891",
         "Place of Death": "Roma",
         "lastName": "Rosati"
       },
@@ -10789,7 +10789,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.517,
-        "dateOfDeath": "07/05/1891",
+        "dateOfDeath": "05/07/1891",
         "Place of Death": "Inhambane (Mocambique)",
         "lastName": "Vanden Abele"
       },
@@ -10805,7 +10805,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.518,
-        "dateOfDeath": "08/05/1891",
+        "dateOfDeath": "05/08/1891",
         "Place of Death": "s-Gravenhage",
         "lastName": "Maas"
       },
@@ -10821,7 +10821,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.519,
-        "dateOfDeath": "10/05/1891",
+        "dateOfDeath": "05/10/1891",
         "Place of Death": "Jerez de la Fr",
         "lastName": "Morote"
       },
@@ -10837,7 +10837,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.52,
-        "dateOfDeath": "11/05/1891",
+        "dateOfDeath": "05/11/1891",
         "Place of Death": "Roma",
         "lastName": "Brunengo"
       },
@@ -10853,7 +10853,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.521,
-        "dateOfDeath": "12/05/1891",
+        "dateOfDeath": "05/12/1891",
         "Place of Death": "Wien",
         "lastName": "Mende"
       },
@@ -10869,7 +10869,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.522,
-        "dateOfDeath": "13/05/1891",
+        "dateOfDeath": "05/13/1891",
         "Place of Death": "Sta. Clara",
         "lastName": "Burke"
       },
@@ -10885,7 +10885,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.523,
-        "dateOfDeath": "15/05/1891",
+        "dateOfDeath": "05/15/1891",
         "Place of Death": "Puerto Montt (Llanquihue)",
         "lastName": "Engbert"
       },
@@ -10901,7 +10901,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.524,
-        "dateOfDeath": "15/05/1891",
+        "dateOfDeath": "05/15/1891",
         "Place of Death": "Iguala, Gro",
         "lastName": "Manci"
       },
@@ -10917,7 +10917,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.525,
-        "dateOfDeath": "16/05/1891",
+        "dateOfDeath": "05/16/1891",
         "Place of Death": "Philadelphia, Pa.",
         "lastName": "Dowling"
       },
@@ -10933,7 +10933,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.526,
-        "dateOfDeath": "17/05/1891",
+        "dateOfDeath": "05/17/1891",
         "Place of Death": "Shanghai",
         "lastName": "Pfister"
       },
@@ -10949,7 +10949,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.527,
-        "dateOfDeath": "18/05/1891",
+        "dateOfDeath": "05/18/1891",
         "Place of Death": "Stara Wie?",
         "lastName": "Brzezak"
       },
@@ -10965,7 +10965,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.528,
-        "dateOfDeath": "19/05/1891",
+        "dateOfDeath": "05/19/1891",
         "Place of Death": "Toulouse",
         "lastName": "Lag\u00ef\u00bf\u00bdes"
       },
@@ -10981,7 +10981,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.529,
-        "dateOfDeath": "20/05/1891",
+        "dateOfDeath": "05/20/1891",
         "Place of Death": "Fiesole (Firenze)",
         "lastName": "M\u00ef\u00bf\u00bdller"
       },
@@ -10997,7 +10997,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.53,
-        "dateOfDeath": "20/05/1891",
+        "dateOfDeath": "05/20/1891",
         "Place of Death": "Spring Hill, Ala.",
         "lastName": "Staub"
       },
@@ -11013,7 +11013,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.531,
-        "dateOfDeath": "22/05/1891",
+        "dateOfDeath": "05/22/1891",
         "Place of Death": "Recife",
         "lastName": "Servanzi"
       },
@@ -11029,7 +11029,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.532,
-        "dateOfDeath": "22/05/1891",
+        "dateOfDeath": "05/22/1891",
         "Place of Death": "Louvain",
         "lastName": "Willaumez"
       },
@@ -11045,7 +11045,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.533,
-        "dateOfDeath": "23/05/1891",
+        "dateOfDeath": "05/23/1891",
         "Place of Death": "St. Helier",
         "lastName": "de la Tribonni\u00ef\u00bf\u00bdre"
       },
@@ -11061,7 +11061,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.534,
-        "dateOfDeath": "27/05/1891",
+        "dateOfDeath": "05/27/1891",
         "Place of Death": "Toulouse",
         "lastName": "Sergeant"
       },
@@ -11077,7 +11077,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.535,
-        "dateOfDeath": "30/05/1891",
+        "dateOfDeath": "05/30/1891",
         "Place of Death": "Palayamkottai",
         "lastName": "Goffin"
       },
@@ -11093,7 +11093,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.536,
-        "dateOfDeath": "31/05/1891",
+        "dateOfDeath": "05/31/1891",
         "Place of Death": "Bordeaux",
         "lastName": "de Ren\u00ef\u00bf\u00bdville"
       },
@@ -11109,7 +11109,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.537,
-        "dateOfDeath": "01/06/1891",
+        "dateOfDeath": "06/01/1891",
         "Place of Death": "Nijmegen",
         "lastName": "van de Rijdt"
       },
@@ -11125,7 +11125,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.538,
-        "dateOfDeath": "03/06/1891",
+        "dateOfDeath": "06/03/1891",
         "Place of Death": "Sydney",
         "lastName": "Kelly"
       },
@@ -11205,7 +11205,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.543,
-        "dateOfDeath": "07/06/1891",
+        "dateOfDeath": "06/07/1891",
         "Place of Death": "Paris",
         "lastName": "Gestat"
       },
@@ -11221,7 +11221,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.544,
-        "dateOfDeath": "08/06/1891",
+        "dateOfDeath": "06/08/1891",
         "Place of Death": "Le Caire",
         "lastName": "Blin"
       },
@@ -11237,7 +11237,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.545,
-        "dateOfDeath": "12/06/1891",
+        "dateOfDeath": "06/12/1891",
         "Place of Death": "Mariendaal",
         "lastName": "Arntz"
       },
@@ -11253,7 +11253,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.546,
-        "dateOfDeath": "12/06/1891",
+        "dateOfDeath": "06/12/1891",
         "Place of Death": "S. Luis de Potos\u00ef\u00bf\u00bd",
         "lastName": "Alt\u00ef\u00bf\u00bds"
       },
@@ -11269,7 +11269,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.547,
-        "dateOfDeath": "12/06/1891",
+        "dateOfDeath": "06/12/1891",
         "Place of Death": "Boroma (Mo\u00ef\u00bf\u00bdambique)",
         "lastName": "da Silva"
       },
@@ -11285,7 +11285,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.548,
-        "dateOfDeath": "15/06/1891",
+        "dateOfDeath": "06/15/1891",
         "Place of Death": "Gorizia",
         "lastName": "Bona"
       },
@@ -11301,7 +11301,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.549,
-        "dateOfDeath": "15/06/1891",
+        "dateOfDeath": "06/15/1891",
         "Place of Death": "Calcutta",
         "lastName": "Servais"
       },
@@ -11317,7 +11317,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.55,
-        "dateOfDeath": "17/06/1891",
+        "dateOfDeath": "06/17/1891",
         "Place of Death": "Frederick",
         "lastName": "Duddy"
       },
@@ -11333,7 +11333,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.551,
-        "dateOfDeath": "18/06/1891",
+        "dateOfDeath": "06/18/1891",
         "Place of Death": "Macon, Ga.",
         "lastName": "Nickson"
       },
@@ -11349,7 +11349,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.552,
-        "dateOfDeath": "19/06/1891",
+        "dateOfDeath": "06/19/1891",
         "Place of Death": "Pettenasco",
         "lastName": "Fortis"
       },
@@ -11365,7 +11365,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.553,
-        "dateOfDeath": "19/06/1891",
+        "dateOfDeath": "06/19/1891",
         "Place of Death": "Krak\u00ef\u00bf\u00bdw",
         "lastName": "Dobrza?ski"
       },
@@ -11381,7 +11381,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.554,
-        "dateOfDeath": "19/06/1891",
+        "dateOfDeath": "06/19/1891",
         "Place of Death": "Tours",
         "lastName": "Fouilleul"
       },
@@ -11397,7 +11397,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.555,
-        "dateOfDeath": "20/06/1891",
+        "dateOfDeath": "06/20/1891",
         "Place of Death": "Manila",
         "lastName": "Galobardes"
       },
@@ -11413,7 +11413,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.556,
-        "dateOfDeath": "22/06/1891",
+        "dateOfDeath": "06/22/1891",
         "Place of Death": "Stonyhurst",
         "lastName": "Clough"
       },
@@ -11429,7 +11429,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.557,
-        "dateOfDeath": "23/06/1891",
+        "dateOfDeath": "06/23/1891",
         "Place of Death": "Bombay",
         "lastName": "Fibus"
       },
@@ -11445,7 +11445,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.558,
-        "dateOfDeath": "25/06/1891",
+        "dateOfDeath": "06/25/1891",
         "Place of Death": "La Habana",
         "lastName": "Tusqu\u00ef\u00bf\u00bdts"
       },
@@ -11461,7 +11461,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.559,
-        "dateOfDeath": "26/06/1891",
+        "dateOfDeath": "06/26/1891",
         "Place of Death": "Paris",
         "lastName": "Tailhan"
       },
@@ -11477,7 +11477,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.56,
-        "dateOfDeath": "28/06/1891",
+        "dateOfDeath": "06/28/1891",
         "Place of Death": "St. Andr\u00ef\u00bf\u00bd",
         "lastName": "Frank"
       },
@@ -11493,7 +11493,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.561,
-        "dateOfDeath": "29/06/1891",
+        "dateOfDeath": "06/29/1891",
         "Place of Death": "Jersey City",
         "lastName": "Heidenreich"
       },
@@ -11509,7 +11509,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.562,
-        "dateOfDeath": "02/07/1891",
+        "dateOfDeath": "07/02/1891",
         "Place of Death": "Galveston, Tex.",
         "lastName": "Lafarge"
       },
@@ -11525,7 +11525,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.563,
-        "dateOfDeath": "02/07/1891",
+        "dateOfDeath": "07/02/1891",
         "Place of Death": "Innsbruck",
         "lastName": "Riedmann"
       },
@@ -11541,7 +11541,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.564,
-        "dateOfDeath": "02/07/1891",
+        "dateOfDeath": "07/02/1891",
         "Place of Death": "Bordeaux",
         "lastName": "Petiot"
       },
@@ -11557,7 +11557,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.565,
-        "dateOfDeath": "03/07/1891",
+        "dateOfDeath": "07/03/1891",
         "Place of Death": "St. Inigo's, Md.",
         "lastName": "Holden"
       },
@@ -11573,7 +11573,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.566,
-        "dateOfDeath": "03/07/1891",
+        "dateOfDeath": "07/03/1891",
         "Place of Death": "St. Inigo's, Md.",
         "lastName": "Lamb"
       },
@@ -11589,7 +11589,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.567,
-        "dateOfDeath": "03/07/1891",
+        "dateOfDeath": "07/03/1891",
         "Place of Death": "St. Inigo's, Md.",
         "lastName": "Waters"
       },
@@ -11605,7 +11605,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.568,
-        "dateOfDeath": "05/07/1891",
+        "dateOfDeath": "07/05/1891",
         "Place of Death": "Manila",
         "lastName": "Murgadas"
       },
@@ -11621,7 +11621,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.569,
-        "dateOfDeath": "06/07/1891",
+        "dateOfDeath": "07/06/1891",
         "Place of Death": "Lille",
         "lastName": "F\u00ef\u00bf\u00bdlix"
       },
@@ -11653,7 +11653,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.571,
-        "dateOfDeath": "09/07/1891",
+        "dateOfDeath": "07/09/1891",
         "Place of Death": "Roma",
         "lastName": "Lavaggi"
       },
@@ -11669,7 +11669,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.572,
-        "dateOfDeath": "09/07/1891",
+        "dateOfDeath": "07/09/1891",
         "Place of Death": "Lille",
         "lastName": "Bary"
       },
@@ -11685,7 +11685,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.573,
-        "dateOfDeath": "12/07/1891",
+        "dateOfDeath": "07/12/1891",
         "Place of Death": "Manziana (Roma)",
         "lastName": "Petrocchi"
       },
@@ -11701,7 +11701,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.574,
-        "dateOfDeath": "14/07/1891",
+        "dateOfDeath": "07/14/1891",
         "Place of Death": "New York",
         "lastName": "Whyte"
       },
@@ -11717,7 +11717,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.575,
-        "dateOfDeath": "16/07/1891",
+        "dateOfDeath": "07/16/1891",
         "Place of Death": "Castel Gandolfo",
         "lastName": "Capparoni"
       },
@@ -11733,7 +11733,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.576,
-        "dateOfDeath": "19/07/1891",
+        "dateOfDeath": "07/19/1891",
         "Place of Death": "Zahl\u00ef\u00bf\u00bd",
         "lastName": "Canuti"
       },
@@ -11749,7 +11749,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.577,
-        "dateOfDeath": "22/07/1891",
+        "dateOfDeath": "07/22/1891",
         "Place of Death": "Mangalore",
         "lastName": "Patelli"
       },
@@ -11765,7 +11765,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.578,
-        "dateOfDeath": "22/07/1891",
+        "dateOfDeath": "07/22/1891",
         "Place of Death": "Palayamkottai",
         "lastName": "Twardowski"
       },
@@ -11781,7 +11781,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.579,
-        "dateOfDeath": "23/07/1891",
+        "dateOfDeath": "07/23/1891",
         "Place of Death": "Trnava",
         "lastName": "Michalko"
       },
@@ -11797,7 +11797,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.58,
-        "dateOfDeath": "25/07/1891",
+        "dateOfDeath": "07/25/1891",
         "Place of Death": "Stonyhurst",
         "lastName": "Holden"
       },
@@ -11813,7 +11813,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.581,
-        "dateOfDeath": "27/07/1891",
+        "dateOfDeath": "07/27/1891",
         "Place of Death": "Nova Friburgo (Rio de Janeiro)",
         "lastName": "Ghetti"
       },
@@ -11829,7 +11829,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.582,
-        "dateOfDeath": "30/07/1891",
+        "dateOfDeath": "07/30/1891",
         "Place of Death": "Shanghai",
         "lastName": "Ravary"
       },
@@ -11845,7 +11845,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.583,
-        "dateOfDeath": "02/08/1891",
+        "dateOfDeath": "08/02/1891",
         "Place of Death": "Barcelona",
         "lastName": "Jofr\u00ef\u00bf\u00bd"
       },
@@ -11861,7 +11861,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.584,
-        "dateOfDeath": "02/08/1891",
+        "dateOfDeath": "08/02/1891",
         "Place of Death": "Panam\u00ef\u00bf\u00bd",
         "lastName": "Silva"
       },
@@ -11877,7 +11877,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.585,
-        "dateOfDeath": "02/08/1891",
+        "dateOfDeath": "08/02/1891",
         "Place of Death": "Castel Gandolfo",
         "lastName": "Randi"
       },
@@ -11893,7 +11893,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.586,
-        "dateOfDeath": "03/08/1891",
+        "dateOfDeath": "08/03/1891",
         "Place of Death": "Shanghai",
         "lastName": "Guittard"
       },
@@ -11909,7 +11909,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.587,
-        "dateOfDeath": "05/08/1891",
+        "dateOfDeath": "08/05/1891",
         "Place of Death": "Itu",
         "lastName": "Cortez"
       },
@@ -11925,7 +11925,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.588,
-        "dateOfDeath": "05/08/1891",
+        "dateOfDeath": "08/05/1891",
         "Place of Death": "Sukabumi (Java)",
         "lastName": "van Meurs"
       },
@@ -11941,7 +11941,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.589,
-        "dateOfDeath": "07/08/1891",
+        "dateOfDeath": "08/07/1891",
         "Place of Death": "Katwijk",
         "lastName": "Opdenoordt"
       },
@@ -11957,7 +11957,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.59,
-        "dateOfDeath": "10/08/1891",
+        "dateOfDeath": "08/10/1891",
         "Place of Death": "Valladolid",
         "lastName": "Mart\u00ef\u00bf\u00bdn"
       },
@@ -11973,7 +11973,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.592,
-        "dateOfDeath": "11/08/1891",
+        "dateOfDeath": "08/11/1891",
         "Place of Death": "Medina del Campo (Valladolid)",
         "lastName": "Mazquiar\u00ef\u00bf\u00bdn"
       },
@@ -11989,7 +11989,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.593,
-        "dateOfDeath": "15/08/1891",
+        "dateOfDeath": "08/15/1891",
         "Place of Death": "Bombay",
         "lastName": "Schumacher"
       },
@@ -12005,7 +12005,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.594,
-        "dateOfDeath": "17/08/1891",
+        "dateOfDeath": "08/17/1891",
         "Place of Death": "New Orleans",
         "lastName": "Free"
       },
@@ -12021,7 +12021,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.595,
-        "dateOfDeath": "20/08/1891",
+        "dateOfDeath": "08/20/1891",
         "Place of Death": "O\u00ef\u00bf\u00bda",
         "lastName": "Rodr\u00ef\u00bf\u00bdguez"
       },
@@ -12037,7 +12037,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.596,
-        "dateOfDeath": "21/08/1891",
+        "dateOfDeath": "08/21/1891",
         "Place of Death": "Bel Alton, Md.",
         "lastName": "O'Kane"
       },
@@ -12053,7 +12053,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.597,
-        "dateOfDeath": "22/08/1891",
+        "dateOfDeath": "08/22/1891",
         "Place of Death": "Grand Coteau",
         "lastName": "Anthonioz"
       },
@@ -12069,7 +12069,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.598,
-        "dateOfDeath": "22/08/1891",
+        "dateOfDeath": "08/22/1891",
         "Place of Death": "Sta. Fe, Arg.",
         "lastName": "da Silva"
       },
@@ -12085,7 +12085,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.599,
-        "dateOfDeath": "24/08/1891",
+        "dateOfDeath": "08/24/1891",
         "Place of Death": "Nova Trento",
         "lastName": "Iraci"
       },
@@ -12101,7 +12101,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.6,
-        "dateOfDeath": "25/08/1891",
+        "dateOfDeath": "08/25/1891",
         "Place of Death": "Roma",
         "lastName": "Ficarelli"
       },
@@ -12117,7 +12117,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.601,
-        "dateOfDeath": "27/08/1891",
+        "dateOfDeath": "08/27/1891",
         "Place of Death": "Stonyhurst",
         "lastName": "Johnson"
       },
@@ -12133,7 +12133,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.602,
-        "dateOfDeath": "28/08/1891",
+        "dateOfDeath": "08/28/1891",
         "Place of Death": "Oosterhout (N-Brabant)",
         "lastName": "Escherich"
       },
@@ -12149,7 +12149,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.603,
-        "dateOfDeath": "29/08/1891",
+        "dateOfDeath": "08/29/1891",
         "Place of Death": "Tirlemont (Brabant)",
         "lastName": "Seaver"
       },
@@ -12165,7 +12165,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.604,
-        "dateOfDeath": "31/08/1891",
+        "dateOfDeath": "08/31/1891",
         "Place of Death": "Verviers",
         "lastName": "Leclerq"
       },
@@ -12181,7 +12181,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.605,
-        "dateOfDeath": "01/09/1891",
+        "dateOfDeath": "09/01/1891",
         "Place of Death": "Bratislava",
         "lastName": "Hoch"
       },
@@ -12197,7 +12197,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.606,
-        "dateOfDeath": "02/09/1891",
+        "dateOfDeath": "09/02/1891",
         "Place of Death": "Feldkirch",
         "lastName": "Nicolai"
       },
@@ -12213,7 +12213,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.607,
-        "dateOfDeath": "03/09/1891",
+        "dateOfDeath": "09/03/1891",
         "Place of Death": "Angers",
         "lastName": "Charpentier"
       },
@@ -12229,7 +12229,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.608,
-        "dateOfDeath": "04/09/1891",
+        "dateOfDeath": "09/04/1891",
         "Place of Death": "Marseille",
         "lastName": "Meyer"
       },
@@ -12245,7 +12245,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.609,
-        "dateOfDeath": "07/09/1891",
+        "dateOfDeath": "09/07/1891",
         "Place of Death": "Ditton Hall (Lancashire)",
         "lastName": "Scheulen"
       },
@@ -12261,7 +12261,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.61,
-        "dateOfDeath": "08/09/1891",
+        "dateOfDeath": "09/08/1891",
         "Place of Death": "Frederick",
         "lastName": "Sheehy"
       },
@@ -12277,7 +12277,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.611,
-        "dateOfDeath": "11/09/1891",
+        "dateOfDeath": "09/11/1891",
         "Place of Death": "Shanghai",
         "lastName": "Cordier"
       },
@@ -12293,7 +12293,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.612,
-        "dateOfDeath": "13/09/1891",
+        "dateOfDeath": "09/13/1891",
         "Place of Death": "Les Moulineaux",
         "lastName": "Cobb\u00ef\u00bf\u00bdrt"
       },
@@ -12309,7 +12309,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.613,
-        "dateOfDeath": "14/09/1891",
+        "dateOfDeath": "09/14/1891",
         "Place of Death": "Madrid",
         "lastName": "Astr\u00ef\u00bf\u00bdin"
       },
@@ -12325,7 +12325,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.614,
-        "dateOfDeath": "14/09/1891",
+        "dateOfDeath": "09/14/1891",
         "Place of Death": "Toulouse",
         "lastName": "d'Audiffret"
       },
@@ -12341,7 +12341,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.615,
-        "dateOfDeath": "14/09/1891",
+        "dateOfDeath": "09/14/1891",
         "Place of Death": "? (Ceylon)",
         "lastName": "M\u00ef\u00bf\u00bdllender"
       },
@@ -12357,7 +12357,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.616,
-        "dateOfDeath": "19/09/1891",
+        "dateOfDeath": "09/19/1891",
         "Place of Death": "Verviers",
         "lastName": "Meunier"
       },
@@ -12373,7 +12373,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.617,
-        "dateOfDeath": "19/09/1891",
+        "dateOfDeath": "09/19/1891",
         "Place of Death": "Gratz",
         "lastName": "Tich\u00ef\u00bf\u00bd"
       },
@@ -12389,7 +12389,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.618,
-        "dateOfDeath": "22/09/1891",
+        "dateOfDeath": "09/22/1891",
         "Place of Death": "Stonyhurst",
         "lastName": "Everard"
       },
@@ -12405,7 +12405,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.619,
-        "dateOfDeath": "23/09/1891",
+        "dateOfDeath": "09/23/1891",
         "Place of Death": "La Guardia",
         "lastName": "Alvarez Pena"
       },
@@ -12421,7 +12421,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.62,
-        "dateOfDeath": "26/09/1891",
+        "dateOfDeath": "09/26/1891",
         "Place of Death": "Woodstock",
         "lastName": "Reardon"
       },
@@ -12437,7 +12437,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.621,
-        "dateOfDeath": "27/09/1891",
+        "dateOfDeath": "09/27/1891",
         "Place of Death": "Georgetown",
         "lastName": "Dougherty"
       },
@@ -12453,7 +12453,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.622,
-        "dateOfDeath": "29/09/1891",
+        "dateOfDeath": "09/29/1891",
         "Place of Death": "Lainz",
         "lastName": "Eberl"
       },
@@ -12469,7 +12469,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.623,
-        "dateOfDeath": "01/10/1891",
+        "dateOfDeath": "10/01/1891",
         "Place of Death": "Reims",
         "lastName": "Modeste"
       },
@@ -12485,7 +12485,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.624,
-        "dateOfDeath": "01/10/1891",
+        "dateOfDeath": "10/01/1891",
         "Place of Death": "Reims",
         "lastName": "Sucher"
       },
@@ -12501,7 +12501,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.625,
-        "dateOfDeath": "02/10/1891",
+        "dateOfDeath": "10/02/1891",
         "Place of Death": "Beyrouth",
         "lastName": "Buisson"
       },
@@ -12517,7 +12517,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.626,
-        "dateOfDeath": "05/10/1891",
+        "dateOfDeath": "10/05/1891",
         "Place of Death": "Istanbul-Pera",
         "lastName": "Brugn\u00ef\u00bf\u00bd"
       },
@@ -12549,7 +12549,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.629,
-        "dateOfDeath": "11/10/1891",
+        "dateOfDeath": "10/11/1891",
         "Place of Death": "Gorizia",
         "lastName": "Banchich"
       },
@@ -12565,7 +12565,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.63,
-        "dateOfDeath": "11/10/1891",
+        "dateOfDeath": "10/11/1891",
         "Place of Death": "Dijon",
         "lastName": "Gagniard"
       },
@@ -12581,7 +12581,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.631,
-        "dateOfDeath": "11/10/1891",
+        "dateOfDeath": "10/11/1891",
         "Place of Death": "Vitriola",
         "lastName": "Prati"
       },
@@ -12597,7 +12597,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.632,
-        "dateOfDeath": "12/10/1891",
+        "dateOfDeath": "10/12/1891",
         "Place of Death": "Sta. Venera (Malta)",
         "lastName": "Arpa"
       },
@@ -12613,7 +12613,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.633,
-        "dateOfDeath": "17/10/1891",
+        "dateOfDeath": "10/17/1891",
         "Place of Death": "St. Louis",
         "lastName": "Kilcullin"
       },
@@ -12629,7 +12629,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.634,
-        "dateOfDeath": "18/10/1891",
+        "dateOfDeath": "10/18/1891",
         "Place of Death": "Montr\u00ef\u00bf\u00bdal",
         "lastName": "Vignon"
       },
@@ -12645,7 +12645,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.635,
-        "dateOfDeath": "18/10/1891",
+        "dateOfDeath": "10/18/1891",
         "Place of Death": "Sta. Clara",
         "lastName": "Claessens"
       },
@@ -12661,7 +12661,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.636,
-        "dateOfDeath": "27/10/1891",
+        "dateOfDeath": "10/27/1891",
         "Place of Death": "Roma",
         "lastName": "Lanzi"
       },
@@ -12677,7 +12677,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.637,
-        "dateOfDeath": "01/11/1891",
+        "dateOfDeath": "11/01/1891",
         "Place of Death": "Rhyl (Flink)",
         "lastName": "Brindle"
       },
@@ -12693,7 +12693,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.638,
-        "dateOfDeath": "01/11/1891",
+        "dateOfDeath": "11/01/1891",
         "Place of Death": "Gerace (Reggio Calabria)",
         "lastName": "Cimatti"
       },
@@ -12709,7 +12709,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.639,
-        "dateOfDeath": "05/11/1891",
+        "dateOfDeath": "11/05/1891",
         "Place of Death": "Napoli",
         "lastName": "Miglietta"
       },
@@ -12725,7 +12725,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.64,
-        "dateOfDeath": "06/11/1891",
+        "dateOfDeath": "11/06/1891",
         "Place of Death": "Kingston (Jamaica)",
         "lastName": "Hathaway"
       },
@@ -12741,7 +12741,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.641,
-        "dateOfDeath": "06/11/1891",
+        "dateOfDeath": "11/06/1891",
         "Place of Death": "Tr\u00ef\u00bf\u00bdguier (C\u00ef\u00bf\u00bdtes-du-N)",
         "lastName": "Rogard"
       },
@@ -12757,7 +12757,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.642,
-        "dateOfDeath": "09/11/1891",
+        "dateOfDeath": "11/09/1891",
         "Place of Death": "Napoli",
         "lastName": "Negri"
       },
@@ -12773,7 +12773,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.643,
-        "dateOfDeath": "09/11/1891",
+        "dateOfDeath": "11/09/1891",
         "Place of Death": "Toulouse",
         "lastName": "Fiquet"
       },
@@ -12789,7 +12789,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.644,
-        "dateOfDeath": "10/11/1891",
+        "dateOfDeath": "11/10/1891",
         "Place of Death": "Georgetown",
         "lastName": "Kernan"
       },
@@ -12805,7 +12805,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.645,
-        "dateOfDeath": "10/11/1891",
+        "dateOfDeath": "11/10/1891",
         "Place of Death": "Kraljevica (Croatie)",
         "lastName": "Gimpel"
       },
@@ -12837,7 +12837,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.647,
-        "dateOfDeath": "12/11/1891",
+        "dateOfDeath": "11/12/1891",
         "Place of Death": "St-Acheul-l\u00ef\u00bf\u00bds-Amiens",
         "lastName": "Letierce"
       },
@@ -12853,7 +12853,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.648,
-        "dateOfDeath": "15/11/1891",
+        "dateOfDeath": "11/15/1891",
         "Place of Death": "Linz",
         "lastName": "D\u00ef\u00bf\u00bdrwanger"
       },
@@ -12869,7 +12869,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.649,
-        "dateOfDeath": "17/11/1891",
+        "dateOfDeath": "11/17/1891",
         "Place of Death": "Montauban",
         "lastName": "Jeanjacquot"
       },
@@ -12885,7 +12885,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.65,
-        "dateOfDeath": "17/11/1891",
+        "dateOfDeath": "11/17/1891",
         "Place of Death": "Gent",
         "lastName": "Schermrer"
       },
@@ -12901,7 +12901,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.651,
-        "dateOfDeath": "18/11/1891",
+        "dateOfDeath": "11/18/1891",
         "Place of Death": "Marigliano (Castera)",
         "lastName": "Contursi"
       },
@@ -12917,7 +12917,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.652,
-        "dateOfDeath": "19/11/1891",
+        "dateOfDeath": "11/19/1891",
         "Place of Death": "Exaten",
         "lastName": "Evers"
       },
@@ -12933,7 +12933,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.653,
-        "dateOfDeath": "19/11/1891",
+        "dateOfDeath": "11/19/1891",
         "Place of Death": "Roehampton",
         "lastName": "Foley"
       },
@@ -12949,7 +12949,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.654,
-        "dateOfDeath": "20/11/1891",
+        "dateOfDeath": "11/20/1891",
         "Place of Death": "Vleischfontein (South Africa)",
         "lastName": "Vervenne"
       },
@@ -12965,7 +12965,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.655,
-        "dateOfDeath": "21/11/1891",
+        "dateOfDeath": "11/21/1891",
         "Place of Death": "Moresnet (Liege)",
         "lastName": "Thewalt"
       },
@@ -12981,7 +12981,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.656,
-        "dateOfDeath": "22/11/1891",
+        "dateOfDeath": "11/22/1891",
         "Place of Death": "Lyon",
         "lastName": "Prati"
       },
@@ -12997,7 +12997,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.657,
-        "dateOfDeath": "22/11/1891",
+        "dateOfDeath": "11/22/1891",
         "Place of Death": "Sta.Fe, Arg",
         "lastName": "Rotger"
       },
@@ -13013,7 +13013,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.658,
-        "dateOfDeath": "23/11/1891",
+        "dateOfDeath": "11/23/1891",
         "Place of Death": "Paris",
         "lastName": "Mallac"
       },
@@ -13029,7 +13029,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.659,
-        "dateOfDeath": "23/11/1891",
+        "dateOfDeath": "11/23/1891",
         "Place of Death": "Barcelona",
         "lastName": "Gimenez"
       },
@@ -13045,7 +13045,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.66,
-        "dateOfDeath": "25/11/1891",
+        "dateOfDeath": "11/25/1891",
         "Place of Death": "Sta. Venera (Malta)",
         "lastName": "Lunetta"
       },
@@ -13061,7 +13061,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.661,
-        "dateOfDeath": "26/11/1891",
+        "dateOfDeath": "11/26/1891",
         "Place of Death": "Noatoli (dc Ranchien)",
         "lastName": "Van Der Keilen"
       },
@@ -13077,7 +13077,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.662,
-        "dateOfDeath": "27/11/1891",
+        "dateOfDeath": "11/27/1891",
         "Place of Death": "Bourges",
         "lastName": "Quideau"
       },
@@ -13093,7 +13093,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.663,
-        "dateOfDeath": "30/11/1891",
+        "dateOfDeath": "11/30/1891",
         "Place of Death": "Dublin",
         "lastName": "Tuite"
       },
@@ -13109,7 +13109,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.664,
-        "dateOfDeath": "30/11/1891",
+        "dateOfDeath": "11/30/1891",
         "Place of Death": "Riobamba (Chimborazo)",
         "lastName": "Lecanda"
       },
@@ -13125,7 +13125,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.665,
-        "dateOfDeath": "01/12/1891",
+        "dateOfDeath": "12/01/1891",
         "Place of Death": "Aalbeek pr Valkenburg",
         "lastName": "Iten"
       },
@@ -13141,7 +13141,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.666,
-        "dateOfDeath": "01/12/1891",
+        "dateOfDeath": "12/01/1891",
         "Place of Death": "Bratislava",
         "lastName": "Ilijasevic"
       },
@@ -13157,7 +13157,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.668,
-        "dateOfDeath": "06/12/1891",
+        "dateOfDeath": "12/06/1891",
         "Place of Death": "Sault-au-Recollet",
         "lastName": "Mathieu"
       },
@@ -13173,7 +13173,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.669,
-        "dateOfDeath": "09/12/1891",
+        "dateOfDeath": "12/09/1891",
         "Place of Death": "Adana (Turquie)",
         "lastName": "Kirschner"
       },
@@ -13189,7 +13189,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.67,
-        "dateOfDeath": "10/12/1891",
+        "dateOfDeath": "12/10/1891",
         "Place of Death": "Macon, Ga.",
         "lastName": "Waterman"
       },
@@ -13205,7 +13205,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.671,
-        "dateOfDeath": "11/12/1891",
+        "dateOfDeath": "12/11/1891",
         "Place of Death": "Mariaschein",
         "lastName": "Chilik"
       },
@@ -13221,7 +13221,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.672,
-        "dateOfDeath": "14/12/1891",
+        "dateOfDeath": "12/14/1891",
         "Place of Death": "Kalocsa",
         "lastName": "Stingl"
       },
@@ -13237,7 +13237,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.673,
-        "dateOfDeath": "16/12/1891",
+        "dateOfDeath": "12/16/1891",
         "Place of Death": "Exaten",
         "lastName": "Godderz"
       },
@@ -13253,7 +13253,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.674,
-        "dateOfDeath": "17/12/1891",
+        "dateOfDeath": "12/17/1891",
         "Place of Death": "Milano",
         "lastName": "Michelutti"
       },
@@ -13269,7 +13269,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.675,
-        "dateOfDeath": "19/12/1891",
+        "dateOfDeath": "12/19/1891",
         "Place of Death": "St. Louis",
         "lastName": "Heilers"
       },
@@ -13285,7 +13285,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.676,
-        "dateOfDeath": "20/12/1891",
+        "dateOfDeath": "12/20/1891",
         "Place of Death": "Tournai",
         "lastName": "Herman"
       },
@@ -13301,7 +13301,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.677,
-        "dateOfDeath": "21/12/1891",
+        "dateOfDeath": "12/21/1891",
         "Place of Death": "Lille",
         "lastName": "Lacoste"
       },
@@ -13317,7 +13317,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.678,
-        "dateOfDeath": "23/12/1891",
+        "dateOfDeath": "12/23/1891",
         "Place of Death": "New York",
         "lastName": "Dealy"
       },
@@ -13333,7 +13333,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.679,
-        "dateOfDeath": "25/12/1891",
+        "dateOfDeath": "12/25/1891",
         "Place of Death": "Sona (Verona)",
         "lastName": "Grgic"
       },
@@ -13349,7 +13349,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.68,
-        "dateOfDeath": "28/12/1891",
+        "dateOfDeath": "12/28/1891",
         "Place of Death": "Gent",
         "lastName": "Siemers"
       },
@@ -13365,7 +13365,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.681,
-        "dateOfDeath": "29/12/1891",
+        "dateOfDeath": "12/29/1891",
         "Place of Death": "Sta. Clara",
         "lastName": "Boggio"
       },
@@ -13381,7 +13381,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.682,
-        "dateOfDeath": "29/12/1891",
+        "dateOfDeath": "12/29/1891",
         "Place of Death": "Orihuela",
         "lastName": "Cirera"
       },
@@ -13397,7 +13397,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.683,
-        "dateOfDeath": "29/12/1891",
+        "dateOfDeath": "12/29/1891",
         "Place of Death": "Trnava",
         "lastName": "Wanka"
       },
@@ -13413,7 +13413,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.684,
-        "dateOfDeath": "30/12/1891",
+        "dateOfDeath": "12/30/1891",
         "Place of Death": "Woodstock",
         "lastName": "Du Ranquet"
       },
@@ -13429,7 +13429,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.685,
-        "dateOfDeath": "31/12/1891",
+        "dateOfDeath": "12/31/1891",
         "Place of Death": "M\u00ef\u00bf\u00bdnster",
         "lastName": "Bertels"
       },
@@ -13461,7 +13461,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.687,
-        "dateOfDeath": "03/01/1892",
+        "dateOfDeath": "01/03/1892",
         "Place of Death": "Monaco",
         "lastName": "Caravello"
       },
@@ -13477,7 +13477,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.688,
-        "dateOfDeath": "03/01/1892",
+        "dateOfDeath": "01/03/1892",
         "Place of Death": "Sta. Clara",
         "lastName": "Raiders"
       },
@@ -13493,7 +13493,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.689,
-        "dateOfDeath": "04/01/1892",
+        "dateOfDeath": "01/04/1892",
         "Place of Death": "Le Caire",
         "lastName": "Salichon"
       },
@@ -13509,7 +13509,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.69,
-        "dateOfDeath": "04/01/1892",
+        "dateOfDeath": "01/04/1892",
         "Place of Death": "Montevideo",
         "lastName": "Armengou"
       },
@@ -13525,7 +13525,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.691,
-        "dateOfDeath": "05/01/1892",
+        "dateOfDeath": "01/05/1892",
         "Place of Death": "Tronchiennes",
         "lastName": "Tinguely"
       },
@@ -13541,7 +13541,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.692,
-        "dateOfDeath": "06/01/1892",
+        "dateOfDeath": "01/06/1892",
         "Place of Death": "Dijon",
         "lastName": "Genlot"
       },
@@ -13557,7 +13557,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.693,
-        "dateOfDeath": "07/01/1892",
+        "dateOfDeath": "01/07/1892",
         "Place of Death": "Gent",
         "lastName": "Mertens"
       },
@@ -13573,7 +13573,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.694,
-        "dateOfDeath": "07/01/1892",
+        "dateOfDeath": "01/07/1892",
         "Place of Death": "Paris",
         "lastName": "Montazeau"
       },
@@ -13589,7 +13589,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.695,
-        "dateOfDeath": "09/01/1892",
+        "dateOfDeath": "01/09/1892",
         "Place of Death": "Chieri",
         "lastName": "Porporato"
       },
@@ -13605,7 +13605,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.696,
-        "dateOfDeath": "11/01/1892",
+        "dateOfDeath": "01/11/1892",
         "Place of Death": "Chieri",
         "lastName": "Pavesio"
       },
@@ -13621,7 +13621,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.697,
-        "dateOfDeath": "12/01/1892",
+        "dateOfDeath": "01/12/1892",
         "Place of Death": "Toledo, Ohio",
         "lastName": "K\u00ef\u00bf\u00bdrling"
       },
@@ -13637,7 +13637,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.698,
-        "dateOfDeath": "12/01/1892",
+        "dateOfDeath": "01/12/1892",
         "Place of Death": "Sta. Clara",
         "lastName": "Malone"
       },
@@ -13653,7 +13653,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.699,
-        "dateOfDeath": "13/01/1892",
+        "dateOfDeath": "01/13/1892",
         "Place of Death": "New York",
         "lastName": "Connell"
       },
@@ -13669,7 +13669,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.7,
-        "dateOfDeath": "13/01/1892",
+        "dateOfDeath": "01/13/1892",
         "Place of Death": "Katwijk",
         "lastName": "Schoenmakers"
       },
@@ -13685,7 +13685,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.701,
-        "dateOfDeath": "14/01/1892",
+        "dateOfDeath": "01/14/1892",
         "Place of Death": "Chieri",
         "lastName": "Mengoni"
       },
@@ -13701,7 +13701,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.702,
-        "dateOfDeath": "15/01/1892",
+        "dateOfDeath": "01/15/1892",
         "Place of Death": "Versailles",
         "lastName": "R\u00ef\u00bf\u00bdgl\u00ef\u00bf\u00bd"
       },
@@ -13717,7 +13717,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.703,
-        "dateOfDeath": "16/01/1892",
+        "dateOfDeath": "01/16/1892",
         "Place of Death": "Fossano (Cuneo)",
         "lastName": "Greppi"
       },
@@ -13733,7 +13733,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.704,
-        "dateOfDeath": "16/01/1892",
+        "dateOfDeath": "01/16/1892",
         "Place of Death": "St-Acheul-l\u00ef\u00bf\u00bds-Amiens",
         "lastName": "Mathaut"
       },
@@ -13749,7 +13749,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.705,
-        "dateOfDeath": "17/01/1892",
+        "dateOfDeath": "01/17/1892",
         "Place of Death": "Wakefield (York)",
         "lastName": "O'Reilly"
       },
@@ -13765,7 +13765,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.706,
-        "dateOfDeath": "17/01/1892",
+        "dateOfDeath": "01/17/1892",
         "Place of Death": "Reims",
         "lastName": "Thro"
       },
@@ -13781,7 +13781,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.707,
-        "dateOfDeath": "17/01/1892",
+        "dateOfDeath": "01/17/1892",
         "Place of Death": "Boulogne",
         "lastName": "Oswald"
       },
@@ -13797,7 +13797,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.708,
-        "dateOfDeath": "18/01/1892",
+        "dateOfDeath": "01/18/1892",
         "Place of Death": "Fiesole (Firenze)",
         "lastName": "Anderledy"
       },
@@ -13813,7 +13813,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.709,
-        "dateOfDeath": "18/01/1892",
+        "dateOfDeath": "01/18/1892",
         "Place of Death": "Roma",
         "lastName": "Cornoldi"
       },
@@ -13829,7 +13829,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.71,
-        "dateOfDeath": "18/01/1892",
+        "dateOfDeath": "01/18/1892",
         "Place of Death": "Li\u00ef\u00bf\u00bdge",
         "lastName": "Haan"
       },
@@ -13845,7 +13845,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.711,
-        "dateOfDeath": "18/01/1892",
+        "dateOfDeath": "01/18/1892",
         "Place of Death": "Tronchiennes",
         "lastName": "van Asseldonk"
       },
@@ -13861,7 +13861,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.712,
-        "dateOfDeath": "19/01/1892",
+        "dateOfDeath": "01/19/1892",
         "Place of Death": "Paris",
         "lastName": "Argand"
       },
@@ -13877,7 +13877,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.713,
-        "dateOfDeath": "19/01/1892",
+        "dateOfDeath": "01/19/1892",
         "Place of Death": "Boulogne",
         "lastName": "de Fontenay"
       },
@@ -13893,7 +13893,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.714,
-        "dateOfDeath": "19/01/1892",
+        "dateOfDeath": "01/19/1892",
         "Place of Death": "Namur",
         "lastName": "Schmitz"
       },
@@ -13909,7 +13909,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.715,
-        "dateOfDeath": "19/01/1892",
+        "dateOfDeath": "01/19/1892",
         "Place of Death": "Fordham",
         "lastName": "Egan"
       },
@@ -13925,7 +13925,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.716,
-        "dateOfDeath": "20/01/1892",
+        "dateOfDeath": "01/20/1892",
         "Place of Death": "Padova",
         "lastName": "Bedin"
       },
@@ -13941,7 +13941,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.717,
-        "dateOfDeath": "21/01/1892",
+        "dateOfDeath": "01/21/1892",
         "Place of Death": "Reims",
         "lastName": "Wamy"
       },
@@ -13957,7 +13957,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.718,
-        "dateOfDeath": "22/01/1892",
+        "dateOfDeath": "01/22/1892",
         "Place of Death": "Napoli",
         "lastName": "Figliolia"
       },
@@ -13973,7 +13973,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.719,
-        "dateOfDeath": "25/01/1892",
+        "dateOfDeath": "01/25/1892",
         "Place of Death": "St Andr\u00ef\u00bf\u00bd",
         "lastName": "Koss"
       },
@@ -13989,7 +13989,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.72,
-        "dateOfDeath": "25/01/1892",
+        "dateOfDeath": "01/25/1892",
         "Place of Death": "Amiens",
         "lastName": "Laroche"
       },
@@ -14005,7 +14005,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.721,
-        "dateOfDeath": "26/01/1892",
+        "dateOfDeath": "01/26/1892",
         "Place of Death": "Bastia",
         "lastName": "Hucherot"
       },
@@ -14021,7 +14021,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.722,
-        "dateOfDeath": "26/01/1892",
+        "dateOfDeath": "01/26/1892",
         "Place of Death": "Vannes",
         "lastName": "Larboulette"
       },
@@ -14037,7 +14037,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.723,
-        "dateOfDeath": "28/01/1892",
+        "dateOfDeath": "01/28/1892",
         "Place of Death": "Valladolid",
         "lastName": "Sanabria"
       },
@@ -14053,7 +14053,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.724,
-        "dateOfDeath": "29/01/1892",
+        "dateOfDeath": "01/29/1892",
         "Place of Death": "Buffalo",
         "lastName": "Kerckhoff"
       },
@@ -14069,7 +14069,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.725,
-        "dateOfDeath": "29/01/1892",
+        "dateOfDeath": "01/29/1892",
         "Place of Death": "Dijon",
         "lastName": "Masse"
       },
@@ -14085,7 +14085,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.726,
-        "dateOfDeath": "30/01/1892",
+        "dateOfDeath": "01/30/1892",
         "Place of Death": "Mantova",
         "lastName": "Salgari"
       },
@@ -14101,7 +14101,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.727,
-        "dateOfDeath": "30/01/1892",
+        "dateOfDeath": "01/30/1892",
         "Place of Death": "Exaten",
         "lastName": "Gansen"
       },
@@ -14117,7 +14117,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.728,
-        "dateOfDeath": "30/01/1892",
+        "dateOfDeath": "01/30/1892",
         "Place of Death": "Maastricht",
         "lastName": "Vredebuyl"
       },
@@ -14133,7 +14133,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.729,
-        "dateOfDeath": "31/01/1892",
+        "dateOfDeath": "01/31/1892",
         "Place of Death": "Paris",
         "lastName": "Jouan"
       },
@@ -14149,7 +14149,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.73,
-        "dateOfDeath": "01/02/1892",
+        "dateOfDeath": "02/01/1892",
         "Place of Death": "Port-Louis (Maurice)",
         "lastName": "Balencie"
       },
@@ -14181,7 +14181,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.732,
-        "dateOfDeath": "04/02/1892",
+        "dateOfDeath": "02/04/1892",
         "Place of Death": "Tronchiennes",
         "lastName": "Damanet"
       },
@@ -14197,7 +14197,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.733,
-        "dateOfDeath": "04/02/1892",
+        "dateOfDeath": "02/04/1892",
         "Place of Death": "Sta. Clara",
         "lastName": "Young"
       },
@@ -14213,7 +14213,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.734,
-        "dateOfDeath": "05/02/1892",
+        "dateOfDeath": "02/05/1892",
         "Place of Death": "Dalkeith (Midlothian)",
         "lastName": "Roma\u00ef\u00bf\u00bda"
       },
@@ -14229,7 +14229,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.735,
-        "dateOfDeath": "05/02/1892",
+        "dateOfDeath": "02/05/1892",
         "Place of Death": "Grenoble (Is\u00ef\u00bf\u00bdre)",
         "lastName": "Sambin"
       },
@@ -14245,7 +14245,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.736,
-        "dateOfDeath": "05/02/1892",
+        "dateOfDeath": "02/05/1892",
         "Place of Death": "St-\u00ef\u00bf\u00bdtienne",
         "lastName": "Bernard"
       },
@@ -14261,7 +14261,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.737,
-        "dateOfDeath": "06/02/1892",
+        "dateOfDeath": "02/06/1892",
         "Place of Death": "Grenoble (Is\u00ef\u00bf\u00bdre)",
         "lastName": "Boisset"
       },
@@ -14277,7 +14277,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.738,
-        "dateOfDeath": "06/02/1892",
+        "dateOfDeath": "02/06/1892",
         "Place of Death": "Bournemouth (Hants)",
         "lastName": "Johnson"
       },
@@ -14293,7 +14293,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.739,
-        "dateOfDeath": "06/02/1892",
+        "dateOfDeath": "02/06/1892",
         "Place of Death": "St-\u00ef\u00bf\u00bdtienne",
         "lastName": "Pujo"
       },
@@ -14309,7 +14309,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.74,
-        "dateOfDeath": "07/02/1892",
+        "dateOfDeath": "02/07/1892",
         "Place of Death": "Sta. Clara",
         "lastName": "Bayma"
       },
@@ -14325,7 +14325,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.741,
-        "dateOfDeath": "07/02/1892",
+        "dateOfDeath": "02/07/1892",
         "Place of Death": "Grenoble (Is\u00ef\u00bf\u00bdre)",
         "lastName": "Biron"
       },
@@ -14341,7 +14341,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.742,
-        "dateOfDeath": "08/02/1892",
+        "dateOfDeath": "02/08/1892",
         "Place of Death": "Li\u00ef\u00bf\u00bdge",
         "lastName": "Pierron"
       },
@@ -14357,7 +14357,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.743,
-        "dateOfDeath": "08/02/1892",
+        "dateOfDeath": "02/08/1892",
         "Place of Death": "Nancy",
         "lastName": "Haelling"
       },
@@ -14373,7 +14373,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.744,
-        "dateOfDeath": "13/02/1892",
+        "dateOfDeath": "02/13/1892",
         "Place of Death": "Lille",
         "lastName": "Viart"
       },
@@ -14389,7 +14389,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.745,
-        "dateOfDeath": "14/02/1892",
+        "dateOfDeath": "02/14/1892",
         "Place of Death": "Tronchiennes",
         "lastName": "Brobeil"
       },
@@ -14405,7 +14405,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.746,
-        "dateOfDeath": "16/02/1892",
+        "dateOfDeath": "02/16/1892",
         "Place of Death": "Georgetown",
         "lastName": "Morisson"
       },
@@ -14421,7 +14421,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.747,
-        "dateOfDeath": "16/02/1892",
+        "dateOfDeath": "02/16/1892",
         "Place of Death": "Detroit",
         "lastName": "Sullivan"
       },
@@ -14437,7 +14437,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.748,
-        "dateOfDeath": "18/02/1892",
+        "dateOfDeath": "02/18/1892",
         "Place of Death": "Ambositra (Madagascar)",
         "lastName": "Cassagne"
       },
@@ -14453,7 +14453,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.749,
-        "dateOfDeath": "18/02/1892",
+        "dateOfDeath": "02/18/1892",
         "Place of Death": "Gorizia",
         "lastName": "Recagni"
       },
@@ -14469,7 +14469,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.75,
-        "dateOfDeath": "19/02/1892",
+        "dateOfDeath": "02/19/1892",
         "Place of Death": "W\u00ef\u00bf\u00bdrishofen (Bayern)",
         "lastName": "Coppens"
       },
@@ -14485,7 +14485,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.751,
-        "dateOfDeath": "22/02/1892",
+        "dateOfDeath": "02/22/1892",
         "Place of Death": "Le Mans",
         "lastName": "de Boylesve"
       },
@@ -14501,7 +14501,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.752,
-        "dateOfDeath": "22/02/1892",
+        "dateOfDeath": "02/22/1892",
         "Place of Death": "Avignon",
         "lastName": "Gilg"
       },
@@ -14517,7 +14517,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.753,
-        "dateOfDeath": "24/02/1892",
+        "dateOfDeath": "02/24/1892",
         "Place of Death": "Palma de Mallorca",
         "lastName": "Cabr\u00ef\u00bf\u00bd"
       },
@@ -14533,7 +14533,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.754,
-        "dateOfDeath": "24/02/1892",
+        "dateOfDeath": "02/24/1892",
         "Place of Death": "St-Acheul-l\u00ef\u00bf\u00bds-Amiens",
         "lastName": "Oger"
       },
@@ -14549,7 +14549,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.755,
-        "dateOfDeath": "24/02/1892",
+        "dateOfDeath": "02/24/1892",
         "Place of Death": "Montr\u00ef\u00bf\u00bdal",
         "lastName": "Tardif"
       },
@@ -14565,7 +14565,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.756,
-        "dateOfDeath": "27/02/1892",
+        "dateOfDeath": "02/27/1892",
         "Place of Death": "Notabile (Malta)",
         "lastName": "d'Angelo"
       },
@@ -14581,7 +14581,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.757,
-        "dateOfDeath": "27/02/1892",
+        "dateOfDeath": "02/27/1892",
         "Place of Death": "Strada (Arezzo)",
         "lastName": "Borghese"
       },
@@ -14597,7 +14597,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.758,
-        "dateOfDeath": "02/03/1892",
+        "dateOfDeath": "03/02/1892",
         "Place of Death": "Tronchiennes",
         "lastName": "de Bie"
       },
@@ -14613,7 +14613,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.759,
-        "dateOfDeath": "02/03/1892",
+        "dateOfDeath": "03/02/1892",
         "Place of Death": "Dublin",
         "lastName": "Keogh"
       },
@@ -14629,7 +14629,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.76,
-        "dateOfDeath": "04/03/1892",
+        "dateOfDeath": "03/04/1892",
         "Place of Death": "Georgetown",
         "lastName": "Murphy"
       },
@@ -14645,7 +14645,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.761,
-        "dateOfDeath": "04/03/1892",
+        "dateOfDeath": "03/04/1892",
         "Place of Death": "Beaumont (Berkshire)",
         "lastName": "(Sheffington) Ross of Bladensbury"
       },
@@ -14661,7 +14661,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.762,
-        "dateOfDeath": "05/03/1892",
+        "dateOfDeath": "03/05/1892",
         "Place of Death": "Aix-en-Provence",
         "lastName": "Payan"
       },
@@ -14677,7 +14677,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.763,
-        "dateOfDeath": "06/03/1892",
+        "dateOfDeath": "03/06/1892",
         "Place of Death": "Macon, Ga.",
         "lastName": "Laurent"
       },
@@ -14693,7 +14693,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.764,
-        "dateOfDeath": "08/03/1892",
+        "dateOfDeath": "03/08/1892",
         "Place of Death": "Poona",
         "lastName": "Romanini"
       },
@@ -14709,7 +14709,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.765,
-        "dateOfDeath": "09/03/1892",
+        "dateOfDeath": "03/09/1892",
         "Place of Death": "Mariendaal",
         "lastName": "van der Heijden"
       },
@@ -14725,7 +14725,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.766,
-        "dateOfDeath": "10/03/1892",
+        "dateOfDeath": "03/10/1892",
         "Place of Death": "Sarlat",
         "lastName": "Laporte"
       },
@@ -14741,7 +14741,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.767,
-        "dateOfDeath": "12/03/1892",
+        "dateOfDeath": "03/12/1892",
         "Place of Death": "Tours",
         "lastName": "Avenel"
       },
@@ -14757,7 +14757,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.768,
-        "dateOfDeath": "13/03/1892",
+        "dateOfDeath": "03/13/1892",
         "Place of Death": "Stonyhurst",
         "lastName": "Farmer"
       },
@@ -14773,7 +14773,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.769,
-        "dateOfDeath": "13/03/1892",
+        "dateOfDeath": "03/13/1892",
         "Place of Death": "Napoli",
         "lastName": "Valenti"
       },
@@ -14789,7 +14789,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.77,
-        "dateOfDeath": "14/03/1892",
+        "dateOfDeath": "03/14/1892",
         "Place of Death": "Louvain",
         "lastName": "Noulard"
       },
@@ -14805,7 +14805,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.771,
-        "dateOfDeath": "15/03/1892",
+        "dateOfDeath": "03/15/1892",
         "Place of Death": "Grand Coteau",
         "lastName": "Vial"
       },
@@ -14821,7 +14821,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.772,
-        "dateOfDeath": "15/03/1892",
+        "dateOfDeath": "03/15/1892",
         "Place of Death": "Ditton Hall (Lancashire)",
         "lastName": "Haas"
       },
@@ -14837,7 +14837,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.773,
-        "dateOfDeath": "15/03/1892",
+        "dateOfDeath": "03/15/1892",
         "Place of Death": "Mantova",
         "lastName": "Petrolli"
       },
@@ -14853,7 +14853,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.774,
-        "dateOfDeath": "18/03/1892",
+        "dateOfDeath": "03/18/1892",
         "Place of Death": "Castres",
         "lastName": "Valgalier"
       },
@@ -14869,7 +14869,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.775,
-        "dateOfDeath": "18/03/1892",
+        "dateOfDeath": "03/18/1892",
         "Place of Death": "Tronchiennes",
         "lastName": "van Vrekom"
       },
@@ -14885,7 +14885,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.776,
-        "dateOfDeath": "19/03/1892",
+        "dateOfDeath": "03/19/1892",
         "Place of Death": "P\u00ef\u00bf\u00bdrto Alegre",
         "lastName": "Franken"
       },
@@ -14901,7 +14901,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.777,
-        "dateOfDeath": "21/03/1892",
+        "dateOfDeath": "03/21/1892",
         "Place of Death": "Ordu\u00ef\u00bf\u00bda (Vizcaya)",
         "lastName": "Mart\u00ef\u00bf\u00bdnez"
       },
@@ -14917,7 +14917,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.778,
-        "dateOfDeath": "23/03/1892",
+        "dateOfDeath": "03/23/1892",
         "Place of Death": "Chicago",
         "lastName": "Haugherty"
       },
@@ -14933,7 +14933,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.779,
-        "dateOfDeath": "25/03/1892",
+        "dateOfDeath": "03/25/1892",
         "Place of Death": "Boroma (Mo\u00ef\u00bf\u00bdambique)",
         "lastName": "Glesinsky"
       },
@@ -14949,7 +14949,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.78,
-        "dateOfDeath": "27/03/1892",
+        "dateOfDeath": "03/27/1892",
         "Place of Death": "Laval",
         "lastName": "Lev\u00ef\u00bf\u00bd"
       },
@@ -14965,7 +14965,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.781,
-        "dateOfDeath": "29/03/1892",
+        "dateOfDeath": "03/29/1892",
         "Place of Death": "Pau.",
         "lastName": "de Blacus"
       },
@@ -14981,7 +14981,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.782,
-        "dateOfDeath": "03/04/1892",
+        "dateOfDeath": "04/03/1892",
         "Place of Death": "Palayamkottai",
         "lastName": "Rottari"
       },
@@ -14997,7 +14997,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.783,
-        "dateOfDeath": "05/04/1892",
+        "dateOfDeath": "04/05/1892",
         "Place of Death": "Malayadipatty (dc Tiruchirapolitan)",
         "lastName": "Ford"
       },
@@ -15013,7 +15013,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.784,
-        "dateOfDeath": "05/04/1892",
+        "dateOfDeath": "04/05/1892",
         "Place of Death": "Castel Gandolfo",
         "lastName": "Monaci"
       },
@@ -15029,7 +15029,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.785,
-        "dateOfDeath": "08/04/1892",
+        "dateOfDeath": "04/08/1892",
         "Place of Death": "Albano (Roma)",
         "lastName": "Caprioli"
       },
@@ -15045,7 +15045,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.786,
-        "dateOfDeath": "09/04/1892",
+        "dateOfDeath": "04/09/1892",
         "Place of Death": "Ucl\u00ef\u00bf\u00bds (Cuenca, Esp.)",
         "lastName": "Pouderoux"
       },
@@ -15061,7 +15061,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.787,
-        "dateOfDeath": "12/04/1892",
+        "dateOfDeath": "04/12/1892",
         "Place of Death": "Paris",
         "lastName": "Hureau"
       },
@@ -15077,7 +15077,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.788,
-        "dateOfDeath": "13/04/1892",
+        "dateOfDeath": "04/13/1892",
         "Place of Death": "Chyr\u00ef\u00bf\u00bdw, USSR",
         "lastName": "Wacek"
       },
@@ -15093,7 +15093,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.789,
-        "dateOfDeath": "16/04/1892",
+        "dateOfDeath": "04/16/1892",
         "Place of Death": "Arlon",
         "lastName": "Poncelet"
       },
@@ -15109,7 +15109,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.791,
-        "dateOfDeath": "21/04/1892",
+        "dateOfDeath": "04/21/1892",
         "Place of Death": "Ditton Hall (Lancashire)",
         "lastName": "Esseiva"
       },
@@ -15125,7 +15125,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.792,
-        "dateOfDeath": "21/04/1892",
+        "dateOfDeath": "04/21/1892",
         "Place of Death": "Napoli",
         "lastName": "Valente"
       },
@@ -15141,7 +15141,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.793,
-        "dateOfDeath": "25/04/1892",
+        "dateOfDeath": "04/25/1892",
         "Place of Death": "Quelimane (Mo\u00ef\u00bf\u00bdambique)",
         "lastName": "Aloy (Miralles)"
       },
@@ -15157,7 +15157,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.794,
-        "dateOfDeath": "28/04/1892",
+        "dateOfDeath": "04/28/1892",
         "Place of Death": "Missoula, Mont.",
         "lastName": "Gagnier"
       },
@@ -15173,7 +15173,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.795,
-        "dateOfDeath": "30/04/1892",
+        "dateOfDeath": "04/30/1892",
         "Place of Death": "Chieri",
         "lastName": "Delogu"
       },
@@ -15189,7 +15189,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.797,
-        "dateOfDeath": "02/05/1892",
+        "dateOfDeath": "05/02/1892",
         "Place of Death": "Tiruchirapalli",
         "lastName": "Trincal"
       },
@@ -15205,7 +15205,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.798,
-        "dateOfDeath": "04/05/1892",
+        "dateOfDeath": "05/04/1892",
         "Place of Death": "Kalksburg",
         "lastName": "Fels"
       },
@@ -15253,7 +15253,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.801,
-        "dateOfDeath": "11/05/1892",
+        "dateOfDeath": "05/11/1892",
         "Place of Death": "Calcutta",
         "lastName": "de Kinder"
       },
@@ -15269,7 +15269,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.802,
-        "dateOfDeath": "12/05/1892",
+        "dateOfDeath": "05/12/1892",
         "Place of Death": "Quito",
         "lastName": "Azuola"
       },
@@ -15285,7 +15285,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.803,
-        "dateOfDeath": "16/05/1892",
+        "dateOfDeath": "05/16/1892",
         "Place of Death": "Boulogne",
         "lastName": "Collin"
       },
@@ -15301,7 +15301,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.804,
-        "dateOfDeath": "21/05/1892",
+        "dateOfDeath": "05/21/1892",
         "Place of Death": "Monaco",
         "lastName": "Cabras"
       },
@@ -15317,7 +15317,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.805,
-        "dateOfDeath": "23/05/1892",
+        "dateOfDeath": "05/23/1892",
         "Place of Death": "Poona",
         "lastName": "Cooke"
       },
@@ -15333,7 +15333,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.806,
-        "dateOfDeath": "25/05/1892",
+        "dateOfDeath": "05/25/1892",
         "Place of Death": "Manresa",
         "lastName": "Camps"
       },
@@ -15349,7 +15349,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.807,
-        "dateOfDeath": "27/05/1892",
+        "dateOfDeath": "05/27/1892",
         "Place of Death": "Set\u00ef\u00bf\u00bdbal",
         "lastName": "Moscatelli"
       },
@@ -15365,7 +15365,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.808,
-        "dateOfDeath": "28/05/1892",
+        "dateOfDeath": "05/28/1892",
         "Place of Death": "Mons",
         "lastName": "Marmier"
       },
@@ -15381,7 +15381,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.809,
-        "dateOfDeath": "28/05/1892",
+        "dateOfDeath": "05/28/1892",
         "Place of Death": "Itu",
         "lastName": "Triossi"
       },
@@ -15397,7 +15397,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.81,
-        "dateOfDeath": "28/05/1892",
+        "dateOfDeath": "05/28/1892",
         "Place of Death": "Arlon",
         "lastName": "Sampers"
       },
@@ -15413,7 +15413,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.811,
-        "dateOfDeath": "30/05/1892",
+        "dateOfDeath": "05/30/1892",
         "Place of Death": "Quimpur",
         "lastName": "Scolan"
       },
@@ -15429,7 +15429,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.812,
-        "dateOfDeath": "30/05/1892",
+        "dateOfDeath": "05/30/1892",
         "Place of Death": "Anvers",
         "lastName": "van Tieghem"
       },
@@ -15445,7 +15445,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.813,
-        "dateOfDeath": "dd/06/1892",
+        "dateOfDeath": "06/dd/1892",
         "Place of Death": "Ranchi",
         "lastName": "Bodson"
       },
@@ -15461,7 +15461,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.814,
-        "dateOfDeath": "02/06/1892",
+        "dateOfDeath": "06/02/1892",
         "Place of Death": "Veruela",
         "lastName": "Rovira"
       },
@@ -15477,7 +15477,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.815,
-        "dateOfDeath": "02/06/1892",
+        "dateOfDeath": "06/02/1892",
         "Place of Death": "Veruela",
         "lastName": "Padr\u00ef\u00bf\u00bd"
       },
@@ -15493,7 +15493,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.816,
-        "dateOfDeath": "05/06/1892",
+        "dateOfDeath": "06/05/1892",
         "Place of Death": "Set\u00ef\u00bf\u00bdbal",
         "lastName": "Marques"
       },
@@ -15509,7 +15509,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.817,
-        "dateOfDeath": "05/06/1892",
+        "dateOfDeath": "06/05/1892",
         "Place of Death": "Castel Gandolfo",
         "lastName": "Pavia"
       },
@@ -15525,7 +15525,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.818,
-        "dateOfDeath": "08/06/1892",
+        "dateOfDeath": "06/08/1892",
         "Place of Death": "Tours",
         "lastName": "Lovis"
       },
@@ -15541,7 +15541,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.819,
-        "dateOfDeath": "10/06/1892",
+        "dateOfDeath": "06/10/1892",
         "Place of Death": "Detroit",
         "lastName": "Niederkorn"
       },
@@ -15557,7 +15557,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.82,
-        "dateOfDeath": "10/06/1892",
+        "dateOfDeath": "06/10/1892",
         "Place of Death": "Alexandria (Egypte)",
         "lastName": "R\u00ef\u00bf\u00bdtif"
       },
@@ -15573,7 +15573,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.821,
-        "dateOfDeath": "10/06/1892",
+        "dateOfDeath": "06/10/1892",
         "Place of Death": "Melbourne",
         "lastName": "Newman"
       },
@@ -15589,7 +15589,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.822,
-        "dateOfDeath": "11/06/1892",
+        "dateOfDeath": "06/11/1892",
         "Place of Death": "Nancy",
         "lastName": "Fetter"
       },
@@ -15605,7 +15605,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.823,
-        "dateOfDeath": "13/06/1892",
+        "dateOfDeath": "06/13/1892",
         "Place of Death": "Surabaya (Java)",
         "lastName": "Terwindt"
       },
@@ -15621,7 +15621,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.824,
-        "dateOfDeath": "13/06/1892",
+        "dateOfDeath": "06/13/1892",
         "Place of Death": "Itu",
         "lastName": "Giuliani"
       },
@@ -15637,7 +15637,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.825,
-        "dateOfDeath": "17/06/1892",
+        "dateOfDeath": "06/17/1892",
         "Place of Death": "St Mary's, Kans",
         "lastName": "Brown"
       },
@@ -15653,7 +15653,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.826,
-        "dateOfDeath": "19/06/1892",
+        "dateOfDeath": "06/19/1892",
         "Place of Death": "Dublin",
         "lastName": "Scully"
       },
@@ -15669,7 +15669,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.827,
-        "dateOfDeath": "21/06/1892",
+        "dateOfDeath": "06/21/1892",
         "Place of Death": "Pifo (Pichincha)",
         "lastName": "Sandoval"
       },
@@ -15685,7 +15685,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.828,
-        "dateOfDeath": "22/06/1892",
+        "dateOfDeath": "06/22/1892",
         "Place of Death": "La Habana",
         "lastName": "Ozalla"
       },
@@ -15701,7 +15701,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.829,
-        "dateOfDeath": "23/06/1892",
+        "dateOfDeath": "06/23/1892",
         "Place of Death": "Georgetown",
         "lastName": "Cotting"
       },
@@ -15717,7 +15717,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.83,
-        "dateOfDeath": "23/06/1892",
+        "dateOfDeath": "06/23/1892",
         "Place of Death": "Mantova",
         "lastName": "Predelli"
       },
@@ -15733,7 +15733,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.831,
-        "dateOfDeath": "26/06/1892",
+        "dateOfDeath": "06/26/1892",
         "Place of Death": "D\u00ef\u00bf\u00bdle",
         "lastName": "Richard"
       },
@@ -15749,7 +15749,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.832,
-        "dateOfDeath": "28/06/1892",
+        "dateOfDeath": "06/28/1892",
         "Place of Death": "Beyrouth",
         "lastName": "de Fonclayer"
       },
@@ -15765,7 +15765,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.833,
-        "dateOfDeath": "29/06/1892",
+        "dateOfDeath": "06/29/1892",
         "Place of Death": "Chieri",
         "lastName": "Arduino"
       },
@@ -15781,7 +15781,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.834,
-        "dateOfDeath": "30/06/1892",
+        "dateOfDeath": "06/30/1892",
         "Place of Death": "Lainz",
         "lastName": "Kulas"
       },
@@ -15797,7 +15797,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.835,
-        "dateOfDeath": "05/07/1892",
+        "dateOfDeath": "07/05/1892",
         "Place of Death": "Lille",
         "lastName": "Douce"
       },
@@ -15813,7 +15813,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.836,
-        "dateOfDeath": "09/07/1892",
+        "dateOfDeath": "07/09/1892",
         "Place of Death": "Guadalupe",
         "lastName": "Gonz\u00ef\u00bf\u00bdlez"
       },
@@ -15829,7 +15829,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.837,
-        "dateOfDeath": "09/07/1892",
+        "dateOfDeath": "07/09/1892",
         "Place of Death": "C\u00ef\u00bf\u00bdrdoba",
         "lastName": "Gonz\u00ef\u00bf\u00bdlez"
       },
@@ -15845,7 +15845,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.838,
-        "dateOfDeath": "10/07/1892",
+        "dateOfDeath": "07/10/1892",
         "Place of Death": "Paris",
         "lastName": "Charmillot"
       },
@@ -15861,7 +15861,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.839,
-        "dateOfDeath": "11/07/1892",
+        "dateOfDeath": "07/11/1892",
         "Place of Death": "Santiago de Chile",
         "lastName": "Morera"
       },
@@ -15877,7 +15877,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.84,
-        "dateOfDeath": "11/07/1892",
+        "dateOfDeath": "07/11/1892",
         "Place of Death": "St Louis",
         "lastName": "Wippern"
       },
@@ -15893,7 +15893,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.841,
-        "dateOfDeath": "12/07/1892",
+        "dateOfDeath": "07/12/1892",
         "Place of Death": "Albano (Roma)",
         "lastName": "Previti"
       },
@@ -15909,7 +15909,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.842,
-        "dateOfDeath": "12/07/1892",
+        "dateOfDeath": "07/12/1892",
         "Place of Death": "Inhambane (Mo\u00ef\u00bf\u00bdambique)",
         "lastName": "de Freitas"
       },
@@ -15925,7 +15925,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.843,
-        "dateOfDeath": "13/07/1892",
+        "dateOfDeath": "07/13/1892",
         "Place of Death": "Douai (Nord)",
         "lastName": "Catillion"
       },
@@ -15941,7 +15941,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.844,
-        "dateOfDeath": "13/07/1892",
+        "dateOfDeath": "07/13/1892",
         "Place of Death": "Tananarive",
         "lastName": "Mazards"
       },
@@ -15957,7 +15957,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.845,
-        "dateOfDeath": "14/07/1892",
+        "dateOfDeath": "07/14/1892",
         "Place of Death": "Bogot\u00ef\u00bf\u00bd",
         "lastName": "Aldecoa"
       },
@@ -15973,7 +15973,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.847,
-        "dateOfDeath": "14/07/1892",
+        "dateOfDeath": "07/14/1892",
         "Place of Death": "Stara Wies",
         "lastName": "Towianski"
       },
@@ -15989,7 +15989,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.848,
-        "dateOfDeath": "17/07/1892",
+        "dateOfDeath": "07/17/1892",
         "Place of Death": "Stonyhurst",
         "lastName": "Splaine"
       },
@@ -16005,7 +16005,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.849,
-        "dateOfDeath": "18/07/1892",
+        "dateOfDeath": "07/18/1892",
         "Place of Death": "Poona",
         "lastName": "Daling"
       },
@@ -16021,7 +16021,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.85,
-        "dateOfDeath": "26/07/1892",
+        "dateOfDeath": "07/26/1892",
         "Place of Death": "Toulouse",
         "lastName": "Lalardie"
       },
@@ -16037,7 +16037,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.851,
-        "dateOfDeath": "27/07/1892",
+        "dateOfDeath": "07/27/1892",
         "Place of Death": "Lod\u00ef\u00bf\u00bdve (H\u00ef\u00bf\u00bdrault)",
         "lastName": "Mazars"
       },
@@ -16053,7 +16053,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.852,
-        "dateOfDeath": "27/06/1892",
+        "dateOfDeath": "06/27/1892",
         "Place of Death": "Sigaboy (D\u00ef\u00bf\u00bdvao)",
         "lastName": "Pal\u00ef\u00bf\u00bdu"
       },
@@ -16069,7 +16069,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.853,
-        "dateOfDeath": "29/07/1892",
+        "dateOfDeath": "07/29/1892",
         "Place of Death": "Roehampton",
         "lastName": "Clifford"
       },
@@ -16085,7 +16085,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.854,
-        "dateOfDeath": "31/07/1892",
+        "dateOfDeath": "07/31/1892",
         "Place of Death": "St Louis",
         "lastName": "de Meester"
       },
@@ -16101,7 +16101,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.855,
-        "dateOfDeath": "01/08/1892",
+        "dateOfDeath": "08/01/1892",
         "Place of Death": "s'-Gravenhage",
         "lastName": "Zwakenberg"
       },
@@ -16117,7 +16117,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.856,
-        "dateOfDeath": "03/08/1892",
+        "dateOfDeath": "08/03/1892",
         "Place of Death": "Madrid",
         "lastName": "Fern\u00ef\u00bf\u00bdndez (Remesal)"
       },
@@ -16133,7 +16133,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.857,
-        "dateOfDeath": "04/08/1892",
+        "dateOfDeath": "08/04/1892",
         "Place of Death": "Ahmednagger (dc Poonen)",
         "lastName": "Jaques"
       },
@@ -16149,7 +16149,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.858,
-        "dateOfDeath": "05/08/1892",
+        "dateOfDeath": "08/05/1892",
         "Place of Death": "Dijon",
         "lastName": "B\u00ef\u00bf\u00bdgin"
       },
@@ -16165,7 +16165,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.859,
-        "dateOfDeath": "07/08/1892",
+        "dateOfDeath": "08/07/1892",
         "Place of Death": "Kalocsa",
         "lastName": "Weinert"
       },
@@ -16181,7 +16181,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.86,
-        "dateOfDeath": "12/08/1892",
+        "dateOfDeath": "08/12/1892",
         "Place of Death": "La Louvesc (Ard\u00ef\u00bf\u00bdche)",
         "lastName": "Chambellan"
       },
@@ -16197,7 +16197,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.861,
-        "dateOfDeath": "13/08/1892",
+        "dateOfDeath": "08/13/1892",
         "Place of Death": "St. Andr\u00ef\u00bf\u00bd",
         "lastName": "Neuhauser"
       },
@@ -16213,7 +16213,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.862,
-        "dateOfDeath": "18/08/1892",
+        "dateOfDeath": "08/18/1892",
         "Place of Death": "Fordham",
         "lastName": "Robertson"
       },
@@ -16229,7 +16229,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.863,
-        "dateOfDeath": "19/08/1892",
+        "dateOfDeath": "08/19/1892",
         "Place of Death": "Arlon",
         "lastName": "Lyons"
       },
@@ -16245,7 +16245,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.864,
-        "dateOfDeath": "23/08/1892",
+        "dateOfDeath": "08/23/1892",
         "Place of Death": "Corozal (Brit. Honduras)",
         "lastName": "Bosch"
       },
@@ -16261,7 +16261,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.865,
-        "dateOfDeath": "27/08/1892",
+        "dateOfDeath": "08/27/1892",
         "Place of Death": "Piacenza",
         "lastName": "Valenti"
       },
@@ -16277,7 +16277,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.866,
-        "dateOfDeath": "31/08/1892",
+        "dateOfDeath": "08/31/1892",
         "Place of Death": "Littlehampton (Sussex)",
         "lastName": "Boitte"
       },
@@ -16293,7 +16293,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.867,
-        "dateOfDeath": "05/09/1892",
+        "dateOfDeath": "09/05/1892",
         "Place of Death": "Quito",
         "lastName": "C\u00ef\u00bf\u00bdceres"
       },
@@ -16309,7 +16309,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.868,
-        "dateOfDeath": "05/09/1892",
+        "dateOfDeath": "09/05/1892",
         "Place of Death": "Prairie du Chien",
         "lastName": "Ehret"
       },
@@ -16325,7 +16325,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.869,
-        "dateOfDeath": "12/09/1892",
+        "dateOfDeath": "09/12/1892",
         "Place of Death": "Chieri",
         "lastName": "Baretto"
       },
@@ -16341,7 +16341,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.87,
-        "dateOfDeath": "16/09/1892",
+        "dateOfDeath": "09/16/1892",
         "Place of Death": "Oosterhout (N-Brabant)",
         "lastName": "Weetink"
       },
@@ -16357,7 +16357,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.871,
-        "dateOfDeath": "18/09/1892",
+        "dateOfDeath": "09/18/1892",
         "Place of Death": "Milange (Mo\u00ef\u00bf\u00bdambique)",
         "lastName": "Carvalho"
       },
@@ -16373,7 +16373,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.872,
-        "dateOfDeath": "18/09/1892",
+        "dateOfDeath": "09/18/1892",
         "Place of Death": "Gourlizon",
         "lastName": "Le Bars"
       },
@@ -16389,7 +16389,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.873,
-        "dateOfDeath": "19/09/1892",
+        "dateOfDeath": "09/19/1892",
         "Place of Death": "St. Fiel (Beira Baixa)",
         "lastName": "da Silva"
       },
@@ -16405,7 +16405,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.874,
-        "dateOfDeath": "19/09/1892",
+        "dateOfDeath": "09/19/1892",
         "Place of Death": "Courtrai",
         "lastName": "van der Linden"
       },
@@ -16421,7 +16421,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.875,
-        "dateOfDeath": "20/09/1892",
+        "dateOfDeath": "09/20/1892",
         "Place of Death": "Oudenbosch (N-Brabant)",
         "lastName": "Heynen"
       },
@@ -16437,7 +16437,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.876,
-        "dateOfDeath": "22/09/1892",
+        "dateOfDeath": "09/22/1892",
         "Place of Death": "Krak\u00ef\u00bf\u00bdw",
         "lastName": "Plaski"
       },
@@ -16453,7 +16453,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.877,
-        "dateOfDeath": "27/09/1892",
+        "dateOfDeath": "09/27/1892",
         "Place of Death": "Namur",
         "lastName": "Brabant"
       },
@@ -16469,7 +16469,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.878,
-        "dateOfDeath": "27/09/1892",
+        "dateOfDeath": "09/27/1892",
         "Place of Death": "Lainz",
         "lastName": "Dengel"
       },
@@ -16485,7 +16485,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.879,
-        "dateOfDeath": "30/09/1892",
+        "dateOfDeath": "09/30/1892",
         "Place of Death": "Chicago",
         "lastName": "Lusyterborgh"
       },
@@ -16501,7 +16501,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.88,
-        "dateOfDeath": "02/10/1892",
+        "dateOfDeath": "10/02/1892",
         "Place of Death": "Li\u00ef\u00bf\u00bdge",
         "lastName": "Reinerding"
       },
@@ -16517,7 +16517,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.881,
-        "dateOfDeath": "02/10/1892",
+        "dateOfDeath": "10/02/1892",
         "Place of Death": "Campolide",
         "lastName": "Moraes"
       },
@@ -16533,7 +16533,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.882,
-        "dateOfDeath": "05/10/1892",
+        "dateOfDeath": "10/05/1892",
         "Place of Death": "Roehampton",
         "lastName": "Faulkner"
       },
@@ -16549,7 +16549,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.883,
-        "dateOfDeath": "06/08/1892",
+        "dateOfDeath": "08/06/1892",
         "Place of Death": "La Paz",
         "lastName": "Garre P\u00ef\u00bf\u00bdrez"
       },
@@ -16565,7 +16565,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.884,
-        "dateOfDeath": "08/10/1892",
+        "dateOfDeath": "10/08/1892",
         "Place of Death": "s'-Gravenhage",
         "lastName": "van den Gheijn"
       },
@@ -16597,7 +16597,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.886,
-        "dateOfDeath": "12/10/1892",
+        "dateOfDeath": "10/12/1892",
         "Place of Death": "Guadalupe",
         "lastName": "Uriguen"
       },
@@ -16613,7 +16613,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.887,
-        "dateOfDeath": "13/10/1892",
+        "dateOfDeath": "10/13/1892",
         "Place of Death": "Troyes (Aube)",
         "lastName": "Jung"
       },
@@ -16629,7 +16629,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.888,
-        "dateOfDeath": "14/10/1892",
+        "dateOfDeath": "10/14/1892",
         "Place of Death": "Zamboanga (Mindanao)",
         "lastName": "Valldeperes"
       },
@@ -16645,7 +16645,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.889,
-        "dateOfDeath": "15/10/1892",
+        "dateOfDeath": "10/15/1892",
         "Place of Death": "Pena Pobre, Mex.",
         "lastName": "Reyes"
       },
@@ -16661,7 +16661,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.89,
-        "dateOfDeath": "15/10/1892",
+        "dateOfDeath": "10/15/1892",
         "Place of Death": "Stara Wies",
         "lastName": "Kozubek"
       },
@@ -16677,7 +16677,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.891,
-        "dateOfDeath": "18/10/1892",
+        "dateOfDeath": "10/18/1892",
         "Place of Death": "Roma",
         "lastName": "Liberatore"
       },
@@ -16693,7 +16693,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.892,
-        "dateOfDeath": "20/10/1892",
+        "dateOfDeath": "10/20/1892",
         "Place of Death": "Castel Gandolfo",
         "lastName": "Severi"
       },
@@ -16709,7 +16709,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.893,
-        "dateOfDeath": "22/10/1892",
+        "dateOfDeath": "10/22/1892",
         "Place of Death": "Castel Gandolfo",
         "lastName": "Malaspina"
       },
@@ -16725,7 +16725,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.894,
-        "dateOfDeath": "25/10/1892",
+        "dateOfDeath": "10/25/1892",
         "Place of Death": "S.Jose de Roquetas (Tortosa)",
         "lastName": "Mies"
       },
@@ -16741,7 +16741,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.895,
-        "dateOfDeath": "27/10/1892",
+        "dateOfDeath": "10/27/1892",
         "Place of Death": "Montevideo",
         "lastName": "Llado"
       },
@@ -16757,7 +16757,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.896,
-        "dateOfDeath": "27/10/1892",
+        "dateOfDeath": "10/27/1892",
         "Place of Death": "Mariendaal",
         "lastName": "Huink"
       },
@@ -16773,7 +16773,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.897,
-        "dateOfDeath": "30/10/1892",
+        "dateOfDeath": "10/30/1892",
         "Place of Death": "Arlon",
         "lastName": "Haeren"
       },
@@ -16789,7 +16789,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.898,
-        "dateOfDeath": "01/11/1892",
+        "dateOfDeath": "11/01/1892",
         "Place of Death": "Bratislava",
         "lastName": "Nadig"
       },
@@ -16805,7 +16805,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.899,
-        "dateOfDeath": "07/11/1892",
+        "dateOfDeath": "11/07/1892",
         "Place of Death": "Feldkirch",
         "lastName": "Piscalar"
       },
@@ -16821,7 +16821,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.9,
-        "dateOfDeath": "13/11/1892",
+        "dateOfDeath": "11/13/1892",
         "Place of Death": "Pifo (Pichincha)",
         "lastName": "Cano"
       },
@@ -16837,7 +16837,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.901,
-        "dateOfDeath": "14/11/1892",
+        "dateOfDeath": "11/14/1892",
         "Place of Death": "Dublin",
         "lastName": "Kelleher"
       },
@@ -16853,7 +16853,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.902,
-        "dateOfDeath": "15/11/1892",
+        "dateOfDeath": "11/15/1892",
         "Place of Death": "Klagenfurt (Karnten)",
         "lastName": "Kobler"
       },
@@ -16869,7 +16869,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.903,
-        "dateOfDeath": "20/11/1892",
+        "dateOfDeath": "11/20/1892",
         "Place of Death": "Charleroi",
         "lastName": "Denis"
       },
@@ -16885,7 +16885,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.904,
-        "dateOfDeath": "20/11/1892",
+        "dateOfDeath": "11/20/1892",
         "Place of Death": "Riobamba (Chimborazo)",
         "lastName": "Fonseca"
       },
@@ -16901,7 +16901,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.905,
-        "dateOfDeath": "20/11/1892",
+        "dateOfDeath": "11/20/1892",
         "Place of Death": "Cabuntog (Surigao)",
         "lastName": "Minoves"
       },
@@ -16917,7 +16917,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.906,
-        "dateOfDeath": "22/11/1892",
+        "dateOfDeath": "11/22/1892",
         "Place of Death": "Toledo, Ohio",
         "lastName": "Friderici"
       },
@@ -16933,7 +16933,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.907,
-        "dateOfDeath": "23/11/1892",
+        "dateOfDeath": "11/23/1892",
         "Place of Death": "Tiruchirapalli",
         "lastName": "Lafaye"
       },
@@ -16949,7 +16949,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.908,
-        "dateOfDeath": "25/11/1892",
+        "dateOfDeath": "11/25/1892",
         "Place of Death": "Bilbao",
         "lastName": "Cendoya"
       },
@@ -16965,7 +16965,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.909,
-        "dateOfDeath": "27/11/1892",
+        "dateOfDeath": "11/27/1892",
         "Place of Death": "Marseille",
         "lastName": "Aupecle"
       },
@@ -16981,7 +16981,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.91,
-        "dateOfDeath": "28/11/1892",
+        "dateOfDeath": "11/28/1892",
         "Place of Death": "Stara Wies",
         "lastName": "Klaput"
       },
@@ -16997,7 +16997,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.911,
-        "dateOfDeath": "28/11/1892",
+        "dateOfDeath": "11/28/1892",
         "Place of Death": "New Orleans",
         "lastName": "Mantegazzi"
       },
@@ -17013,7 +17013,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.912,
-        "dateOfDeath": "02/12/1892",
+        "dateOfDeath": "12/02/1892",
         "Place of Death": "Buffalo",
         "lastName": "Rother"
       },
@@ -17029,7 +17029,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.913,
-        "dateOfDeath": "02/12/1892",
+        "dateOfDeath": "12/02/1892",
         "Place of Death": "S.Fiel (Beira-Baixa)",
         "lastName": "Ferrao"
       },
@@ -17045,7 +17045,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.914,
-        "dateOfDeath": "08/12/1892",
+        "dateOfDeath": "12/08/1892",
         "Place of Death": "Napoli",
         "lastName": "Rossi"
       },
@@ -17061,7 +17061,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.915,
-        "dateOfDeath": "11/12/1892",
+        "dateOfDeath": "12/11/1892",
         "Place of Death": "Castres",
         "lastName": "de Resseguier"
       },
@@ -17093,7 +17093,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.917,
-        "dateOfDeath": "13/12/1892",
+        "dateOfDeath": "12/13/1892",
         "Place of Death": "Trnava",
         "lastName": "Kol"
       },
@@ -17109,7 +17109,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.918,
-        "dateOfDeath": "17/12/1892",
+        "dateOfDeath": "12/17/1892",
         "Place of Death": "Itu",
         "lastName": "Jemmi"
       },
@@ -17125,7 +17125,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.919,
-        "dateOfDeath": "18/12/1892",
+        "dateOfDeath": "12/18/1892",
         "Place of Death": "Charleroi",
         "lastName": "Van Den Eede"
       },
@@ -17141,7 +17141,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.92,
-        "dateOfDeath": "19/12/1892",
+        "dateOfDeath": "12/19/1892",
         "Place of Death": "North Yakima, Wash.",
         "lastName": "Laure"
       },
@@ -17157,7 +17157,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.921,
-        "dateOfDeath": "19/12/1892",
+        "dateOfDeath": "12/19/1892",
         "Place of Death": "Mariendaal",
         "lastName": "Gielen"
       },
@@ -17173,7 +17173,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.922,
-        "dateOfDeath": "21/12/1892",
+        "dateOfDeath": "12/21/1892",
         "Place of Death": "Roma",
         "lastName": "Vannucci"
       },
@@ -17189,7 +17189,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.923,
-        "dateOfDeath": "31/12/1892",
+        "dateOfDeath": "12/31/1892",
         "Place of Death": "Canterbury",
         "lastName": "Blanchard"
       },
@@ -17269,7 +17269,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.929,
-        "dateOfDeath": "02/01/1893",
+        "dateOfDeath": "01/02/1893",
         "Place of Death": "Stara Wies",
         "lastName": "Wawreczka"
       },
@@ -17285,7 +17285,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.93,
-        "dateOfDeath": "03/01/1893",
+        "dateOfDeath": "01/03/1893",
         "Place of Death": "Bombay",
         "lastName": "Oehry"
       },
@@ -17301,7 +17301,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.931,
-        "dateOfDeath": "03/01/1893",
+        "dateOfDeath": "01/03/1893",
         "Place of Death": "Quimper",
         "lastName": "(Aleno) de ST-Alouarn"
       },
@@ -17317,7 +17317,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.932,
-        "dateOfDeath": "05/01/1893",
+        "dateOfDeath": "01/05/1893",
         "Place of Death": "Charleroir",
         "lastName": "Meuret"
       },
@@ -17333,7 +17333,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.933,
-        "dateOfDeath": "05/01/1893",
+        "dateOfDeath": "01/05/1893",
         "Place of Death": "Aalbeek pr Valkenburg",
         "lastName": "Fritz"
       },
@@ -17349,7 +17349,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.935,
-        "dateOfDeath": "08/01/1893",
+        "dateOfDeath": "01/08/1893",
         "Place of Death": "Valencia",
         "lastName": "Vidal"
       },
@@ -17365,7 +17365,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.936,
-        "dateOfDeath": "09/01/1893",
+        "dateOfDeath": "01/09/1893",
         "Place of Death": "Montr\u00ef\u00bf\u00bdal",
         "lastName": "Rioux"
       },
@@ -17381,7 +17381,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.937,
-        "dateOfDeath": "10/01/1893",
+        "dateOfDeath": "01/10/1893",
         "Place of Death": "St. Andr\u00ef\u00bf\u00bd",
         "lastName": "Premuzic"
       },
@@ -17397,7 +17397,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.938,
-        "dateOfDeath": "11/01/1893",
+        "dateOfDeath": "01/11/1893",
         "Place of Death": "Caen (Calvados)",
         "lastName": "Dutau"
       },
@@ -17413,7 +17413,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.94,
-        "dateOfDeath": "11/01/1893",
+        "dateOfDeath": "01/11/1893",
         "Place of Death": "Huesca",
         "lastName": "Soler"
       },
@@ -17429,7 +17429,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.941,
-        "dateOfDeath": "12/01/1893",
+        "dateOfDeath": "01/12/1893",
         "Place of Death": "Loyola, Esp.",
         "lastName": "Jones"
       },
@@ -17445,7 +17445,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.942,
-        "dateOfDeath": "13/01/1893",
+        "dateOfDeath": "01/13/1893",
         "Place of Death": "Lyon",
         "lastName": "de Rochemure"
       },
@@ -17461,7 +17461,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.943,
-        "dateOfDeath": "13/01/1893",
+        "dateOfDeath": "01/13/1893",
         "Place of Death": "Sittard",
         "lastName": "(Oosterwyck) Veldhuis"
       },
@@ -17477,7 +17477,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.944,
-        "dateOfDeath": "14/01/1893",
+        "dateOfDeath": "01/14/1893",
         "Place of Death": "Kalksburg",
         "lastName": "Passmoser"
       },
@@ -17493,7 +17493,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.946,
-        "dateOfDeath": "23/01/1893",
+        "dateOfDeath": "01/23/1893",
         "Place of Death": "Ditton Hall (Lancashire)",
         "lastName": "O'Connor"
       },
@@ -17509,7 +17509,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.947,
-        "dateOfDeath": "25/01/1893",
+        "dateOfDeath": "01/25/1893",
         "Place of Death": "Milazzo (Messina)",
         "lastName": "Di Giorgio"
       },
@@ -17525,7 +17525,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.948,
-        "dateOfDeath": "25/01/1893",
+        "dateOfDeath": "01/25/1893",
         "Place of Death": "Madrid",
         "lastName": "Gonz\u00ef\u00bf\u00bdlez"
       },
@@ -17541,7 +17541,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.949,
-        "dateOfDeath": "26/01/1893",
+        "dateOfDeath": "01/26/1893",
         "Place of Death": "Aalbeek pr Valkenburg",
         "lastName": "Viehoff"
       },
@@ -17557,7 +17557,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.95,
-        "dateOfDeath": "27/01/1893",
+        "dateOfDeath": "01/27/1893",
         "Place of Death": "Bourges",
         "lastName": "(de la Dou\u00ef\u00bf\u00bdppe) Du Fougerais"
       },
@@ -17573,7 +17573,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.951,
-        "dateOfDeath": "27/01/1893",
+        "dateOfDeath": "01/27/1893",
         "Place of Death": "Carri\u00ef\u00bf\u00bdn",
         "lastName": "Perier"
       },
@@ -17589,7 +17589,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.952,
-        "dateOfDeath": "27/01/1893",
+        "dateOfDeath": "01/27/1893",
         "Place of Death": "Roma",
         "lastName": "Sanguineti"
       },
@@ -17605,7 +17605,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.953,
-        "dateOfDeath": "27/01/1893",
+        "dateOfDeath": "01/27/1893",
         "Place of Death": "Mantova",
         "lastName": "Duci"
       },
@@ -17621,7 +17621,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.954,
-        "dateOfDeath": "30/01/1893",
+        "dateOfDeath": "01/30/1893",
         "Place of Death": "Madrid",
         "lastName": "Maruri"
       },
@@ -17637,7 +17637,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.955,
-        "dateOfDeath": "30/01/1893",
+        "dateOfDeath": "01/30/1893",
         "Place of Death": "Dublin",
         "lastName": "Ginivan"
       },
@@ -17653,7 +17653,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.957,
-        "dateOfDeath": "01/02/1893",
+        "dateOfDeath": "02/01/1893",
         "Place of Death": "St-Lauren-des-Eaux (Loire-et-Ch)",
         "lastName": "Adam"
       },
@@ -17669,7 +17669,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.958,
-        "dateOfDeath": "01/02/1893",
+        "dateOfDeath": "02/01/1893",
         "Place of Death": "Beaumont (Berkshire)",
         "lastName": "Fraser"
       },
@@ -17685,7 +17685,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.96,
-        "dateOfDeath": "05/02/1893",
+        "dateOfDeath": "02/05/1893",
         "Place of Death": "Mantova",
         "lastName": "Campioli"
       },
@@ -17701,7 +17701,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.961,
-        "dateOfDeath": "05/02/1893",
+        "dateOfDeath": "02/05/1893",
         "Place of Death": "Palma de Mallorca",
         "lastName": "Llad\u00ef\u00bf\u00bd"
       },
@@ -17717,7 +17717,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.962,
-        "dateOfDeath": "10/02/1893",
+        "dateOfDeath": "02/10/1893",
         "Place of Death": "Tortosa",
         "lastName": "Morlanes"
       },
@@ -17733,7 +17733,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.963,
-        "dateOfDeath": "11/02/1893",
+        "dateOfDeath": "02/11/1893",
         "Place of Death": "Amiens",
         "lastName": "Fleaux"
       },
@@ -17749,7 +17749,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.964,
-        "dateOfDeath": "18/02/1893",
+        "dateOfDeath": "02/18/1893",
         "Place of Death": "Laval",
         "lastName": "de Beaumont"
       },
@@ -17765,7 +17765,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.965,
-        "dateOfDeath": "18/02/1893",
+        "dateOfDeath": "02/18/1893",
         "Place of Death": "Mariaschein",
         "lastName": "Dworz\u00ef\u00bf\u00bdk"
       },
@@ -17781,7 +17781,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.966,
-        "dateOfDeath": "18/02/1893",
+        "dateOfDeath": "02/18/1893",
         "Place of Death": "Tamatave (Madagascar)",
         "lastName": "Poulange"
       },
@@ -17797,7 +17797,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.967,
-        "dateOfDeath": "18/02/1893",
+        "dateOfDeath": "02/18/1893",
         "Place of Death": "Roehampton",
         "lastName": "Williams"
       },
@@ -17813,7 +17813,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.968,
-        "dateOfDeath": "19/02/1893",
+        "dateOfDeath": "02/19/1893",
         "Place of Death": "Louvain",
         "lastName": "Poppe"
       },
@@ -17829,7 +17829,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.969,
-        "dateOfDeath": "20/02/1893",
+        "dateOfDeath": "02/20/1893",
         "Place of Death": "Philadelphia",
         "lastName": "Nash"
       },
@@ -17845,7 +17845,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.97,
-        "dateOfDeath": "20/02/1893",
+        "dateOfDeath": "02/20/1893",
         "Place of Death": "St Mary's, Kans",
         "lastName": "O'Farrell"
       },
@@ -17861,7 +17861,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.971,
-        "dateOfDeath": "21/02/1893",
+        "dateOfDeath": "02/21/1893",
         "Place of Death": "Enghien",
         "lastName": "Delavenne"
       },
@@ -17877,7 +17877,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.972,
-        "dateOfDeath": "24/02/1893",
+        "dateOfDeath": "02/24/1893",
         "Place of Death": "Chieri",
         "lastName": "Cerutti"
       },
@@ -17893,7 +17893,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.973,
-        "dateOfDeath": "24/02/1893",
+        "dateOfDeath": "02/24/1893",
         "Place of Death": "Modena",
         "lastName": "Perini"
       },
@@ -17909,7 +17909,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.974,
-        "dateOfDeath": "27/02/1893",
+        "dateOfDeath": "02/27/1893",
         "Place of Death": "Krak\u00ef\u00bf\u00bdw",
         "lastName": "Kotowski"
       },
@@ -17925,7 +17925,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.975,
-        "dateOfDeath": "01/03/1893",
+        "dateOfDeath": "03/01/1893",
         "Place of Death": "Paris",
         "lastName": "Mazelier"
       },
@@ -17973,7 +17973,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.978,
-        "dateOfDeath": "05/03/1893",
+        "dateOfDeath": "03/05/1893",
         "Place of Death": "Alburquerque, N. Mex.",
         "lastName": "Paillou"
       },
@@ -17989,7 +17989,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.979,
-        "dateOfDeath": "05/03/1893",
+        "dateOfDeath": "03/05/1893",
         "Place of Death": "O\u00ef\u00bf\u00bda",
         "lastName": "Oregui"
       },
@@ -18005,7 +18005,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.98,
-        "dateOfDeath": "08/03/1893",
+        "dateOfDeath": "03/08/1893",
         "Place of Death": "Innsbruck",
         "lastName": "Tuzer"
       },
@@ -18021,7 +18021,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.981,
-        "dateOfDeath": "08/03/1893",
+        "dateOfDeath": "03/08/1893",
         "Place of Death": "S\u00ef\u00bf\u00bdo Leopoldo",
         "lastName": "Fratz"
       },
@@ -18037,7 +18037,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.982,
-        "dateOfDeath": "08/03/1893",
+        "dateOfDeath": "03/08/1893",
         "Place of Death": "Bogot\u00ef\u00bf\u00bd",
         "lastName": "Miranda"
       },
@@ -18053,7 +18053,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.983,
-        "dateOfDeath": "08/03/1893",
+        "dateOfDeath": "03/08/1893",
         "Place of Death": "Tronchiennes",
         "lastName": "van Hove"
       },
@@ -18069,7 +18069,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.984,
-        "dateOfDeath": "10/03/1893",
+        "dateOfDeath": "03/10/1893",
         "Place of Death": "Galveston, Tex.",
         "lastName": "Begley"
       },
@@ -18085,7 +18085,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.985,
-        "dateOfDeath": "10/03/1893",
+        "dateOfDeath": "03/10/1893",
         "Place of Death": "Florissant",
         "lastName": "Geekie"
       },
@@ -18101,7 +18101,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.986,
-        "dateOfDeath": "11/03/1893",
+        "dateOfDeath": "03/11/1893",
         "Place of Death": "S\u00ef\u00bf\u00bdo Leopoldo",
         "lastName": "de Schorlemer"
       },
@@ -18117,7 +18117,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.987,
-        "dateOfDeath": "12/03/1893",
+        "dateOfDeath": "03/12/1893",
         "Place of Death": "Manila",
         "lastName": "Bofill"
       },
@@ -18133,7 +18133,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.988,
-        "dateOfDeath": "12/03/1893",
+        "dateOfDeath": "03/12/1893",
         "Place of Death": "Ginat\u00ef\u00bf\u00bdan (Panay, Capiz)",
         "lastName": "Chamb\u00ef\u00bf\u00bd"
       },
@@ -18149,7 +18149,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.989,
-        "dateOfDeath": "18/03/1893",
+        "dateOfDeath": "03/18/1893",
         "Place of Death": "Li\u00ef\u00bf\u00bdge",
         "lastName": "Deham"
       },
@@ -18165,7 +18165,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.99,
-        "dateOfDeath": "18/03/1893",
+        "dateOfDeath": "03/18/1893",
         "Place of Death": "Tronchiennes",
         "lastName": "Weemaes"
       },
@@ -18181,7 +18181,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.991,
-        "dateOfDeath": "18/03/1893",
+        "dateOfDeath": "03/18/1893",
         "Place of Death": "Langgur (Tual, Kei-eilanden, Indonesia)",
         "lastName": "Klamer"
       },
@@ -18197,7 +18197,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.992,
-        "dateOfDeath": "20/03/1893",
+        "dateOfDeath": "03/20/1893",
         "Place of Death": "Feldkirch",
         "lastName": "Kolberg"
       },
@@ -18213,7 +18213,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.993,
-        "dateOfDeath": "20/03/1893",
+        "dateOfDeath": "03/20/1893",
         "Place of Death": "Guayaquil",
         "lastName": "L\u00ef\u00bf\u00bdpez"
       },
@@ -18229,7 +18229,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.994,
-        "dateOfDeath": "21/03/1893",
+        "dateOfDeath": "03/21/1893",
         "Place of Death": "Bel Alton, Md.",
         "lastName": "Macswyney"
       },
@@ -18245,7 +18245,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.995,
-        "dateOfDeath": "21/03/1893",
+        "dateOfDeath": "03/21/1893",
         "Place of Death": "Fort William, Ont.",
         "lastName": "Timmon"
       },
@@ -18261,7 +18261,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.996,
-        "dateOfDeath": "22/03/1893",
+        "dateOfDeath": "03/22/1893",
         "Place of Death": "Grahamstown (South Africa)",
         "lastName": "Manning"
       },
@@ -18277,7 +18277,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.997,
-        "dateOfDeath": "23/03/1893",
+        "dateOfDeath": "03/23/1893",
         "Place of Death": "Florissant",
         "lastName": "Portis"
       },
@@ -18293,7 +18293,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.998,
-        "dateOfDeath": "24/03/1893",
+        "dateOfDeath": "03/24/1893",
         "Place of Death": "Angers",
         "lastName": "Daudier"
       },
@@ -18309,7 +18309,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 7.999,
-        "dateOfDeath": "24/03/1893",
+        "dateOfDeath": "03/24/1893",
         "Place of Death": "St-Boniface, Man.",
         "lastName": "Rosselin"
       },
@@ -18325,7 +18325,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8,
-        "dateOfDeath": "25/03/1893",
+        "dateOfDeath": "03/25/1893",
         "Place of Death": "Grand Coteau",
         "lastName": "Flannery"
       },
@@ -18341,7 +18341,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.001,
-        "dateOfDeath": "26/03/1893",
+        "dateOfDeath": "03/26/1893",
         "Place of Death": "Blijenbeek (Limburg)",
         "lastName": "Kloft"
       },
@@ -18357,7 +18357,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.002,
-        "dateOfDeath": "28/03/1893",
+        "dateOfDeath": "03/28/1893",
         "Place of Death": "Napoli",
         "lastName": "De Rosa"
       },
@@ -18373,7 +18373,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.003,
-        "dateOfDeath": "28/03/1893",
+        "dateOfDeath": "03/28/1893",
         "Place of Death": "St. Louis",
         "lastName": "Stevens"
       },
@@ -18389,7 +18389,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.004,
-        "dateOfDeath": "30/03/1893",
+        "dateOfDeath": "03/30/1893",
         "Place of Death": "Beaumont (Berkshire)",
         "lastName": "Wolfe"
       },
@@ -18405,7 +18405,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.005,
-        "dateOfDeath": "31/03/1893",
+        "dateOfDeath": "03/31/1893",
         "Place of Death": "s-Gravenhage",
         "lastName": "Marijnen"
       },
@@ -18421,7 +18421,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.006,
-        "dateOfDeath": "01/04/1893",
+        "dateOfDeath": "04/01/1893",
         "Place of Death": "Poitiers",
         "lastName": "Fessard"
       },
@@ -18437,7 +18437,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.007,
-        "dateOfDeath": "05/04/1893",
+        "dateOfDeath": "04/05/1893",
         "Place of Death": "Stonyhurst",
         "lastName": "Tickell"
       },
@@ -18453,7 +18453,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.008,
-        "dateOfDeath": "06/04/1893",
+        "dateOfDeath": "04/06/1893",
         "Place of Death": "Detroit",
         "lastName": "Rimmele"
       },
@@ -18469,7 +18469,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.009,
-        "dateOfDeath": "06/04/1893",
+        "dateOfDeath": "04/06/1893",
         "Place of Death": "Butuan (Surigao)",
         "lastName": "Terricabras"
       },
@@ -18485,7 +18485,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.01,
-        "dateOfDeath": "07/04/1893",
+        "dateOfDeath": "04/07/1893",
         "Place of Death": "Innsbruck",
         "lastName": "Ott"
       },
@@ -18501,7 +18501,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.011,
-        "dateOfDeath": "07/04/1893",
+        "dateOfDeath": "04/07/1893",
         "Place of Death": "Paris",
         "lastName": "Sonderer"
       },
@@ -18517,7 +18517,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.012,
-        "dateOfDeath": "08/04/1893",
+        "dateOfDeath": "04/08/1893",
         "Place of Death": "Lille",
         "lastName": "Kolb"
       },
@@ -18533,7 +18533,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.013,
-        "dateOfDeath": "08/04/1893",
+        "dateOfDeath": "04/08/1893",
         "Place of Death": "Loyola",
         "lastName": "Olarra"
       },
@@ -18549,7 +18549,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.014,
-        "dateOfDeath": "09/04/1893",
+        "dateOfDeath": "04/09/1893",
         "Place of Death": "Campolide",
         "lastName": "da Silva"
       },
@@ -18565,7 +18565,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.015,
-        "dateOfDeath": "11/04/1893",
+        "dateOfDeath": "04/11/1893",
         "Place of Death": "Napoli",
         "lastName": "Tommasi"
       },
@@ -18581,7 +18581,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.016,
-        "dateOfDeath": "11/04/1893",
+        "dateOfDeath": "04/11/1893",
         "Place of Death": "San Francisco",
         "lastName": "Gerlach"
       },
@@ -18597,7 +18597,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.017,
-        "dateOfDeath": "11/04/1893",
+        "dateOfDeath": "04/11/1893",
         "Place of Death": "Trnava",
         "lastName": "Kaufler"
       },
@@ -18613,7 +18613,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.018,
-        "dateOfDeath": "13/04/1893",
+        "dateOfDeath": "04/13/1893",
         "Place of Death": "Roehampton",
         "lastName": "Coleridge"
       },
@@ -18629,7 +18629,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.019,
-        "dateOfDeath": "15/04/1893",
+        "dateOfDeath": "04/15/1893",
         "Place of Death": "Manresa",
         "lastName": "Quilez"
       },
@@ -18645,7 +18645,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.02,
-        "dateOfDeath": "16/04/1893",
+        "dateOfDeath": "04/16/1893",
         "Place of Death": "Roma",
         "lastName": "Cocumelli"
       },
@@ -18661,7 +18661,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.021,
-        "dateOfDeath": "19/03/1893",
+        "dateOfDeath": "03/19/1893",
         "Place of Death": "Loyola, Esp.",
         "lastName": "Minasi"
       },
@@ -18677,7 +18677,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.022,
-        "dateOfDeath": "19/04/1893",
+        "dateOfDeath": "04/19/1893",
         "Place of Death": "Moresnet (Liege)",
         "lastName": "Riswick"
       },
@@ -18693,7 +18693,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.024,
-        "dateOfDeath": "21/04/1893",
+        "dateOfDeath": "04/21/1893",
         "Place of Death": "Cienfuegos (Cuba)",
         "lastName": "Sarriortuzar"
       },
@@ -18709,7 +18709,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.025,
-        "dateOfDeath": "21/04/1893",
+        "dateOfDeath": "04/21/1893",
         "Place of Death": "Bordeaux",
         "lastName": "Balmadier"
       },
@@ -18725,7 +18725,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.026,
-        "dateOfDeath": "25/04/1893",
+        "dateOfDeath": "04/25/1893",
         "Place of Death": "Piacenza",
         "lastName": "Spisi"
       },
@@ -18741,7 +18741,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.027,
-        "dateOfDeath": "26/04/1893",
+        "dateOfDeath": "04/26/1893",
         "Place of Death": "Aracachon (Gironde)",
         "lastName": "de St-Maixent"
       },
@@ -18757,7 +18757,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.028,
-        "dateOfDeath": "26/04/1893",
+        "dateOfDeath": "04/26/1893",
         "Place of Death": "Njimegen",
         "lastName": "van der Berg"
       },
@@ -18773,7 +18773,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.029,
-        "dateOfDeath": "01/05/1893",
+        "dateOfDeath": "05/01/1893",
         "Place of Death": "Versailles",
         "lastName": "Bleuzen"
       },
@@ -18789,7 +18789,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.03,
-        "dateOfDeath": "02/05/1893",
+        "dateOfDeath": "05/02/1893",
         "Place of Death": "Stonyhurst",
         "lastName": "Mercer"
       },
@@ -18805,7 +18805,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.031,
-        "dateOfDeath": "03/05/1893",
+        "dateOfDeath": "05/03/1893",
         "Place of Death": "Beyrouth",
         "lastName": "Gonnet"
       },
@@ -18821,7 +18821,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.032,
-        "dateOfDeath": "08/05/1893",
+        "dateOfDeath": "05/08/1893",
         "Place of Death": "Fort William, Ont.",
         "lastName": "Hebert"
       },
@@ -18837,7 +18837,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.033,
-        "dateOfDeath": "08/05/1893",
+        "dateOfDeath": "05/08/1893",
         "Place of Death": "Alost",
         "lastName": "Vercruysse"
       },
@@ -18853,7 +18853,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.034,
-        "dateOfDeath": "09/05/1893",
+        "dateOfDeath": "05/09/1893",
         "Place of Death": "Kodaikanal",
         "lastName": "Pradier"
       },
@@ -18869,7 +18869,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.035,
-        "dateOfDeath": "10/05/1893",
+        "dateOfDeath": "05/10/1893",
         "Place of Death": "Angers",
         "lastName": "Cornuau"
       },
@@ -18885,7 +18885,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.036,
-        "dateOfDeath": "10/05/1893",
+        "dateOfDeath": "05/10/1893",
         "Place of Death": "Paray-le-Monial",
         "lastName": "Darlin"
       },
@@ -18901,7 +18901,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.037,
-        "dateOfDeath": "12/05/1893",
+        "dateOfDeath": "05/12/1893",
         "Place of Death": "Namur",
         "lastName": "Lipstadt"
       },
@@ -18917,7 +18917,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.038,
-        "dateOfDeath": "15/05/1896",
+        "dateOfDeath": "05/15/1896",
         "Place of Death": "Dole",
         "lastName": "Buchaillat"
       },
@@ -18933,7 +18933,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.039,
-        "dateOfDeath": "16/05/1893",
+        "dateOfDeath": "05/16/1893",
         "Place of Death": "St. Helier",
         "lastName": "Morvan"
       },
@@ -18949,7 +18949,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.04,
-        "dateOfDeath": "17/05/1893",
+        "dateOfDeath": "05/17/1893",
         "Place of Death": "Lainz",
         "lastName": "Gregor"
       },
@@ -18965,7 +18965,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.041,
-        "dateOfDeath": "18/05/1893",
+        "dateOfDeath": "05/18/1893",
         "Place of Death": "Napoli",
         "lastName": "D'Errico"
       },
@@ -18981,7 +18981,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.042,
-        "dateOfDeath": "19/05/1893",
+        "dateOfDeath": "05/19/1893",
         "Place of Death": "Marigliano (Caserta)",
         "lastName": "Manigrasso"
       },
@@ -18997,7 +18997,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.043,
-        "dateOfDeath": "25/05/1893",
+        "dateOfDeath": "05/25/1893",
         "Place of Death": "Ancud (Chiloe)",
         "lastName": "Schwerter"
       },
@@ -19013,7 +19013,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.044,
-        "dateOfDeath": "26/05/1893",
+        "dateOfDeath": "05/26/1893",
         "Place of Death": "Valencia",
         "lastName": "Casals"
       },
@@ -19029,7 +19029,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.045,
-        "dateOfDeath": "29/05/1893",
+        "dateOfDeath": "05/29/1893",
         "Place of Death": "Amiens",
         "lastName": "Desmons"
       },
@@ -19045,7 +19045,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.046,
-        "dateOfDeath": "29/05/1893",
+        "dateOfDeath": "05/29/1893",
         "Place of Death": "Arcachon (Gironde)",
         "lastName": "Vons"
       },
@@ -19061,7 +19061,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.047,
-        "dateOfDeath": "29/05/1893",
+        "dateOfDeath": "05/29/1893",
         "Place of Death": "Tronchiennes",
         "lastName": "Botte"
       },
@@ -19077,7 +19077,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.048,
-        "dateOfDeath": "29/05/1893",
+        "dateOfDeath": "05/29/1893",
         "Place of Death": "Toulouse",
         "lastName": "Monnier"
       },
@@ -19093,7 +19093,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.049,
-        "dateOfDeath": "31/05/1893",
+        "dateOfDeath": "05/31/1893",
         "Place of Death": "Sta. Clara",
         "lastName": "Casserly"
       },
@@ -19109,7 +19109,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.05,
-        "dateOfDeath": "31/05/1893",
+        "dateOfDeath": "05/31/1893",
         "Place of Death": "Charleroi",
         "lastName": "De Boever"
       },
@@ -19125,7 +19125,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.051,
-        "dateOfDeath": "01/06/1893",
+        "dateOfDeath": "06/01/1893",
         "Place of Death": "St-Germain-en-Laye (Seine-et-O)",
         "lastName": "Le Falher"
       },
@@ -19141,7 +19141,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.052,
-        "dateOfDeath": "03/06/1893",
+        "dateOfDeath": "06/03/1893",
         "Place of Death": "Verviers",
         "lastName": "Baltus"
       },
@@ -19157,7 +19157,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.053,
-        "dateOfDeath": "05/06/1893",
+        "dateOfDeath": "06/05/1893",
         "Place of Death": "Bandra",
         "lastName": "Allseits"
       },
@@ -19189,7 +19189,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.055,
-        "dateOfDeath": "10/06/1893",
+        "dateOfDeath": "06/10/1893",
         "Place of Death": "Burgos",
         "lastName": "Mendia"
       },
@@ -19205,7 +19205,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.056,
-        "dateOfDeath": "11/06/1893",
+        "dateOfDeath": "06/11/1893",
         "Place of Death": "Nemiao (Kwango)",
         "lastName": "Dumont"
       },
@@ -19221,7 +19221,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.057,
-        "dateOfDeath": "11/06/1893",
+        "dateOfDeath": "06/11/1893",
         "Place of Death": "Maastricht",
         "lastName": "van Rijckevorsel"
       },
@@ -19237,7 +19237,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.058,
-        "dateOfDeath": "11/06/1893",
+        "dateOfDeath": "06/11/1893",
         "Place of Death": "Chyrow, USSR",
         "lastName": "Malewicz"
       },
@@ -19253,7 +19253,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.059,
-        "dateOfDeath": "13/06/1893",
+        "dateOfDeath": "06/13/1893",
         "Place of Death": "Messina",
         "lastName": "Nalbone"
       },
@@ -19269,7 +19269,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.06,
-        "dateOfDeath": "14/06/1893",
+        "dateOfDeath": "06/14/1893",
         "Place of Death": "Macon, Ga",
         "lastName": "Hubert"
       },
@@ -19285,7 +19285,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.061,
-        "dateOfDeath": "15/06/1893",
+        "dateOfDeath": "06/15/1893",
         "Place of Death": "Quebec",
         "lastName": "Resther"
       },
@@ -19301,7 +19301,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.062,
-        "dateOfDeath": "18/06/1893",
+        "dateOfDeath": "06/18/1893",
         "Place of Death": "Toulouse",
         "lastName": "Lecointe"
       },
@@ -19317,7 +19317,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.063,
-        "dateOfDeath": "19/06/1893",
+        "dateOfDeath": "06/19/1893",
         "Place of Death": "St.Andra",
         "lastName": "Prediger"
       },
@@ -19333,7 +19333,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.064,
-        "dateOfDeath": "22/06/1893",
+        "dateOfDeath": "06/22/1893",
         "Place of Death": "Georgetown",
         "lastName": "Rimbaugh"
       },
@@ -19349,7 +19349,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.065,
-        "dateOfDeath": "24/06/1893",
+        "dateOfDeath": "06/24/1893",
         "Place of Death": "Oostacker (Fl Or)",
         "lastName": "Lievens"
       },
@@ -19365,7 +19365,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.066,
-        "dateOfDeath": "26/06/1893",
+        "dateOfDeath": "06/26/1893",
         "Place of Death": "St.Helier",
         "lastName": "de Baglion"
       },
@@ -19381,7 +19381,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.067,
-        "dateOfDeath": "28/06/1893",
+        "dateOfDeath": "06/28/1893",
         "Place of Death": "Lille",
         "lastName": "Ropers"
       },
@@ -19397,7 +19397,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.068,
-        "dateOfDeath": "29/06/1893",
+        "dateOfDeath": "06/29/1893",
         "Place of Death": "Monaco",
         "lastName": "Talongo"
       },
@@ -19413,7 +19413,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.069,
-        "dateOfDeath": "30/06/1893",
+        "dateOfDeath": "06/30/1893",
         "Place of Death": "Bordeaux",
         "lastName": "Serviere"
       },
@@ -19429,7 +19429,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.07,
-        "dateOfDeath": "08/07/1893",
+        "dateOfDeath": "07/08/1893",
         "Place of Death": "Liverpool",
         "lastName": "Johnson"
       },
@@ -19445,7 +19445,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.071,
-        "dateOfDeath": "08/07/1893",
+        "dateOfDeath": "07/08/1893",
         "Place of Death": "S.Fiel (Beira-Baixa)",
         "lastName": "Guitterres"
       },
@@ -19461,7 +19461,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.072,
-        "dateOfDeath": "08/07/1893",
+        "dateOfDeath": "07/08/1893",
         "Place of Death": "Paris",
         "lastName": "Hourdeau"
       },
@@ -19477,7 +19477,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.073,
-        "dateOfDeath": "12/07/1893",
+        "dateOfDeath": "07/12/1893",
         "Place of Death": "Napoli",
         "lastName": "Barbella"
       },
@@ -19493,7 +19493,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.074,
-        "dateOfDeath": "15/07/1893",
+        "dateOfDeath": "07/15/1893",
         "Place of Death": "Montbard (Cote-d'O)",
         "lastName": "Vangeon"
       },
@@ -19509,7 +19509,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.075,
-        "dateOfDeath": "15/07/1893",
+        "dateOfDeath": "07/15/1893",
         "Place of Death": "Tronchiennes",
         "lastName": "Lambrecht"
       },
@@ -19525,7 +19525,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.076,
-        "dateOfDeath": "19/07/1893",
+        "dateOfDeath": "07/19/1893",
         "Place of Death": "Namur",
         "lastName": "Gengler"
       },
@@ -19541,7 +19541,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.077,
-        "dateOfDeath": "21/07/1893",
+        "dateOfDeath": "07/21/1893",
         "Place of Death": "Sta.Fe, Arg",
         "lastName": "Pumarola"
       },
@@ -19557,7 +19557,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.078,
-        "dateOfDeath": "22/07/1893",
+        "dateOfDeath": "07/22/1893",
         "Place of Death": "Louvain",
         "lastName": "Steyaert"
       },
@@ -19573,7 +19573,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.079,
-        "dateOfDeath": "24/07/1893",
+        "dateOfDeath": "07/24/1893",
         "Place of Death": "Lierre (Anvers)",
         "lastName": "Isacq"
       },
@@ -19589,7 +19589,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.08,
-        "dateOfDeath": "24/07/1893",
+        "dateOfDeath": "07/24/1893",
         "Place of Death": "La Habana",
         "lastName": "Vines"
       },
@@ -19605,7 +19605,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.081,
-        "dateOfDeath": "24/07/1893",
+        "dateOfDeath": "07/24/1893",
         "Place of Death": "Sta.Clara",
         "lastName": "Lynch"
       },
@@ -19621,7 +19621,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.083,
-        "dateOfDeath": "26/07/1893",
+        "dateOfDeath": "07/26/1893",
         "Place of Death": "Barcelona",
         "lastName": "Debant"
       },
@@ -19637,7 +19637,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.084,
-        "dateOfDeath": "28/07/1893",
+        "dateOfDeath": "07/28/1893",
         "Place of Death": "Beyrouth",
         "lastName": "V\u00ef\u00bf\u00bdtault"
       },
@@ -19653,7 +19653,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.085,
-        "dateOfDeath": "29/07/1893",
+        "dateOfDeath": "07/29/1893",
         "Place of Death": "La Habana",
         "lastName": "Bola\u00ef\u00bf\u00bdos Garc\u00ef\u00bf\u00bda"
       },
@@ -19669,7 +19669,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.086,
-        "dateOfDeath": "29/07/1893",
+        "dateOfDeath": "07/29/1893",
         "Place of Death": "Tronchiennes",
         "lastName": "Ghyoot"
       },
@@ -19685,7 +19685,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.087,
-        "dateOfDeath": "30/07/1893",
+        "dateOfDeath": "07/30/1893",
         "Place of Death": "Carri\u00ef\u00bf\u00bdn",
         "lastName": "Pell\u00ef\u00bf\u00bdn"
       },
@@ -19701,7 +19701,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.088,
-        "dateOfDeath": "01/08/1893",
+        "dateOfDeath": "08/01/1893",
         "Place of Death": "Marigliano (Caserta)",
         "lastName": "Blois"
       },
@@ -19717,7 +19717,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.089,
-        "dateOfDeath": "06/08/1893",
+        "dateOfDeath": "08/06/1893",
         "Place of Death": "Dunbrody (South Africa)",
         "lastName": "Curry"
       },
@@ -19749,7 +19749,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.091,
-        "dateOfDeath": "03/08/1893",
+        "dateOfDeath": "08/03/1893",
         "Place of Death": "Alost",
         "lastName": "De Temmerman"
       },
@@ -19765,7 +19765,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.092,
-        "dateOfDeath": "13/08/1893",
+        "dateOfDeath": "08/13/1893",
         "Place of Death": "Bordeaux",
         "lastName": "Blanchard"
       },
@@ -19781,7 +19781,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.095,
-        "dateOfDeath": "24/08/1893",
+        "dateOfDeath": "08/24/1893",
         "Place of Death": "Montr\u00ef\u00bf\u00bdal",
         "lastName": "Joubert"
       },
@@ -19797,7 +19797,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.096,
-        "dateOfDeath": "28/08/1893",
+        "dateOfDeath": "08/28/1893",
         "Place of Death": "St. Helier",
         "lastName": "Potiron"
       },
@@ -19813,7 +19813,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.097,
-        "dateOfDeath": "28/08/1893",
+        "dateOfDeath": "08/28/1893",
         "Place of Death": "Blijenbeek (Limburg)",
         "lastName": "Passmann"
       },
@@ -19829,7 +19829,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.098,
-        "dateOfDeath": "29/08/1893",
+        "dateOfDeath": "08/29/1893",
         "Place of Death": "Egham (Surrey)",
         "lastName": "Harper"
       },
@@ -19845,7 +19845,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.099,
-        "dateOfDeath": "29/08/1893",
+        "dateOfDeath": "08/29/1893",
         "Place of Death": "Chieri",
         "lastName": "Ballerino"
       },
@@ -19861,7 +19861,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.1,
-        "dateOfDeath": "29/08/1893",
+        "dateOfDeath": "08/29/1893",
         "Place of Death": "Macon, Ga.",
         "lastName": "Todt"
       },
@@ -19877,7 +19877,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.101,
-        "dateOfDeath": "31/08/1893",
+        "dateOfDeath": "08/31/1893",
         "Place of Death": "Buenos Aires",
         "lastName": "Labayru"
       },
@@ -19893,7 +19893,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.102,
-        "dateOfDeath": "31/08/1893",
+        "dateOfDeath": "08/31/1893",
         "Place of Death": "Betafo (Madagascar)",
         "lastName": "Souche"
       },
@@ -19909,7 +19909,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.103,
-        "dateOfDeath": "02/09/1893",
+        "dateOfDeath": "09/02/1893",
         "Place of Death": "Sta. Venera (Malta)",
         "lastName": "Amico"
       },
@@ -19925,7 +19925,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.104,
-        "dateOfDeath": "03/09/1893",
+        "dateOfDeath": "09/03/1893",
         "Place of Death": "La Louvesc (Ard\u00ef\u00bf\u00bdche)",
         "lastName": "Bonhomme"
       },
@@ -19941,7 +19941,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.105,
-        "dateOfDeath": "03/09/1893",
+        "dateOfDeath": "09/03/1893",
         "Place of Death": "Lille",
         "lastName": "Beureux"
       },
@@ -19957,7 +19957,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.106,
-        "dateOfDeath": "04/09/1893",
+        "dateOfDeath": "09/04/1893",
         "Place of Death": "Mobile",
         "lastName": "O'Connor"
       },
@@ -19973,7 +19973,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.107,
-        "dateOfDeath": "04/09/1893",
+        "dateOfDeath": "09/04/1893",
         "Place of Death": "Barcelona",
         "lastName": "Codinach"
       },
@@ -19989,7 +19989,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.108,
-        "dateOfDeath": "06/09/1893",
+        "dateOfDeath": "09/06/1893",
         "Place of Death": "Linz",
         "lastName": "Aigner"
       },
@@ -20005,7 +20005,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.109,
-        "dateOfDeath": "06/09/1893",
+        "dateOfDeath": "09/06/1893",
         "Place of Death": "Mendoza",
         "lastName": "Garriga"
       },
@@ -20037,7 +20037,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.111,
-        "dateOfDeath": "10/09/1893",
+        "dateOfDeath": "09/10/1893",
         "Place of Death": "Grahamstown (South Africa)",
         "lastName": "Thomas"
       },
@@ -20053,7 +20053,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.112,
-        "dateOfDeath": "12/09/1893",
+        "dateOfDeath": "09/12/1893",
         "Place of Death": "Campolide",
         "lastName": "\u00ef\u00bf\u00bdlvarez"
       },
@@ -20069,7 +20069,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.113,
-        "dateOfDeath": "12/09/1893",
+        "dateOfDeath": "09/12/1893",
         "Place of Death": "Zahl\u00ef\u00bf\u00bd",
         "lastName": "Bouchet"
       },
@@ -20085,7 +20085,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.114,
-        "dateOfDeath": "14/09/1893",
+        "dateOfDeath": "09/14/1893",
         "Place of Death": "Makassar (Celebes)",
         "lastName": "Calon"
       },
@@ -20101,7 +20101,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.115,
-        "dateOfDeath": "14/09/1893",
+        "dateOfDeath": "09/14/1893",
         "Place of Death": "Lons-le-Saulnier (Jura)",
         "lastName": "Donjon"
       },
@@ -20117,7 +20117,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.116,
-        "dateOfDeath": "15/09/1893",
+        "dateOfDeath": "09/15/1893",
         "Place of Death": "Toledo, Ohio",
         "lastName": "Kamp"
       },
@@ -20133,7 +20133,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.117,
-        "dateOfDeath": "18/09/1893",
+        "dateOfDeath": "09/18/1893",
         "Place of Death": "in via Milange (Mo\u00ef\u00bf\u00bdambique)",
         "lastName": "Loubi\u00ef\u00bf\u00bdre"
       },
@@ -20149,7 +20149,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.118,
-        "dateOfDeath": "18/09/1893",
+        "dateOfDeath": "09/18/1893",
         "Place of Death": "Montr\u00ef\u00bf\u00bdal",
         "lastName": "Lapointe"
       },
@@ -20165,7 +20165,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.12,
-        "dateOfDeath": "22/09/1893",
+        "dateOfDeath": "09/22/1893",
         "Place of Death": "La Habana",
         "lastName": "Iriatre"
       },
@@ -20181,7 +20181,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.121,
-        "dateOfDeath": "24/09/1893",
+        "dateOfDeath": "09/24/1893",
         "Place of Death": "Milano",
         "lastName": "Fenili"
       },
@@ -20197,7 +20197,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.122,
-        "dateOfDeath": "26/09/1893",
+        "dateOfDeath": "09/26/1893",
         "Place of Death": "in Milange (Mo\u00ef\u00bf\u00bdambique)",
         "lastName": "Perrodin"
       },
@@ -20213,7 +20213,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.123,
-        "dateOfDeath": "27/09/1893",
+        "dateOfDeath": "09/27/1893",
         "Place of Death": "Anvers",
         "lastName": "van Derker"
       },
@@ -20229,7 +20229,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.124,
-        "dateOfDeath": "29/09/1893",
+        "dateOfDeath": "09/29/1893",
         "Place of Death": "Dublin",
         "lastName": "Curtis"
       },
@@ -20245,7 +20245,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.125,
-        "dateOfDeath": "03/10/1893",
+        "dateOfDeath": "10/03/1893",
         "Place of Death": "Manila",
         "lastName": "Vi\u00ef\u00bf\u00bdals"
       },
@@ -20261,7 +20261,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.126,
-        "dateOfDeath": "03/10/1893",
+        "dateOfDeath": "10/03/1893",
         "Place of Death": "Bordeaux",
         "lastName": "Candeloup"
       },
@@ -20277,7 +20277,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.127,
-        "dateOfDeath": "04/10/1893",
+        "dateOfDeath": "10/04/1893",
         "Place of Death": "Padova",
         "lastName": "Capelli"
       },
@@ -20293,7 +20293,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.128,
-        "dateOfDeath": "04/10/1893",
+        "dateOfDeath": "10/04/1893",
         "Place of Death": "Quelimane (Mo\u00ef\u00bf\u00bdambique)",
         "lastName": "Ferreira"
       },
@@ -20309,7 +20309,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.129,
-        "dateOfDeath": "05/10/1893",
+        "dateOfDeath": "10/05/1893",
         "Place of Death": "Feldkirch",
         "lastName": "Fischer"
       },
@@ -20325,7 +20325,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.13,
-        "dateOfDeath": "05/10/1893",
+        "dateOfDeath": "10/05/1893",
         "Place of Death": "El Palo",
         "lastName": "Mata"
       },
@@ -20341,7 +20341,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.131,
-        "dateOfDeath": "07/10/1893",
+        "dateOfDeath": "10/07/1893",
         "Place of Death": "Colville, Wash",
         "lastName": "Duross"
       },
@@ -20373,7 +20373,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.134,
-        "dateOfDeath": "13/10/1893",
+        "dateOfDeath": "10/13/1893",
         "Place of Death": "Mongr\u00ef\u00bf\u00bd (Rh\u00ef\u00bf\u00bdne)",
         "lastName": "Noir"
       },
@@ -20389,7 +20389,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.135,
-        "dateOfDeath": "17/10/1893",
+        "dateOfDeath": "10/17/1893",
         "Place of Death": "Beaumont (Berkshire)",
         "lastName": "(Griffith) Wynne"
       },
@@ -20405,7 +20405,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.136,
-        "dateOfDeath": "19/10/1893",
+        "dateOfDeath": "10/19/1893",
         "Place of Death": "Avignon",
         "lastName": "Bonnemaison"
       },
@@ -20421,7 +20421,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.137,
-        "dateOfDeath": "20/10/1893",
+        "dateOfDeath": "10/20/1893",
         "Place of Death": "Grand Coteau",
         "lastName": "Sauz\u00ef\u00bf\u00bdat"
       },
@@ -20437,7 +20437,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.138,
-        "dateOfDeath": "21/10/1893",
+        "dateOfDeath": "10/21/1893",
         "Place of Death": "Sittard",
         "lastName": "Haenen"
       },
@@ -20453,7 +20453,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.139,
-        "dateOfDeath": "21/10/1893",
+        "dateOfDeath": "10/21/1893",
         "Place of Death": "Baltimore",
         "lastName": "Heichemer"
       },
@@ -20469,7 +20469,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.14,
-        "dateOfDeath": "21/10/1893",
+        "dateOfDeath": "10/21/1893",
         "Place of Death": "Sevenhill, S.A.",
         "lastName": "Schreiner"
       },
@@ -20485,7 +20485,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.141,
-        "dateOfDeath": "22/10/1893",
+        "dateOfDeath": "10/22/1893",
         "Place of Death": "Wimbledon",
         "lastName": "Morris"
       },
@@ -20501,7 +20501,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.142,
-        "dateOfDeath": "24/10/1893",
+        "dateOfDeath": "10/24/1893",
         "Place of Death": "Louvain",
         "lastName": "Vrindts"
       },
@@ -20517,7 +20517,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.143,
-        "dateOfDeath": "30/10/1893",
+        "dateOfDeath": "10/30/1893",
         "Place of Death": "Vannes",
         "lastName": "Duperron"
       },
@@ -20533,7 +20533,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.144,
-        "dateOfDeath": "30/10/1893",
+        "dateOfDeath": "10/30/1893",
         "Place of Death": "Nowy Sacz",
         "lastName": "Zielinski"
       },
@@ -20549,7 +20549,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.145,
-        "dateOfDeath": "01/11/1893",
+        "dateOfDeath": "11/01/1893",
         "Place of Death": "Adeikalabouram",
         "lastName": "Rodr\u00ef\u00bf\u00bdguez"
       },
@@ -20565,7 +20565,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.146,
-        "dateOfDeath": "03/11/1893",
+        "dateOfDeath": "11/03/1893",
         "Place of Death": "Anvers",
         "lastName": "Fierens"
       },
@@ -20581,7 +20581,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.147,
-        "dateOfDeath": "07/11/1893",
+        "dateOfDeath": "11/07/1893",
         "Place of Death": "Louvain",
         "lastName": "Lievens"
       },
@@ -20597,7 +20597,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.148,
-        "dateOfDeath": "08/11/1893",
+        "dateOfDeath": "11/08/1893",
         "Place of Death": "Roma",
         "lastName": "Solari"
       },
@@ -20613,7 +20613,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.149,
-        "dateOfDeath": "09/11/1893",
+        "dateOfDeath": "11/09/1893",
         "Place of Death": "Krak\u00ef\u00bf\u00bdw",
         "lastName": "Koczorowski"
       },
@@ -20629,7 +20629,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.15,
-        "dateOfDeath": "10/11/1893",
+        "dateOfDeath": "11/10/1893",
         "Place of Death": "Torino",
         "lastName": "Franco"
       },
@@ -20645,7 +20645,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.151,
-        "dateOfDeath": "10/11/1893",
+        "dateOfDeath": "11/10/1893",
         "Place of Death": "Alexandria (Egypte)",
         "lastName": "Melhem"
       },
@@ -20677,7 +20677,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.153,
-        "dateOfDeath": "13/11/1893",
+        "dateOfDeath": "11/13/1893",
         "Place of Death": "Laval",
         "lastName": "Gourv\u00ef\u00bf\u00bdnec"
       },
@@ -20693,7 +20693,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.154,
-        "dateOfDeath": "14/11/1893",
+        "dateOfDeath": "11/14/1893",
         "Place of Death": "Chapinero",
         "lastName": "Manzano"
       },
@@ -20709,7 +20709,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.155,
-        "dateOfDeath": "15/11/1893",
+        "dateOfDeath": "11/15/1893",
         "Place of Death": "Oaxaca",
         "lastName": "Jorna"
       },
@@ -20725,7 +20725,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.156,
-        "dateOfDeath": "21/11/1893",
+        "dateOfDeath": "11/21/1893",
         "Place of Death": "Aalbeek pr Valkenburg",
         "lastName": "Dolfinger"
       },
@@ -20741,7 +20741,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.157,
-        "dateOfDeath": "23/11/1893",
+        "dateOfDeath": "11/23/1893",
         "Place of Death": "Vico Equense (Napoli)",
         "lastName": "Zuppa"
       },
@@ -20757,7 +20757,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.158,
-        "dateOfDeath": "24/11/1893",
+        "dateOfDeath": "11/24/1893",
         "Place of Death": "Washington",
         "lastName": "Ciampi"
       },
@@ -20773,7 +20773,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.159,
-        "dateOfDeath": "28/11/1893",
+        "dateOfDeath": "11/28/1893",
         "Place of Death": "Sayda",
         "lastName": "Berton"
       },
@@ -20789,7 +20789,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.16,
-        "dateOfDeath": "01/12/1893",
+        "dateOfDeath": "12/01/1893",
         "Place of Death": "Tronchiennes",
         "lastName": "Blocq"
       },
@@ -20805,7 +20805,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.161,
-        "dateOfDeath": "02/12/1893",
+        "dateOfDeath": "12/02/1893",
         "Place of Death": "Ordu\u00ef\u00bf\u00bda",
         "lastName": "Iturrioz"
       },
@@ -20821,7 +20821,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.162,
-        "dateOfDeath": "04/12/1893",
+        "dateOfDeath": "12/04/1893",
         "Place of Death": "Innsbruck",
         "lastName": "Malfatti"
       },
@@ -20837,7 +20837,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.163,
-        "dateOfDeath": "08/12/1893",
+        "dateOfDeath": "12/08/1893",
         "Place of Death": "Ditton Hall (Lancashire)",
         "lastName": "Gras"
       },
@@ -20853,7 +20853,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.164,
-        "dateOfDeath": "11/12/1893",
+        "dateOfDeath": "12/11/1893",
         "Place of Death": "St-\u00ef\u00bf\u00bdtienne",
         "lastName": "Bronne"
       },
@@ -20869,7 +20869,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.165,
-        "dateOfDeath": "11/12/1893",
+        "dateOfDeath": "12/11/1893",
         "Place of Death": "Pau.",
         "lastName": "de Bar"
       },
@@ -20885,7 +20885,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.166,
-        "dateOfDeath": "11/12/1893",
+        "dateOfDeath": "12/11/1893",
         "Place of Death": "St. Andr\u00ef\u00bf\u00bd",
         "lastName": "Hoeller"
       },
@@ -20901,7 +20901,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.167,
-        "dateOfDeath": "13/12/1893",
+        "dateOfDeath": "12/13/1893",
         "Place of Death": "Roma",
         "lastName": "Berardinelli"
       },
@@ -20917,7 +20917,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.168,
-        "dateOfDeath": "13/12/1893",
+        "dateOfDeath": "12/13/1893",
         "Place of Death": "Nowy Sacz",
         "lastName": "Gamon"
       },
@@ -20933,7 +20933,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.169,
-        "dateOfDeath": "14/12/1893",
+        "dateOfDeath": "12/14/1893",
         "Place of Death": "Covilh\u00ef\u00bf\u00bd",
         "lastName": "Vitale"
       },
@@ -20949,7 +20949,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.17,
-        "dateOfDeath": "14/12/1893",
+        "dateOfDeath": "12/14/1893",
         "Place of Death": "Chyr\u00ef\u00bf\u00bdw, USSR",
         "lastName": "W\u00ef\u00bf\u00bdjcikowski"
       },
@@ -20965,7 +20965,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.171,
-        "dateOfDeath": "14/12/1893",
+        "dateOfDeath": "12/14/1893",
         "Place of Death": "Dublin",
         "lastName": "Azzopradi"
       },
@@ -20981,7 +20981,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.172,
-        "dateOfDeath": "15/12/1893",
+        "dateOfDeath": "12/15/1893",
         "Place of Death": "Lille",
         "lastName": "Cordonnier"
       },
@@ -20997,7 +20997,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.173,
-        "dateOfDeath": "15/12/1893",
+        "dateOfDeath": "12/15/1893",
         "Place of Death": "Mariataferl, N.\u00ef\u00bf\u00bd.",
         "lastName": "Hoeller"
       },
@@ -21013,7 +21013,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.174,
-        "dateOfDeath": "16/12/1893",
+        "dateOfDeath": "12/16/1893",
         "Place of Death": "Valladolid",
         "lastName": "Colina"
       },
@@ -21029,7 +21029,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.175,
-        "dateOfDeath": "17/12/1893",
+        "dateOfDeath": "12/17/1893",
         "Place of Death": "Mariataferl, N.\u00ef\u00bf\u00bd.",
         "lastName": "Janalik"
       },
@@ -21045,7 +21045,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.176,
-        "dateOfDeath": "18/12/1893",
+        "dateOfDeath": "12/18/1893",
         "Place of Death": "Piacenza",
         "lastName": "Fontana"
       },
@@ -21061,7 +21061,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.177,
-        "dateOfDeath": "19/12/1893",
+        "dateOfDeath": "12/19/1893",
         "Place of Death": "Surigao",
         "lastName": "Mor\u00ef\u00bf\u00bd"
       },
@@ -21077,7 +21077,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.178,
-        "dateOfDeath": "22/12/1893",
+        "dateOfDeath": "12/22/1893",
         "Place of Death": "Sta. Fe, Arg.",
         "lastName": "Freixes"
       },
@@ -21093,7 +21093,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.179,
-        "dateOfDeath": "24/12/1893",
+        "dateOfDeath": "12/24/1893",
         "Place of Death": "Prairie du Chien",
         "lastName": "Brenner"
       },
@@ -21109,7 +21109,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.18,
-        "dateOfDeath": "26/12/1893",
+        "dateOfDeath": "12/26/1893",
         "Place of Death": "Paris",
         "lastName": "de R\u00ef\u00bf\u00bdgnon"
       },
@@ -21125,7 +21125,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.181,
-        "dateOfDeath": "27/12/1893",
+        "dateOfDeath": "12/27/1893",
         "Place of Death": "Prairie du Chien",
         "lastName": "Jenn"
       },
@@ -21141,7 +21141,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.182,
-        "dateOfDeath": "30/12/1893",
+        "dateOfDeath": "12/30/1893",
         "Place of Death": "Kalksburg",
         "lastName": "Ranzmaier"
       },
@@ -21157,7 +21157,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.183,
-        "dateOfDeath": "02/01/1894",
+        "dateOfDeath": "01/02/1894",
         "Place of Death": "Beyrouth",
         "lastName": "Lovasco"
       },
@@ -21173,7 +21173,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.184,
-        "dateOfDeath": "04/01/1894",
+        "dateOfDeath": "01/04/1894",
         "Place of Death": "Roma",
         "lastName": "Coari"
       },
@@ -21189,7 +21189,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.185,
-        "dateOfDeath": "05/01/1894",
+        "dateOfDeath": "01/05/1894",
         "Place of Death": "Pifo (Pichincha)",
         "lastName": "Aguerreche"
       },
@@ -21205,7 +21205,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.186,
-        "dateOfDeath": "06/01/1894",
+        "dateOfDeath": "01/06/1894",
         "Place of Death": "Sault-au-R\u00ef\u00bf\u00bdcollet",
         "lastName": "Couture"
       },
@@ -21221,7 +21221,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.187,
-        "dateOfDeath": "07/01/1894",
+        "dateOfDeath": "01/07/1894",
         "Place of Death": "Santa Cruz (Rio Gr. do Sul)",
         "lastName": "Kressibuch"
       },
@@ -21237,7 +21237,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.188,
-        "dateOfDeath": "07/01/1894",
+        "dateOfDeath": "01/07/1894",
         "Place of Death": "Tronchiennes",
         "lastName": "Sch\u00ef\u00bf\u00bdnen"
       },
@@ -21253,7 +21253,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.189,
-        "dateOfDeath": "08/01/1894",
+        "dateOfDeath": "01/08/1894",
         "Place of Death": "Tronchiennes",
         "lastName": "Moonen"
       },
@@ -21269,7 +21269,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.19,
-        "dateOfDeath": "09/01/1894",
+        "dateOfDeath": "01/09/1894",
         "Place of Death": "Roehampton",
         "lastName": "Walford"
       },
@@ -21285,7 +21285,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.191,
-        "dateOfDeath": "10/01/1894",
+        "dateOfDeath": "01/10/1894",
         "Place of Death": "Tuticorin",
         "lastName": "Amirdanader"
       },
@@ -21301,7 +21301,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.192,
-        "dateOfDeath": "10/01/1894",
+        "dateOfDeath": "01/10/1894",
         "Place of Death": "Guayaquil",
         "lastName": "Garate"
       },
@@ -21317,7 +21317,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.193,
-        "dateOfDeath": "11/01/1894",
+        "dateOfDeath": "01/11/1894",
         "Place of Death": "Avignon",
         "lastName": "Besson"
       },
@@ -21333,7 +21333,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.194,
-        "dateOfDeath": "11/01/1894",
+        "dateOfDeath": "01/11/1894",
         "Place of Death": "Anvers",
         "lastName": "de Wolf"
       },
@@ -21349,7 +21349,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.195,
-        "dateOfDeath": "12/01/1894",
+        "dateOfDeath": "01/12/1894",
         "Place of Death": "Tronchiennes",
         "lastName": "de Loose"
       },
@@ -21365,7 +21365,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.197,
-        "dateOfDeath": "14/01/1894",
+        "dateOfDeath": "01/14/1894",
         "Place of Death": "St-\u00ef\u00bf\u00bdtienne",
         "lastName": "Servier"
       },
@@ -21381,7 +21381,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.198,
-        "dateOfDeath": "15/01/1894",
+        "dateOfDeath": "01/15/1894",
         "Place of Death": "Dubrovnik (Dalmacija)",
         "lastName": "Budinich"
       },
@@ -21397,7 +21397,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.199,
-        "dateOfDeath": "15/01/1894",
+        "dateOfDeath": "01/15/1894",
         "Place of Death": "Boston",
         "lastName": "Macelroy"
       },
@@ -21413,7 +21413,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.2,
-        "dateOfDeath": "18/01/1894",
+        "dateOfDeath": "01/18/1894",
         "Place of Death": "Inhambane (Mo\u00ef\u00bf\u00bdambique)",
         "lastName": "Courtois"
       },
@@ -21429,7 +21429,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.201,
-        "dateOfDeath": "18/01/1894",
+        "dateOfDeath": "01/18/1894",
         "Place of Death": "Li\u00ef\u00bf\u00bdge",
         "lastName": "van Eeckhoven"
       },
@@ -21445,7 +21445,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.202,
-        "dateOfDeath": "22/01/1894",
+        "dateOfDeath": "01/22/1894",
         "Place of Death": "Mongr\u00ef\u00bf\u00bd (Rh\u00ef\u00bf\u00bdne)",
         "lastName": "Bougeon"
       },
@@ -21461,7 +21461,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.203,
-        "dateOfDeath": "22/01/1894",
+        "dateOfDeath": "01/22/1894",
         "Place of Death": "Murcia",
         "lastName": "Vincenti"
       },
@@ -21477,7 +21477,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.204,
-        "dateOfDeath": "22/01/1894",
+        "dateOfDeath": "01/22/1894",
         "Place of Death": "Zahl\u00ef\u00bf\u00bd",
         "lastName": "Fayard"
       },
@@ -21493,7 +21493,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.205,
-        "dateOfDeath": "23/01/1894",
+        "dateOfDeath": "01/23/1894",
         "Place of Death": "Vannes",
         "lastName": "Bailleul"
       },
@@ -21509,7 +21509,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.206,
-        "dateOfDeath": "24/01/1894",
+        "dateOfDeath": "01/24/1894",
         "Place of Death": "Itu",
         "lastName": "Gentili"
       },
@@ -21525,7 +21525,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.207,
-        "dateOfDeath": "26/01/1894",
+        "dateOfDeath": "01/26/1894",
         "Place of Death": "Paris",
         "lastName": "Bazin"
       },
@@ -21541,7 +21541,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.208,
-        "dateOfDeath": "28/01/1894",
+        "dateOfDeath": "01/28/1894",
         "Place of Death": "C\u00ef\u00bf\u00bdrdoba",
         "lastName": "Llad\u00ef\u00bf\u00bd"
       },
@@ -21557,7 +21557,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.209,
-        "dateOfDeath": "30/01/1894",
+        "dateOfDeath": "01/30/1894",
         "Place of Death": "Ternopol; USSR",
         "lastName": "Boeger"
       },
@@ -21573,7 +21573,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.21,
-        "dateOfDeath": "30/01/1894",
+        "dateOfDeath": "01/30/1894",
         "Place of Death": "Chicago",
         "lastName": "Boudreaux"
       },
@@ -21589,7 +21589,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.211,
-        "dateOfDeath": "31/01/1894",
+        "dateOfDeath": "01/31/1894",
         "Place of Death": "Zumbo (Mo\u00ef\u00bf\u00bdambique)",
         "lastName": "Czimmermann"
       },
@@ -21605,7 +21605,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.212,
-        "dateOfDeath": "31/01/1894",
+        "dateOfDeath": "01/31/1894",
         "Place of Death": "Vleischfontein (South Africa)",
         "lastName": "Temming"
       },
@@ -21637,7 +21637,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.214,
-        "dateOfDeath": "03/02/1894",
+        "dateOfDeath": "02/03/1894",
         "Place of Death": "San Luis Potosi",
         "lastName": "Velazquez"
       },
@@ -21653,7 +21653,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.215,
-        "dateOfDeath": "04/02/1894",
+        "dateOfDeath": "02/04/1894",
         "Place of Death": "Roma",
         "lastName": "Bellenghi"
       },
@@ -21669,7 +21669,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.216,
-        "dateOfDeath": "06/02/1894",
+        "dateOfDeath": "02/06/1894",
         "Place of Death": "Aalbeek pr Valkenburg",
         "lastName": "Holzem"
       },
@@ -21685,7 +21685,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.217,
-        "dateOfDeath": "07/02/1894",
+        "dateOfDeath": "02/07/1894",
         "Place of Death": "Frederick",
         "lastName": "Murphy"
       },
@@ -21701,7 +21701,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.218,
-        "dateOfDeath": "07/02/1894",
+        "dateOfDeath": "02/07/1894",
         "Place of Death": "Lille",
         "lastName": "Le Moal"
       },
@@ -21717,7 +21717,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.219,
-        "dateOfDeath": "08/12/1894",
+        "dateOfDeath": "12/08/1894",
         "Place of Death": "Tronchiennes",
         "lastName": "Fennis"
       },
@@ -21733,7 +21733,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.22,
-        "dateOfDeath": "09/02/1894",
+        "dateOfDeath": "02/09/1894",
         "Place of Death": "Jerez de la Fr",
         "lastName": "Delgado"
       },
@@ -21749,7 +21749,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.221,
-        "dateOfDeath": "10/02/1894",
+        "dateOfDeath": "02/10/1894",
         "Place of Death": "Alost",
         "lastName": "Van De Weyer"
       },
@@ -21765,7 +21765,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.222,
-        "dateOfDeath": "10/02/1894",
+        "dateOfDeath": "02/10/1894",
         "Place of Death": "Cannes (Alpes-M)",
         "lastName": "Blanc"
       },
@@ -21781,7 +21781,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.223,
-        "dateOfDeath": "12/02/1894",
+        "dateOfDeath": "02/12/1894",
         "Place of Death": "Lainz",
         "lastName": "Kozeny"
       },
@@ -21797,7 +21797,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.224,
-        "dateOfDeath": "12/02/1894",
+        "dateOfDeath": "02/12/1894",
         "Place of Death": "Stonyhurst",
         "lastName": "Picinich"
       },
@@ -21813,7 +21813,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.225,
-        "dateOfDeath": "14/09/1894",
+        "dateOfDeath": "09/14/1894",
         "Place of Death": "Toulouse",
         "lastName": "Picou"
       },
@@ -21829,7 +21829,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.227,
-        "dateOfDeath": "17/02/1894",
+        "dateOfDeath": "02/17/1894",
         "Place of Death": "Poitiers",
         "lastName": "Dagorn"
       },
@@ -21845,7 +21845,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.228,
-        "dateOfDeath": "17/02/1894",
+        "dateOfDeath": "02/17/1894",
         "Place of Death": "Cannes (Alpes-M)",
         "lastName": "Heritier"
       },
@@ -21861,7 +21861,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.229,
-        "dateOfDeath": "20/02/1894",
+        "dateOfDeath": "02/20/1894",
         "Place of Death": "Pamplona",
         "lastName": "Aizcorbe"
       },
@@ -21877,7 +21877,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.231,
-        "dateOfDeath": "21/02/1894",
+        "dateOfDeath": "02/21/1894",
         "Place of Death": "Mantova",
         "lastName": "Borzaga"
       },
@@ -21893,7 +21893,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.232,
-        "dateOfDeath": "21/02/1894",
+        "dateOfDeath": "02/21/1894",
         "Place of Death": "Poitiers",
         "lastName": "Riot"
       },
@@ -21909,7 +21909,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.233,
-        "dateOfDeath": "25/02/1894",
+        "dateOfDeath": "02/25/1894",
         "Place of Death": "Sevilla",
         "lastName": "Cabello"
       },
@@ -21925,7 +21925,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.234,
-        "dateOfDeath": "27/02/1894",
+        "dateOfDeath": "02/27/1894",
         "Place of Death": "Mariendaal",
         "lastName": "de Bruyn"
       },
@@ -21941,7 +21941,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.235,
-        "dateOfDeath": "28/02/1894",
+        "dateOfDeath": "02/28/1894",
         "Place of Death": "Roma",
         "lastName": "Belli"
       },
@@ -21957,7 +21957,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.236,
-        "dateOfDeath": "01/03/1894",
+        "dateOfDeath": "03/01/1894",
         "Place of Death": "Lyon",
         "lastName": "Deleage"
       },
@@ -22005,7 +22005,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.239,
-        "dateOfDeath": "04/03/1894",
+        "dateOfDeath": "03/04/1894",
         "Place of Death": "Blijenbeek (Limburg)",
         "lastName": "de Weber"
       },
@@ -22021,7 +22021,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.24,
-        "dateOfDeath": "05/03/1894",
+        "dateOfDeath": "03/05/1894",
         "Place of Death": "Kalocsa",
         "lastName": "Nemeth"
       },
@@ -22037,7 +22037,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.241,
-        "dateOfDeath": "06/03/1894",
+        "dateOfDeath": "03/06/1894",
         "Place of Death": "Florissant",
         "lastName": "Votel"
       },
@@ -22053,7 +22053,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.242,
-        "dateOfDeath": "09/03/1894",
+        "dateOfDeath": "03/09/1894",
         "Place of Death": "Sarlat",
         "lastName": "Trincal"
       },
@@ -22069,7 +22069,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.243,
-        "dateOfDeath": "14/05/1894",
+        "dateOfDeath": "05/14/1894",
         "Place of Death": "Manila",
         "lastName": "Canovas"
       },
@@ -22085,7 +22085,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.244,
-        "dateOfDeath": "14/03/1894",
+        "dateOfDeath": "03/14/1894",
         "Place of Death": "Avignon",
         "lastName": "Magnin"
       },
@@ -22101,7 +22101,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.245,
-        "dateOfDeath": "14/03/1894",
+        "dateOfDeath": "03/14/1894",
         "Place of Death": "Marienbosch",
         "lastName": "Oppermann"
       },
@@ -22117,7 +22117,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.246,
-        "dateOfDeath": "15/03/1894",
+        "dateOfDeath": "03/15/1894",
         "Place of Death": "St. Helier",
         "lastName": "Gouriou"
       },
@@ -22133,7 +22133,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.247,
-        "dateOfDeath": "15/03/1894",
+        "dateOfDeath": "03/15/1894",
         "Place of Death": "Santa Cruz (Rio Gr. do Sul)",
         "lastName": "Strahl"
       },
@@ -22149,7 +22149,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.248,
-        "dateOfDeath": "17/03/1894",
+        "dateOfDeath": "03/17/1894",
         "Place of Death": "Sta. Fe, Arg",
         "lastName": "Matheu"
       },
@@ -22165,7 +22165,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.25,
-        "dateOfDeath": "18/03/1894",
+        "dateOfDeath": "03/18/1894",
         "Place of Death": "Dublin",
         "lastName": "Maguire"
       },
@@ -22181,7 +22181,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.251,
-        "dateOfDeath": "19/03/1894",
+        "dateOfDeath": "03/19/1894",
         "Place of Death": "San Jose, Calif.",
         "lastName": "Simonitsch"
       },
@@ -22197,7 +22197,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.252,
-        "dateOfDeath": "24/03/1894",
+        "dateOfDeath": "03/24/1894",
         "Place of Death": "Loyola",
         "lastName": "Echave"
       },
@@ -22213,7 +22213,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.253,
-        "dateOfDeath": "26/03/1894",
+        "dateOfDeath": "03/26/1894",
         "Place of Death": "Poitiers",
         "lastName": "Brotelande"
       },
@@ -22229,7 +22229,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.254,
-        "dateOfDeath": "27/03/1894",
+        "dateOfDeath": "03/27/1894",
         "Place of Death": "C\u00ef\u00bf\u00bdrdoba, Arg.",
         "lastName": "Terra"
       },
@@ -22245,7 +22245,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.255,
-        "dateOfDeath": "28/03/1894",
+        "dateOfDeath": "03/28/1894",
         "Place of Death": "Alger",
         "lastName": "Plantaz"
       },
@@ -22261,7 +22261,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.257,
-        "dateOfDeath": "30/03/1894",
+        "dateOfDeath": "03/30/1894",
         "Place of Death": "Lille",
         "lastName": "de Lage"
       },
@@ -22277,7 +22277,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.258,
-        "dateOfDeath": "30/03/1894",
+        "dateOfDeath": "03/30/1894",
         "Place of Death": "Tudela",
         "lastName": "Egu\u00ef\u00bf\u00bdluz"
       },
@@ -22293,7 +22293,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.259,
-        "dateOfDeath": "31/03/1894",
+        "dateOfDeath": "03/31/1894",
         "Place of Death": "Ternopl, USSR",
         "lastName": "Pyra"
       },
@@ -22309,7 +22309,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.26,
-        "dateOfDeath": "02/04/1894",
+        "dateOfDeath": "04/02/1894",
         "Place of Death": "St. Andra",
         "lastName": "Ilg"
       },
@@ -22325,7 +22325,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.261,
-        "dateOfDeath": "04/03/1894",
+        "dateOfDeath": "03/04/1894",
         "Place of Death": "Valencia",
         "lastName": "Estruch"
       },
@@ -22341,7 +22341,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.262,
-        "dateOfDeath": "06/04/1894",
+        "dateOfDeath": "04/06/1894",
         "Place of Death": "Rouen",
         "lastName": "Esteve"
       },
@@ -22357,7 +22357,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.263,
-        "dateOfDeath": "07/04/1894",
+        "dateOfDeath": "04/07/1894",
         "Place of Death": "Cremona",
         "lastName": "Vaccari"
       },
@@ -22373,7 +22373,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.264,
-        "dateOfDeath": "09/04/1894",
+        "dateOfDeath": "04/09/1894",
         "Place of Death": "Paris",
         "lastName": "Dosenbach"
       },
@@ -22389,7 +22389,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.265,
-        "dateOfDeath": "09/04/1894",
+        "dateOfDeath": "04/09/1894",
         "Place of Death": "Culenborg",
         "lastName": "Van den Anker"
       },
@@ -22405,7 +22405,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.266,
-        "dateOfDeath": "11/04/1894",
+        "dateOfDeath": "04/11/1894",
         "Place of Death": "Paris",
         "lastName": "Viguier"
       },
@@ -22421,7 +22421,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.267,
-        "dateOfDeath": "12/04/1894",
+        "dateOfDeath": "04/12/1894",
         "Place of Death": "Tortosa",
         "lastName": "Costa"
       },
@@ -22437,7 +22437,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.268,
-        "dateOfDeath": "12/04/1894",
+        "dateOfDeath": "04/12/1894",
         "Place of Death": "Palayamkottai",
         "lastName": "Dayriam"
       },
@@ -22453,7 +22453,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 6.269,
-        "dateOfDeath": "13/04/1894",
+        "dateOfDeath": "04/13/1894",
         "Place of Death": "Louvain",
         "lastName": "Van Kuik"
       },
@@ -22469,7 +22469,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.27,
-        "dateOfDeath": "17/04/1894",
+        "dateOfDeath": "04/17/1894",
         "Place of Death": "Carri\u00ef\u00bf\u00bdn",
         "lastName": "Aramend\u00ef\u00bf\u00bda"
       },
@@ -22485,7 +22485,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.271,
-        "dateOfDeath": "18/04/1894",
+        "dateOfDeath": "04/18/1894",
         "Place of Death": "Charleroi",
         "lastName": "Molloy"
       },
@@ -22501,7 +22501,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.272,
-        "dateOfDeath": "18/04/1894",
+        "dateOfDeath": "04/18/1894",
         "Place of Death": "Marigliano (Castera)",
         "lastName": "Spinelli"
       },
@@ -22517,7 +22517,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.274,
-        "dateOfDeath": "19/04/1894",
+        "dateOfDeath": "04/19/1894",
         "Place of Death": "Brescia",
         "lastName": "Parizzi"
       },
@@ -22533,7 +22533,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.275,
-        "dateOfDeath": "20/04/1894",
+        "dateOfDeath": "04/20/1894",
         "Place of Death": "Clongowes (Kildare)",
         "lastName": "Maguire"
       },
@@ -22549,7 +22549,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.276,
-        "dateOfDeath": "20/04/1894",
+        "dateOfDeath": "04/20/1894",
         "Place of Death": "Alost",
         "lastName": "Van Vooren"
       },
@@ -22565,7 +22565,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.277,
-        "dateOfDeath": "21/04/1894",
+        "dateOfDeath": "04/21/1894",
         "Place of Death": "Napoli",
         "lastName": "Palumbo"
       },
@@ -22581,7 +22581,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.278,
-        "dateOfDeath": "26/05/1894",
+        "dateOfDeath": "05/26/1894",
         "Place of Death": "Cannes (Alpes-M)",
         "lastName": "Martinov"
       },
@@ -22597,7 +22597,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.279,
-        "dateOfDeath": "03/05/1894",
+        "dateOfDeath": "05/03/1894",
         "Place of Death": "Beyrouth",
         "lastName": "Pietri"
       },
@@ -22629,7 +22629,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.281,
-        "dateOfDeath": "07/05/1894",
+        "dateOfDeath": "05/07/1894",
         "Place of Death": "Stonyhurst",
         "lastName": "Young"
       },
@@ -22645,7 +22645,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.282,
-        "dateOfDeath": "09/05/1894",
+        "dateOfDeath": "05/09/1894",
         "Place of Death": "Florissant",
         "lastName": "Duggan"
       },
@@ -22661,7 +22661,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.283,
-        "dateOfDeath": "11/05/1894",
+        "dateOfDeath": "05/11/1894",
         "Place of Death": "Clongowes (Kildare)",
         "lastName": "Scott"
       },
@@ -22677,7 +22677,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.284,
-        "dateOfDeath": "11/05/1894",
+        "dateOfDeath": "05/11/1894",
         "Place of Death": "Katwijk",
         "lastName": "van Schaijik"
       },
@@ -22693,7 +22693,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.285,
-        "dateOfDeath": "12/05/1894",
+        "dateOfDeath": "05/12/1894",
         "Place of Death": "Stonyhurst",
         "lastName": "Griffin"
       },
@@ -22709,7 +22709,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.286,
-        "dateOfDeath": "13/05/1894",
+        "dateOfDeath": "05/13/1894",
         "Place of Death": "Woodstock, Md.",
         "lastName": "Gallagher"
       },
@@ -22725,7 +22725,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.287,
-        "dateOfDeath": "14/05/1894",
+        "dateOfDeath": "05/14/1894",
         "Place of Death": "Panam\u00ef\u00bf\u00bd",
         "lastName": "Tortolini"
       },
@@ -22741,7 +22741,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.288,
-        "dateOfDeath": "14/05/1894",
+        "dateOfDeath": "05/14/1894",
         "Place of Death": "Zikawei",
         "lastName": "Bonay"
       },
@@ -22757,7 +22757,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.289,
-        "dateOfDeath": "16/05/1894",
+        "dateOfDeath": "05/16/1894",
         "Place of Death": "Napoli",
         "lastName": "Angrisani"
       },
@@ -22773,7 +22773,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.29,
-        "dateOfDeath": "17/05/1894",
+        "dateOfDeath": "05/17/1894",
         "Place of Death": "Detroit",
         "lastName": "Leysen"
       },
@@ -22789,7 +22789,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.291,
-        "dateOfDeath": "23/05/1894",
+        "dateOfDeath": "05/23/1894",
         "Place of Death": "Semarang (Java)",
         "lastName": "Keller"
       },
@@ -22805,7 +22805,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.292,
-        "dateOfDeath": "25/05/1894",
+        "dateOfDeath": "05/25/1894",
         "Place of Death": "Stara Wies",
         "lastName": "Wagilewiecz"
       },
@@ -22821,7 +22821,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.293,
-        "dateOfDeath": "27/05/1894",
+        "dateOfDeath": "05/27/1894",
         "Place of Death": "? (Miss Zambes)",
         "lastName": "Bontemps"
       },
@@ -22837,7 +22837,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.294,
-        "dateOfDeath": "05/06/1894",
+        "dateOfDeath": "06/05/1894",
         "Place of Death": "El-Biar (Alg\u00ef\u00bf\u00bdrie)",
         "lastName": "Lussu"
       },
@@ -22869,7 +22869,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.296,
-        "dateOfDeath": "08/06/1894",
+        "dateOfDeath": "06/08/1894",
         "Place of Death": "Exaten",
         "lastName": "Schneider"
       },
@@ -22885,7 +22885,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.297,
-        "dateOfDeath": "09/06/1894",
+        "dateOfDeath": "06/09/1894",
         "Place of Death": "Sta. Fe, Arg",
         "lastName": "Salvad\u00ef\u00bf\u00bd"
       },
@@ -22901,7 +22901,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.298,
-        "dateOfDeath": "09/06/1894",
+        "dateOfDeath": "06/09/1894",
         "Place of Death": "Marseille",
         "lastName": "Raimondo"
       },
@@ -22917,7 +22917,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.299,
-        "dateOfDeath": "10/06/1894",
+        "dateOfDeath": "06/10/1894",
         "Place of Death": "Roma",
         "lastName": "Provenzali"
       },
@@ -22933,7 +22933,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.3,
-        "dateOfDeath": "11/06/1894",
+        "dateOfDeath": "06/11/1894",
         "Place of Death": "Mold (Flint)",
         "lastName": "Boyssou"
       },
@@ -22949,7 +22949,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.301,
-        "dateOfDeath": "11/06/1894",
+        "dateOfDeath": "06/11/1894",
         "Place of Death": "Trnava",
         "lastName": "Richter"
       },
@@ -22965,7 +22965,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.302,
-        "dateOfDeath": "11/06/1894",
+        "dateOfDeath": "06/11/1894",
         "Place of Death": "Quelimane (Mocambique)",
         "lastName": "Rieder"
       },
@@ -22981,7 +22981,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.303,
-        "dateOfDeath": "13/06/1894",
+        "dateOfDeath": "06/13/1894",
         "Place of Death": "Castres",
         "lastName": "Delort"
       },
@@ -22997,7 +22997,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.304,
-        "dateOfDeath": "14/06/1894",
+        "dateOfDeath": "06/14/1894",
         "Place of Death": "Gent",
         "lastName": "Belym"
       },
@@ -23013,7 +23013,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.305,
-        "dateOfDeath": "16/06/1894",
+        "dateOfDeath": "06/16/1894",
         "Place of Death": "Culemborg",
         "lastName": "Mulder"
       },
@@ -23029,7 +23029,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.306,
-        "dateOfDeath": "17/06/1894",
+        "dateOfDeath": "06/17/1894",
         "Place of Death": "Kuseong",
         "lastName": "Hogger"
       },
@@ -23045,7 +23045,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.307,
-        "dateOfDeath": "18/06/1894",
+        "dateOfDeath": "06/18/1894",
         "Place of Death": "Pasto",
         "lastName": "Borda"
       },
@@ -23061,7 +23061,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.308,
-        "dateOfDeath": "21/06/1894",
+        "dateOfDeath": "06/21/1894",
         "Place of Death": "Campanha (Minas Gerais)",
         "lastName": "Rodriguez"
       },
@@ -23077,7 +23077,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.309,
-        "dateOfDeath": "21/06/1894",
+        "dateOfDeath": "06/21/1894",
         "Place of Death": "Buenos Aires",
         "lastName": "Balaguer"
       },
@@ -23093,7 +23093,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.31,
-        "dateOfDeath": "21/06/1894",
+        "dateOfDeath": "06/21/1894",
         "Place of Death": "Castel Gandolfo",
         "lastName": "Testa"
       },
@@ -23109,7 +23109,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.311,
-        "dateOfDeath": "22/06/1894",
+        "dateOfDeath": "06/22/1894",
         "Place of Death": "Toulouse",
         "lastName": "Cadillon"
       },
@@ -23125,7 +23125,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.312,
-        "dateOfDeath": "25/06/1894",
+        "dateOfDeath": "06/25/1894",
         "Place of Death": "Anvers",
         "lastName": "De Heere"
       },
@@ -23141,7 +23141,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.313,
-        "dateOfDeath": "25/06/1894",
+        "dateOfDeath": "06/25/1894",
         "Place of Death": "Quimper",
         "lastName": "Ouellard"
       },
@@ -23157,7 +23157,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.314,
-        "dateOfDeath": "27/06/1894",
+        "dateOfDeath": "06/27/1894",
         "Place of Death": "Velehrad (Morava)",
         "lastName": "Cabradek"
       },
@@ -23173,7 +23173,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.315,
-        "dateOfDeath": "28/06/1894",
+        "dateOfDeath": "06/28/1894",
         "Place of Death": "Grand Coteau",
         "lastName": "Viboux"
       },
@@ -23189,7 +23189,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.316,
-        "dateOfDeath": "30/06/1894",
+        "dateOfDeath": "06/30/1894",
         "Place of Death": "Marseille",
         "lastName": "Jacottin"
       },
@@ -23205,7 +23205,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.317,
-        "dateOfDeath": "06/07/1894",
+        "dateOfDeath": "07/06/1894",
         "Place of Death": "Linz",
         "lastName": "Hofer"
       },
@@ -23221,7 +23221,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.318,
-        "dateOfDeath": "14/07/1894",
+        "dateOfDeath": "07/14/1894",
         "Place of Death": "Parkstone (Dorset)",
         "lastName": "Cooper"
       },
@@ -23237,7 +23237,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.319,
-        "dateOfDeath": "15/07/1894",
+        "dateOfDeath": "07/15/1894",
         "Place of Death": "St. Mary's, Kans.",
         "lastName": "Lawless"
       },
@@ -23253,7 +23253,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.32,
-        "dateOfDeath": "22/07/1894",
+        "dateOfDeath": "07/22/1894",
         "Place of Death": "Mendoza",
         "lastName": "Dalm\u00ef\u00bf\u00bdu"
       },
@@ -23269,7 +23269,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.321,
-        "dateOfDeath": "22/07/1894",
+        "dateOfDeath": "07/22/1894",
         "Place of Death": "Calcutta",
         "lastName": "Schmit"
       },
@@ -23285,7 +23285,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.322,
-        "dateOfDeath": "26/07/1894",
+        "dateOfDeath": "07/26/1894",
         "Place of Death": "Blijenbeek (Limburg)",
         "lastName": "Behme"
       },
@@ -23301,7 +23301,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.323,
-        "dateOfDeath": "03/08/1894",
+        "dateOfDeath": "08/03/1894",
         "Place of Death": "Monaco",
         "lastName": "Piccolo"
       },
@@ -23317,7 +23317,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.324,
-        "dateOfDeath": "04/08/1894",
+        "dateOfDeath": "08/04/1894",
         "Place of Death": "Montpellier",
         "lastName": "Rey"
       },
@@ -23333,7 +23333,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.325,
-        "dateOfDeath": "04/08/1894",
+        "dateOfDeath": "08/04/1894",
         "Place of Death": "Kayseri (Cappadoce)",
         "lastName": "Daronat"
       },
@@ -23349,7 +23349,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.326,
-        "dateOfDeath": "05/06/1894",
+        "dateOfDeath": "06/05/1894",
         "Place of Death": "La Malou (H\u00ef\u00bf\u00bdrault)",
         "lastName": "Matharan"
       },
@@ -23365,7 +23365,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.327,
-        "dateOfDeath": "07/08/1894",
+        "dateOfDeath": "08/07/1894",
         "Place of Death": "Instanbul-Pera",
         "lastName": "Sauthi\u00ef\u00bf\u00bd"
       },
@@ -23397,7 +23397,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.329,
-        "dateOfDeath": "09/08/1894",
+        "dateOfDeath": "08/09/1894",
         "Place of Death": "Carri\u00ef\u00bf\u00bdn",
         "lastName": "Velasco"
       },
@@ -23413,7 +23413,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.331,
-        "dateOfDeath": "10/08/1894",
+        "dateOfDeath": "08/10/1894",
         "Place of Death": "S. Hilario Sacalm (Gerona)",
         "lastName": "Pujol"
       },
@@ -23429,7 +23429,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.332,
-        "dateOfDeath": "12/08/1894",
+        "dateOfDeath": "08/12/1894",
         "Place of Death": "Racconigi (Cuneo)",
         "lastName": "(Arborio) Mella"
       },
@@ -23445,7 +23445,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.333,
-        "dateOfDeath": "14/08/1894",
+        "dateOfDeath": "08/14/1894",
         "Place of Death": "Buenos Aires",
         "lastName": "Tewes"
       },
@@ -23461,7 +23461,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.334,
-        "dateOfDeath": "15/08/1894",
+        "dateOfDeath": "08/15/1894",
         "Place of Death": "Avignon",
         "lastName": "Mestre"
       },
@@ -23477,7 +23477,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": "8.334*",
-        "dateOfDeath": "16/08/1894",
+        "dateOfDeath": "08/16/1894",
         "Place of Death": "Dunbrody",
         "lastName": "de Smedt"
       },
@@ -23493,7 +23493,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.335,
-        "dateOfDeath": "17/08/1894",
+        "dateOfDeath": "08/17/1894",
         "Place of Death": "Lille",
         "lastName": "Liefooghe"
       },
@@ -23509,7 +23509,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.336,
-        "dateOfDeath": "17/08/1894",
+        "dateOfDeath": "08/17/1894",
         "Place of Death": "Arlon",
         "lastName": "Bierny"
       },
@@ -23525,7 +23525,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.337,
-        "dateOfDeath": "18/08/1894",
+        "dateOfDeath": "08/18/1894",
         "Place of Death": "Tokat (Sivas)",
         "lastName": "Mounier"
       },
@@ -23541,7 +23541,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.338,
-        "dateOfDeath": "19/08/1894",
+        "dateOfDeath": "08/19/1894",
         "Place of Death": "Jassy (Roumanie)",
         "lastName": "Habenicht"
       },
@@ -23557,7 +23557,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.339,
-        "dateOfDeath": "19/08/1894",
+        "dateOfDeath": "08/19/1894",
         "Place of Death": "Saul-au-R\u00ef\u00bf\u00bdcollet",
         "lastName": "Vaillant"
       },
@@ -23573,7 +23573,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.34,
-        "dateOfDeath": "22/08/1894",
+        "dateOfDeath": "08/22/1894",
         "Place of Death": "Exaten",
         "lastName": "Epping"
       },
@@ -23589,7 +23589,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.341,
-        "dateOfDeath": "24/08/1894",
+        "dateOfDeath": "08/24/1894",
         "Place of Death": "Clongowes (Kildare)",
         "lastName": "Killian"
       },
@@ -23605,7 +23605,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.342,
-        "dateOfDeath": "25/08/1894",
+        "dateOfDeath": "08/25/1894",
         "Place of Death": "Gand\u00ef\u00bf\u00bda",
         "lastName": "Pal\u00ef\u00bf\u00bdu"
       },
@@ -23621,7 +23621,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.343,
-        "dateOfDeath": "02/09/1894",
+        "dateOfDeath": "09/02/1894",
         "Place of Death": "Frederick",
         "lastName": "Menke"
       },
@@ -23637,7 +23637,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.344,
-        "dateOfDeath": "05/09/1894",
+        "dateOfDeath": "09/05/1894",
         "Place of Death": "Marigliano (Castera)",
         "lastName": "Amato"
       },
@@ -23653,7 +23653,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.345,
-        "dateOfDeath": "06/09/1894",
+        "dateOfDeath": "09/06/1894",
         "Place of Death": "Santander",
         "lastName": "R\u00ef\u00bf\u00bdmon"
       },
@@ -23669,7 +23669,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.346,
-        "dateOfDeath": "07/09/1894",
+        "dateOfDeath": "09/07/1894",
         "Place of Death": "Roma",
         "lastName": "Valle"
       },
@@ -23685,7 +23685,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.347,
-        "dateOfDeath": "07/09/1894",
+        "dateOfDeath": "09/07/1894",
         "Place of Death": "Roma",
         "lastName": "Bianchi"
       },
@@ -23701,7 +23701,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.348,
-        "dateOfDeath": "11/09/1894",
+        "dateOfDeath": "09/11/1894",
         "Place of Death": "Tuticorin",
         "lastName": "Saverimutu"
       },
@@ -23717,7 +23717,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.349,
-        "dateOfDeath": "14/09/1894",
+        "dateOfDeath": "09/14/1894",
         "Place of Death": "Bruxelles",
         "lastName": "Chaney"
       },
@@ -23733,7 +23733,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.35,
-        "dateOfDeath": "15/09/1894",
+        "dateOfDeath": "09/15/1894",
         "Place of Death": "Macau",
         "lastName": "Nunes"
       },
@@ -23749,7 +23749,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.351,
-        "dateOfDeath": "17/09/1894",
+        "dateOfDeath": "09/17/1894",
         "Place of Death": "Montevideo",
         "lastName": "Torrella"
       },
@@ -23765,7 +23765,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.352,
-        "dateOfDeath": "18/09/1894",
+        "dateOfDeath": "09/18/1894",
         "Place of Death": "Albano Laziale (Roma)",
         "lastName": "Mazza"
       },
@@ -23781,7 +23781,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.353,
-        "dateOfDeath": "18/09/1894",
+        "dateOfDeath": "09/18/1894",
         "Place of Death": "Montr\u00ef\u00bf\u00bdal",
         "lastName": "Barbieux"
       },
@@ -23797,7 +23797,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.354,
-        "dateOfDeath": "20/09/1894",
+        "dateOfDeath": "09/20/1894",
         "Place of Death": "Sterling, Ill.",
         "lastName": "Karlst\u00ef\u00bf\u00bdtter"
       },
@@ -23813,7 +23813,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.355,
-        "dateOfDeath": "22/09/1894",
+        "dateOfDeath": "09/22/1894",
         "Place of Death": "Grave (N-Brabant)",
         "lastName": "ter Laak"
       },
@@ -23829,7 +23829,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.356,
-        "dateOfDeath": "25/09/1894",
+        "dateOfDeath": "09/25/1894",
         "Place of Death": "London",
         "lastName": "Murphy"
       },
@@ -23845,7 +23845,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.357,
-        "dateOfDeath": "26/09/1894",
+        "dateOfDeath": "09/26/1894",
         "Place of Death": "Roehampton",
         "lastName": "Dignam"
       },
@@ -23861,7 +23861,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.358,
-        "dateOfDeath": "27/09/1894",
+        "dateOfDeath": "09/27/1894",
         "Place of Death": "Caltanissetta",
         "lastName": "Labso"
       },
@@ -23877,7 +23877,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.359,
-        "dateOfDeath": "27/09/1894",
+        "dateOfDeath": "09/27/1894",
         "Place of Death": "Pau.",
         "lastName": "Guichot"
       },
@@ -23893,7 +23893,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.36,
-        "dateOfDeath": "30/09/1894",
+        "dateOfDeath": "09/30/1894",
         "Place of Death": "Exaten",
         "lastName": "Platzweg"
       },
@@ -23909,7 +23909,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.361,
-        "dateOfDeath": "30/09/1894",
+        "dateOfDeath": "09/30/1894",
         "Place of Death": "Prairie du Chien",
         "lastName": "Hilling"
       },
@@ -23925,7 +23925,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.362,
-        "dateOfDeath": "01/10/1894",
+        "dateOfDeath": "10/01/1894",
         "Place of Death": "Salamanca",
         "lastName": "S\u00ef\u00bf\u00bdnchez Teruel"
       },
@@ -23941,7 +23941,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.363,
-        "dateOfDeath": "01/10/1894",
+        "dateOfDeath": "10/01/1894",
         "Place of Death": "Stara Wies",
         "lastName": "Szarama"
       },
@@ -23957,7 +23957,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.364,
-        "dateOfDeath": "08/10/1894",
+        "dateOfDeath": "10/08/1894",
         "Place of Death": "Missoula, Mont.",
         "lastName": "Megazzini"
       },
@@ -23973,7 +23973,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.365,
-        "dateOfDeath": "09/10/1894",
+        "dateOfDeath": "10/09/1894",
         "Place of Death": "Pau.",
         "lastName": "Martinov"
       },
@@ -24021,7 +24021,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.368,
-        "dateOfDeath": "11/10/1894",
+        "dateOfDeath": "10/11/1894",
         "Place of Death": "Fordham",
         "lastName": "Corrigan"
       },
@@ -24037,7 +24037,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.369,
-        "dateOfDeath": "17/10/1894",
+        "dateOfDeath": "10/17/1894",
         "Place of Death": "Vannes",
         "lastName": "de Cacqueray"
       },
@@ -24053,7 +24053,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.37,
-        "dateOfDeath": "17/10/1894",
+        "dateOfDeath": "10/17/1894",
         "Place of Death": "Enghien",
         "lastName": "Rebuschung"
       },
@@ -24069,7 +24069,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.371,
-        "dateOfDeath": "21/10/1894",
+        "dateOfDeath": "10/21/1894",
         "Place of Death": "Burgos",
         "lastName": "Eguiburu"
       },
@@ -24085,7 +24085,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.372,
-        "dateOfDeath": "25/10/1894",
+        "dateOfDeath": "10/25/1894",
         "Place of Death": "Taganaan (Surigao)",
         "lastName": "Guardiet"
       },
@@ -24101,7 +24101,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.373,
-        "dateOfDeath": "29/10/1894",
+        "dateOfDeath": "10/29/1894",
         "Place of Death": "P\u00ef\u00bf\u00bdrto Alegre",
         "lastName": "Eultgen"
       },
@@ -24117,7 +24117,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.374,
-        "dateOfDeath": "30/10/1894",
+        "dateOfDeath": "10/30/1894",
         "Place of Death": "Los Gatos",
         "lastName": "Ciotti"
       },
@@ -24133,7 +24133,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.375,
-        "dateOfDeath": "31/10/1894",
+        "dateOfDeath": "10/31/1894",
         "Place of Death": "Tsongming (Kiangsu)",
         "lastName": "Boulais"
       },
@@ -24149,7 +24149,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.376,
-        "dateOfDeath": "01/11/1894",
+        "dateOfDeath": "11/01/1894",
         "Place of Death": "Lille",
         "lastName": "Grosshoeny"
       },
@@ -24165,7 +24165,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.377,
-        "dateOfDeath": "02/11/1894",
+        "dateOfDeath": "11/02/1894",
         "Place of Death": "Georgetown",
         "lastName": "Duncan"
       },
@@ -24181,7 +24181,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.378,
-        "dateOfDeath": "06/11/1894",
+        "dateOfDeath": "11/06/1894",
         "Place of Death": "Nantes",
         "lastName": "Pouplard"
       },
@@ -24197,7 +24197,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.379,
-        "dateOfDeath": "07/11/1894",
+        "dateOfDeath": "11/07/1894",
         "Place of Death": "Tamatave (Madagascar)",
         "lastName": "Roumieu"
       },
@@ -24213,7 +24213,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.38,
-        "dateOfDeath": "09/11/1894",
+        "dateOfDeath": "11/09/1894",
         "Place of Death": "Surigao",
         "lastName": "Brunet"
       },
@@ -24229,7 +24229,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.381,
-        "dateOfDeath": "10/11/1894",
+        "dateOfDeath": "11/10/1894",
         "Place of Death": "Mariendaal",
         "lastName": "van Lommel"
       },
@@ -24245,7 +24245,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.382,
-        "dateOfDeath": "10/11/1894",
+        "dateOfDeath": "11/10/1894",
         "Place of Death": "Exaten",
         "lastName": "Knoch"
       },
@@ -24261,7 +24261,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.383,
-        "dateOfDeath": "12/11/1894",
+        "dateOfDeath": "11/12/1894",
         "Place of Death": "Castel Gandolfo",
         "lastName": "Burnside"
       },
@@ -24277,7 +24277,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.384,
-        "dateOfDeath": "12/11/1894",
+        "dateOfDeath": "11/12/1894",
         "Place of Death": "Chamart\u00ef\u00bf\u00bdn",
         "lastName": "Ehrhard"
       },
@@ -24293,7 +24293,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.385,
-        "dateOfDeath": "13/11/1894",
+        "dateOfDeath": "11/13/1894",
         "Place of Death": "Calcutta",
         "lastName": "Motet"
       },
@@ -24309,7 +24309,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.386,
-        "dateOfDeath": "20/11/1894",
+        "dateOfDeath": "11/20/1894",
         "Place of Death": "Stonyhurst",
         "lastName": "Starkey"
       },
@@ -24325,7 +24325,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.387,
-        "dateOfDeath": "21/11/1894",
+        "dateOfDeath": "11/21/1894",
         "Place of Death": "Granada",
         "lastName": "Embil"
       },
@@ -24341,7 +24341,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.388,
-        "dateOfDeath": "26/11/1894",
+        "dateOfDeath": "11/26/1894",
         "Place of Death": "Montr\u00ef\u00bf\u00bdal",
         "lastName": "Cuellet"
       },
@@ -24357,7 +24357,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.389,
-        "dateOfDeath": "28/11/1894",
+        "dateOfDeath": "11/28/1894",
         "Place of Death": "Sta. Clara",
         "lastName": "Macclelland"
       },
@@ -24373,7 +24373,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.39,
-        "dateOfDeath": "30/11/1894",
+        "dateOfDeath": "11/30/1894",
         "Place of Death": "Aalbeek pr Valkenburg",
         "lastName": "Wolf"
       },
@@ -24389,7 +24389,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.391,
-        "dateOfDeath": "01/12/1894",
+        "dateOfDeath": "12/01/1894",
         "Place of Death": "Scorton (York)",
         "lastName": "Smallwood"
       },
@@ -24405,7 +24405,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.392,
-        "dateOfDeath": "01/12/1894",
+        "dateOfDeath": "12/01/1894",
         "Place of Death": "Stonyhurst",
         "lastName": "Unsworth"
       },
@@ -24421,7 +24421,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.393,
-        "dateOfDeath": "02/12/1894",
+        "dateOfDeath": "12/02/1894",
         "Place of Death": "Buffalo",
         "lastName": "Pottgeisser"
       },
@@ -24437,7 +24437,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.394,
-        "dateOfDeath": "07/12/1894",
+        "dateOfDeath": "12/07/1894",
         "Place of Death": "Mantova",
         "lastName": "Mala"
       },
@@ -24469,7 +24469,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.396,
-        "dateOfDeath": "13/12/1894",
+        "dateOfDeath": "12/13/1894",
         "Place of Death": "C\u00ef\u00bf\u00bdrdoba",
         "lastName": "Molina"
       },
@@ -24485,7 +24485,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.397,
-        "dateOfDeath": "14/12/1894",
+        "dateOfDeath": "12/14/1894",
         "Place of Death": "Saluzzo (Cuneo)",
         "lastName": "Bovo"
       },
@@ -24501,7 +24501,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.398,
-        "dateOfDeath": "15/12/1894",
+        "dateOfDeath": "12/15/1894",
         "Place of Death": "Burgos",
         "lastName": "Garc\u00ef\u00bf\u00bda Fresca"
       },
@@ -24517,7 +24517,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.399,
-        "dateOfDeath": "20/12/1894",
+        "dateOfDeath": "12/20/1894",
         "Place of Death": "New Orleans",
         "lastName": "Gautrelet"
       },
@@ -24533,7 +24533,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.4,
-        "dateOfDeath": "22/12/1894",
+        "dateOfDeath": "12/22/1894",
         "Place of Death": "Toulouse",
         "lastName": "Brelot"
       },
@@ -24549,7 +24549,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.401,
-        "dateOfDeath": "24/12/1894",
+        "dateOfDeath": "12/24/1894",
         "Place of Death": "Itu",
         "lastName": "Lanzi"
       },
@@ -24565,7 +24565,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.402,
-        "dateOfDeath": "25/12/1894",
+        "dateOfDeath": "12/25/1894",
         "Place of Death": "Vallelunga",
         "lastName": "Taglierini"
       },
@@ -24581,7 +24581,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.403,
-        "dateOfDeath": "27/12/1894",
+        "dateOfDeath": "12/27/1894",
         "Place of Death": "El Biar (Alger)",
         "lastName": "Beretta"
       },
@@ -24597,7 +24597,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.404,
-        "dateOfDeath": "28/12/1894",
+        "dateOfDeath": "12/28/1894",
         "Place of Death": "Aix-en-Provence",
         "lastName": "Rosaire"
       },
@@ -24613,7 +24613,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.405,
-        "dateOfDeath": "28/12/1894",
+        "dateOfDeath": "12/28/1894",
         "Place of Death": "Toulouse",
         "lastName": "Amblard"
       },
@@ -24629,7 +24629,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.406,
-        "dateOfDeath": "28/12/1894",
+        "dateOfDeath": "12/28/1894",
         "Place of Death": "El Biar (Alger)",
         "lastName": "Friedrich"
       },
@@ -24645,7 +24645,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.408,
-        "dateOfDeath": "31/12/1894",
+        "dateOfDeath": "12/31/1894",
         "Place of Death": "Exaten",
         "lastName": "Singer"
       },
@@ -24661,7 +24661,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.409,
-        "dateOfDeath": "02/01/1895",
+        "dateOfDeath": "01/02/1895",
         "Place of Death": "Tournai",
         "lastName": "Thomas"
       },
@@ -24677,7 +24677,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.41,
-        "dateOfDeath": "02/01/1895",
+        "dateOfDeath": "01/02/1895",
         "Place of Death": "Gandia",
         "lastName": "Ferrer"
       },
@@ -24693,7 +24693,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.411,
-        "dateOfDeath": "02/01/1895",
+        "dateOfDeath": "01/02/1895",
         "Place of Death": "Kraljevica (Croatie)",
         "lastName": "Carabini"
       },
@@ -24709,7 +24709,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.412,
-        "dateOfDeath": "03/01/1895",
+        "dateOfDeath": "01/03/1895",
         "Place of Death": "Lous-le-Saunier (Jura)",
         "lastName": "Rochelandet"
       },
@@ -24725,7 +24725,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.413,
-        "dateOfDeath": "04/01/1895",
+        "dateOfDeath": "01/04/1895",
         "Place of Death": "Tortosa",
         "lastName": "Bosso"
       },
@@ -24741,7 +24741,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.414,
-        "dateOfDeath": "04/01/1895",
+        "dateOfDeath": "01/04/1895",
         "Place of Death": "Toulouse",
         "lastName": "Huerta"
       },
@@ -24757,7 +24757,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.415,
-        "dateOfDeath": "09/01/1895",
+        "dateOfDeath": "01/09/1895",
         "Place of Death": "Castres",
         "lastName": "Issoulier"
       },
@@ -24773,7 +24773,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.416,
-        "dateOfDeath": "10/01/1895",
+        "dateOfDeath": "01/10/1895",
         "Place of Death": "Castres",
         "lastName": "Ginhac"
       },
@@ -24789,7 +24789,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.417,
-        "dateOfDeath": "16/01/1895",
+        "dateOfDeath": "01/16/1895",
         "Place of Death": "Dole",
         "lastName": "Bartet"
       },
@@ -24805,7 +24805,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.418,
-        "dateOfDeath": "23/01/1895",
+        "dateOfDeath": "01/23/1895",
         "Place of Death": "Valkenburg",
         "lastName": "Clasgens"
       },
@@ -24821,7 +24821,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.419,
-        "dateOfDeath": "24/01/1895",
+        "dateOfDeath": "01/24/1895",
         "Place of Death": "Angers",
         "lastName": "de Kersabiec"
       },
@@ -24837,7 +24837,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.42,
-        "dateOfDeath": "27/01/1895",
+        "dateOfDeath": "01/27/1895",
         "Place of Death": "Strada (Arezzo)",
         "lastName": "De Melis"
       },
@@ -24853,7 +24853,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.421,
-        "dateOfDeath": "27/01/1895",
+        "dateOfDeath": "01/27/1895",
         "Place of Death": "Troyes (Aube)",
         "lastName": "Hannus"
       },
@@ -24869,7 +24869,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.422,
-        "dateOfDeath": "28/01/1895",
+        "dateOfDeath": "01/28/1895",
         "Place of Death": "Lille",
         "lastName": "Houvenagel"
       },
@@ -24885,7 +24885,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.423,
-        "dateOfDeath": "29/01/1895",
+        "dateOfDeath": "01/29/1895",
         "Place of Death": "Le Caire",
         "lastName": "Balabine"
       },
@@ -24901,7 +24901,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.424,
-        "dateOfDeath": "30/01/1895",
+        "dateOfDeath": "01/30/1895",
         "Place of Death": "Albano Laziale (Roma)",
         "lastName": "Tommasi"
       },
@@ -24917,7 +24917,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.425,
-        "dateOfDeath": "31/01/1895",
+        "dateOfDeath": "01/31/1895",
         "Place of Death": "Dinan (Cotes-du-N)",
         "lastName": "Erdel"
       },
@@ -24933,7 +24933,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.426,
-        "dateOfDeath": "31/01/1895",
+        "dateOfDeath": "01/31/1895",
         "Place of Death": "Kalocsa",
         "lastName": "Kantioler"
       },
@@ -24949,7 +24949,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.427,
-        "dateOfDeath": "01/02/1895",
+        "dateOfDeath": "02/01/1895",
         "Place of Death": "La Guardia",
         "lastName": "Barua"
       },
@@ -25013,7 +25013,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.431,
-        "dateOfDeath": "03/02/1895",
+        "dateOfDeath": "02/03/1895",
         "Place of Death": "Manila",
         "lastName": "Tramita"
       },
@@ -25029,7 +25029,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.432,
-        "dateOfDeath": "04/02/1895",
+        "dateOfDeath": "02/04/1895",
         "Place of Death": "Mariaschein",
         "lastName": "Rungaldier"
       },
@@ -25045,7 +25045,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.433,
-        "dateOfDeath": "06/02/1895",
+        "dateOfDeath": "02/06/1895",
         "Place of Death": "Milano",
         "lastName": "Carli"
       },
@@ -25061,7 +25061,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.434,
-        "dateOfDeath": "06/02/1895",
+        "dateOfDeath": "02/06/1895",
         "Place of Death": "Lille",
         "lastName": "Couvreur"
       },
@@ -25077,7 +25077,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.435,
-        "dateOfDeath": "07/02/1895",
+        "dateOfDeath": "02/07/1895",
         "Place of Death": "Zumbo (Mocambique)",
         "lastName": "Wigger"
       },
@@ -25093,7 +25093,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.436,
-        "dateOfDeath": "08/02/1895",
+        "dateOfDeath": "02/08/1895",
         "Place of Death": "London",
         "lastName": "Stevenson"
       },
@@ -25109,7 +25109,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.437,
-        "dateOfDeath": "09/02/1895",
+        "dateOfDeath": "02/09/1895",
         "Place of Death": "Stonyhurst",
         "lastName": "Cotham"
       },
@@ -25125,7 +25125,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.438,
-        "dateOfDeath": "10/02/1895",
+        "dateOfDeath": "02/10/1895",
         "Place of Death": "Montesarchio",
         "lastName": "Zingone"
       },
@@ -25141,7 +25141,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.439,
-        "dateOfDeath": "11/02/1895",
+        "dateOfDeath": "02/11/1895",
         "Place of Death": "La Guardia",
         "lastName": "Sierra"
       },
@@ -25157,7 +25157,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.44,
-        "dateOfDeath": "14/02/1895",
+        "dateOfDeath": "02/14/1895",
         "Place of Death": "N\u00ef\u00bf\u00bdmes",
         "lastName": "Buschaglia"
       },
@@ -25173,7 +25173,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.441,
-        "dateOfDeath": "15/02/1895",
+        "dateOfDeath": "02/15/1895",
         "Place of Death": "Velehrad (Morava)",
         "lastName": "Bruna"
       },
@@ -25189,7 +25189,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.442,
-        "dateOfDeath": "16/02/1895",
+        "dateOfDeath": "02/16/1895",
         "Place of Death": "Versailles",
         "lastName": "Dauchez"
       },
@@ -25205,7 +25205,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.443,
-        "dateOfDeath": "18/02/1895",
+        "dateOfDeath": "02/18/1895",
         "Place of Death": "Reims",
         "lastName": "Desc\u00ef\u00bf\u00bdtes"
       },
@@ -25221,7 +25221,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.444,
-        "dateOfDeath": "20/02/1895",
+        "dateOfDeath": "02/20/1895",
         "Place of Death": "Lainz",
         "lastName": "Gruber"
       },
@@ -25237,7 +25237,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.445,
-        "dateOfDeath": "21/12/1895",
+        "dateOfDeath": "12/21/1895",
         "Place of Death": "Le Caire",
         "lastName": "Savey"
       },
@@ -25253,7 +25253,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.446,
-        "dateOfDeath": "23/02/1895",
+        "dateOfDeath": "02/23/1895",
         "Place of Death": "Semarang (Java)",
         "lastName": "Smit"
       },
@@ -25269,7 +25269,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.447,
-        "dateOfDeath": "24/02/1895",
+        "dateOfDeath": "02/24/1895",
         "Place of Death": "Laval",
         "lastName": "de Fru"
       },
@@ -25285,7 +25285,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.448,
-        "dateOfDeath": "24/02/1895",
+        "dateOfDeath": "02/24/1895",
         "Place of Death": "Mungret (Limerick)",
         "lastName": "Frayne"
       },
@@ -25301,7 +25301,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.449,
-        "dateOfDeath": "25/02/1895",
+        "dateOfDeath": "02/25/1895",
         "Place of Death": "Marseille",
         "lastName": "Chenevaz"
       },
@@ -25317,7 +25317,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.45,
-        "dateOfDeath": "27/02/1895",
+        "dateOfDeath": "02/27/1895",
         "Place of Death": "Li\u00ef\u00bf\u00bdge",
         "lastName": "De Poorter"
       },
@@ -25333,7 +25333,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.451,
-        "dateOfDeath": "27/03/1895",
+        "dateOfDeath": "03/27/1895",
         "Place of Death": "St. Bueno's",
         "lastName": "Walsh"
       },
@@ -25349,7 +25349,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.452,
-        "dateOfDeath": "28/02/1895",
+        "dateOfDeath": "02/28/1895",
         "Place of Death": "Genova",
         "lastName": "Arnaldi"
       },
@@ -25365,7 +25365,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.453,
-        "dateOfDeath": "28/02/1895",
+        "dateOfDeath": "02/28/1895",
         "Place of Death": "Quito",
         "lastName": "Saracco"
       },
@@ -25381,7 +25381,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.454,
-        "dateOfDeath": "01/03/1895",
+        "dateOfDeath": "03/01/1895",
         "Place of Death": "Mongr\u00ef\u00bf\u00bd (Rh\u00ef\u00bf\u00bdne)",
         "lastName": "Bonnet"
       },
@@ -25397,7 +25397,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.455,
-        "dateOfDeath": "01/03/1895",
+        "dateOfDeath": "03/01/1895",
         "Place of Death": "Angers",
         "lastName": "Moussard"
       },
@@ -25413,7 +25413,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.456,
-        "dateOfDeath": "02/03/1895",
+        "dateOfDeath": "03/02/1895",
         "Place of Death": "Mariaschein",
         "lastName": "Ertl"
       },
@@ -25445,7 +25445,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.458,
-        "dateOfDeath": "07/03/1895",
+        "dateOfDeath": "03/07/1895",
         "Place of Death": "St Beuno's",
         "lastName": "Baldwin"
       },
@@ -25461,7 +25461,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.459,
-        "dateOfDeath": "07/03/1895",
+        "dateOfDeath": "03/07/1895",
         "Place of Death": "Grand Coteau",
         "lastName": "Usannaz"
       },
@@ -25477,7 +25477,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.46,
-        "dateOfDeath": "09/03/1895",
+        "dateOfDeath": "03/09/1895",
         "Place of Death": "Roma",
         "lastName": "Bollig"
       },
@@ -25493,7 +25493,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.461,
-        "dateOfDeath": "10/03/1895",
+        "dateOfDeath": "03/10/1895",
         "Place of Death": "Marigliano (Castera)",
         "lastName": "Lanzilli"
       },
@@ -25509,7 +25509,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.462,
-        "dateOfDeath": "13/03/1895",
+        "dateOfDeath": "03/13/1895",
         "Place of Death": "Nagykapornak (Zala)",
         "lastName": "Rosenberg"
       },
@@ -25525,7 +25525,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.463,
-        "dateOfDeath": "15/03/1895",
+        "dateOfDeath": "03/15/1895",
         "Place of Death": "Turnhout",
         "lastName": "Biernmans"
       },
@@ -25541,7 +25541,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.464,
-        "dateOfDeath": "20/03/1895",
+        "dateOfDeath": "03/20/1895",
         "Place of Death": "Exaten",
         "lastName": "Billet"
       },
@@ -25557,7 +25557,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.465,
-        "dateOfDeath": "21/03/1895",
+        "dateOfDeath": "03/21/1895",
         "Place of Death": "Zumbo (Mocambique)",
         "lastName": "Platzer"
       },
@@ -25573,7 +25573,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.466,
-        "dateOfDeath": "23/03/1895",
+        "dateOfDeath": "03/23/1895",
         "Place of Death": "Cincinnati",
         "lastName": "Lalumiere"
       },
@@ -25589,7 +25589,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.467,
-        "dateOfDeath": "25/03/1895",
+        "dateOfDeath": "03/25/1895",
         "Place of Death": "Bombay",
         "lastName": "Leroeye"
       },
@@ -25605,7 +25605,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.468,
-        "dateOfDeath": "25/03/1895",
+        "dateOfDeath": "03/25/1895",
         "Place of Death": "Zikawei",
         "lastName": "Hersant"
       },
@@ -25621,7 +25621,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.469,
-        "dateOfDeath": "26/03/1895",
+        "dateOfDeath": "03/26/1895",
         "Place of Death": "Napoli",
         "lastName": "Petrazzoli"
       },
@@ -25637,7 +25637,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.47,
-        "dateOfDeath": "29/03/1895",
+        "dateOfDeath": "03/29/1895",
         "Place of Death": "Jersey City",
         "lastName": "Keating"
       },
@@ -25653,7 +25653,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.471,
-        "dateOfDeath": "29/03/1895",
+        "dateOfDeath": "03/29/1895",
         "Place of Death": "Bylenbeck (Limburg)",
         "lastName": "Risse"
       },
@@ -25669,7 +25669,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.472,
-        "dateOfDeath": "29/03/1895",
+        "dateOfDeath": "03/29/1895",
         "Place of Death": "Ordu\u00ef\u00bf\u00bda",
         "lastName": "Izquierdo"
       },
@@ -25685,7 +25685,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.473,
-        "dateOfDeath": "31/03/1895",
+        "dateOfDeath": "03/31/1895",
         "Place of Death": "Shanghai",
         "lastName": "Sica"
       },
@@ -25701,7 +25701,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.474,
-        "dateOfDeath": "01/04/1895",
+        "dateOfDeath": "04/01/1895",
         "Place of Death": "Boavita (Boyac\u00ef\u00bf\u00bd)",
         "lastName": "Taboada"
       },
@@ -25717,7 +25717,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.475,
-        "dateOfDeath": "01/04/1895",
+        "dateOfDeath": "04/01/1895",
         "Place of Death": "Galloro",
         "lastName": "D'Avoli"
       },
@@ -25733,7 +25733,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.476,
-        "dateOfDeath": "01/04/1895",
+        "dateOfDeath": "04/01/1895",
         "Place of Death": "Veruela",
         "lastName": "Carta\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd"
       },
@@ -25749,7 +25749,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.477,
-        "dateOfDeath": "03/04/1895",
+        "dateOfDeath": "04/03/1895",
         "Place of Death": "Palencia",
         "lastName": "\u00ef\u00bf\u00bdzaga"
       },
@@ -25765,7 +25765,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.478,
-        "dateOfDeath": "03/04/1895",
+        "dateOfDeath": "04/03/1895",
         "Place of Death": "Palayamkottai",
         "lastName": "Selvam"
       },
@@ -25781,7 +25781,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.479,
-        "dateOfDeath": "03/04/1895",
+        "dateOfDeath": "04/03/1895",
         "Place of Death": "Tampa, Fla.",
         "lastName": "Tarr"
       },
@@ -25797,7 +25797,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.48,
-        "dateOfDeath": "03/04/1895",
+        "dateOfDeath": "04/03/1895",
         "Place of Death": "Georgetown (Guyane Angl.)",
         "lastName": "Van Neuten"
       },
@@ -25813,7 +25813,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.481,
-        "dateOfDeath": "06/04/1895",
+        "dateOfDeath": "04/06/1895",
         "Place of Death": "Carri\u00ef\u00bf\u00bdn",
         "lastName": "Alberdi"
       },
@@ -25829,7 +25829,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.482,
-        "dateOfDeath": "08/04/1895",
+        "dateOfDeath": "04/08/1895",
         "Place of Death": "Tamatave (Madagascar)",
         "lastName": "Marty"
       },
@@ -25845,7 +25845,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.483,
-        "dateOfDeath": "08/05/1895",
+        "dateOfDeath": "05/08/1895",
         "Place of Death": "Napoli",
         "lastName": "Pellegrino"
       },
@@ -25861,7 +25861,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.484,
-        "dateOfDeath": "09/04/1895",
+        "dateOfDeath": "04/09/1895",
         "Place of Death": "New York",
         "lastName": "De Wolf"
       },
@@ -25877,7 +25877,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.485,
-        "dateOfDeath": "09/04/1895",
+        "dateOfDeath": "04/09/1895",
         "Place of Death": "Manila",
         "lastName": "Ferrer"
       },
@@ -25893,7 +25893,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.486,
-        "dateOfDeath": "10/04/1895",
+        "dateOfDeath": "04/10/1895",
         "Place of Death": "Bratislava",
         "lastName": "Bruckberger"
       },
@@ -25909,7 +25909,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.487,
-        "dateOfDeath": "12/04/1895",
+        "dateOfDeath": "04/12/1895",
         "Place of Death": "Cagliari",
         "lastName": "Molle"
       },
@@ -25925,7 +25925,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.488,
-        "dateOfDeath": "13/04/1895",
+        "dateOfDeath": "04/13/1895",
         "Place of Death": "Poitiers",
         "lastName": "de Bizemont"
       },
@@ -25941,7 +25941,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.489,
-        "dateOfDeath": "13/04/1895",
+        "dateOfDeath": "04/13/1895",
         "Place of Death": "Buffalo",
         "lastName": "Hieber"
       },
@@ -25957,7 +25957,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.491,
-        "dateOfDeath": "16/04/1895",
+        "dateOfDeath": "04/16/1895",
         "Place of Death": "Bilbao",
         "lastName": "Muruz\u00ef\u00bf\u00bdbal"
       },
@@ -25973,7 +25973,7 @@ var deathplaces = {
       "type": "Feature",
       "properties": {
         "Id": 8.492,
-        "dateOfDeath": "16/04/1895",
+        "dateOfDeath": "04/16/1895",
         "Place of Death": "Worcester",
         "lastName": "Nopper"
       },

@@ -9,7 +9,8 @@ var birthplaces = {
         "Place of Birth": "Troyes (Aube)",
         "lastName": "Tissier",
         "dateOfBirth": "10/02/1800",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/25/1888"
       },
       "geometry": {
         "type": "Point",
@@ -27,7 +28,8 @@ var birthplaces = {
         "Place of Birth": "Secondigliano (Napoli)",
         "lastName": "Visconti",
         "dateOfBirth": "05/16/1810",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/25/1888"
       },
       "geometry": {
         "type": "Point",
@@ -45,7 +47,8 @@ var birthplaces = {
         "Place of Birth": "Gramat (Lot)",
         "lastName": "Capbal",
         "dateOfBirth": "05/30/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/31/1888"
       },
       "geometry": {
         "type": "Point",
@@ -63,7 +66,8 @@ var birthplaces = {
         "Place of Birth": "Messina",
         "lastName": "Leggio",
         "dateOfBirth": "01/30/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/01/1888"
       },
       "geometry": {
         "type": "Point",
@@ -81,7 +85,8 @@ var birthplaces = {
         "Place of Birth": "Bury St Edmund's (Suffolk)",
         "lastName": "Syrett",
         "dateOfBirth": "01/18/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/01/1888"
       },
       "geometry": {
         "type": "Point",
@@ -99,7 +104,8 @@ var birthplaces = {
         "Place of Birth": "Roma",
         "lastName": "Vannutelli",
         "dateOfBirth": "01/03/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/08/1888"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +123,8 @@ var birthplaces = {
         "Place of Birth": "Serre (Doubs)",
         "lastName": "Maurivard",
         "dateOfBirth": "07/18/1803",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/15/1888"
       },
       "geometry": {
         "type": "Point",
@@ -135,7 +142,8 @@ var birthplaces = {
         "Place of Birth": "Kerkrade (Limburg)",
         "lastName": "van Wersch",
         "dateOfBirth": "05/20/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/16/1888"
       },
       "geometry": {
         "type": "Point",
@@ -153,7 +161,8 @@ var birthplaces = {
         "Place of Birth": "Rigny (H-Saone)",
         "lastName": "Lefebvre",
         "dateOfBirth": "01/22/1844",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/19/1888"
       },
       "geometry": {
         "type": "Point",
@@ -171,7 +180,8 @@ var birthplaces = {
         "Place of Birth": "Ypres (Fl Oc)",
         "lastName": "Bindels",
         "dateOfBirth": "04/15/1869",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/22/1888"
       },
       "geometry": {
         "type": "Point",
@@ -189,7 +199,8 @@ var birthplaces = {
         "Place of Birth": "Cloonygormican (Roscommon)",
         "lastName": "Dwyer",
         "dateOfBirth": "02/02/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/22/1888"
       },
       "geometry": {
         "type": "Point",
@@ -207,7 +218,8 @@ var birthplaces = {
         "Place of Birth": "Lyon",
         "lastName": "Tallon",
         "dateOfBirth": "05/11/1816",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/23/1888"
       },
       "geometry": {
         "type": "Point",
@@ -225,7 +237,8 @@ var birthplaces = {
         "Place of Birth": "Tordera (Barcelona)",
         "lastName": "Joffre",
         "dateOfBirth": "11/28/1843",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/27/1888"
       },
       "geometry": {
         "type": "Point",
@@ -243,7 +256,8 @@ var birthplaces = {
         "Place of Birth": "Montpellier",
         "lastName": "Calage",
         "dateOfBirth": "08/15/1805",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/29/1888"
       },
       "geometry": {
         "type": "Point",
@@ -261,7 +275,8 @@ var birthplaces = {
         "Place of Birth": "Wildhaus",
         "lastName": "Weninger",
         "dateOfBirth": "10/31/1805",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/29/1888"
       },
       "geometry": {
         "type": "Point",
@@ -279,7 +294,8 @@ var birthplaces = {
         "Place of Birth": "Lercara Friddi (Palermo)",
         "lastName": "Montesanto",
         "dateOfBirth": "09/21/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/01/1888"
       },
       "geometry": {
         "type": "Point",
@@ -297,7 +313,8 @@ var birthplaces = {
         "Place of Birth": "Osnabruck (Hannover)",
         "lastName": "Lakebrink",
         "dateOfBirth": "12/25/1805",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/01/1888"
       },
       "geometry": {
         "type": "Point",
@@ -315,7 +332,8 @@ var birthplaces = {
         "Place of Birth": "Chateau-des-Ouches",
         "lastName": "de La Coste",
         "dateOfBirth": "10/14/1865",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/04/1888"
       },
       "geometry": {
         "type": "Point",
@@ -333,7 +351,8 @@ var birthplaces = {
         "Place of Birth": "Napoli",
         "lastName": "Piccirillo",
         "dateOfBirth": "12/25/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/05/1888"
       },
       "geometry": {
         "type": "Point",
@@ -351,7 +370,8 @@ var birthplaces = {
         "Place of Birth": "Gunskirchen, O.O.",
         "lastName": "Muckenhuber",
         "dateOfBirth": "09/15/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/07/1888"
       },
       "geometry": {
         "type": "Point",
@@ -369,7 +389,8 @@ var birthplaces = {
         "Place of Birth": "Baie-du-Febvre, Que",
         "lastName": "Duguay",
         "dateOfBirth": "12/10/1861",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/07/1888"
       },
       "geometry": {
         "type": "Point",
@@ -387,7 +408,8 @@ var birthplaces = {
         "Place of Birth": "Rankweil (Vorarlberg)",
         "lastName": "Jenny",
         "dateOfBirth": "01/01/1810",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/08/1888"
       },
       "geometry": {
         "type": "Point",
@@ -405,7 +427,8 @@ var birthplaces = {
         "Place of Birth": "Palma de Mallorca",
         "lastName": "Juan",
         "dateOfBirth": "07/11/1850",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/09/1888"
       },
       "geometry": {
         "type": "Point",
@@ -423,7 +446,8 @@ var birthplaces = {
         "Place of Birth": "Chambery",
         "lastName": "Frandin",
         "dateOfBirth": "03/27/1811",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/13/1888"
       },
       "geometry": {
         "type": "Point",
@@ -441,7 +465,8 @@ var birthplaces = {
         "Place of Birth": "Autun (Saone-et-L)",
         "lastName": "Rolland",
         "dateOfBirth": "03/10/1865",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/13/1888"
       },
       "geometry": {
         "type": "Point",
@@ -459,7 +484,8 @@ var birthplaces = {
         "Place of Birth": "Gent",
         "lastName": "Deynoodt",
         "dateOfBirth": "10/15/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/17/1888"
       },
       "geometry": {
         "type": "Point",
@@ -477,7 +503,8 @@ var birthplaces = {
         "Place of Birth": "? (Monagham)",
         "lastName": "Mackeon",
         "dateOfBirth": "04/12/1843",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/18/1888"
       },
       "geometry": {
         "type": "Point",
@@ -495,7 +522,8 @@ var birthplaces = {
         "Place of Birth": "Newry (Armagh)",
         "lastName": "Macconnell",
         "dateOfBirth": "11/04/1810",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/21/1888"
       },
       "geometry": {
         "type": "Point",
@@ -513,7 +541,8 @@ var birthplaces = {
         "Place of Birth": "Enghien",
         "lastName": "Scheys",
         "dateOfBirth": "05/06/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/22/1888"
       },
       "geometry": {
         "type": "Point",
@@ -531,7 +560,8 @@ var birthplaces = {
         "Place of Birth": "Sarentino (Trento)",
         "lastName": "Wassermann",
         "dateOfBirth": "03/23/1836",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/23/1888"
       },
       "geometry": {
         "type": "Point",
@@ -549,7 +579,8 @@ var birthplaces = {
         "Place of Birth": "Altishofen (Luzern)",
         "lastName": "Rolli",
         "dateOfBirth": "08/26/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/26/1888"
       },
       "geometry": {
         "type": "Point",
@@ -567,7 +598,8 @@ var birthplaces = {
         "Place of Birth": "Modica (Siracusa)",
         "lastName": "Ferlisi",
         "dateOfBirth": "02/17/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/28/1888"
       },
       "geometry": {
         "type": "Point",
@@ -585,7 +617,8 @@ var birthplaces = {
         "Place of Birth": "Huy (Liege)",
         "lastName": "de Briey",
         "dateOfBirth": "07/12/1836",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/31/1888"
       },
       "geometry": {
         "type": "Point",
@@ -603,7 +636,8 @@ var birthplaces = {
         "Place of Birth": "Minden (Westfalen)",
         "lastName": "Suermann",
         "dateOfBirth": "04/13/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/01/1888"
       },
       "geometry": {
         "type": "Point",
@@ -621,7 +655,8 @@ var birthplaces = {
         "Place of Birth": "Chicago",
         "lastName": "Macginn",
         "dateOfBirth": "08/11/1862",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/04/1888"
       },
       "geometry": {
         "type": "Point",
@@ -639,7 +674,8 @@ var birthplaces = {
         "Place of Birth": "Napoli",
         "lastName": "Valente",
         "dateOfBirth": "12/07/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/06/1888"
       },
       "geometry": {
         "type": "Point",
@@ -657,7 +693,8 @@ var birthplaces = {
         "Place of Birth": "Mugron (Landes)",
         "lastName": "Dupouy",
         "dateOfBirth": "12/07/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/08/1888"
       },
       "geometry": {
         "type": "Point",
@@ -675,7 +712,8 @@ var birthplaces = {
         "Place of Birth": "Lempdes (H-Loire)",
         "lastName": "Chalchat",
         "dateOfBirth": "01/17/1844",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/09/1888"
       },
       "geometry": {
         "type": "Point",
@@ -693,7 +731,8 @@ var birthplaces = {
         "Place of Birth": "Wolfsdonck",
         "lastName": "Heylen",
         "dateOfBirth": "10/04/1863",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/13/1888"
       },
       "geometry": {
         "type": "Point",
@@ -711,7 +750,8 @@ var birthplaces = {
         "Place of Birth": "Hattryl pr Cham (Zug)",
         "lastName": "Hausherr",
         "dateOfBirth": "04/09/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/14/1888"
       },
       "geometry": {
         "type": "Point",
@@ -729,7 +769,8 @@ var birthplaces = {
         "Place of Birth": "Arc-sous-Cicon (Doubs)",
         "lastName": "Brutillot",
         "dateOfBirth": "10/31/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/17/1888"
       },
       "geometry": {
         "type": "Point",
@@ -747,7 +788,8 @@ var birthplaces = {
         "Place of Birth": "Salzig (Rheinland)",
         "lastName": "Weinand",
         "dateOfBirth": "08/08/1839",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/17/1888"
       },
       "geometry": {
         "type": "Point",
@@ -765,7 +807,8 @@ var birthplaces = {
         "Place of Birth": "Salerno",
         "lastName": "D'Alessio",
         "dateOfBirth": "04/02/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/20/1888"
       },
       "geometry": {
         "type": "Point",
@@ -783,7 +826,8 @@ var birthplaces = {
         "Place of Birth": "Seppenrade (Westfalen)",
         "lastName": "Feldkamp",
         "dateOfBirth": "08/02/1863",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/23/1888"
       },
       "geometry": {
         "type": "Point",
@@ -801,7 +845,8 @@ var birthplaces = {
         "Place of Birth": "Paris",
         "lastName": "Grognet",
         "dateOfBirth": "12/23/1860",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/26/1888"
       },
       "geometry": {
         "type": "Point",
@@ -819,7 +864,8 @@ var birthplaces = {
         "Place of Birth": "Vigneux (Aisne)",
         "lastName": "Paradis",
         "dateOfBirth": "02/14/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/27/1888"
       },
       "geometry": {
         "type": "Point",
@@ -837,7 +883,8 @@ var birthplaces = {
         "Place of Birth": "Svitavy (Morava)",
         "lastName": "Kriessl",
         "dateOfBirth": "06/19/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/29/1888"
       },
       "geometry": {
         "type": "Point",
@@ -855,7 +902,8 @@ var birthplaces = {
         "Place of Birth": "Lysl\u00ef\u00bf\u00bds-Lannoy (Nord)",
         "lastName": "Wastin",
         "dateOfBirth": "04/11/1868",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/01/1888"
       },
       "geometry": {
         "type": "Point",
@@ -873,7 +921,8 @@ var birthplaces = {
         "Place of Birth": "Deiningen (Schwaben)",
         "lastName": "Daurer",
         "dateOfBirth": "11/05/1811",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/07/1888"
       },
       "geometry": {
         "type": "Point",
@@ -891,7 +940,8 @@ var birthplaces = {
         "Place of Birth": "San Severino (Macerata)",
         "lastName": "Margarucci",
         "dateOfBirth": "04/17/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/09/1888"
       },
       "geometry": {
         "type": "Point",
@@ -909,7 +959,8 @@ var birthplaces = {
         "Place of Birth": "Modica (Siracusa)",
         "lastName": "Polino",
         "dateOfBirth": "07/04/1844",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/13/1888"
       },
       "geometry": {
         "type": "Point",
@@ -927,7 +978,8 @@ var birthplaces = {
         "Place of Birth": "Plounez (C\u00ef\u00bf\u00bdtes-du-N)",
         "lastName": "Le Coniat",
         "dateOfBirth": "06/27/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/15/1888"
       },
       "geometry": {
         "type": "Point",
@@ -945,7 +997,8 @@ var birthplaces = {
         "Place of Birth": "Flass\u00ef\u00bf\u00bd (Gerona)",
         "lastName": "Llaus\u00ef\u00bf\u00bds",
         "dateOfBirth": "03/05/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/19/1888"
       },
       "geometry": {
         "type": "Point",
@@ -963,7 +1016,8 @@ var birthplaces = {
         "Place of Birth": "Vienne (Is\u00ef\u00bf\u00bdre)",
         "lastName": "de Ravinel",
         "dateOfBirth": "05/11/1867",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/22/1888"
       },
       "geometry": {
         "type": "Point",
@@ -981,7 +1035,8 @@ var birthplaces = {
         "Place of Birth": "Riom (Puy-de-D)",
         "lastName": "(Chapus) Dubost",
         "dateOfBirth": "05/31/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/23/1888"
       },
       "geometry": {
         "type": "Point",
@@ -999,7 +1054,8 @@ var birthplaces = {
         "Place of Birth": "Longomoso (Bolzano)",
         "lastName": "Oehler",
         "dateOfBirth": "05/12/1815",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/24/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1017,7 +1073,8 @@ var birthplaces = {
         "Place of Birth": "Roma",
         "lastName": "Giannini",
         "dateOfBirth": "08/08/1813",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/28/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1035,7 +1092,8 @@ var birthplaces = {
         "Place of Birth": "Exeter (Devon)",
         "lastName": "Porter",
         "dateOfBirth": "11/01/1828",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/29/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1053,7 +1111,8 @@ var birthplaces = {
         "Place of Birth": "Piacenza",
         "lastName": "Ponzini",
         "dateOfBirth": "11/07/1812",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/30/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1071,7 +1130,8 @@ var birthplaces = {
         "Place of Birth": "Bouxi\u00ef\u00bf\u00bdres-aux-Ch\u00ef\u00bf\u00bdnes (Meurthe)",
         "lastName": "G\u00ef\u00bf\u00bdn\u00ef\u00bf\u00bdvrier",
         "dateOfBirth": "12/01/1829",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/06/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1089,7 +1149,8 @@ var birthplaces = {
         "Place of Birth": "Cori (Roma)",
         "lastName": "Chiari",
         "dateOfBirth": "04/09/1848",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/19/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1107,7 +1168,8 @@ var birthplaces = {
         "Place of Birth": "Genzano (Roma)",
         "lastName": "Colangeli",
         "dateOfBirth": "05/16/1847",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/20/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1125,7 +1187,8 @@ var birthplaces = {
         "Place of Birth": "K\u00ef\u00bf\u00bdln",
         "lastName": "Stein",
         "dateOfBirth": "08/21/1845",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/21/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1143,7 +1206,8 @@ var birthplaces = {
         "Place of Birth": "*Ober-Nemans",
         "lastName": "Lustinetz",
         "dateOfBirth": "10/06/1840",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/27/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1161,7 +1225,8 @@ var birthplaces = {
         "Place of Birth": "Manresa",
         "lastName": "Torrents",
         "dateOfBirth": "01/28/1856",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/28/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1179,7 +1244,8 @@ var birthplaces = {
         "Place of Birth": "Elten (Rheinland)",
         "lastName": "Buning",
         "dateOfBirth": "03/22/1810",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/29/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1197,7 +1263,8 @@ var birthplaces = {
         "Place of Birth": "Mahon (Menorca)",
         "lastName": "Segui",
         "dateOfBirth": "02/18/1845",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/30/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1215,7 +1282,8 @@ var birthplaces = {
         "Place of Birth": "Bagnols (Var)",
         "lastName": "Aguzzoni",
         "dateOfBirth": "07/03/1858",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/31/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1233,7 +1301,8 @@ var birthplaces = {
         "Place of Birth": "Pedreguer (Alicante)",
         "lastName": "Tomas",
         "dateOfBirth": "05/16/1851",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/31/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1251,7 +1320,8 @@ var birthplaces = {
         "Place of Birth": "Orvieto (Terni)",
         "lastName": "Roccatelli",
         "dateOfBirth": "04/20/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/04/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1269,7 +1339,8 @@ var birthplaces = {
         "Place of Birth": "Bergholtzzell (H-Rhin)",
         "lastName": "Weis",
         "dateOfBirth": "05/19/1858",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/05/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1287,7 +1358,8 @@ var birthplaces = {
         "Place of Birth": "Siuderno (Bolzano)",
         "lastName": "Rupp",
         "dateOfBirth": "11/18/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/06/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1305,7 +1377,8 @@ var birthplaces = {
         "Place of Birth": "Venezia",
         "lastName": "Saccardo",
         "dateOfBirth": "09/16/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/06/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1323,7 +1396,8 @@ var birthplaces = {
         "Place of Birth": "Orvieto (Terni)",
         "lastName": "Casaccia",
         "dateOfBirth": "10/17/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/06/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1341,7 +1415,8 @@ var birthplaces = {
         "Place of Birth": "Dublin",
         "lastName": "Waters",
         "dateOfBirth": "10/03/1853",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/12/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1359,7 +1434,8 @@ var birthplaces = {
         "Place of Birth": "Ceprano (Roma)",
         "lastName": "Pesci",
         "dateOfBirth": "03/12/1812",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/13/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1377,7 +1453,8 @@ var birthplaces = {
         "Place of Birth": "Olot (Gerona)",
         "lastName": "Bertran",
         "dateOfBirth": "02/10/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/15/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1395,7 +1472,8 @@ var birthplaces = {
         "Place of Birth": "Luyksgestel (N-Brabant)",
         "lastName": "Van De Reydt",
         "dateOfBirth": "05/09/1858",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/17/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1413,7 +1491,8 @@ var birthplaces = {
         "Place of Birth": "Chemille (Maine-et-L)",
         "lastName": "Danton",
         "dateOfBirth": "06/15/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/18/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1431,7 +1510,8 @@ var birthplaces = {
         "Place of Birth": "Envie (Cuneo)",
         "lastName": "Sarru",
         "dateOfBirth": "09/24/1806",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/18/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1449,7 +1529,8 @@ var birthplaces = {
         "Place of Birth": "Koblenz",
         "lastName": "Michels",
         "dateOfBirth": "06/23/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/20/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1467,7 +1548,8 @@ var birthplaces = {
         "Place of Birth": "Novara?",
         "lastName": "Tadini",
         "dateOfBirth": "03/18/1816",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/22/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1485,7 +1567,8 @@ var birthplaces = {
         "Place of Birth": "Alberique (Valencia)",
         "lastName": "Cervera",
         "dateOfBirth": "01/26/1857",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/22/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1503,7 +1586,8 @@ var birthplaces = {
         "Place of Birth": "Vipiteno (Bolzano)",
         "lastName": "Haidegger",
         "dateOfBirth": "10/09/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/23/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1521,7 +1605,8 @@ var birthplaces = {
         "Place of Birth": "Loreto (Ancona)",
         "lastName": "Nardi",
         "dateOfBirth": "01/13/1841",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/23/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1539,7 +1624,8 @@ var birthplaces = {
         "Place of Birth": "klingnau (Aargau)",
         "lastName": "Schleiniger",
         "dateOfBirth": "10/14/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/24/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1557,7 +1643,8 @@ var birthplaces = {
         "Place of Birth": "Igualada (Barcelona)",
         "lastName": "Catarineu",
         "dateOfBirth": "12/01/1863",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/25/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1575,7 +1662,8 @@ var birthplaces = {
         "Place of Birth": "Napoli",
         "lastName": "De Cristofaro",
         "dateOfBirth": "04/19/1811",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/27/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1593,7 +1681,8 @@ var birthplaces = {
         "Place of Birth": "Ciudad Rodrigo (Salamanca)",
         "lastName": "Queralt",
         "dateOfBirth": "04/21/1798",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/30/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1611,7 +1700,8 @@ var birthplaces = {
         "Place of Birth": "Lyon",
         "lastName": "Beccard",
         "dateOfBirth": "10/17/1856",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/01/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1629,7 +1719,8 @@ var birthplaces = {
         "Place of Birth": "Sellieres (Jura)",
         "lastName": "Canoz",
         "dateOfBirth": "09/11/1805",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/02/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1647,7 +1738,8 @@ var birthplaces = {
         "Place of Birth": "Gerona",
         "lastName": "Massaguer",
         "dateOfBirth": "02/02/1867",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/03/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1665,7 +1757,8 @@ var birthplaces = {
         "Place of Birth": "Moresnet (Li\u00ef\u00bf\u00bdge)",
         "lastName": "Pelzer",
         "dateOfBirth": "02/06/1852",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/06/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1683,7 +1776,8 @@ var birthplaces = {
         "Place of Birth": "Salza (Avellino)",
         "lastName": "Ferullo",
         "dateOfBirth": "03/07/1811",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/07/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1701,7 +1795,8 @@ var birthplaces = {
         "Place of Birth": "Paris",
         "lastName": "de Launay",
         "dateOfBirth": "04/21/1838",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/09/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1719,7 +1814,8 @@ var birthplaces = {
         "Place of Birth": "La Chapelle-aux-Filx M\u00ef\u00bf\u00bdens (Ille-et-V)",
         "lastName": "Rubillon (du Lattay)",
         "dateOfBirth": "12/07/1804",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/10/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1737,7 +1833,8 @@ var birthplaces = {
         "Place of Birth": "Mi\u00ef\u00bf\u00bdges (Jura)",
         "lastName": "Vuillermet",
         "dateOfBirth": "06/24/1807",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/10/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1755,7 +1852,8 @@ var birthplaces = {
         "Place of Birth": "S. Pietro a Patierno (Napoli)",
         "lastName": "Capozzi",
         "dateOfBirth": "12/31/1807",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/13/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1773,7 +1871,8 @@ var birthplaces = {
         "Place of Birth": "Cammarata (Girgenti)",
         "lastName": "Ferlisi",
         "dateOfBirth": "04/06/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/13/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1791,7 +1890,8 @@ var birthplaces = {
         "Place of Birth": "Anost (Sa\u00ef\u00bf\u00bdne-et-L)",
         "lastName": "Lebrot",
         "dateOfBirth": "12/25/1801",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/13/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1809,7 +1909,8 @@ var birthplaces = {
         "Place of Birth": "Civitella Roveto (Aquila)",
         "lastName": "Ferrante",
         "dateOfBirth": "10/11/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/16/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1827,7 +1928,8 @@ var birthplaces = {
         "Place of Birth": "Genoni (Cagliari)",
         "lastName": "Porqueddu",
         "dateOfBirth": "11/19/1816",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/16/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1845,7 +1947,8 @@ var birthplaces = {
         "Place of Birth": "Cornill\u00ef\u00bf\u00bd (Ille-et-V)",
         "lastName": "Roussel",
         "dateOfBirth": "04/29/1848",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/16/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1863,7 +1966,8 @@ var birthplaces = {
         "Place of Birth": "Tortosa",
         "lastName": "Ferreres",
         "dateOfBirth": "04/05/1859",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/17/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1881,7 +1985,8 @@ var birthplaces = {
         "Place of Birth": "Joux-la-Ville (Yonne)",
         "lastName": "Bidault",
         "dateOfBirth": "04/17/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/19/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1899,7 +2004,8 @@ var birthplaces = {
         "Place of Birth": "Tortona (Alessandria)",
         "lastName": "Valenti",
         "dateOfBirth": "10/24/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/21/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1917,7 +2023,8 @@ var birthplaces = {
         "Place of Birth": "Rojau (?echy)",
         "lastName": "Lenz",
         "dateOfBirth": "08/04/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/22/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1935,7 +2042,8 @@ var birthplaces = {
         "Place of Birth": "Rabato (Gozo)",
         "lastName": "Debono",
         "dateOfBirth": "02/22/1865",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/23/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1953,7 +2061,8 @@ var birthplaces = {
         "Place of Birth": "Guatemala la Antigua (Sacatepequez, Guatemala)",
         "lastName": "Toledo",
         "dateOfBirth": "03/11/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/25/1888"
       },
       "geometry": {
         "type": "Point",
@@ -1971,7 +2080,8 @@ var birthplaces = {
         "Place of Birth": "Vera (Navarra)",
         "lastName": "Errandonea",
         "dateOfBirth": "02/04/1872",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/01/1889"
       },
       "geometry": {
         "type": "Point",
@@ -1989,7 +2099,8 @@ var birthplaces = {
         "Place of Birth": "Gimont (Gers)",
         "lastName": "Aragon",
         "dateOfBirth": "10/30/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/02/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2007,7 +2118,8 @@ var birthplaces = {
         "Place of Birth": "Stokkem (Luxembourg)",
         "lastName": "Ruppert",
         "dateOfBirth": "08/22/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/03/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2025,7 +2137,8 @@ var birthplaces = {
         "Place of Birth": "Aix-les-Bains (Savoie)",
         "lastName": "Vignet",
         "dateOfBirth": "08/10/1803",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/07/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2043,7 +2156,8 @@ var birthplaces = {
         "Place of Birth": "B\u00ef\u00bf\u00bdjar (Salamanca)",
         "lastName": "Rodr\u00ef\u00bf\u00bdguez Hern\u00ef\u00bf\u00bdndez",
         "dateOfBirth": "12/10/1840",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/08/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2061,7 +2175,8 @@ var birthplaces = {
         "Place of Birth": "T\u00ef\u00bf\u00bdrrega (L\u00ef\u00bf\u00bdrida)",
         "lastName": "Vilalta",
         "dateOfBirth": "08/27/1869",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/09/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2079,7 +2194,8 @@ var birthplaces = {
         "Place of Birth": "Gheel (Anvers)",
         "lastName": "Vloeberghs",
         "dateOfBirth": "10/11/1807",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/10/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2097,7 +2213,8 @@ var birthplaces = {
         "Place of Birth": "Svitavy (Morava)",
         "lastName": "Ratzer",
         "dateOfBirth": "07/04/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/11/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2115,7 +2232,8 @@ var birthplaces = {
         "Place of Birth": "Erpe (Fl Or)",
         "lastName": "Guns",
         "dateOfBirth": "10/14/1810",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/15/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2133,7 +2251,8 @@ var birthplaces = {
         "Place of Birth": "Schledehausen (Hannover)",
         "lastName": "Franksmann",
         "dateOfBirth": "02/29/1836",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/16/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2151,7 +2270,8 @@ var birthplaces = {
         "Place of Birth": "*Krig\u00ef\u00bf\u00bdw (Polska?)",
         "lastName": "?liwowski",
         "dateOfBirth": "06/06/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/18/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2169,7 +2289,8 @@ var birthplaces = {
         "Place of Birth": "Ferentino (Roma)",
         "lastName": "Fratazzi",
         "dateOfBirth": "09/10/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/18/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2187,7 +2308,8 @@ var birthplaces = {
         "Place of Birth": "Berrwiller (H-Rhin)",
         "lastName": "Wintenberger",
         "dateOfBirth": "05/29/1846",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/18/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2205,7 +2327,8 @@ var birthplaces = {
         "Place of Birth": "Frosinone (Roma)",
         "lastName": "Carboni",
         "dateOfBirth": "03/29/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/19/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2223,7 +2346,8 @@ var birthplaces = {
         "Place of Birth": "Jes\u00ef\u00bf\u00bds, pr Tortosa",
         "lastName": "Tafalla",
         "dateOfBirth": "01/28/1854",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/19/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2241,7 +2365,8 @@ var birthplaces = {
         "Place of Birth": "Urrestilla (Azpeitia)",
         "lastName": "Errasti",
         "dateOfBirth": "04/03/1861",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/20/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2259,7 +2384,8 @@ var birthplaces = {
         "Place of Birth": "Napoli",
         "lastName": "Jannelli",
         "dateOfBirth": "04/16/1816",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/27/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2277,7 +2403,8 @@ var birthplaces = {
         "Place of Birth": "Napoli",
         "lastName": "Scotti",
         "dateOfBirth": "10/14/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/27/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2295,7 +2422,8 @@ var birthplaces = {
         "Place of Birth": "San Vicente de Castellet (Barcelona)",
         "lastName": "Sala",
         "dateOfBirth": "05/27/1864",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/27/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2313,7 +2441,8 @@ var birthplaces = {
         "Place of Birth": "Al\u00ef\u00bf\u00bds de An\u00ef\u00bf\u00bds (L\u00ef\u00bf\u00bdrida)",
         "lastName": "Arnalot",
         "dateOfBirth": "05/13/1865",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/27/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2331,7 +2460,8 @@ var birthplaces = {
         "Place of Birth": "Santa Caterina (Caltanissetta)",
         "lastName": "Nicosia",
         "dateOfBirth": "10/16/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/28/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2349,7 +2479,8 @@ var birthplaces = {
         "Place of Birth": "Preston",
         "lastName": "Postlewhite",
         "dateOfBirth": "11/29/1857",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/28/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2367,7 +2498,8 @@ var birthplaces = {
         "Place of Birth": "Tudela de Segre (L\u00ef\u00bf\u00bdrida)",
         "lastName": "Ram\u00ef\u00bf\u00bdn",
         "dateOfBirth": "08/15/1840",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/30/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2385,7 +2517,8 @@ var birthplaces = {
         "Place of Birth": "Malm\u00ef\u00bf\u00bd (Schweden)",
         "lastName": "Hallin",
         "dateOfBirth": "09/16/1869",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/01/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2403,7 +2536,8 @@ var birthplaces = {
         "Place of Birth": "Bousies (Nord)",
         "lastName": "Besse",
         "dateOfBirth": "04/06/1811",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/03/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2421,7 +2555,8 @@ var birthplaces = {
         "Place of Birth": "Brzezany, Wrocl",
         "lastName": "Dewechy",
         "dateOfBirth": "09/11/1867",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/05/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2439,7 +2574,8 @@ var birthplaces = {
         "Place of Birth": "M\u00ef\u00bf\u00bdnster (Valais: a Geschinen, ibid.)",
         "lastName": "K\u00ef\u00bf\u00bdmpfen",
         "dateOfBirth": "07/29/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/06/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2457,7 +2593,8 @@ var birthplaces = {
         "Place of Birth": "Lathum",
         "lastName": "Kraayvanger",
         "dateOfBirth": "03/28/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/09/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2475,7 +2612,8 @@ var birthplaces = {
         "Place of Birth": "Anvers",
         "lastName": "Van Aken",
         "dateOfBirth": "04/23/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/11/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2493,7 +2631,8 @@ var birthplaces = {
         "Place of Birth": "Moreiras Grandes (Extremadura)",
         "lastName": "Bernando",
         "dateOfBirth": "06/16/1862",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/13/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2511,7 +2650,8 @@ var birthplaces = {
         "Place of Birth": "St-Louise (H-Rhin)",
         "lastName": "Billot",
         "dateOfBirth": "01/03/1853",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/14/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2529,7 +2669,8 @@ var birthplaces = {
         "Place of Birth": "Viterbo (Roma)",
         "lastName": "Mazzi",
         "dateOfBirth": "04/06/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/15/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2547,7 +2688,8 @@ var birthplaces = {
         "Place of Birth": "Chuisa (Bolzano)",
         "lastName": "Untereichner",
         "dateOfBirth": "07/30/1864",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/16/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2565,7 +2707,8 @@ var birthplaces = {
         "Place of Birth": "Buffalo",
         "lastName": "Neville",
         "dateOfBirth": "02/20/1860",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/17/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2583,7 +2726,8 @@ var birthplaces = {
         "Place of Birth": "St-Agil (Loir-et-Ch)",
         "lastName": "Minier",
         "dateOfBirth": "09/09/1806",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/17/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2601,7 +2745,8 @@ var birthplaces = {
         "Place of Birth": "Noyal-Pontivy (Morbihan)",
         "lastName": "Le D\u00ef\u00bf\u00bdlaizir",
         "dateOfBirth": "04/20/1795",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/18/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2619,7 +2764,8 @@ var birthplaces = {
         "Place of Birth": "Camerino (Macerata)",
         "lastName": "Coluzzi",
         "dateOfBirth": "11/20/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/21/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2637,7 +2783,8 @@ var birthplaces = {
         "Place of Birth": "Qu\u00ef\u00bf\u00bdbec",
         "lastName": "B\u00ef\u00bf\u00bddard",
         "dateOfBirth": "12/31/1844",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/22/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2655,7 +2802,8 @@ var birthplaces = {
         "Place of Birth": "Magland (H-Savoie)",
         "lastName": "Perrollaz",
         "dateOfBirth": "07/14/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/23/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2673,7 +2821,8 @@ var birthplaces = {
         "Place of Birth": "Wigan (Lancashire)",
         "lastName": "Rigby",
         "dateOfBirth": "06/08/1809",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/25/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2691,7 +2840,8 @@ var birthplaces = {
         "Place of Birth": "Gent",
         "lastName": "Verbeke",
         "dateOfBirth": "03/22/1833",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/25/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2709,7 +2859,8 @@ var birthplaces = {
         "Place of Birth": "Liverpool",
         "lastName": "Walmsley",
         "dateOfBirth": "02/27/1859",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/25/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2727,7 +2878,8 @@ var birthplaces = {
         "Place of Birth": "Olesno, Opole",
         "lastName": "Haladin",
         "dateOfBirth": "09/03/1836",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/26/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2745,7 +2897,8 @@ var birthplaces = {
         "Place of Birth": "Bonneval (H-Loire)",
         "lastName": "Rossipon",
         "dateOfBirth": "04/26/1811",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/27/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2763,7 +2916,8 @@ var birthplaces = {
         "Place of Birth": "Trento",
         "lastName": "Dalpr\u00ef\u00bf\u00bd",
         "dateOfBirth": "03/23/1871",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/28/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2781,7 +2935,8 @@ var birthplaces = {
         "Place of Birth": "Maignan (Gers)",
         "lastName": "Lavay",
         "dateOfBirth": "09/11/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/01/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2799,7 +2954,8 @@ var birthplaces = {
         "Place of Birth": "Perelada (Gerona)",
         "lastName": "Bech",
         "dateOfBirth": "12/29/1850",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/03/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2817,7 +2973,8 @@ var birthplaces = {
         "Place of Birth": "Genova",
         "lastName": "Bixio",
         "dateOfBirth": "05/23/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/03/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2835,7 +2992,8 @@ var birthplaces = {
         "Place of Birth": "Ondara (Alicante)",
         "lastName": "Pallar\u00ef\u00bf\u00bds",
         "dateOfBirth": "06/12/1856",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/03/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2853,7 +3011,8 @@ var birthplaces = {
         "Place of Birth": "Tournai",
         "lastName": "Carbonnelle",
         "dateOfBirth": "02/01/1829",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/04/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2871,7 +3030,8 @@ var birthplaces = {
         "Place of Birth": "Dublin",
         "lastName": "O'Carroll",
         "dateOfBirth": "09/01/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/05/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2889,7 +3049,8 @@ var birthplaces = {
         "Place of Birth": "Stiphout (N-Brabant)",
         "lastName": "van den Putten",
         "dateOfBirth": "03/19/1852",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/05/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2907,7 +3068,8 @@ var birthplaces = {
         "Place of Birth": "Marie (Alpes-M)",
         "lastName": "Blanchi",
         "dateOfBirth": "12/29/1798",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/05/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2925,7 +3087,8 @@ var birthplaces = {
         "Place of Birth": "Palermo",
         "lastName": "Galvagno",
         "dateOfBirth": "11/11/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/07/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2943,7 +3106,8 @@ var birthplaces = {
         "Place of Birth": "R\u00ef\u00bf\u00bdquista (Aveyron)",
         "lastName": "Galtier",
         "dateOfBirth": "08/31/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/11/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2961,7 +3125,8 @@ var birthplaces = {
         "Place of Birth": "Metz",
         "lastName": "Thiry",
         "dateOfBirth": "12/14/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/13/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2979,7 +3144,8 @@ var birthplaces = {
         "Place of Birth": "Heiligenstadt (dc Paderbornen)",
         "lastName": "Mock",
         "dateOfBirth": "11/08/1839",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/14/1889"
       },
       "geometry": {
         "type": "Point",
@@ -2997,7 +3163,8 @@ var birthplaces = {
         "Place of Birth": "Steenwijk (Overijsel)",
         "lastName": "van der Wolk",
         "dateOfBirth": "07/19/1806",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/15/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3015,7 +3182,8 @@ var birthplaces = {
         "Place of Birth": "Les Rousses (Jura)",
         "lastName": "Perrard",
         "dateOfBirth": "03/10/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/17/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3033,7 +3201,8 @@ var birthplaces = {
         "Place of Birth": "Binondo (Luz\u00ef\u00bf\u00bdn)",
         "lastName": "Verzosa",
         "dateOfBirth": "12/03/1863",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/18/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3051,7 +3220,8 @@ var birthplaces = {
         "Place of Birth": "Fontana Elice (Bologna)",
         "lastName": "Santi",
         "dateOfBirth": "01/31/1809",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/19/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3069,7 +3239,8 @@ var birthplaces = {
         "Place of Birth": "Duisbourg (Brabant)",
         "lastName": "Broes",
         "dateOfBirth": "03/05/1842",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/20/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3087,7 +3258,8 @@ var birthplaces = {
         "Place of Birth": "Bandita di Cassinelle (Alessandria)",
         "lastName": "Gallo",
         "dateOfBirth": "02/08/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/21/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3105,7 +3277,8 @@ var birthplaces = {
         "Place of Birth": "Roma",
         "lastName": "Lera",
         "dateOfBirth": "09/16/1805",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/22/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3123,7 +3296,8 @@ var birthplaces = {
         "Place of Birth": "Napoli",
         "lastName": "Costa",
         "dateOfBirth": "12/28/1813",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/25/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3141,7 +3315,8 @@ var birthplaces = {
         "Place of Birth": "Mladkov (?echy)",
         "lastName": "Pietsch",
         "dateOfBirth": "10/13/1840",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/26/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3159,7 +3334,8 @@ var birthplaces = {
         "Place of Birth": "St. Louis",
         "lastName": "MacCarthy",
         "dateOfBirth": "04/20/1865",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/27/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3177,7 +3353,8 @@ var birthplaces = {
         "Place of Birth": "Wiedenbr\u00ef\u00bf\u00bdck (Westfalen)",
         "lastName": "Menke",
         "dateOfBirth": "04/16/1829",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/28/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3195,7 +3372,8 @@ var birthplaces = {
         "Place of Birth": "M\u00ef\u00bf\u00bdnster",
         "lastName": "Ehring",
         "dateOfBirth": "03/05/1833",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/29/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3213,7 +3391,8 @@ var birthplaces = {
         "Place of Birth": "Napoli",
         "lastName": "Vezza",
         "dateOfBirth": "10/24/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/29/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3231,7 +3410,8 @@ var birthplaces = {
         "Place of Birth": "Coltines (Cantal)",
         "lastName": "Jaffre",
         "dateOfBirth": "09/26/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/30/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3249,7 +3429,8 @@ var birthplaces = {
         "Place of Birth": "Plobannalec (Finist\u00ef\u00bf\u00bdre)",
         "lastName": "Toulemont",
         "dateOfBirth": "03/27/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/07/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3267,7 +3448,8 @@ var birthplaces = {
         "Place of Birth": "Bogot\u00ef\u00bf\u00bd",
         "lastName": "Paul",
         "dateOfBirth": "01/05/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/08/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3285,7 +3467,8 @@ var birthplaces = {
         "Place of Birth": "Granville (Manche)",
         "lastName": "Girre",
         "dateOfBirth": "07/06/1815",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/11/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3303,7 +3486,8 @@ var birthplaces = {
         "Place of Birth": "Landstuhl (Bayern)",
         "lastName": "Hilbert",
         "dateOfBirth": "10/29/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/13/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3321,7 +3505,8 @@ var birthplaces = {
         "Place of Birth": "Siracusa",
         "lastName": "Borrello",
         "dateOfBirth": "05/19/1833",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/14/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3339,7 +3524,8 @@ var birthplaces = {
         "Place of Birth": "Bytom, Opote",
         "lastName": "Schmude",
         "dateOfBirth": "05/22/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/14/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3357,7 +3543,8 @@ var birthplaces = {
         "Place of Birth": "Vellevans (Doubs)",
         "lastName": "Barret",
         "dateOfBirth": "04/25/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/15/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3375,7 +3562,8 @@ var birthplaces = {
         "Place of Birth": "Monthureux-sur-Sa\u00ef\u00bf\u00bdne (Vosges)",
         "lastName": "Coeurdacier",
         "dateOfBirth": "02/25/1816",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/16/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3393,7 +3581,8 @@ var birthplaces = {
         "Place of Birth": "Eibar (Guip\u00ef\u00bf\u00bdzcoa)",
         "lastName": "Aranz\u00ef\u00bf\u00bdbal",
         "dateOfBirth": "02/11/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/16/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3411,7 +3600,8 @@ var birthplaces = {
         "Place of Birth": "pr Ingsdom (Devon)",
         "lastName": "Williams",
         "dateOfBirth": "03/12/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/22/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3429,7 +3619,8 @@ var birthplaces = {
         "Place of Birth": "Breda (N-Brabant)",
         "lastName": "Oers",
         "dateOfBirth": "11/15/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/22/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3447,7 +3638,8 @@ var birthplaces = {
         "Place of Birth": "Banbridge (Down)",
         "lastName": "Strain",
         "dateOfBirth": "05/01/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/24/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3465,7 +3657,8 @@ var birthplaces = {
         "Place of Birth": "Abbeville (Somme)",
         "lastName": "Engerand",
         "dateOfBirth": "07/05/1809",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/26/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3483,7 +3676,8 @@ var birthplaces = {
         "Place of Birth": "Drumshanbo (Leitrim)",
         "lastName": "Stephens",
         "dateOfBirth": "11/13/1842",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/26/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3501,7 +3695,8 @@ var birthplaces = {
         "Place of Birth": "Kilkenny",
         "lastName": "Kenealy",
         "dateOfBirth": "10/16/1849",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/30/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3519,7 +3714,8 @@ var birthplaces = {
         "Place of Birth": "Saizerais (Meurthe)",
         "lastName": "Monchablon",
         "dateOfBirth": "02/27/1862",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/03/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3537,7 +3733,8 @@ var birthplaces = {
         "Place of Birth": "Beck, pr Breda (N-Brabant)",
         "lastName": "Van der Veeken",
         "dateOfBirth": "09/26/1815",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/06/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3555,7 +3752,8 @@ var birthplaces = {
         "Place of Birth": "Mountrath (Queen's)",
         "lastName": "Cunningham",
         "dateOfBirth": "12/30/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/20/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3573,7 +3771,8 @@ var birthplaces = {
         "Place of Birth": "Valletta",
         "lastName": "Grech",
         "dateOfBirth": "07/03/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/20/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3591,7 +3790,8 @@ var birthplaces = {
         "Place of Birth": "Hildesheim (Hannover)",
         "lastName": "Lottritz",
         "dateOfBirth": "03/26/1811",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/22/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3609,7 +3809,8 @@ var birthplaces = {
         "Place of Birth": "Vila do Conde (Minho)",
         "lastName": "Barros",
         "dateOfBirth": "06/01/1850",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/23/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3627,7 +3828,8 @@ var birthplaces = {
         "Place of Birth": "Anvers",
         "lastName": "Van Alsenoy",
         "dateOfBirth": "10/11/1812",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/25/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3645,7 +3847,8 @@ var birthplaces = {
         "Place of Birth": "New York",
         "lastName": "Macdonald",
         "dateOfBirth": "01/21/1861",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/25/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3663,7 +3866,8 @@ var birthplaces = {
         "Place of Birth": "Castellgali (Barcelona)",
         "lastName": "Casajoana",
         "dateOfBirth": "12/29/1828",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/28/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3681,7 +3885,8 @@ var birthplaces = {
         "Place of Birth": "Greven (Westfalen)",
         "lastName": "Krone",
         "dateOfBirth": "11/01/1843",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/30/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3699,7 +3904,8 @@ var birthplaces = {
         "Place of Birth": "Bagimont (Luxembourg)",
         "lastName": "Degembe",
         "dateOfBirth": "04/28/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/02/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3717,7 +3923,8 @@ var birthplaces = {
         "Place of Birth": "Maastricht",
         "lastName": "Jans",
         "dateOfBirth": "11/28/1839",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/05/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3735,7 +3942,8 @@ var birthplaces = {
         "Place of Birth": "Stratford (Essex)",
         "lastName": "Hopkings",
         "dateOfBirth": "07/28/1844",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/08/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3753,7 +3961,8 @@ var birthplaces = {
         "Place of Birth": "Mons",
         "lastName": "Busiau",
         "dateOfBirth": "08/31/1868",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/10/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3771,7 +3980,8 @@ var birthplaces = {
         "Place of Birth": "Monistrol-sur-Loire (H-Loire)",
         "lastName": "Samuel",
         "dateOfBirth": "11/02/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/11/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3789,7 +3999,8 @@ var birthplaces = {
         "Place of Birth": "Tarascon (B-du-Rhone)",
         "lastName": "Francia",
         "dateOfBirth": "05/25/1838",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/15/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3807,7 +4018,8 @@ var birthplaces = {
         "Place of Birth": "Arzignano (Vicenza)",
         "lastName": "Ziggiotti",
         "dateOfBirth": "09/24/1849",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/15/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3825,7 +4037,8 @@ var birthplaces = {
         "Place of Birth": "Ussel (Correze)",
         "lastName": "Badour",
         "dateOfBirth": "06/26/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/20/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3843,7 +4056,8 @@ var birthplaces = {
         "Place of Birth": "Tailhac (H-Loire)",
         "lastName": "Boyer",
         "dateOfBirth": "10/18/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/22/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3861,7 +4075,8 @@ var birthplaces = {
         "Place of Birth": "Blanes (Gerona)",
         "lastName": "Vallas",
         "dateOfBirth": "07/24/1854",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/22/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3879,7 +4094,8 @@ var birthplaces = {
         "Place of Birth": "Jedovnice (Morava)",
         "lastName": "Plch",
         "dateOfBirth": "07/22/1838",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/23/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3897,7 +4113,8 @@ var birthplaces = {
         "Place of Birth": "Sligo",
         "lastName": "O'Hara",
         "dateOfBirth": "03/17/1839",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/24/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3915,7 +4132,8 @@ var birthplaces = {
         "Place of Birth": "Stolberg (Rheinland)",
         "lastName": "Voiss",
         "dateOfBirth": "12/14/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/30/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3933,7 +4151,8 @@ var birthplaces = {
         "Place of Birth": "Amsterdam",
         "lastName": "Bonnike",
         "dateOfBirth": "07/26/1845",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/01/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3951,7 +4170,8 @@ var birthplaces = {
         "Place of Birth": "*Serahanfadda (Kerry)",
         "lastName": "Riordan",
         "dateOfBirth": "08/01/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/01/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3969,7 +4189,8 @@ var birthplaces = {
         "Place of Birth": "Imstenrade, par. Simpelveld, Limburg",
         "lastName": "Widdershoven",
         "dateOfBirth": "12/11/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/02/1889"
       },
       "geometry": {
         "type": "Point",
@@ -3987,7 +4208,8 @@ var birthplaces = {
         "Place of Birth": "Manresa",
         "lastName": "Colldeforns",
         "dateOfBirth": "03/31/1801",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/03/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4005,7 +4227,8 @@ var birthplaces = {
         "Place of Birth": "Puedlo Nuevo (Esteli, Nicaragua)",
         "lastName": "Ocampo",
         "dateOfBirth": "09/11/1860",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/04/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4023,7 +4246,8 @@ var birthplaces = {
         "Place of Birth": "Albano (Roma)",
         "lastName": "Graziosi",
         "dateOfBirth": "06/24/1838",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/05/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4041,7 +4265,8 @@ var birthplaces = {
         "Place of Birth": "Santvliet (Anvers)",
         "lastName": "Bossyns",
         "dateOfBirth": "07/10/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/05/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4059,7 +4284,8 @@ var birthplaces = {
         "Place of Birth": "Izmir (Turquie)",
         "lastName": "Missir",
         "dateOfBirth": "05/19/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/06/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4077,7 +4303,8 @@ var birthplaces = {
         "Place of Birth": "London",
         "lastName": "Pittar",
         "dateOfBirth": "11/02/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/07/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4095,7 +4322,8 @@ var birthplaces = {
         "Place of Birth": "Paris",
         "lastName": "Le Blond",
         "dateOfBirth": "05/06/1846",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/08/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4113,7 +4341,8 @@ var birthplaces = {
         "Place of Birth": "Napoli",
         "lastName": "Panzanelli",
         "dateOfBirth": "06/10/1816",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/11/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4131,7 +4360,8 @@ var birthplaces = {
         "Place of Birth": "Crotenay (Jura)",
         "lastName": "Petot",
         "dateOfBirth": "06/17/1829",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/12/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4149,7 +4379,8 @@ var birthplaces = {
         "Place of Birth": "Pouillon (Landes)",
         "lastName": "Laburthe",
         "dateOfBirth": "06/06/1829",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/15/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4167,7 +4398,8 @@ var birthplaces = {
         "Place of Birth": "Bonn",
         "lastName": "Plenkers",
         "dateOfBirth": "08/26/1851",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/15/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4185,7 +4417,8 @@ var birthplaces = {
         "Place of Birth": "s-Gravenhage",
         "lastName": "Maessen",
         "dateOfBirth": "12/15/1845",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/16/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4203,7 +4436,8 @@ var birthplaces = {
         "Place of Birth": "Elbergen (Hannover)",
         "lastName": "Thiemann",
         "dateOfBirth": "07/31/1829",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/16/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4221,7 +4455,8 @@ var birthplaces = {
         "Place of Birth": "Torre de Esteban-Hambr\u00ef\u00bf\u00bdn (Toledo)",
         "lastName": "Cort\u00ef\u00bf\u00bds",
         "dateOfBirth": "03/24/1812",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/18/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4239,7 +4474,8 @@ var birthplaces = {
         "Place of Birth": "St-Jean-de-Lus (B-Pir\u00ef\u00bf\u00bdn\u00ef\u00bf\u00bdes)",
         "lastName": "Bicendaritz",
         "dateOfBirth": "09/01/1855",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/19/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4257,7 +4493,8 @@ var birthplaces = {
         "Place of Birth": "Athleague (Roscommon)",
         "lastName": "Curley",
         "dateOfBirth": "10/25/1796",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/24/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4275,7 +4512,8 @@ var birthplaces = {
         "Place of Birth": "Brixton",
         "lastName": "Pittar",
         "dateOfBirth": "02/16/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/24/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4293,7 +4531,8 @@ var birthplaces = {
         "Place of Birth": "Franco (Conando de Trevi\u00ef\u00bf\u00bdo, Burgos)",
         "lastName": "Ochoa",
         "dateOfBirth": "03/08/1847",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/30/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4311,7 +4550,8 @@ var birthplaces = {
         "Place of Birth": "Villaba (Navarra)",
         "lastName": "Ega\u00ef\u00bf\u00bda",
         "dateOfBirth": "03/07/1854",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/02/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4329,7 +4569,8 @@ var birthplaces = {
         "Place of Birth": "Sansellas (Mallorca)",
         "lastName": "Ramis",
         "dateOfBirth": "10/21/1813",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/02/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4347,7 +4588,8 @@ var birthplaces = {
         "Place of Birth": "Armancourt (Meurthe)",
         "lastName": "Godfroy",
         "dateOfBirth": "12/15/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/04/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4365,7 +4607,8 @@ var birthplaces = {
         "Place of Birth": "Alost",
         "lastName": "Vanderspeeten",
         "dateOfBirth": "03/03/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/05/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4383,7 +4626,8 @@ var birthplaces = {
         "Place of Birth": "Strasbourg",
         "lastName": "Finck",
         "dateOfBirth": "10/04/1864",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/05/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4401,7 +4645,8 @@ var birthplaces = {
         "Place of Birth": "Hautevesne (Aisne)",
         "lastName": "Chartier",
         "dateOfBirth": "07/26/1813",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/10/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4419,7 +4664,8 @@ var birthplaces = {
         "Place of Birth": "Lamego (Beira-Alta)",
         "lastName": "Bastos",
         "dateOfBirth": "11/13/1863",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/10/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4437,7 +4683,8 @@ var birthplaces = {
         "Place of Birth": "Zouk (Liban)",
         "lastName": "Chanaan",
         "dateOfBirth": "07/20/1844",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/10/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4455,7 +4702,8 @@ var birthplaces = {
         "Place of Birth": "Nantes",
         "lastName": "Mac\u00ef\u00bf\u00bd",
         "dateOfBirth": "11/08/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/11/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4473,7 +4721,8 @@ var birthplaces = {
         "Place of Birth": "Kolodziej\u00ef\u00bf\u00bdwka (Ternopol; USSR)",
         "lastName": "Cze?owsk",
         "dateOfBirth": "10/15/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/12/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4491,7 +4740,8 @@ var birthplaces = {
         "Place of Birth": "Mergentheim (W\u00ef\u00bf\u00bdrtemberg)",
         "lastName": "Pachtler",
         "dateOfBirth": "09/14/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/12/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4509,7 +4759,8 @@ var birthplaces = {
         "Place of Birth": "Valentia (Kerry)",
         "lastName": "O'Sullivan",
         "dateOfBirth": "03/10/1853",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/12/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4527,7 +4778,8 @@ var birthplaces = {
         "Place of Birth": "Geldern (Rheinland)",
         "lastName": "van Ham",
         "dateOfBirth": "11/03/1813",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/13/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4545,7 +4797,8 @@ var birthplaces = {
         "Place of Birth": "La Bisbal (Gerona)",
         "lastName": "Boix",
         "dateOfBirth": "06/21/1859",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/17/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4563,7 +4816,8 @@ var birthplaces = {
         "Place of Birth": "Neratov (?echy)",
         "lastName": "Schmoranzer",
         "dateOfBirth": "03/07/1812",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/17/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4581,7 +4835,8 @@ var birthplaces = {
         "Place of Birth": "Sixt (H-Savoie)",
         "lastName": "Pin",
         "dateOfBirth": "03/11/1806",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/19/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4599,7 +4854,8 @@ var birthplaces = {
         "Place of Birth": "Benansal (Castell\u00ef\u00bf\u00bdn de la P.)",
         "lastName": "Vives",
         "dateOfBirth": "09/08/1864",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/20/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4617,7 +4873,8 @@ var birthplaces = {
         "Place of Birth": "Placencia (Guip\u00ef\u00bf\u00bdzcoa)",
         "lastName": "Gorosta",
         "dateOfBirth": "03/03/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/20/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4635,7 +4892,8 @@ var birthplaces = {
         "Place of Birth": "Putignano (Bari)",
         "lastName": "Tateo",
         "dateOfBirth": "06/24/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/20/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4653,7 +4911,8 @@ var birthplaces = {
         "Place of Birth": "Pless\u00ef\u00bf\u00bd (Loire-A)",
         "lastName": "Dup\u00ef\u00bf\u00bd",
         "dateOfBirth": "01/15/1851",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/21/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4671,7 +4930,8 @@ var birthplaces = {
         "Place of Birth": "Angers",
         "lastName": "de Quatrebarbes",
         "dateOfBirth": "03/04/1864",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/21/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4689,7 +4949,8 @@ var birthplaces = {
         "Place of Birth": "Nantes",
         "lastName": "Sabouraud",
         "dateOfBirth": "05/25/1863",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/21/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4707,7 +4968,8 @@ var birthplaces = {
         "Place of Birth": "Stara Wie?",
         "lastName": "Kucharski",
         "dateOfBirth": "04/01/1857",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/21/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4725,7 +4987,8 @@ var birthplaces = {
         "Place of Birth": "Le Mans",
         "lastName": "Pfister",
         "dateOfBirth": "03/06/1855",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/21/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4743,7 +5006,8 @@ var birthplaces = {
         "Place of Birth": "Pons (L\u00ef\u00bf\u00bdrida)",
         "lastName": "Palou",
         "dateOfBirth": "02/11/1855",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/26/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4761,7 +5025,8 @@ var birthplaces = {
         "Place of Birth": "Paris",
         "lastName": "Durouchoux",
         "dateOfBirth": "04/13/1855",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/04/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4779,7 +5044,8 @@ var birthplaces = {
         "Place of Birth": "Paris",
         "lastName": "Verdi\u00ef\u00bf\u00bdre",
         "dateOfBirth": "04/17/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/04/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4797,7 +5063,8 @@ var birthplaces = {
         "Place of Birth": "Tarnowiec, Krak",
         "lastName": "Kami?ski",
         "dateOfBirth": "04/24/1865",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/04/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4815,7 +5082,8 @@ var birthplaces = {
         "Place of Birth": "St-Gilles-l\u00ef\u00bf\u00bds-Termonde (Fl Or)",
         "lastName": "Triest",
         "dateOfBirth": "10/11/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/07/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4833,7 +5101,8 @@ var birthplaces = {
         "Place of Birth": "Boxmeer (N-Brabant)",
         "lastName": "Zwarts",
         "dateOfBirth": "08/04/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/08/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4851,7 +5120,8 @@ var birthplaces = {
         "Place of Birth": "Pomeroy (Tyrone)",
         "lastName": "Toale",
         "dateOfBirth": "05/17/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/09/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4869,7 +5139,8 @@ var birthplaces = {
         "Place of Birth": "Hall (Tirol)",
         "lastName": "Ebner",
         "dateOfBirth": "03/14/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/10/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4887,7 +5158,8 @@ var birthplaces = {
         "Place of Birth": "Rioz (H-Sa\u00ef\u00bf\u00bdne)",
         "lastName": "Mercier",
         "dateOfBirth": "12/15/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/11/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4905,7 +5177,8 @@ var birthplaces = {
         "Place of Birth": "Sabl\u00ef\u00bf\u00bd (Sarthe)",
         "lastName": "Foucault",
         "dateOfBirth": "05/01/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/12/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4923,7 +5196,8 @@ var birthplaces = {
         "Place of Birth": "Exeter (Devon)",
         "lastName": "Hawkins",
         "dateOfBirth": "08/26/1866",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/12/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4941,7 +5215,8 @@ var birthplaces = {
         "Place of Birth": "Plumeliau (Morbihan)",
         "lastName": "Gu\u00ef\u00bf\u00bdgan",
         "dateOfBirth": "01/09/1846",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/15/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4959,7 +5234,8 @@ var birthplaces = {
         "Place of Birth": "Hall (Tirol)",
         "lastName": "Attlmayr",
         "dateOfBirth": "06/02/1815",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/16/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4977,7 +5253,8 @@ var birthplaces = {
         "Place of Birth": "Mikulovice (Morava)",
         "lastName": "Hor\u00ef\u00bf\u00bdk",
         "dateOfBirth": "06/19/1858",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/18/1889"
       },
       "geometry": {
         "type": "Point",
@@ -4995,7 +5272,8 @@ var birthplaces = {
         "Place of Birth": "Subiaco (Roma)",
         "lastName": "Catani",
         "dateOfBirth": "06/28/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/19/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5013,7 +5291,8 @@ var birthplaces = {
         "Place of Birth": "Bains (Ille-et-V)",
         "lastName": "Houget",
         "dateOfBirth": "09/11/1851",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/02/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5031,7 +5310,8 @@ var birthplaces = {
         "Place of Birth": "Semmadon (H-Sa\u00ef\u00bf\u00bdne)",
         "lastName": "Olivier",
         "dateOfBirth": "11/25/1836",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/21/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5049,7 +5329,8 @@ var birthplaces = {
         "Place of Birth": "Roma",
         "lastName": "Ciampi",
         "dateOfBirth": "02/19/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/23/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5067,7 +5348,8 @@ var birthplaces = {
         "Place of Birth": "Sairano (Pavia)",
         "lastName": "Torti",
         "dateOfBirth": "02/16/1862",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/26/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5085,7 +5367,8 @@ var birthplaces = {
         "Place of Birth": "Rumegies (Nord)",
         "lastName": "Monvoisin",
         "dateOfBirth": "08/07/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/26/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5103,7 +5386,8 @@ var birthplaces = {
         "Place of Birth": "Torino",
         "lastName": "Tosini",
         "dateOfBirth": "05/21/1867",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/27/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5121,7 +5405,8 @@ var birthplaces = {
         "Place of Birth": "Cassine (Alessandria)",
         "lastName": "Ponte",
         "dateOfBirth": "11/03/1813",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/28/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5139,7 +5424,8 @@ var birthplaces = {
         "Place of Birth": "Exeter (Devon)",
         "lastName": "Porter",
         "dateOfBirth": "08/27/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/28/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5157,7 +5443,8 @@ var birthplaces = {
         "Place of Birth": "New York",
         "lastName": "Mulry",
         "dateOfBirth": "09/26/1862",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/01/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5175,7 +5462,8 @@ var birthplaces = {
         "Place of Birth": "K\u00ef\u00bf\u00bdln",
         "lastName": "Merbeck",
         "dateOfBirth": "10/22/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/01/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5193,7 +5481,8 @@ var birthplaces = {
         "Place of Birth": "Mont'Albano (Messina)",
         "lastName": "Pagano",
         "dateOfBirth": "12/21/1805",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/03/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5211,7 +5500,8 @@ var birthplaces = {
         "Place of Birth": "Nauder (Tirol)",
         "lastName": "Mathoy",
         "dateOfBirth": "10/28/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/09/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5229,7 +5519,8 @@ var birthplaces = {
         "Place of Birth": "Bantzenheim (H-Rhin)",
         "lastName": "Riette",
         "dateOfBirth": "10/12/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/10/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5247,7 +5538,8 @@ var birthplaces = {
         "Place of Birth": "Napoli",
         "lastName": "Mangieri",
         "dateOfBirth": "06/23/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/14/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5265,7 +5557,8 @@ var birthplaces = {
         "Place of Birth": "Vitoria (\u00ef\u00bf\u00bdlava)",
         "lastName": "Mart\u00ef\u00bf\u00bdnez",
         "dateOfBirth": "06/18/1864",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/15/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5283,7 +5576,8 @@ var birthplaces = {
         "Place of Birth": "Casterle (Anvers)",
         "lastName": "Bogaerts",
         "dateOfBirth": "10/26/1860",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/20/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5301,7 +5595,8 @@ var birthplaces = {
         "Place of Birth": "Maubeuge (Nord)",
         "lastName": "de la Gorce",
         "dateOfBirth": "03/21/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/21/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5319,7 +5614,8 @@ var birthplaces = {
         "Place of Birth": "Beaumont-la-Ronce (Indre-et-L)",
         "lastName": "Sach\u00ef\u00bf\u00bd",
         "dateOfBirth": "12/29/1813",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/24/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5337,7 +5633,8 @@ var birthplaces = {
         "Place of Birth": "A\u00ef\u00bf\u00bdorbe (Navarra)",
         "lastName": "Echeverr\u00ef\u00bf\u00bda",
         "dateOfBirth": "02/25/1843",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/26/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5355,7 +5652,8 @@ var birthplaces = {
         "Place of Birth": "Praroman (Fribourg)",
         "lastName": "Schorro",
         "dateOfBirth": "01/11/1816",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/27/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5373,7 +5671,8 @@ var birthplaces = {
         "Place of Birth": "San Gil (Boyac\u00ef\u00bf\u00bd)",
         "lastName": "Prada",
         "dateOfBirth": "11/24/1833",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/29/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5391,7 +5690,8 @@ var birthplaces = {
         "Place of Birth": "Lun\u00ef\u00bf\u00bdville (Meurthe)",
         "lastName": "Barbelin",
         "dateOfBirth": "01/23/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/30/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5409,7 +5709,8 @@ var birthplaces = {
         "Place of Birth": "s-Hertogenbosch",
         "lastName": "van der Burgt",
         "dateOfBirth": "10/24/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/30/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5427,7 +5728,8 @@ var birthplaces = {
         "Place of Birth": "Tence (H-Loire)",
         "lastName": "Varnier",
         "dateOfBirth": "03/18/1828",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/01/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5445,7 +5747,8 @@ var birthplaces = {
         "Place of Birth": "Manresa",
         "lastName": "Barris",
         "dateOfBirth": "01/12/1840",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/02/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5463,7 +5766,8 @@ var birthplaces = {
         "Place of Birth": "St. Louis",
         "lastName": "Verdin",
         "dateOfBirth": "02/01/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/02/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5481,7 +5785,8 @@ var birthplaces = {
         "Place of Birth": "Bagnes (Valais)",
         "lastName": "Del\u00ef\u00bf\u00bdglise",
         "dateOfBirth": "03/27/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/03/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5499,7 +5804,8 @@ var birthplaces = {
         "Place of Birth": "Portugalete (Vizcaya)",
         "lastName": "de Zuazo",
         "dateOfBirth": "12/11/1844",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/07/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5517,7 +5823,8 @@ var birthplaces = {
         "Place of Birth": "Onteniente (Valencia)",
         "lastName": "Ripoll",
         "dateOfBirth": "04/13/1870",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/10/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5535,7 +5842,8 @@ var birthplaces = {
         "Place of Birth": "s-Gravenhage",
         "lastName": "Boelen",
         "dateOfBirth": "05/27/1841",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/11/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5553,7 +5861,8 @@ var birthplaces = {
         "Place of Birth": "Valencia",
         "lastName": "Vidal",
         "dateOfBirth": "05/26/1865",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/11/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5571,7 +5880,8 @@ var birthplaces = {
         "Place of Birth": "Cerinza (Tundama, Boyac\u00ef\u00bf\u00bd)",
         "lastName": "C\u00ef\u00bf\u00bdrdenas",
         "dateOfBirth": "07/29/1815",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/13/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5589,7 +5899,8 @@ var birthplaces = {
         "Place of Birth": "Exeter (Devon)",
         "lastName": "Bampton",
         "dateOfBirth": "04/13/1858",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/14/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5607,7 +5918,8 @@ var birthplaces = {
         "Place of Birth": "Modena",
         "lastName": "Cassiani Ingoni",
         "dateOfBirth": "08/15/1840",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/16/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5625,7 +5937,8 @@ var birthplaces = {
         "Place of Birth": "Waarschoot (Fl Or)",
         "lastName": "Libert",
         "dateOfBirth": "03/07/1813",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/16/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5643,7 +5956,8 @@ var birthplaces = {
         "Place of Birth": "Rivarolo (Genova)",
         "lastName": "Masnata",
         "dateOfBirth": "05/02/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/18/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5661,7 +5975,8 @@ var birthplaces = {
         "Place of Birth": "Besal\u00ef\u00bf\u00bd (Gerona)",
         "lastName": "Boada",
         "dateOfBirth": "12/20/1847",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/19/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5679,7 +5994,8 @@ var birthplaces = {
         "Place of Birth": "Aspres-les-Veynes (H-Alpes)",
         "lastName": "de Bonniot",
         "dateOfBirth": "04/20/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/19/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5697,7 +6013,8 @@ var birthplaces = {
         "Place of Birth": "Urbino (Pesaro)",
         "lastName": "Quieti",
         "dateOfBirth": "12/19/1806",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/21/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5715,7 +6032,8 @@ var birthplaces = {
         "Place of Birth": "Avelin (Nord)",
         "lastName": "Watrelos",
         "dateOfBirth": "09/16/1861",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/25/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5733,7 +6051,8 @@ var birthplaces = {
         "Place of Birth": "Caselle in Pittari (Salerno)",
         "lastName": "Navazio",
         "dateOfBirth": "03/07/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/27/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5751,7 +6070,8 @@ var birthplaces = {
         "Place of Birth": "Westerlo (Anvers)",
         "lastName": "de Wever",
         "dateOfBirth": "01/03/1859",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/02/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5769,7 +6089,8 @@ var birthplaces = {
         "Place of Birth": "Bl\u00ef\u00bf\u00bdharies (Hainaut)",
         "lastName": "Crez",
         "dateOfBirth": "07/01/1840",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/04/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5787,7 +6108,8 @@ var birthplaces = {
         "Place of Birth": "Bensheim (Hessen-Darmstadt)",
         "lastName": "Emig",
         "dateOfBirth": "07/26/1808",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/10/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5805,7 +6127,8 @@ var birthplaces = {
         "Place of Birth": "Clonmany (Donegal)",
         "lastName": "Macgunegle",
         "dateOfBirth": "08/15/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/10/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5823,7 +6146,8 @@ var birthplaces = {
         "Place of Birth": "Leiffarth (Aachen)",
         "lastName": "Kockerols",
         "dateOfBirth": "08/04/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/11/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5841,7 +6165,8 @@ var birthplaces = {
         "Place of Birth": "Rennes (Ille-et-V)",
         "lastName": "Morvan",
         "dateOfBirth": "08/30/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/12/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5859,7 +6184,8 @@ var birthplaces = {
         "Place of Birth": "Oron\u00ef\u00bf\u00bds (Le\u00ef\u00bf\u00bdn)",
         "lastName": "Gonz\u00ef\u00bf\u00bdlez P\u00ef\u00bf\u00bdrez",
         "dateOfBirth": "05/12/1845",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/14/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5877,7 +6203,8 @@ var birthplaces = {
         "Place of Birth": "Nexon (H-Vienne)",
         "lastName": "Causse",
         "dateOfBirth": "07/16/1860",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/15/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5895,7 +6222,8 @@ var birthplaces = {
         "Place of Birth": "St. Georgen pr Radkersburg (Steiermark)",
         "lastName": "Lasbacher",
         "dateOfBirth": "01/27/1853",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/16/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5913,7 +6241,8 @@ var birthplaces = {
         "Place of Birth": "San Francisco",
         "lastName": "O'Connor",
         "dateOfBirth": "05/12/1873",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/16/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5931,7 +6260,8 @@ var birthplaces = {
         "Place of Birth": "Campestre (S\u00ef\u00bf\u00bdo Paulo)",
         "lastName": "Rodr\u00ef\u00bf\u00bdguez",
         "dateOfBirth": "10/21/1848",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/24/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5949,7 +6279,8 @@ var birthplaces = {
         "Place of Birth": "Franci\u00ef\u00bf\u00bdres (Somme)",
         "lastName": "Gamard",
         "dateOfBirth": "10/27/1803",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/25/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5967,7 +6298,8 @@ var birthplaces = {
         "Place of Birth": "London",
         "lastName": "Perry",
         "dateOfBirth": "10/26/1833",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/27/1889"
       },
       "geometry": {
         "type": "Point",
@@ -5985,7 +6317,8 @@ var birthplaces = {
         "Place of Birth": "Bagneres-de-Bigorre (H-Pyrenees)",
         "lastName": "Bouix",
         "dateOfBirth": "06/25/1806",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/28/1889"
       },
       "geometry": {
         "type": "Point",
@@ -6003,7 +6336,8 @@ var birthplaces = {
         "Place of Birth": "Pontestura (Alessandria)",
         "lastName": "Corrado",
         "dateOfBirth": "08/25/1808",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/28/1889"
       },
       "geometry": {
         "type": "Point",
@@ -6021,7 +6355,8 @@ var birthplaces = {
         "Place of Birth": "Gent",
         "lastName": "Van Innis",
         "dateOfBirth": "11/26/1839",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/31/1889"
       },
       "geometry": {
         "type": "Point",
@@ -6039,7 +6374,8 @@ var birthplaces = {
         "Place of Birth": "Leur (N-Brabant)",
         "lastName": "Damen",
         "dateOfBirth": "03/20/1815",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/01/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6057,7 +6393,8 @@ var birthplaces = {
         "Place of Birth": "Vendome (Loir-et-Ch)",
         "lastName": "Beaussier",
         "dateOfBirth": "01/12/1869",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/02/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6075,7 +6412,8 @@ var birthplaces = {
         "Place of Birth": "Romangnano Sesia (Novara)",
         "lastName": "Strigini",
         "dateOfBirth": "12/07/1863",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/03/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6093,7 +6431,8 @@ var birthplaces = {
         "Place of Birth": "Poitiers",
         "lastName": "Babin",
         "dateOfBirth": "02/26/1838",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/04/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6111,7 +6450,8 @@ var birthplaces = {
         "Place of Birth": "Kirchberg",
         "lastName": "Weber",
         "dateOfBirth": "08/28/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/05/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6129,7 +6469,8 @@ var birthplaces = {
         "Place of Birth": "*Latnakelly",
         "lastName": "Cassidy",
         "dateOfBirth": "03/20/1813",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/06/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6147,7 +6488,8 @@ var birthplaces = {
         "Place of Birth": "Forni di Sotto (Udine)",
         "lastName": "Nassivera",
         "dateOfBirth": "11/06/1838",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/06/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6165,7 +6507,8 @@ var birthplaces = {
         "Place of Birth": "Thise (Doubs)",
         "lastName": "Bole",
         "dateOfBirth": "05/20/1810",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/08/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6183,7 +6526,8 @@ var birthplaces = {
         "Place of Birth": "Latacunga (Leon, Ecuador)",
         "lastName": "Moncayo",
         "dateOfBirth": "12/25/1850",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/08/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6201,7 +6545,8 @@ var birthplaces = {
         "Place of Birth": "Berga (Barcelona)",
         "lastName": "Marigot",
         "dateOfBirth": "06/18/1847",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/10/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6219,7 +6564,8 @@ var birthplaces = {
         "Place of Birth": "Nauders (Tirol)",
         "lastName": "Jung",
         "dateOfBirth": "11/13/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/11/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6237,7 +6583,8 @@ var birthplaces = {
         "Place of Birth": "Newark, N.J.",
         "lastName": "O'Leary",
         "dateOfBirth": "02/02/1869",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/11/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6255,7 +6602,8 @@ var birthplaces = {
         "Place of Birth": "Amiens",
         "lastName": "Valdejo",
         "dateOfBirth": "06/04/1856",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/13/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6273,7 +6621,8 @@ var birthplaces = {
         "Place of Birth": "Ste-Ursanne (Bern)",
         "lastName": "Feune",
         "dateOfBirth": "07/29/1833",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/13/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6291,7 +6640,8 @@ var birthplaces = {
         "Place of Birth": "Wulzeshofen (Laa, N.O.)",
         "lastName": "Hannemann",
         "dateOfBirth": "02/22/1869",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/14/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6309,7 +6659,8 @@ var birthplaces = {
         "Place of Birth": "Anvers",
         "lastName": "Franck",
         "dateOfBirth": "05/28/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/15/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6327,7 +6678,8 @@ var birthplaces = {
         "Place of Birth": "Limoges",
         "lastName": "Plainemaison",
         "dateOfBirth": "11/18/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/16/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6345,7 +6697,8 @@ var birthplaces = {
         "Place of Birth": "Orduna",
         "lastName": "de La Fuente",
         "dateOfBirth": "04/04/1858",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/17/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6363,7 +6716,8 @@ var birthplaces = {
         "Place of Birth": "Firenze",
         "lastName": "Sestini",
         "dateOfBirth": "03/20/1816",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/17/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6381,7 +6735,8 @@ var birthplaces = {
         "Place of Birth": "Valkenswaard (N-Brabant)",
         "lastName": "Booms",
         "dateOfBirth": "06/11/1853",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/18/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6399,7 +6754,8 @@ var birthplaces = {
         "Place of Birth": "Lignan (Gironde)",
         "lastName": "de St-Angel",
         "dateOfBirth": "04/25/1807",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/18/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6417,7 +6773,8 @@ var birthplaces = {
         "Place of Birth": "Villefranche-de-Longchapt (Dordogne)",
         "lastName": "Sourreau",
         "dateOfBirth": "09/16/1851",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/18/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6435,7 +6792,8 @@ var birthplaces = {
         "Place of Birth": "Verona",
         "lastName": "Bonvicini",
         "dateOfBirth": "10/10/1807",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/21/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6453,7 +6811,8 @@ var birthplaces = {
         "Place of Birth": "Cheb (Cechy)",
         "lastName": "Ernst",
         "dateOfBirth": "09/16/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/21/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6471,7 +6830,8 @@ var birthplaces = {
         "Place of Birth": "Saulcy (Bern)",
         "lastName": "Lovis",
         "dateOfBirth": "07/19/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/22/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6489,7 +6849,8 @@ var birthplaces = {
         "Place of Birth": "Pontonx (Landes)",
         "lastName": "Blanchard",
         "dateOfBirth": "10/29/1859",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/22/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6507,7 +6868,8 @@ var birthplaces = {
         "Place of Birth": "St-Jean-d'Ormont (Vosges)",
         "lastName": "Benoit",
         "dateOfBirth": "08/09/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/22/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6525,7 +6887,8 @@ var birthplaces = {
         "Place of Birth": "Rossville, Iowa",
         "lastName": "Kavanagh",
         "dateOfBirth": "01/13/1859",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/23/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6543,7 +6906,8 @@ var birthplaces = {
         "Place of Birth": "Pedina di Morfano (Piacenza)",
         "lastName": "Labati",
         "dateOfBirth": "03/12/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/24/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6561,7 +6925,8 @@ var birthplaces = {
         "Place of Birth": "Authon (Loir-et-Ch)",
         "lastName": "Perron",
         "dateOfBirth": "09/01/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/24/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6579,7 +6944,8 @@ var birthplaces = {
         "Place of Birth": "Beekbergen (Gelderland)",
         "lastName": "Wijnen",
         "dateOfBirth": "09/12/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/24/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6597,7 +6963,8 @@ var birthplaces = {
         "Place of Birth": "Arcon (Doubs)",
         "lastName": "Bourdin",
         "dateOfBirth": "04/06/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/25/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6615,7 +6982,8 @@ var birthplaces = {
         "Place of Birth": "London",
         "lastName": "Fraser",
         "dateOfBirth": "02/18/1859",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/26/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6633,7 +7001,8 @@ var birthplaces = {
         "Place of Birth": "La Vertuniere (Mayenne)",
         "lastName": "Androuard",
         "dateOfBirth": "10/24/1850",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/27/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6651,7 +7020,8 @@ var birthplaces = {
         "Place of Birth": "Merouville (Eure-et-L)",
         "lastName": "Rousseau",
         "dateOfBirth": "01/03/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/27/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6669,7 +7039,8 @@ var birthplaces = {
         "Place of Birth": "Rotterdam",
         "lastName": "Dijckmann",
         "dateOfBirth": "09/08/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/29/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6687,7 +7058,8 @@ var birthplaces = {
         "Place of Birth": "Napoli",
         "lastName": "Pierro",
         "dateOfBirth": "01/17/1811",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/29/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6705,7 +7077,8 @@ var birthplaces = {
         "Place of Birth": "St-Jean-d'Ormont (Vosges)",
         "lastName": "Benoit",
         "dateOfBirth": "02/02/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/02/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6723,7 +7096,8 @@ var birthplaces = {
         "Place of Birth": "Haastrecht",
         "lastName": "van Achthoven",
         "dateOfBirth": "05/23/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/04/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6741,7 +7115,8 @@ var birthplaces = {
         "Place of Birth": "Vertova (Bergamo)",
         "lastName": "Bettonagli",
         "dateOfBirth": "04/10/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/05/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6759,7 +7134,8 @@ var birthplaces = {
         "Place of Birth": "Carpineto (Roma)",
         "lastName": "Pecci",
         "dateOfBirth": "12/13/1807",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/09/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6777,7 +7153,8 @@ var birthplaces = {
         "Place of Birth": "Figeac (Lot)",
         "lastName": "Labourey",
         "dateOfBirth": "08/08/1860",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/09/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6795,7 +7172,8 @@ var birthplaces = {
         "Place of Birth": "Doesbourg (Gelderland)",
         "lastName": "Overmaat",
         "dateOfBirth": "12/27/1868",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/09/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6813,7 +7191,8 @@ var birthplaces = {
         "Place of Birth": "La Pobla de Lillet (Barcelona)",
         "lastName": "Tubau",
         "dateOfBirth": "11/06/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/11/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6831,7 +7210,8 @@ var birthplaces = {
         "Place of Birth": "Occhiobello (Rovigo)",
         "lastName": "Turri",
         "dateOfBirth": "03/14/1805",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/12/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6849,7 +7229,8 @@ var birthplaces = {
         "Place of Birth": "St-Sulpice-de-Lezat (H-Garonne)",
         "lastName": "Magnes",
         "dateOfBirth": "09/15/1851",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/14/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6867,7 +7248,8 @@ var birthplaces = {
         "Place of Birth": "Anglesola (Lerida)",
         "lastName": "Vilalta",
         "dateOfBirth": "09/27/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/15/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6885,7 +7267,8 @@ var birthplaces = {
         "Place of Birth": "Reguisheim (H-Rhin)",
         "lastName": "Dirr",
         "dateOfBirth": "08/24/1867",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/17/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6903,7 +7286,8 @@ var birthplaces = {
         "Place of Birth": "Durango",
         "lastName": "Epalza",
         "dateOfBirth": "10/21/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/21/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6921,7 +7305,8 @@ var birthplaces = {
         "Place of Birth": "Rabanera (Logrono)",
         "lastName": "Romero",
         "dateOfBirth": "03/28/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/25/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6939,7 +7324,8 @@ var birthplaces = {
         "Place of Birth": "Longostagno (Bolzano)",
         "lastName": "Spinell",
         "dateOfBirth": "03/15/1833",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/25/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6957,7 +7343,8 @@ var birthplaces = {
         "Place of Birth": "Saissac (Aude)",
         "lastName": "Vivies",
         "dateOfBirth": "01/24/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/26/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6975,7 +7362,8 @@ var birthplaces = {
         "Place of Birth": "Gent",
         "lastName": "Lallemant",
         "dateOfBirth": "09/29/1812",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/27/1890"
       },
       "geometry": {
         "type": "Point",
@@ -6993,7 +7381,8 @@ var birthplaces = {
         "Place of Birth": "Weillen (Namur)",
         "lastName": "Robe",
         "dateOfBirth": "03/06/1842",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/01/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7011,7 +7400,8 @@ var birthplaces = {
         "Place of Birth": "Bruges",
         "lastName": "Lynch",
         "dateOfBirth": "08/05/1853",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/02/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7029,7 +7419,8 @@ var birthplaces = {
         "Place of Birth": "Abdalag\u00ef\u00bf\u00bds (M\u00ef\u00bf\u00bdlaga)",
         "lastName": "(Conejo) Madue\u00ef\u00bf\u00bdo",
         "dateOfBirth": "11/14/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/02/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7047,7 +7438,8 @@ var birthplaces = {
         "Place of Birth": "Norante (B-Alpes)",
         "lastName": "Grimaud",
         "dateOfBirth": "12/25/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/05/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7065,7 +7457,8 @@ var birthplaces = {
         "Place of Birth": "Stara Wie?",
         "lastName": "Dotta",
         "dateOfBirth": "06/06/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/06/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7083,7 +7476,8 @@ var birthplaces = {
         "Place of Birth": "Camon (Somme)",
         "lastName": "Douchet",
         "dateOfBirth": "06/23/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/06/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7101,7 +7495,8 @@ var birthplaces = {
         "Place of Birth": "Napoli",
         "lastName": "di Mattia",
         "dateOfBirth": "10/21/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/07/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7119,7 +7514,8 @@ var birthplaces = {
         "Place of Birth": "pr Bagenalstown (Carlow)",
         "lastName": "Farrell",
         "dateOfBirth": "03/19/1811",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/09/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7137,7 +7533,8 @@ var birthplaces = {
         "Place of Birth": "London",
         "lastName": "Jarrett",
         "dateOfBirth": "03/03/1805",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/12/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7155,7 +7552,8 @@ var birthplaces = {
         "Place of Birth": "L\u00ef\u00bf\u00bdhden (Hannover)",
         "lastName": "Schleper",
         "dateOfBirth": "09/27/1836",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/14/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7173,7 +7571,8 @@ var birthplaces = {
         "Place of Birth": "Amiens",
         "lastName": "Mille",
         "dateOfBirth": "06/30/1860",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/14/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7191,7 +7590,8 @@ var birthplaces = {
         "Place of Birth": "Nosk\u00ef\u00bf\u00bdw, Pozn",
         "lastName": "Ratajski",
         "dateOfBirth": "12/01/1839",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/14/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7209,7 +7609,8 @@ var birthplaces = {
         "Place of Birth": "*Ienal (Namur)",
         "lastName": "Jacques",
         "dateOfBirth": "06/14/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/15/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7227,7 +7628,8 @@ var birthplaces = {
         "Place of Birth": "Alphen (N-Brabant)",
         "lastName": "de Kort",
         "dateOfBirth": "10/12/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/16/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7245,7 +7647,8 @@ var birthplaces = {
         "Place of Birth": "Lansle-Bourg (Savoie)",
         "lastName": "Molin",
         "dateOfBirth": "05/06/1800",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/20/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7263,7 +7666,8 @@ var birthplaces = {
         "Place of Birth": "Tortana (Alessandria)",
         "lastName": "Grassi",
         "dateOfBirth": "11/25/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/21/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7281,7 +7685,8 @@ var birthplaces = {
         "Place of Birth": "Manresa",
         "lastName": "Jordana",
         "dateOfBirth": "10/24/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/21/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7299,7 +7704,8 @@ var birthplaces = {
         "Place of Birth": "Viremont (Jura)",
         "lastName": "Benoit",
         "dateOfBirth": "10/26/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/21/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7317,7 +7723,8 @@ var birthplaces = {
         "Place of Birth": "Roscrea (Tipperary)",
         "lastName": "Wellworth",
         "dateOfBirth": "04/22/1850",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/22/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7335,7 +7742,8 @@ var birthplaces = {
         "Place of Birth": "Sowerby (York)",
         "lastName": "Selby",
         "dateOfBirth": "02/10/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/24/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7353,7 +7761,8 @@ var birthplaces = {
         "Place of Birth": "Herrara de Pisuerga (Palencia)",
         "lastName": "Del-Val",
         "dateOfBirth": "05/18/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/26/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7371,7 +7780,8 @@ var birthplaces = {
         "Place of Birth": "Forstheim (B-Rhin)",
         "lastName": "Laubacher",
         "dateOfBirth": "11/21/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/26/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7389,7 +7799,8 @@ var birthplaces = {
         "Place of Birth": "Eichst\u00ef\u00bf\u00bddt (Bayern)",
         "lastName": "Ehrensberger",
         "dateOfBirth": "03/25/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/29/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7407,7 +7818,8 @@ var birthplaces = {
         "Place of Birth": "Innsbruck",
         "lastName": "Mayr",
         "dateOfBirth": "03/13/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/29/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7425,7 +7837,8 @@ var birthplaces = {
         "Place of Birth": "Cani\u00ef\u00bf\u00bdal (Beira Baixa)",
         "lastName": "Fidalgo",
         "dateOfBirth": "10/13/1861",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/29/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7443,7 +7856,8 @@ var birthplaces = {
         "Place of Birth": "Banagher (king's)",
         "lastName": "Temple",
         "dateOfBirth": "03/17/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/29/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7461,7 +7875,8 @@ var birthplaces = {
         "Place of Birth": "La Pommeraye (Maine-et-L)",
         "lastName": "Bureau",
         "dateOfBirth": "07/12/1860",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/30/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7479,7 +7894,8 @@ var birthplaces = {
         "Place of Birth": "Wahlhausen (Sachsen)",
         "lastName": "Loffler",
         "dateOfBirth": "08/04/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/01/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7497,7 +7913,8 @@ var birthplaces = {
         "Place of Birth": "Suner (Lerida)",
         "lastName": "de Bea",
         "dateOfBirth": "09/20/1838",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/03/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7515,7 +7932,8 @@ var birthplaces = {
         "Place of Birth": "Lacoste",
         "lastName": "Alet",
         "dateOfBirth": "01/19/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/05/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7533,7 +7951,8 @@ var birthplaces = {
         "Place of Birth": "Roma",
         "lastName": "Massaruti",
         "dateOfBirth": "02/15/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/05/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7551,7 +7970,8 @@ var birthplaces = {
         "Place of Birth": "Napoli",
         "lastName": "Nardi",
         "dateOfBirth": "07/29/1806",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/09/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7569,7 +7989,8 @@ var birthplaces = {
         "Place of Birth": "Napoli",
         "lastName": "Di Mattia",
         "dateOfBirth": "11/05/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/11/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7587,7 +8008,8 @@ var birthplaces = {
         "Place of Birth": "Cork",
         "lastName": "Rochford",
         "dateOfBirth": "11/14/1840",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/12/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7605,7 +8027,8 @@ var birthplaces = {
         "Place of Birth": "Limerick",
         "lastName": "Ryan",
         "dateOfBirth": "11/02/1843",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/01/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7623,7 +8046,8 @@ var birthplaces = {
         "Place of Birth": "Stary Sacz, Krak",
         "lastName": "Dabrowski",
         "dateOfBirth": "01/18/1869",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/16/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7641,7 +8065,8 @@ var birthplaces = {
         "Place of Birth": "Milkow",
         "lastName": "Bartkiewicz",
         "dateOfBirth": "02/21/1852",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/17/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7659,7 +8084,8 @@ var birthplaces = {
         "Place of Birth": "Sta.Cruz de Tenerife",
         "lastName": "Suarez",
         "dateOfBirth": "11/12/1810",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/20/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7677,7 +8103,8 @@ var birthplaces = {
         "Place of Birth": "Napoli",
         "lastName": "Longhi",
         "dateOfBirth": "11/15/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/24/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7695,7 +8122,8 @@ var birthplaces = {
         "Place of Birth": "Malicorne (Sarthe)",
         "lastName": "Tricard",
         "dateOfBirth": "05/26/1859",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/25/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7713,7 +8141,8 @@ var birthplaces = {
         "Place of Birth": "Bruges",
         "lastName": "Muuls",
         "dateOfBirth": "10/27/1856",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/26/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7731,7 +8160,8 @@ var birthplaces = {
         "Place of Birth": "San Silvesstro (Novara)",
         "lastName": "Chevola",
         "dateOfBirth": "11/19/1805",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/26/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7749,7 +8179,8 @@ var birthplaces = {
         "Place of Birth": "Onteniente (Valencia)",
         "lastName": "Delgado",
         "dateOfBirth": "09/09/1858",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/28/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7767,7 +8198,8 @@ var birthplaces = {
         "Place of Birth": "Zaruma (Loja)",
         "lastName": "Reyes",
         "dateOfBirth": "11/05/1856",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/02/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7785,7 +8217,8 @@ var birthplaces = {
         "Place of Birth": "Est (Gelderland)",
         "lastName": "Sanders",
         "dateOfBirth": "07/04/1802",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/03/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7803,7 +8236,8 @@ var birthplaces = {
         "Place of Birth": "Malmedy (Rheinland)",
         "lastName": "Geron",
         "dateOfBirth": "02/28/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/04/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7821,7 +8255,8 @@ var birthplaces = {
         "Place of Birth": "Cuevas de Moncayo (Soria)",
         "lastName": "Escribano",
         "dateOfBirth": "07/06/1863",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/05/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7839,7 +8274,8 @@ var birthplaces = {
         "Place of Birth": "Magno (Brescia)",
         "lastName": "Mozzoni",
         "dateOfBirth": "03/06/1865",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/07/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7857,7 +8293,8 @@ var birthplaces = {
         "Place of Birth": "Preitenegg (Karnten)",
         "lastName": "Dohr",
         "dateOfBirth": "09/05/1848",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/09/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7875,7 +8312,8 @@ var birthplaces = {
         "Place of Birth": "Duisburg (Rheinland)",
         "lastName": "Beenen",
         "dateOfBirth": "10/06/1816",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/11/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7893,7 +8331,8 @@ var birthplaces = {
         "Place of Birth": "Mongrando (Novara)",
         "lastName": "Simonetti",
         "dateOfBirth": "04/11/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/12/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7911,7 +8350,8 @@ var birthplaces = {
         "Place of Birth": "Brie (Deux-Sevres)",
         "lastName": "Cador",
         "dateOfBirth": "12/31/1866",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/17/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7929,7 +8369,8 @@ var birthplaces = {
         "Place of Birth": "Sauveterre (Aveyron)",
         "lastName": "Buisson",
         "dateOfBirth": "02/10/1828",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/30/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7947,7 +8388,8 @@ var birthplaces = {
         "Place of Birth": "Anterselva (Bolzano)",
         "lastName": "Pallhuber",
         "dateOfBirth": "12/30/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/02/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7965,7 +8407,8 @@ var birthplaces = {
         "Place of Birth": "Harelebeke (Fl Or)",
         "lastName": "De Roost",
         "dateOfBirth": "12/29/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/03/1890"
       },
       "geometry": {
         "type": "Point",
@@ -7983,7 +8426,8 @@ var birthplaces = {
         "Place of Birth": "Urspringen (Bayern)",
         "lastName": "Albert",
         "dateOfBirth": "01/17/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/04/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8001,7 +8445,8 @@ var birthplaces = {
         "Place of Birth": "Bern\u00ef\u00bf\u00bdde (Gers)",
         "lastName": "Sarrade",
         "dateOfBirth": "06/18/1845",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/04/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8019,7 +8464,8 @@ var birthplaces = {
         "Place of Birth": "Blamont (Meurthe et M)",
         "lastName": "Simonin",
         "dateOfBirth": "03/13/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/05/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8037,7 +8483,8 @@ var birthplaces = {
         "Place of Birth": "Nantes",
         "lastName": "Rathouis",
         "dateOfBirth": "08/11/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/08/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8055,7 +8502,8 @@ var birthplaces = {
         "Place of Birth": "Urbi\u00ef\u00bf\u00bds (Oviedo)",
         "lastName": "Garc\u00ef\u00bf\u00bda",
         "dateOfBirth": "12/12/1866",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/12/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8073,7 +8521,8 @@ var birthplaces = {
         "Place of Birth": "Bruxelles",
         "lastName": "de Maeyer",
         "dateOfBirth": "08/30/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/15/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8091,7 +8540,8 @@ var birthplaces = {
         "Place of Birth": "Ariccia (Roma)",
         "lastName": "Cianfanelli",
         "dateOfBirth": "05/15/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/15/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8109,7 +8559,8 @@ var birthplaces = {
         "Place of Birth": "Falset (Tarragona)",
         "lastName": "Bov\u00ef\u00bf\u00bd",
         "dateOfBirth": "12/12/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/17/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8127,7 +8578,8 @@ var birthplaces = {
         "Place of Birth": "Larrabez\u00ef\u00bf\u00bda (Vizcaya)",
         "lastName": "Cenarruzabeitia",
         "dateOfBirth": "07/22/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/19/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8145,7 +8597,8 @@ var birthplaces = {
         "Place of Birth": "Fousemagne (H-Rhin)",
         "lastName": "Clavey",
         "dateOfBirth": "04/06/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/19/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8163,7 +8616,8 @@ var birthplaces = {
         "Place of Birth": "Azcoitia",
         "lastName": "Elorza",
         "dateOfBirth": "05/24/1836",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/19/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8181,7 +8635,8 @@ var birthplaces = {
         "Place of Birth": "Vigo (Pontevedra)",
         "lastName": "S\u00ef\u00bf\u00bdnchez",
         "dateOfBirth": "01/03/1842",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/21/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8199,7 +8654,8 @@ var birthplaces = {
         "Place of Birth": "Tr\u00ef\u00bf\u00bddarzec (C\u00ef\u00bf\u00bdtes-du-N)",
         "lastName": "Crocq",
         "dateOfBirth": "10/18/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/22/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8217,7 +8673,8 @@ var birthplaces = {
         "Place of Birth": "St-Sim\u00ef\u00bf\u00bdon (Is\u00ef\u00bf\u00bdre)",
         "lastName": "Rolland",
         "dateOfBirth": "10/18/1838",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/23/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8235,7 +8692,8 @@ var birthplaces = {
         "Place of Birth": "B\u00ef\u00bf\u00bdcancour, Qu\u00ef\u00bf\u00bd.",
         "lastName": "Moreau",
         "dateOfBirth": "05/10/1864",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/26/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8253,7 +8711,8 @@ var birthplaces = {
         "Place of Birth": "Bagnes (Valais)",
         "lastName": "Del\u00ef\u00bf\u00bdglise",
         "dateOfBirth": "10/29/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/29/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8271,7 +8730,8 @@ var birthplaces = {
         "Place of Birth": "Vich",
         "lastName": "Vendrell",
         "dateOfBirth": "04/28/1858",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/03/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8289,7 +8749,8 @@ var birthplaces = {
         "Place of Birth": "Courtrai",
         "lastName": "Desurmont",
         "dateOfBirth": "08/28/1865",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/04/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8307,7 +8768,8 @@ var birthplaces = {
         "Place of Birth": "Treviglio (Bergamo)",
         "lastName": "Pavoni",
         "dateOfBirth": "10/28/1862",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/06/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8325,7 +8787,8 @@ var birthplaces = {
         "Place of Birth": "Contich (Anvers)",
         "lastName": "Mans",
         "dateOfBirth": "01/14/1839",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/07/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8343,7 +8806,8 @@ var birthplaces = {
         "Place of Birth": "St-Germain-Lembron (Puy-de-D)",
         "lastName": "R\u00ef\u00bf\u00bdnier",
         "dateOfBirth": "12/15/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/07/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8361,7 +8825,8 @@ var birthplaces = {
         "Place of Birth": "Pergine (Trento)",
         "lastName": "Anesini",
         "dateOfBirth": "12/15/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/07/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8379,7 +8844,8 @@ var birthplaces = {
         "Place of Birth": "Cheb (?echy)",
         "lastName": "Prachensky",
         "dateOfBirth": "06/22/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/08/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8397,7 +8863,8 @@ var birthplaces = {
         "Place of Birth": "Barcellona Pozzo di Gotto (Messina)",
         "lastName": "Siracusa",
         "dateOfBirth": "03/20/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/08/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8415,7 +8882,8 @@ var birthplaces = {
         "Place of Birth": "Cari\u00ef\u00bf\u00bdres (Aveyron)",
         "lastName": "Batut",
         "dateOfBirth": "09/21/1828",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/14/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8433,7 +8901,8 @@ var birthplaces = {
         "Place of Birth": "Calcutta",
         "lastName": "Coutto",
         "dateOfBirth": "09/24/1847",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/14/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8451,7 +8920,8 @@ var birthplaces = {
         "Place of Birth": "Ferrara",
         "lastName": "Baori",
         "dateOfBirth": "02/09/1815",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/22/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8469,7 +8939,8 @@ var birthplaces = {
         "Place of Birth": "Veroli (Roma)",
         "lastName": "Fontana",
         "dateOfBirth": "02/15/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/22/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8487,7 +8958,8 @@ var birthplaces = {
         "Place of Birth": "Termonde (Fl Or)",
         "lastName": "Cl\u00ef\u00bf\u00bdment",
         "dateOfBirth": "12/26/1846",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/24/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8505,7 +8977,8 @@ var birthplaces = {
         "Place of Birth": "Gangelt (Rheinland)",
         "lastName": "van Born",
         "dateOfBirth": "01/28/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/24/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8523,7 +8996,8 @@ var birthplaces = {
         "Place of Birth": "Leagrain-Hall (Lancashire)",
         "lastName": "Weld",
         "dateOfBirth": "08/05/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/24/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8541,7 +9015,8 @@ var birthplaces = {
         "Place of Birth": "Roma",
         "lastName": "Gigli",
         "dateOfBirth": "03/13/1829",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/25/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8559,7 +9034,8 @@ var birthplaces = {
         "Place of Birth": "London",
         "lastName": "Anderdon",
         "dateOfBirth": "12/26/1816",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/28/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8577,7 +9053,8 @@ var birthplaces = {
         "Place of Birth": "Anvers",
         "lastName": "Schermers",
         "dateOfBirth": "02/02/1843",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/30/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8595,7 +9072,8 @@ var birthplaces = {
         "Place of Birth": "Le Mans",
         "lastName": "Dezaire",
         "dateOfBirth": "04/18/1867",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/03/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8613,7 +9091,8 @@ var birthplaces = {
         "Place of Birth": "Bratislava",
         "lastName": "B\u00ef\u00bf\u00bdrger",
         "dateOfBirth": "01/27/1846",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/04/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8631,7 +9110,8 @@ var birthplaces = {
         "Place of Birth": "Alost",
         "lastName": "de Cock",
         "dateOfBirth": "04/22/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/06/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8649,7 +9129,8 @@ var birthplaces = {
         "Place of Birth": "Gr\u00ef\u00bf\u00bdsy-sur-Aix (Savoie)",
         "lastName": "Chiron",
         "dateOfBirth": "01/17/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/06/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8667,7 +9148,8 @@ var birthplaces = {
         "Place of Birth": "Overpelt (Limbourg)",
         "lastName": "Weckx",
         "dateOfBirth": "02/03/1866",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/07/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8685,7 +9167,8 @@ var birthplaces = {
         "Place of Birth": "Cholet (Maine-et-L)",
         "lastName": "Bonnet",
         "dateOfBirth": "04/03/1861",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/10/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8703,7 +9186,8 @@ var birthplaces = {
         "Place of Birth": "Culembourg",
         "lastName": "Beusker",
         "dateOfBirth": "12/30/1855",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/13/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8721,7 +9205,8 @@ var birthplaces = {
         "Place of Birth": "Roma",
         "lastName": "Tongiorgi",
         "dateOfBirth": "02/16/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/13/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8739,7 +9224,8 @@ var birthplaces = {
         "Place of Birth": "Pl\u00ef\u00bf\u00bdlo (C\u00ef\u00bf\u00bdtes-du-N)",
         "lastName": "Andr\u00ef\u00bf\u00bd",
         "dateOfBirth": "07/08/1842",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/17/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8757,7 +9243,8 @@ var birthplaces = {
         "Place of Birth": "Voghera (Pavia)",
         "lastName": "Cetta",
         "dateOfBirth": "03/11/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/17/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8775,7 +9262,8 @@ var birthplaces = {
         "Place of Birth": "Tuggen (Schwyz)",
         "lastName": "Weber",
         "dateOfBirth": "11/20/1815",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/17/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8793,7 +9281,8 @@ var birthplaces = {
         "Place of Birth": "Napoli",
         "lastName": "Avallone",
         "dateOfBirth": "09/28/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/17/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8811,7 +9300,8 @@ var birthplaces = {
         "Place of Birth": "Bruxelles",
         "lastName": "Libert",
         "dateOfBirth": "03/13/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/18/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8829,7 +9319,8 @@ var birthplaces = {
         "Place of Birth": "Elg\u00ef\u00bf\u00bdibar (Guip\u00ef\u00bf\u00bdzcoa)",
         "lastName": "Osoro",
         "dateOfBirth": "08/26/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/18/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8847,7 +9338,8 @@ var birthplaces = {
         "Place of Birth": "Durango",
         "lastName": "Larr\u00ef\u00bf\u00bdnaga",
         "dateOfBirth": "09/25/1869",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/20/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8865,7 +9357,8 @@ var birthplaces = {
         "Place of Birth": "Solre-le-Ch\u00ef\u00bf\u00bdteau (Nord)",
         "lastName": "Degrelle",
         "dateOfBirth": "02/22/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/21/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8883,7 +9376,8 @@ var birthplaces = {
         "Place of Birth": "Moya (Barcelona)",
         "lastName": "Serra (Cabaner)",
         "dateOfBirth": "07/31/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/21/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8901,7 +9395,8 @@ var birthplaces = {
         "Place of Birth": "Amersfoort (Utrecht)",
         "lastName": "ten Brink",
         "dateOfBirth": "07/07/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/21/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8919,7 +9414,8 @@ var birthplaces = {
         "Place of Birth": "Pasto",
         "lastName": "Guerrero",
         "dateOfBirth": "07/24/1868",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/27/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8937,7 +9433,8 @@ var birthplaces = {
         "Place of Birth": "*Thienhausen",
         "lastName": "de B\u00ef\u00bf\u00bdselager",
         "dateOfBirth": "03/09/1848",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/28/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8955,7 +9452,8 @@ var birthplaces = {
         "Place of Birth": "Coulanges-l\u00ef\u00bf\u00bds-Nevers (Ni\u00ef\u00bf\u00bdvre)",
         "lastName": "Simonin",
         "dateOfBirth": "01/06/1840",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/31/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8973,7 +9471,8 @@ var birthplaces = {
         "Place of Birth": "Varik (Gelderland)",
         "lastName": "van Shcaik",
         "dateOfBirth": "10/29/1851",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/01/1890"
       },
       "geometry": {
         "type": "Point",
@@ -8991,7 +9490,8 @@ var birthplaces = {
         "Place of Birth": "Morella (Castell\u00ef\u00bf\u00bdn de la P.)",
         "lastName": "Mart\u00ef\u00bf\u00bd",
         "dateOfBirth": "03/10/1874",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/02/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9009,7 +9509,8 @@ var birthplaces = {
         "Place of Birth": "Messina",
         "lastName": "Calogero",
         "dateOfBirth": "10/29/1811",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/04/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9027,7 +9528,8 @@ var birthplaces = {
         "Place of Birth": "Colmenar de Oreja (Madrid)",
         "lastName": "Alcolado",
         "dateOfBirth": "05/08/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/06/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9045,7 +9547,8 @@ var birthplaces = {
         "Place of Birth": "Lobith (Gelderland)",
         "lastName": "Eijkholt",
         "dateOfBirth": "09/09/1856",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/06/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9063,7 +9566,8 @@ var birthplaces = {
         "Place of Birth": "Roma",
         "lastName": "Cavazzi",
         "dateOfBirth": "10/29/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/07/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9081,7 +9585,8 @@ var birthplaces = {
         "Place of Birth": "Le-Puy-Notre-Dame (Maine-et-L)",
         "lastName": "Lamoureux",
         "dateOfBirth": "03/25/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/09/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9099,7 +9604,8 @@ var birthplaces = {
         "Place of Birth": "Preston",
         "lastName": "Smalley",
         "dateOfBirth": "05/17/1864",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/09/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9117,7 +9623,8 @@ var birthplaces = {
         "Place of Birth": "Raamsdonk (N-Brabant)",
         "lastName": "van der Velde",
         "dateOfBirth": "12/24/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/12/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9135,7 +9642,8 @@ var birthplaces = {
         "Place of Birth": "Roma",
         "lastName": "Folchi",
         "dateOfBirth": "03/30/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/13/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9153,7 +9661,8 @@ var birthplaces = {
         "Place of Birth": "Jackson, Miss.",
         "lastName": "Miles",
         "dateOfBirth": "06/30/1848",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/14/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9171,7 +9680,8 @@ var birthplaces = {
         "Place of Birth": "Purmerend (N-Holland)",
         "lastName": "Heijligers",
         "dateOfBirth": "11/30/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/16/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9189,7 +9699,8 @@ var birthplaces = {
         "Place of Birth": "Balaguer (L\u00ef\u00bf\u00bdrida)",
         "lastName": "Sol\u00ef\u00bf\u00bd",
         "dateOfBirth": "11/25/1861",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/18/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9207,7 +9718,8 @@ var birthplaces = {
         "Place of Birth": "Erps-Kwerbs (Brabant)",
         "lastName": "Jacqmotte",
         "dateOfBirth": "06/11/1865",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/21/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9225,7 +9737,8 @@ var birthplaces = {
         "Place of Birth": "Lesquilouri\u00ef\u00bf\u00bd",
         "lastName": "Ichard",
         "dateOfBirth": "03/17/1848",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/24/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9243,7 +9756,8 @@ var birthplaces = {
         "Place of Birth": "Pontacq (B-Pyr\u00ef\u00bf\u00bdn\u00ef\u00bf\u00bdes)",
         "lastName": "Pascau",
         "dateOfBirth": "10/22/1816",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/24/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9261,7 +9775,8 @@ var birthplaces = {
         "Place of Birth": "St-Vincent (Laval, Qu\u00ef\u00bf\u00bd.)",
         "lastName": "Allaire",
         "dateOfBirth": "02/06/1871",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/24/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9279,7 +9794,8 @@ var birthplaces = {
         "Place of Birth": "Cremona",
         "lastName": "Puntscher",
         "dateOfBirth": "05/27/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/28/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9297,7 +9813,8 @@ var birthplaces = {
         "Place of Birth": "\u00ef\u00bf\u00bdguisheim (H-Rhin)",
         "lastName": "Brucker",
         "dateOfBirth": "02/20/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/30/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9315,7 +9832,8 @@ var birthplaces = {
         "Place of Birth": "Anvers",
         "lastName": "Franck",
         "dateOfBirth": "09/23/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/30/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9333,7 +9851,8 @@ var birthplaces = {
         "Place of Birth": "Sames (B-Pyr\u00ef\u00bf\u00bdn\u00ef\u00bf\u00bdes)",
         "lastName": "Etcheverry",
         "dateOfBirth": "08/05/1815",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/03/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9351,7 +9870,8 @@ var birthplaces = {
         "Place of Birth": "Marcheville (Somme)",
         "lastName": "Vasseur",
         "dateOfBirth": "12/15/1849",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/03/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9369,7 +9889,8 @@ var birthplaces = {
         "Place of Birth": "Wigan (Lancashire)",
         "lastName": "Lea",
         "dateOfBirth": "01/04/1838",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/06/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9387,7 +9908,8 @@ var birthplaces = {
         "Place of Birth": "Grace (N-Brabant)",
         "lastName": "Koppes",
         "dateOfBirth": "01/15/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/09/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9405,7 +9927,8 @@ var birthplaces = {
         "Place of Birth": "Reignier (H-Savoie)",
         "lastName": "Desjacques",
         "dateOfBirth": "01/10/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/10/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9423,7 +9946,8 @@ var birthplaces = {
         "Place of Birth": "Ashton-le-Willows, pr Wigan (Lancashire)",
         "lastName": "Speakman",
         "dateOfBirth": "01/18/1811",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/10/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9441,7 +9965,8 @@ var birthplaces = {
         "Place of Birth": "Leuk (Valais)",
         "lastName": "Allet",
         "dateOfBirth": "08/08/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/11/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9459,7 +9984,8 @@ var birthplaces = {
         "Place of Birth": "Su\u00ef\u00bf\u00bdice (?echy)",
         "lastName": "Lewetz",
         "dateOfBirth": "07/30/1812",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/13/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9477,7 +10003,8 @@ var birthplaces = {
         "Place of Birth": "Valencia",
         "lastName": "Vionnet",
         "dateOfBirth": "03/11/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/16/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9495,7 +10022,8 @@ var birthplaces = {
         "Place of Birth": "Washington",
         "lastName": "Clarke",
         "dateOfBirth": "03/19/1816",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/17/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9513,7 +10041,8 @@ var birthplaces = {
         "Place of Birth": "Silla (Valencia)",
         "lastName": "Domingo",
         "dateOfBirth": "11/10/1869",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/19/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9531,7 +10060,8 @@ var birthplaces = {
         "Place of Birth": "Aumont (Jura)",
         "lastName": "Touplain",
         "dateOfBirth": "02/08/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/22/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9549,7 +10079,8 @@ var birthplaces = {
         "Place of Birth": "Valognes (Manche)",
         "lastName": "Goubaux",
         "dateOfBirth": "02/11/1854",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/23/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9567,7 +10098,8 @@ var birthplaces = {
         "Place of Birth": "Ravensburg (W\u00ef\u00bf\u00bdrtemburg)",
         "lastName": "Strobel",
         "dateOfBirth": "01/19/1840",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/23/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9585,7 +10117,8 @@ var birthplaces = {
         "Place of Birth": "Sarrion (Teruel)",
         "lastName": "Hernandez",
         "dateOfBirth": "01/14/1851",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/24/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9603,7 +10136,8 @@ var birthplaces = {
         "Place of Birth": "Holzweiler (Rhienland)",
         "lastName": "Jungmann",
         "dateOfBirth": "12/11/1853",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/24/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9621,7 +10155,8 @@ var birthplaces = {
         "Place of Birth": "Linz",
         "lastName": "Hunner",
         "dateOfBirth": "01/17/1833",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/25/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9639,7 +10174,8 @@ var birthplaces = {
         "Place of Birth": "Kells (Kilkenny)",
         "lastName": "Duncan",
         "dateOfBirth": "03/17/1813",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/25/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9657,7 +10193,8 @@ var birthplaces = {
         "Place of Birth": "Sta Coloma de Farnes (Gerona)",
         "lastName": "Vinolas",
         "dateOfBirth": "10/08/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/25/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9675,7 +10212,8 @@ var birthplaces = {
         "Place of Birth": "Chamnery",
         "lastName": "Bouchet",
         "dateOfBirth": "04/25/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/26/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9693,7 +10231,8 @@ var birthplaces = {
         "Place of Birth": "Manchester",
         "lastName": "Zanetti",
         "dateOfBirth": "10/01/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/27/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9711,7 +10250,8 @@ var birthplaces = {
         "Place of Birth": "Tellin (Luxembourg)",
         "lastName": "Douret",
         "dateOfBirth": "10/06/1862",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/27/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9729,7 +10269,8 @@ var birthplaces = {
         "Place of Birth": "Zarza la mayor (Caceres)",
         "lastName": "Cabeza",
         "dateOfBirth": "09/29/1806",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/28/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9747,7 +10288,8 @@ var birthplaces = {
         "Place of Birth": "Catamarca",
         "lastName": "Cubas",
         "dateOfBirth": "09/18/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/28/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9765,7 +10307,8 @@ var birthplaces = {
         "Place of Birth": "Chiusa (Bolzano)",
         "lastName": "Hofer",
         "dateOfBirth": "06/20/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/29/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9783,7 +10326,8 @@ var birthplaces = {
         "Place of Birth": "St-Denis-sur-Sarthon (Orne)",
         "lastName": "bienvenu",
         "dateOfBirth": "06/11/1845",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/31/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9801,7 +10345,8 @@ var birthplaces = {
         "Place of Birth": "Luppy (Moselle)",
         "lastName": "Courtaux",
         "dateOfBirth": "01/25/1846",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/07/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9819,7 +10364,8 @@ var birthplaces = {
         "Place of Birth": "Paris",
         "lastName": "Guyot",
         "dateOfBirth": "12/06/1862",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/07/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9837,7 +10383,8 @@ var birthplaces = {
         "Place of Birth": "Wegry (Polska)",
         "lastName": "Gierz",
         "dateOfBirth": "07/24/1867",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/07/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9855,7 +10402,8 @@ var birthplaces = {
         "Place of Birth": "St-Martin-de-Connee (Mayenne)",
         "lastName": "Pottier",
         "dateOfBirth": "07/15/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/11/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9873,7 +10421,8 @@ var birthplaces = {
         "Place of Birth": "La-Chapelle-sous-Rougemont (H-Rhin)",
         "lastName": "Seckinger",
         "dateOfBirth": "09/09/1829",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/11/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9891,7 +10440,8 @@ var birthplaces = {
         "Place of Birth": "Godelleta (Valencia)",
         "lastName": "Franco",
         "dateOfBirth": "09/13/1867",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/11/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9909,7 +10459,8 @@ var birthplaces = {
         "Place of Birth": "Eke (Fl Or)",
         "lastName": "Callaert",
         "dateOfBirth": "01/01/1811",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/12/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9927,7 +10478,8 @@ var birthplaces = {
         "Place of Birth": "Monteforte Irpino (Avellino)",
         "lastName": "Parziale",
         "dateOfBirth": "08/22/1810",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/14/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9945,7 +10497,8 @@ var birthplaces = {
         "Place of Birth": "La Seguiniere (Maine-et-L)",
         "lastName": "Gallais",
         "dateOfBirth": "03/25/1839",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/14/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9963,7 +10516,8 @@ var birthplaces = {
         "Place of Birth": "Baltimore",
         "lastName": "Dunn",
         "dateOfBirth": "02/04/1863",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/15/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9981,7 +10535,8 @@ var birthplaces = {
         "Place of Birth": "Baltimore",
         "lastName": "Heuisler",
         "dateOfBirth": "09/14/1863",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/16/1890"
       },
       "geometry": {
         "type": "Point",
@@ -9999,7 +10554,8 @@ var birthplaces = {
         "Place of Birth": "Walschbronn (Moselle)",
         "lastName": "Sternjacob",
         "dateOfBirth": "05/13/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/16/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10017,7 +10573,8 @@ var birthplaces = {
         "Place of Birth": "Trento",
         "lastName": "Dompieri",
         "dateOfBirth": "11/03/1815",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/17/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10035,7 +10592,8 @@ var birthplaces = {
         "Place of Birth": "Gangelt (Rheinland)",
         "lastName": "Dohmen",
         "dateOfBirth": "02/24/1836",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/18/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10053,7 +10611,8 @@ var birthplaces = {
         "Place of Birth": "Giugliano (Napoli)",
         "lastName": "Pragliola",
         "dateOfBirth": "11/15/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/19/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10071,7 +10630,8 @@ var birthplaces = {
         "Place of Birth": "Neumuhlen (Oldenburg)",
         "lastName": "Niemoller",
         "dateOfBirth": "08/26/1851",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/25/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10089,7 +10649,8 @@ var birthplaces = {
         "Place of Birth": "Limoux (Aude)",
         "lastName": "de Sainte-Valiere",
         "dateOfBirth": "05/18/1841",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/25/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10107,7 +10668,8 @@ var birthplaces = {
         "Place of Birth": "Napoli",
         "lastName": "Barattolo",
         "dateOfBirth": "03/04/1808",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/25/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10125,7 +10687,8 @@ var birthplaces = {
         "Place of Birth": "Berrwiller (H-Rhin)",
         "lastName": "Mellinger",
         "dateOfBirth": "10/18/1833",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/25/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10143,7 +10706,8 @@ var birthplaces = {
         "Place of Birth": "Moissac (Tarn-et-G)",
         "lastName": "Bach",
         "dateOfBirth": "07/18/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/26/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10161,7 +10725,8 @@ var birthplaces = {
         "Place of Birth": "Saudos (Extremadura)",
         "lastName": "Antunes",
         "dateOfBirth": "02/15/1839",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/27/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10179,7 +10744,8 @@ var birthplaces = {
         "Place of Birth": "Mieussy (H-Savoie)",
         "lastName": "Cornillac",
         "dateOfBirth": "08/17/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/29/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10197,7 +10763,8 @@ var birthplaces = {
         "Place of Birth": "Brugelette (Hainaut)",
         "lastName": "Delhaye",
         "dateOfBirth": "05/07/1867",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/01/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10215,7 +10782,8 @@ var birthplaces = {
         "Place of Birth": "Nysa, Opole",
         "lastName": "Scholz",
         "dateOfBirth": "05/09/1829",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/08/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10233,7 +10801,8 @@ var birthplaces = {
         "Place of Birth": "Cobern (Rheinland)",
         "lastName": "Richter",
         "dateOfBirth": "12/03/1865",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/08/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10251,7 +10820,8 @@ var birthplaces = {
         "Place of Birth": "Trois-Rivieres, Que",
         "lastName": "Doucet",
         "dateOfBirth": "03/12/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/09/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10269,7 +10839,8 @@ var birthplaces = {
         "Place of Birth": "Isasondo (Guipuzcoa)",
         "lastName": "Echeverria",
         "dateOfBirth": "01/31/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/09/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10287,7 +10858,8 @@ var birthplaces = {
         "Place of Birth": "Pisogne (Brescia)",
         "lastName": "Corna Pellegrini",
         "dateOfBirth": "01/26/1853",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/10/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10305,7 +10877,8 @@ var birthplaces = {
         "Place of Birth": "Lafayette, La.",
         "lastName": "Rigues",
         "dateOfBirth": "08/21/1845",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/11/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10323,7 +10896,8 @@ var birthplaces = {
         "Place of Birth": "Niederfischbach (Rheinland)",
         "lastName": "Kohler",
         "dateOfBirth": "10/21/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/14/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10341,7 +10915,8 @@ var birthplaces = {
         "Place of Birth": "Modena",
         "lastName": "Roncaglia",
         "dateOfBirth": "12/13/1805",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/15/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10359,7 +10934,8 @@ var birthplaces = {
         "Place of Birth": "Gaussan (H-Pyrenees)",
         "lastName": "Abbadie",
         "dateOfBirth": "11/05/1804",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/16/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10377,7 +10953,8 @@ var birthplaces = {
         "Place of Birth": "Montblanch (Tarragona)",
         "lastName": "Riba",
         "dateOfBirth": "03/03/1838",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/16/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10395,7 +10972,8 @@ var birthplaces = {
         "Place of Birth": "Staffelfelden (H-Rhin)",
         "lastName": "Bannvart",
         "dateOfBirth": "08/16/1847",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/21/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10413,7 +10991,8 @@ var birthplaces = {
         "Place of Birth": "Regensburg (Bayern)",
         "lastName": "Kraus",
         "dateOfBirth": "10/19/1842",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/22/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10431,7 +11010,8 @@ var birthplaces = {
         "Place of Birth": "Mas-d'Agenais (Lot-et-G)",
         "lastName": "Dubourg",
         "dateOfBirth": "08/22/1829",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/23/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10449,7 +11029,8 @@ var birthplaces = {
         "Place of Birth": "Kerdr\u00ef\u00bf\u00bdal (par. Plouhinec, Finist\u00ef\u00bf\u00bdre)",
         "lastName": "Guillou",
         "dateOfBirth": "05/15/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/25/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10467,7 +11048,8 @@ var birthplaces = {
         "Place of Birth": "Napoli",
         "lastName": "Alaggia",
         "dateOfBirth": "08/08/1807",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/26/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10485,7 +11067,8 @@ var birthplaces = {
         "Place of Birth": "Cincinnati",
         "lastName": "Hussey",
         "dateOfBirth": "06/11/1864",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/26/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10503,7 +11086,8 @@ var birthplaces = {
         "Place of Birth": "Strasswalchen (Salzburg)",
         "lastName": "Hager",
         "dateOfBirth": "02/05/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/27/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10521,7 +11105,8 @@ var birthplaces = {
         "Place of Birth": "Gand",
         "lastName": "Raes",
         "dateOfBirth": "12/21/1861",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/27/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10539,7 +11124,8 @@ var birthplaces = {
         "Place of Birth": "Casei (Pavia)",
         "lastName": "Ferrari",
         "dateOfBirth": "10/15/1829",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/30/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10557,7 +11143,8 @@ var birthplaces = {
         "Place of Birth": "Torino",
         "lastName": "Franco",
         "dateOfBirth": "12/17/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/30/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10575,7 +11162,8 @@ var birthplaces = {
         "Place of Birth": "Genzano (Roma)",
         "lastName": "Jacobini",
         "dateOfBirth": "08/04/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/31/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10593,7 +11181,8 @@ var birthplaces = {
         "Place of Birth": "Toulouse",
         "lastName": "Terrin",
         "dateOfBirth": "08/05/1864",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/31/1890"
       },
       "geometry": {
         "type": "Point",
@@ -10611,7 +11200,8 @@ var birthplaces = {
         "Place of Birth": "Utrecht",
         "lastName": "Richel",
         "dateOfBirth": "12/31/1812",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/02/1891"
       },
       "geometry": {
         "type": "Point",
@@ -10629,7 +11219,8 @@ var birthplaces = {
         "Place of Birth": "Hoz de Barbastro (Huesca)",
         "lastName": "Muz\u00ef\u00bf\u00bds",
         "dateOfBirth": "02/06/1844",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/03/1891"
       },
       "geometry": {
         "type": "Point",
@@ -10647,7 +11238,8 @@ var birthplaces = {
         "Place of Birth": "C\u00ef\u00bf\u00bdrdoba, Arg.",
         "lastName": "Gorordo",
         "dateOfBirth": "10/14/1829",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/04/1891"
       },
       "geometry": {
         "type": "Point",
@@ -10665,7 +11257,8 @@ var birthplaces = {
         "Place of Birth": "St-Affrique (Aveyron)",
         "lastName": "Rouquette",
         "dateOfBirth": "09/24/1844",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/05/1891"
       },
       "geometry": {
         "type": "Point",
@@ -10683,7 +11276,8 @@ var birthplaces = {
         "Place of Birth": "Fano (Pesaro)",
         "lastName": "Cardella",
         "dateOfBirth": "04/11/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/06/1891"
       },
       "geometry": {
         "type": "Point",
@@ -10701,7 +11295,8 @@ var birthplaces = {
         "Place of Birth": "Bruxelles",
         "lastName": "Otto",
         "dateOfBirth": "07/21/1868",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/08/1891"
       },
       "geometry": {
         "type": "Point",
@@ -10719,7 +11314,8 @@ var birthplaces = {
         "Place of Birth": "Tours",
         "lastName": "F\u00ef\u00bf\u00bdrard",
         "dateOfBirth": "09/08/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/10/1891"
       },
       "geometry": {
         "type": "Point",
@@ -10737,7 +11333,8 @@ var birthplaces = {
         "Place of Birth": "Bunnik (Utrecht)",
         "lastName": "Verweerd",
         "dateOfBirth": "06/05/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/12/1891"
       },
       "geometry": {
         "type": "Point",
@@ -10755,7 +11352,8 @@ var birthplaces = {
         "Place of Birth": "Ribchester (Lancashire)",
         "lastName": "Eastham",
         "dateOfBirth": "03/06/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/12/1891"
       },
       "geometry": {
         "type": "Point",
@@ -10773,7 +11371,8 @@ var birthplaces = {
         "Place of Birth": "Armagh",
         "lastName": "Moylan",
         "dateOfBirth": "06/24/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/14/1891"
       },
       "geometry": {
         "type": "Point",
@@ -10791,7 +11390,8 @@ var birthplaces = {
         "Place of Birth": "Bilbao",
         "lastName": "Ustara",
         "dateOfBirth": "02/01/1865",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/14/1891"
       },
       "geometry": {
         "type": "Point",
@@ -10809,7 +11409,8 @@ var birthplaces = {
         "Place of Birth": "Trujillo (La Libertad)",
         "lastName": "Blume",
         "dateOfBirth": "07/20/1839",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/14/1891"
       },
       "geometry": {
         "type": "Point",
@@ -10827,7 +11428,8 @@ var birthplaces = {
         "Place of Birth": "M\u00ef\u00bf\u00bdnster (Valais)",
         "lastName": "Lagger",
         "dateOfBirth": "03/15/1813",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/15/1891"
       },
       "geometry": {
         "type": "Point",
@@ -10845,7 +11447,8 @@ var birthplaces = {
         "Place of Birth": "Castenuovo d'Asti (Alessandria)",
         "lastName": "Savio",
         "dateOfBirth": "04/06/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/19/1891"
       },
       "geometry": {
         "type": "Point",
@@ -10863,7 +11466,8 @@ var birthplaces = {
         "Place of Birth": "Le Gavre (Loire-A)",
         "lastName": "Lecoq",
         "dateOfBirth": "10/14/1829",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/27/1891"
       },
       "geometry": {
         "type": "Point",
@@ -10881,7 +11485,8 @@ var birthplaces = {
         "Place of Birth": "Napoli",
         "lastName": "Salvio",
         "dateOfBirth": "05/21/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/27/1891"
       },
       "geometry": {
         "type": "Point",
@@ -10899,7 +11504,8 @@ var birthplaces = {
         "Place of Birth": "Vich",
         "lastName": "Torrents",
         "dateOfBirth": "03/07/1838",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/27/1891"
       },
       "geometry": {
         "type": "Point",
@@ -10917,7 +11523,8 @@ var birthplaces = {
         "Place of Birth": "Bucciano (Benevento)",
         "lastName": "Giaquinto",
         "dateOfBirth": "02/17/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/30/1891"
       },
       "geometry": {
         "type": "Point",
@@ -10935,7 +11542,8 @@ var birthplaces = {
         "Place of Birth": "Ariccia (Roma)",
         "lastName": "Giuliani",
         "dateOfBirth": "09/03/1804",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/30/1891"
       },
       "geometry": {
         "type": "Point",
@@ -10953,7 +11561,8 @@ var birthplaces = {
         "Place of Birth": "Poperinghe (Fl Oc)",
         "lastName": "Houwen",
         "dateOfBirth": "04/25/1869",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/31/1891"
       },
       "geometry": {
         "type": "Point",
@@ -10971,7 +11580,8 @@ var birthplaces = {
         "Place of Birth": "Buchen (Baden)",
         "lastName": "Strauss",
         "dateOfBirth": "12/03/1836",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/03/1891"
       },
       "geometry": {
         "type": "Point",
@@ -10989,7 +11599,8 @@ var birthplaces = {
         "Place of Birth": "Ropczyce, Rzesz",
         "lastName": "Sasiadek",
         "dateOfBirth": "09/17/1864",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/03/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11007,7 +11618,8 @@ var birthplaces = {
         "Place of Birth": "Caraglio (Cuneo)",
         "lastName": "Marchetti",
         "dateOfBirth": "06/24/1809",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/11/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11025,7 +11637,8 @@ var birthplaces = {
         "Place of Birth": "Carobbio (Bergamo)",
         "lastName": "Suardi",
         "dateOfBirth": "10/23/1870",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/12/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11043,7 +11656,8 @@ var birthplaces = {
         "Place of Birth": "Azcoitia",
         "lastName": "Arambarri",
         "dateOfBirth": "09/24/1869",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/13/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11061,7 +11675,8 @@ var birthplaces = {
         "Place of Birth": "Corte de' Cortesi (Cremona)",
         "lastName": "Rizzi",
         "dateOfBirth": "08/03/1848",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/13/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11079,7 +11694,8 @@ var birthplaces = {
         "Place of Birth": "St-Pierre d'Albigny (Savoie)",
         "lastName": "Bouvet",
         "dateOfBirth": "07/17/1860",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/15/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11097,7 +11713,8 @@ var birthplaces = {
         "Place of Birth": "Bergamo",
         "lastName": "Zanoni",
         "dateOfBirth": "03/17/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/15/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11115,7 +11732,8 @@ var birthplaces = {
         "Place of Birth": "Hasselt (Limbourg)",
         "lastName": "Philippen",
         "dateOfBirth": "09/28/1869",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/16/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11133,7 +11751,8 @@ var birthplaces = {
         "Place of Birth": "Paczkow, Opole",
         "lastName": "Merkel",
         "dateOfBirth": "05/27/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/17/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11151,7 +11770,8 @@ var birthplaces = {
         "Place of Birth": "Hrusov (Cechy)",
         "lastName": "Hovanecz",
         "dateOfBirth": "10/19/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/18/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11169,7 +11789,8 @@ var birthplaces = {
         "Place of Birth": "Napoli",
         "lastName": "Ippoliti",
         "dateOfBirth": "09/20/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/18/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11187,7 +11808,8 @@ var birthplaces = {
         "Place of Birth": "Irodouer (Ille-et-V)",
         "lastName": "Thebault",
         "dateOfBirth": "05/07/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/19/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11205,7 +11827,8 @@ var birthplaces = {
         "Place of Birth": "Monreale (Palermo)",
         "lastName": "Zerbo",
         "dateOfBirth": "07/11/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/20/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11223,7 +11846,8 @@ var birthplaces = {
         "Place of Birth": "Wouw (B-Brabant)",
         "lastName": "De Bie",
         "dateOfBirth": "05/04/1846",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/22/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11241,7 +11865,8 @@ var birthplaces = {
         "Place of Birth": "Modena",
         "lastName": "Molza",
         "dateOfBirth": "03/08/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/22/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11259,7 +11884,8 @@ var birthplaces = {
         "Place of Birth": "St-Pierre (H-Savoie)",
         "lastName": "Terrier",
         "dateOfBirth": "10/05/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/23/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11277,7 +11903,8 @@ var birthplaces = {
         "Place of Birth": "Niederanven (Luxembourg)",
         "lastName": "Kauder",
         "dateOfBirth": "12/08/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/23/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11295,7 +11922,8 @@ var birthplaces = {
         "Place of Birth": "Kilfinane (Limerick)",
         "lastName": "Cronin",
         "dateOfBirth": "03/05/1870",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/24/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11313,7 +11941,8 @@ var birthplaces = {
         "Place of Birth": "Namur",
         "lastName": "Theys",
         "dateOfBirth": "09/30/1813",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/24/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11331,7 +11960,8 @@ var birthplaces = {
         "Place of Birth": "Bruxelles",
         "lastName": "Delsaulx",
         "dateOfBirth": "05/27/1828",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/26/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11349,7 +11979,8 @@ var birthplaces = {
         "Place of Birth": "Manresa",
         "lastName": "Canudas",
         "dateOfBirth": "07/10/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/27/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11367,7 +11998,8 @@ var birthplaces = {
         "Place of Birth": "Dublin",
         "lastName": "O'Connor",
         "dateOfBirth": "04/10/1841",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/27/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11385,7 +12017,8 @@ var birthplaces = {
         "Place of Birth": "Torricella",
         "lastName": "Manelli",
         "dateOfBirth": "06/29/1809",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/02/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11403,7 +12036,8 @@ var birthplaces = {
         "Place of Birth": "Gunzwyl (Luzern)",
         "lastName": "Ottiger",
         "dateOfBirth": "05/15/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/07/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11421,7 +12055,8 @@ var birthplaces = {
         "Place of Birth": "Lyon",
         "lastName": "Jomand",
         "dateOfBirth": "02/22/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/10/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11439,7 +12074,8 @@ var birthplaces = {
         "Place of Birth": "Norfolk, Va",
         "lastName": "Kevill",
         "dateOfBirth": "11/17/1853",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/12/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11457,7 +12093,8 @@ var birthplaces = {
         "Place of Birth": "Poissons (H-Marne)",
         "lastName": "Regnault",
         "dateOfBirth": "08/06/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/13/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11475,7 +12112,8 @@ var birthplaces = {
         "Place of Birth": "Cisarov (Morava)",
         "lastName": "Zatloukal",
         "dateOfBirth": "07/26/1864",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/16/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11493,7 +12131,8 @@ var birthplaces = {
         "Place of Birth": "Randolph, Mass.",
         "lastName": "O'Sullivan",
         "dateOfBirth": "02/02/1859",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/19/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11511,7 +12150,8 @@ var birthplaces = {
         "Place of Birth": "Piacenza",
         "lastName": "Tedeschi",
         "dateOfBirth": "09/13/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/19/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11529,7 +12169,8 @@ var birthplaces = {
         "Place of Birth": "Guadalupe",
         "lastName": "Gomez",
         "dateOfBirth": "04/23/1874",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/19/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11547,7 +12188,8 @@ var birthplaces = {
         "Place of Birth": "Moiselles (Seine-et-O)",
         "lastName": "Beaudevin",
         "dateOfBirth": "11/25/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/22/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11565,7 +12207,8 @@ var birthplaces = {
         "Place of Birth": "Arcidano (Cagliari)",
         "lastName": "Tuveri",
         "dateOfBirth": "10/29/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/22/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11583,7 +12226,8 @@ var birthplaces = {
         "Place of Birth": "Queenstown (Ireland)",
         "lastName": "Macclement",
         "dateOfBirth": "09/20/1864",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/22/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11601,7 +12245,8 @@ var birthplaces = {
         "Place of Birth": "Lavaveix-les-Mines (Creuse)",
         "lastName": "Robert",
         "dateOfBirth": "03/29/1861",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/23/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11619,7 +12264,8 @@ var birthplaces = {
         "Place of Birth": "Ballymahon (Longford)",
         "lastName": "Muldoon",
         "dateOfBirth": "03/01/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/23/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11637,7 +12283,8 @@ var birthplaces = {
         "Place of Birth": "Serravalle Scrivia (Alessandria)",
         "lastName": "Ferrari",
         "dateOfBirth": "02/12/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/24/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11655,7 +12302,8 @@ var birthplaces = {
         "Place of Birth": "Hancock, Md.",
         "lastName": "Brady",
         "dateOfBirth": "10/06/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/22/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11673,7 +12321,8 @@ var birthplaces = {
         "Place of Birth": "Montreal",
         "lastName": "Racicot",
         "dateOfBirth": "12/20/1839",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/27/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11691,7 +12340,8 @@ var birthplaces = {
         "Place of Birth": "Callac (Cotes-du-N)",
         "lastName": "Capitaine",
         "dateOfBirth": "11/26/1846",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/28/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11709,7 +12359,8 @@ var birthplaces = {
         "Place of Birth": "Fano (Pesaro)",
         "lastName": "Tombari",
         "dateOfBirth": "01/29/1811",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/29/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11727,7 +12378,8 @@ var birthplaces = {
         "Place of Birth": "Castrogiovanni (Caltanissetta)",
         "lastName": "Dell'Aria",
         "dateOfBirth": "03/04/1865",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/02/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11745,7 +12397,8 @@ var birthplaces = {
         "Place of Birth": "Oravita montana (Roumanie)",
         "lastName": "Stara",
         "dateOfBirth": "10/30/1864",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/02/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11763,7 +12416,8 @@ var birthplaces = {
         "Place of Birth": "Dunmanway (Cork)",
         "lastName": "Farrell",
         "dateOfBirth": "10/16/1838",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/07/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11781,7 +12435,8 @@ var birthplaces = {
         "Place of Birth": "Ath (Hainaut)",
         "lastName": "Le Tellier",
         "dateOfBirth": "01/25/1866",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/08/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11799,7 +12454,8 @@ var birthplaces = {
         "Place of Birth": "Templeshambo (Wexford)",
         "lastName": "Hanrahan",
         "dateOfBirth": "10/21/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/09/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11817,7 +12473,8 @@ var birthplaces = {
         "Place of Birth": "Noci (Bari)",
         "lastName": "Mandoj",
         "dateOfBirth": "09/25/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/09/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11835,7 +12492,8 @@ var birthplaces = {
         "Place of Birth": "Ostbevern (Westfalen)",
         "lastName": "Akotter",
         "dateOfBirth": "08/20/1813",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/09/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11853,7 +12511,8 @@ var birthplaces = {
         "Place of Birth": "Popayan (Cauca)",
         "lastName": "Velasco",
         "dateOfBirth": "04/17/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/10/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11871,7 +12530,8 @@ var birthplaces = {
         "Place of Birth": "Offet (Liege)",
         "lastName": "Bresmal",
         "dateOfBirth": "03/17/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/12/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11889,7 +12549,8 @@ var birthplaces = {
         "Place of Birth": "Sao Leopoldo (a Porto Alegre)",
         "lastName": "Kroff",
         "dateOfBirth": "11/03/1870",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/12/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11907,7 +12568,8 @@ var birthplaces = {
         "Place of Birth": "Felanitx (Mallorca)",
         "lastName": "Jusama",
         "dateOfBirth": "10/16/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/15/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11925,7 +12587,8 @@ var birthplaces = {
         "Place of Birth": "Broechem (Anvers)",
         "lastName": "De Pooter",
         "dateOfBirth": "03/03/1811",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/19/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11943,7 +12606,8 @@ var birthplaces = {
         "Place of Birth": "Pobla de Montornes (Tarragona)",
         "lastName": "Requesens",
         "dateOfBirth": "11/24/1850",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/21/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11961,7 +12625,8 @@ var birthplaces = {
         "Place of Birth": "Paderborn (Westfalen)",
         "lastName": "Gotte",
         "dateOfBirth": "10/15/1860",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/21/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11979,7 +12644,8 @@ var birthplaces = {
         "Place of Birth": "Berberana (Burgos)",
         "lastName": "de Ayala",
         "dateOfBirth": "05/27/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/21/1891"
       },
       "geometry": {
         "type": "Point",
@@ -11997,7 +12663,8 @@ var birthplaces = {
         "Place of Birth": "Velke Mezirice (Morava)",
         "lastName": "Prihoda",
         "dateOfBirth": "09/21/1842",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/21/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12015,7 +12682,8 @@ var birthplaces = {
         "Place of Birth": "Victoria (Alava)",
         "lastName": "de Unzueta",
         "dateOfBirth": "01/24/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/23/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12033,7 +12701,8 @@ var birthplaces = {
         "Place of Birth": "Trento",
         "lastName": "Costa",
         "dateOfBirth": "08/11/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/23/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12051,7 +12720,8 @@ var birthplaces = {
         "Place of Birth": "Siviriez (Fribourg)",
         "lastName": "Menetrey",
         "dateOfBirth": "11/28/1812",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/27/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12069,7 +12739,8 @@ var birthplaces = {
         "Place of Birth": "Aachen",
         "lastName": "Hover",
         "dateOfBirth": "03/19/1845",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/28/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12087,7 +12758,8 @@ var birthplaces = {
         "Place of Birth": "Amberg (Bayern)",
         "lastName": "Fritsch",
         "dateOfBirth": "02/15/1812",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/01/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12105,7 +12777,8 @@ var birthplaces = {
         "Place of Birth": "Fleury (Yonne)",
         "lastName": "Lory",
         "dateOfBirth": "04/25/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/01/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12123,7 +12796,8 @@ var birthplaces = {
         "Place of Birth": "Angers",
         "lastName": "Marsille",
         "dateOfBirth": "06/02/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/01/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12141,7 +12815,8 @@ var birthplaces = {
         "Place of Birth": "London",
         "lastName": "Christie",
         "dateOfBirth": "12/18/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/02/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12159,7 +12834,8 @@ var birthplaces = {
         "Place of Birth": "Bogota",
         "lastName": "Urdaneta",
         "dateOfBirth": "05/03/1843",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/01/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12177,7 +12853,8 @@ var birthplaces = {
         "Place of Birth": "Bridgton, Mo",
         "lastName": "Perou",
         "dateOfBirth": "10/06/1863",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/03/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12195,7 +12872,8 @@ var birthplaces = {
         "Place of Birth": "Paris",
         "lastName": "d'Aage",
         "dateOfBirth": "11/18/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/05/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12213,7 +12891,8 @@ var birthplaces = {
         "Place of Birth": "Tarare (Rhone)",
         "lastName": "Bordanove",
         "dateOfBirth": "08/27/1839",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/05/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12231,7 +12910,8 @@ var birthplaces = {
         "Place of Birth": "Tivoli (Roma)",
         "lastName": "Rosati",
         "dateOfBirth": "02/23/1857",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/06/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12249,7 +12929,8 @@ var birthplaces = {
         "Place of Birth": "Nieuwerkerken (Fl Or)",
         "lastName": "Vanden Abele",
         "dateOfBirth": "09/02/1863",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/07/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12267,7 +12948,8 @@ var birthplaces = {
         "Place of Birth": "Utracht",
         "lastName": "Maas",
         "dateOfBirth": "02/13/1829",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/08/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12285,7 +12967,8 @@ var birthplaces = {
         "Place of Birth": "Cieza (Murcia)",
         "lastName": "Morote",
         "dateOfBirth": "05/31/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/10/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12303,7 +12986,8 @@ var birthplaces = {
         "Place of Birth": "Piverone (Torino)",
         "lastName": "Brunengo",
         "dateOfBirth": "01/12/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/11/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12321,7 +13005,8 @@ var birthplaces = {
         "Place of Birth": "Wernsdorf u Hrobu (Cechy)",
         "lastName": "Mende",
         "dateOfBirth": "04/20/1828",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/12/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12339,7 +13024,8 @@ var birthplaces = {
         "Place of Birth": "Sligo",
         "lastName": "Burke",
         "dateOfBirth": "06/08/1844",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/13/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12357,7 +13043,8 @@ var birthplaces = {
         "Place of Birth": "Ette pr Rheina, Westfalen",
         "lastName": "Engbert",
         "dateOfBirth": "08/08/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/15/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12375,7 +13062,8 @@ var birthplaces = {
         "Place of Birth": "Trento",
         "lastName": "Manci",
         "dateOfBirth": "04/18/1841",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/15/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12393,7 +13081,8 @@ var birthplaces = {
         "Place of Birth": "Ballyragget (Kilkenny)",
         "lastName": "Dowling",
         "dateOfBirth": "12/26/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/16/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12411,7 +13100,8 @@ var birthplaces = {
         "Place of Birth": "Gerb\u00ef\u00bf\u00bdviller (Meurthe)",
         "lastName": "Pfister",
         "dateOfBirth": "04/24/1833",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/17/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12429,7 +13119,8 @@ var birthplaces = {
         "Place of Birth": "Wodzis?aw ?l?ski, Kat.",
         "lastName": "Brzezak",
         "dateOfBirth": "03/27/1865",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/18/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12447,7 +13138,8 @@ var birthplaces = {
         "Place of Birth": "Poueyferr\u00ef\u00bf\u00bd (H-Pyr\u00ef\u00bf\u00bdn\u00ef\u00bf\u00bdes)",
         "lastName": "Lag\u00ef\u00bf\u00bdes",
         "dateOfBirth": "06/21/1865",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/19/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12465,7 +13157,8 @@ var birthplaces = {
         "Place of Birth": "Jaros?aw, Rzesz",
         "lastName": "M\u00ef\u00bf\u00bdller",
         "dateOfBirth": "04/26/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/20/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12483,7 +13176,8 @@ var birthplaces = {
         "Place of Birth": "Menzingen (Zug)",
         "lastName": "Staub",
         "dateOfBirth": "04/29/1811",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/20/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12501,7 +13195,8 @@ var birthplaces = {
         "Place of Birth": "San Severino (Macerata)",
         "lastName": "Servanzi",
         "dateOfBirth": "08/20/1840",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/22/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12519,7 +13214,8 @@ var birthplaces = {
         "Place of Birth": "Rumillies (Hainaut)",
         "lastName": "Willaumez",
         "dateOfBirth": "04/16/1867",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/22/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12537,7 +13233,8 @@ var birthplaces = {
         "Place of Birth": "St-Brieux (C\u00ef\u00bf\u00bdtes-du-N)",
         "lastName": "de la Tribonni\u00ef\u00bf\u00bdre",
         "dateOfBirth": "01/02/1858",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/23/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12555,7 +13252,8 @@ var birthplaces = {
         "Place of Birth": "Bezinghem (Pas-d-C)",
         "lastName": "Sergeant",
         "dateOfBirth": "01/14/1813",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/27/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12573,7 +13271,8 @@ var birthplaces = {
         "Place of Birth": "Dohan (Luxembourg)",
         "lastName": "Goffin",
         "dateOfBirth": "06/11/1860",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/30/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12591,7 +13290,8 @@ var birthplaces = {
         "Place of Birth": "La Tour-du-Pin (Is\u00ef\u00bf\u00bdre)",
         "lastName": "de Ren\u00ef\u00bf\u00bdville",
         "dateOfBirth": "08/06/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/31/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12609,7 +13309,8 @@ var birthplaces = {
         "Place of Birth": "Venray (Limburg)",
         "lastName": "van de Rijdt",
         "dateOfBirth": "06/24/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/01/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12627,7 +13328,8 @@ var birthplaces = {
         "Place of Birth": "Lucca",
         "lastName": "Bianchini",
         "dateOfBirth": "09/26/1816",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/06/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12645,7 +13347,8 @@ var birthplaces = {
         "Place of Birth": "Le Cheylard (Ard\u00ef\u00bf\u00bdche)",
         "lastName": "Terrier",
         "dateOfBirth": "12/08/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/06/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12663,7 +13366,8 @@ var birthplaces = {
         "Place of Birth": "Pomigliano d'Arco (Napoli)",
         "lastName": "Capone",
         "dateOfBirth": "12/31/1862",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/06/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12681,7 +13385,8 @@ var birthplaces = {
         "Place of Birth": "Vught (N-Brabant)",
         "lastName": "van der Heijden",
         "dateOfBirth": "01/25/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/06/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12699,7 +13404,8 @@ var birthplaces = {
         "Place of Birth": "Magny-Cours (Ni\u00ef\u00bf\u00bdvre)",
         "lastName": "Gestat",
         "dateOfBirth": "09/16/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/07/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12717,7 +13423,8 @@ var birthplaces = {
         "Place of Birth": "Marign\u00ef\u00bf\u00bd (Sarthe)",
         "lastName": "Blin",
         "dateOfBirth": "11/14/1853",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/08/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12735,7 +13442,8 @@ var birthplaces = {
         "Place of Birth": "Nikmegen",
         "lastName": "Arntz",
         "dateOfBirth": "08/03/1811",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/12/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12753,7 +13461,8 @@ var birthplaces = {
         "Place of Birth": "Tarragona",
         "lastName": "Alt\u00ef\u00bf\u00bds",
         "dateOfBirth": "03/25/1859",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/12/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12771,7 +13480,8 @@ var birthplaces = {
         "Place of Birth": "Vh\u00ef\u00bf\u00bd (Cremona)",
         "lastName": "Bona",
         "dateOfBirth": "08/05/1862",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/15/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12789,7 +13499,8 @@ var birthplaces = {
         "Place of Birth": "Anvers",
         "lastName": "Servais",
         "dateOfBirth": "04/15/1841",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/15/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12807,7 +13518,8 @@ var birthplaces = {
         "Place of Birth": "Philadelphia",
         "lastName": "Duddy",
         "dateOfBirth": "04/06/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/17/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12825,7 +13537,8 @@ var birthplaces = {
         "Place of Birth": "Preston",
         "lastName": "Nickson",
         "dateOfBirth": "07/08/1871",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/18/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12843,7 +13556,8 @@ var birthplaces = {
         "Place of Birth": "Pettenasco (Novara)",
         "lastName": "Fortis",
         "dateOfBirth": "10/30/1855",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/19/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12861,7 +13575,8 @@ var birthplaces = {
         "Place of Birth": "Mikulicze, Bia?",
         "lastName": "Dobrza?ski",
         "dateOfBirth": "02/10/1867",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/19/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12879,7 +13594,8 @@ var birthplaces = {
         "Place of Birth": "Carelles (Mayenne)",
         "lastName": "Fouilleul",
         "dateOfBirth": "08/16/1869",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/19/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12897,7 +13613,8 @@ var birthplaces = {
         "Place of Birth": "Vich",
         "lastName": "Galobardes",
         "dateOfBirth": "03/29/1838",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/20/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12915,7 +13632,8 @@ var birthplaces = {
         "Place of Birth": "Liverpool",
         "lastName": "Clough",
         "dateOfBirth": "03/25/1810",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/22/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12933,7 +13651,8 @@ var birthplaces = {
         "Place of Birth": "Aachen",
         "lastName": "Fibus",
         "dateOfBirth": "03/17/1841",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/23/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12951,7 +13670,8 @@ var birthplaces = {
         "Place of Birth": "Villanueva y Geltr\u00ef\u00bf\u00bd (Barcelona)",
         "lastName": "Tusqu\u00ef\u00bf\u00bdts",
         "dateOfBirth": "03/29/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/25/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12969,7 +13689,8 @@ var birthplaces = {
         "Place of Birth": "Limoux (Aude)",
         "lastName": "Tailhan",
         "dateOfBirth": "01/16/1816",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/26/1891"
       },
       "geometry": {
         "type": "Point",
@@ -12987,7 +13708,8 @@ var birthplaces = {
         "Place of Birth": "Hochemmingen (Baden)",
         "lastName": "Frank",
         "dateOfBirth": "03/23/1829",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/28/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13005,7 +13727,8 @@ var birthplaces = {
         "Place of Birth": "Rheinberg (Rheinland)",
         "lastName": "Heidenreich",
         "dateOfBirth": "03/13/1848",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/29/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13023,7 +13746,8 @@ var birthplaces = {
         "Place of Birth": "La Ribeyre (Puy-de-D)",
         "lastName": "Lafarge",
         "dateOfBirth": "05/20/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/02/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13041,7 +13765,8 @@ var birthplaces = {
         "Place of Birth": "Lustenau (Vorarlberg)",
         "lastName": "Riedmann",
         "dateOfBirth": "03/13/1857",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/02/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13059,7 +13784,8 @@ var birthplaces = {
         "Place of Birth": "Malvalette (H-Loire)",
         "lastName": "Petiot",
         "dateOfBirth": "11/03/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/02/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13077,7 +13803,8 @@ var birthplaces = {
         "Place of Birth": "New York",
         "lastName": "Holden",
         "dateOfBirth": "09/26/1866",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/03/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13095,7 +13822,8 @@ var birthplaces = {
         "Place of Birth": "Boston",
         "lastName": "Lamb",
         "dateOfBirth": "07/03/1858",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/03/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13113,7 +13841,8 @@ var birthplaces = {
         "Place of Birth": "Jersey City",
         "lastName": "Waters",
         "dateOfBirth": "06/28/1869",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/03/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13131,7 +13860,8 @@ var birthplaces = {
         "Place of Birth": "Barcelona",
         "lastName": "Murgadas",
         "dateOfBirth": "07/27/1848",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/05/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13149,7 +13879,8 @@ var birthplaces = {
         "Place of Birth": "Neuville-sur-L'Escaut (Nord)",
         "lastName": "F\u00ef\u00bf\u00bdlix",
         "dateOfBirth": "06/28/1810",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/06/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13167,7 +13898,8 @@ var birthplaces = {
         "Place of Birth": "Dornbirn (Vorarlberg)",
         "lastName": "M\u00ef\u00bf\u00bdser",
         "dateOfBirth": "12/21/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/07/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13185,7 +13917,8 @@ var birthplaces = {
         "Place of Birth": "Roma",
         "lastName": "Lavaggi",
         "dateOfBirth": "11/14/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/09/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13203,7 +13936,8 @@ var birthplaces = {
         "Place of Birth": "Framerville (Somme)",
         "lastName": "Bary",
         "dateOfBirth": "12/28/1836",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/09/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13221,7 +13955,8 @@ var birthplaces = {
         "Place of Birth": "Sant'Elpidio a Mare (Ascoli)",
         "lastName": "Petrocchi",
         "dateOfBirth": "01/18/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/12/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13239,7 +13974,8 @@ var birthplaces = {
         "Place of Birth": "*Dunbell (Kilkenny)",
         "lastName": "Whyte",
         "dateOfBirth": "11/17/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/14/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13257,7 +13993,8 @@ var birthplaces = {
         "Place of Birth": "Roma",
         "lastName": "Capparoni",
         "dateOfBirth": "05/23/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/16/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13275,7 +14012,8 @@ var birthplaces = {
         "Place of Birth": "Legnago (Verona)",
         "lastName": "Canuti",
         "dateOfBirth": "12/30/1812",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/19/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13293,7 +14031,8 @@ var birthplaces = {
         "Place of Birth": "Cenate S. Martino (Bergamo)",
         "lastName": "Patelli",
         "dateOfBirth": "12/22/1862",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/22/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13311,7 +14050,8 @@ var birthplaces = {
         "Place of Birth": "Bezvodna (Grodno, USSR)",
         "lastName": "Twardowski",
         "dateOfBirth": "09/07/1851",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/22/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13329,7 +14069,8 @@ var birthplaces = {
         "Place of Birth": "Falknov (Cechy)",
         "lastName": "Michalko",
         "dateOfBirth": "10/12/1852",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/23/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13347,7 +14088,8 @@ var birthplaces = {
         "Place of Birth": "Church Bank pr Blackburn (Lancashire)",
         "lastName": "Holden",
         "dateOfBirth": "03/09/1808",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/25/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13365,7 +14107,8 @@ var birthplaces = {
         "Place of Birth": "Faenza (Ravenna)",
         "lastName": "Ghetti",
         "dateOfBirth": "12/26/1833",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/27/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13383,7 +14126,8 @@ var birthplaces = {
         "Place of Birth": "Angers",
         "lastName": "Ravary",
         "dateOfBirth": "01/27/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/30/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13401,7 +14145,8 @@ var birthplaces = {
         "Place of Birth": "Ametll\u00ef\u00bf\u00bd (Barcelona)",
         "lastName": "Jofr\u00ef\u00bf\u00bd",
         "dateOfBirth": "01/02/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/02/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13419,7 +14164,8 @@ var birthplaces = {
         "Place of Birth": "Zupaquir\u00ef\u00bf\u00bd (Cundinamar)",
         "lastName": "Silva",
         "dateOfBirth": "04/27/1829",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/02/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13437,7 +14183,8 @@ var birthplaces = {
         "Place of Birth": "Solarolo (Ravenna)",
         "lastName": "Randi",
         "dateOfBirth": "02/02/1872",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/02/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13455,7 +14202,8 @@ var birthplaces = {
         "Place of Birth": "*Av\u00ef\u00bf\u00bdz (Pernambuco)",
         "lastName": "Cortez",
         "dateOfBirth": "05/22/1849",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/05/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13473,7 +14221,8 @@ var birthplaces = {
         "Place of Birth": "Amsterdam",
         "lastName": "van Meurs",
         "dateOfBirth": "02/18/1838",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/05/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13491,7 +14240,8 @@ var birthplaces = {
         "Place of Birth": "Venlo (Limburg)",
         "lastName": "Opdenoordt",
         "dateOfBirth": "08/28/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/07/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13509,7 +14259,8 @@ var birthplaces = {
         "Place of Birth": "Herrera de Pisuerga (Palencia)",
         "lastName": "Mart\u00ef\u00bf\u00bdn",
         "dateOfBirth": "02/16/1843",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/10/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13527,7 +14278,8 @@ var birthplaces = {
         "Place of Birth": "Triesen (Liechtenstein)",
         "lastName": "Nigg",
         "dateOfBirth": "02/16/1848",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/10/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13545,7 +14297,8 @@ var birthplaces = {
         "Place of Birth": "Ab\u00ef\u00bf\u00bdrzuza (Navarra)",
         "lastName": "Mazquiar\u00ef\u00bf\u00bdn",
         "dateOfBirth": "04/01/1836",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/11/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13563,7 +14316,8 @@ var birthplaces = {
         "Place of Birth": "K\u00ef\u00bf\u00bdln",
         "lastName": "Schumacher",
         "dateOfBirth": "02/24/1841",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/15/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13581,7 +14335,8 @@ var birthplaces = {
         "Place of Birth": "K\u00ef\u00bf\u00bdszeg (Vas)",
         "lastName": "Free",
         "dateOfBirth": "11/10/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/17/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13599,7 +14354,8 @@ var birthplaces = {
         "Place of Birth": "Mata de Hoz (Santander)",
         "lastName": "Rodr\u00ef\u00bf\u00bdguez",
         "dateOfBirth": "04/13/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/20/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13617,7 +14373,8 @@ var birthplaces = {
         "Place of Birth": "Glenhall (Londonderry)",
         "lastName": "O'Kane",
         "dateOfBirth": "05/02/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/21/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13635,7 +14392,8 @@ var birthplaces = {
         "Place of Birth": "Les Gets (H-Savoie)",
         "lastName": "Anthonioz",
         "dateOfBirth": "05/10/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/22/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13653,7 +14411,8 @@ var birthplaces = {
         "Place of Birth": "S. Antonio de la Patrulla (Rio Gr. do Sul)",
         "lastName": "da Silva",
         "dateOfBirth": "08/10/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/22/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13671,7 +14430,8 @@ var birthplaces = {
         "Place of Birth": "Orvieto (Terni)",
         "lastName": "Iraci",
         "dateOfBirth": "06/22/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/24/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13689,7 +14449,8 @@ var birthplaces = {
         "Place of Birth": "Orvieto (Terni)",
         "lastName": "Ficarelli",
         "dateOfBirth": "07/06/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/25/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13707,7 +14468,8 @@ var birthplaces = {
         "Place of Birth": "St Helen's (Lancashire)",
         "lastName": "Johnson",
         "dateOfBirth": "04/17/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/27/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13725,7 +14487,8 @@ var birthplaces = {
         "Place of Birth": "Amsterdam",
         "lastName": "Escherich",
         "dateOfBirth": "06/15/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/28/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13743,7 +14506,8 @@ var birthplaces = {
         "Place of Birth": "Rusch (Dublin)",
         "lastName": "Seaver",
         "dateOfBirth": "12/22/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/29/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13761,7 +14525,8 @@ var birthplaces = {
         "Place of Birth": "Verviers",
         "lastName": "Leclerq",
         "dateOfBirth": "11/03/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/31/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13779,7 +14544,8 @@ var birthplaces = {
         "Place of Birth": "St-Peter in der Au. N.\u00ef\u00bf\u00bd.",
         "lastName": "Hoch",
         "dateOfBirth": "01/27/1812",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/01/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13797,7 +14563,8 @@ var birthplaces = {
         "Place of Birth": "Pfaffendorf (Rheinland)",
         "lastName": "Nicolai",
         "dateOfBirth": "08/09/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/02/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13815,7 +14582,8 @@ var birthplaces = {
         "Place of Birth": "Elbeuf (Seine-M)",
         "lastName": "Charpentier",
         "dateOfBirth": "09/14/1844",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/03/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13833,7 +14601,8 @@ var birthplaces = {
         "Place of Birth": "Dambach (Barr, B-Rhin)",
         "lastName": "Meyer",
         "dateOfBirth": "02/10/1852",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/04/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13851,7 +14620,8 @@ var birthplaces = {
         "Place of Birth": "Dingle (Kerry)",
         "lastName": "Sheehy",
         "dateOfBirth": "07/15/1811",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/08/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13869,7 +14639,8 @@ var birthplaces = {
         "Place of Birth": "Gonnord (Maine-et-L)",
         "lastName": "Cordier",
         "dateOfBirth": "11/03/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/11/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13887,7 +14658,8 @@ var birthplaces = {
         "Place of Birth": "St-Antelinckx (Fl Or)",
         "lastName": "Cobb\u00ef\u00bf\u00bdrt",
         "dateOfBirth": "01/05/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/13/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13905,7 +14677,8 @@ var birthplaces = {
         "Place of Birth": "Larraya (Navarra)",
         "lastName": "Astr\u00ef\u00bf\u00bdin",
         "dateOfBirth": "02/18/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/14/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13923,7 +14696,8 @@ var birthplaces = {
         "Place of Birth": "St-Paul-trois-Ch\u00ef\u00bf\u00bdteaux (Dr\u00ef\u00bf\u00bdme)",
         "lastName": "d'Audiffret",
         "dateOfBirth": "12/14/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/14/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13941,7 +14715,8 @@ var birthplaces = {
         "Place of Birth": "Eupen (Rheinland)",
         "lastName": "M\u00ef\u00bf\u00bdllender",
         "dateOfBirth": "11/01/1850",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/14/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13959,7 +14734,8 @@ var birthplaces = {
         "Place of Birth": "Ath (Hainaut)",
         "lastName": "Meunier",
         "dateOfBirth": "09/02/1816",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/19/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13977,7 +14753,8 @@ var birthplaces = {
         "Place of Birth": "Drahotu\u00ef\u00bf\u00bde (Morava)",
         "lastName": "Tich\u00ef\u00bf\u00bd",
         "dateOfBirth": "03/21/1848",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/19/1891"
       },
       "geometry": {
         "type": "Point",
@@ -13995,7 +14772,8 @@ var birthplaces = {
         "Place of Birth": "Bury St Edmund's (Suffolk)",
         "lastName": "Everard",
         "dateOfBirth": "03/01/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/22/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14013,7 +14791,8 @@ var birthplaces = {
         "Place of Birth": "Mui\u00ef\u00bf\u00bdos (Orense)",
         "lastName": "Alvarez Pena",
         "dateOfBirth": "10/17/1870",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/23/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14031,7 +14810,8 @@ var birthplaces = {
         "Place of Birth": "Queenstown (Ireland)",
         "lastName": "Reardon",
         "dateOfBirth": "03/17/1815",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/26/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14049,7 +14829,8 @@ var birthplaces = {
         "Place of Birth": "Claudy (Cumber Upper, Derry)",
         "lastName": "Dougherty",
         "dateOfBirth": "08/14/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/27/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14067,7 +14848,8 @@ var birthplaces = {
         "Place of Birth": "Haus (Steiermark)",
         "lastName": "Eberl",
         "dateOfBirth": "10/15/1842",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/29/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14085,7 +14867,8 @@ var birthplaces = {
         "Place of Birth": "Strasbourg",
         "lastName": "Modeste",
         "dateOfBirth": "01/10/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/01/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14103,7 +14886,8 @@ var birthplaces = {
         "Place of Birth": "Haguenau (B-Rhin)",
         "lastName": "Sucher",
         "dateOfBirth": "05/07/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/01/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14121,7 +14905,8 @@ var birthplaces = {
         "Place of Birth": "La Louvesc (Ard\u00ef\u00bf\u00bdche)",
         "lastName": "Buisson",
         "dateOfBirth": "05/28/1867",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/02/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14139,7 +14924,8 @@ var birthplaces = {
         "Place of Birth": "Palermo",
         "lastName": "Brugn\u00ef\u00bf\u00bd",
         "dateOfBirth": "01/16/1840",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/05/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14157,7 +14943,8 @@ var birthplaces = {
         "Place of Birth": "Valletta",
         "lastName": "Borg",
         "dateOfBirth": "02/05/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/07/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14175,7 +14962,8 @@ var birthplaces = {
         "Place of Birth": "Brinay (Ni\u00ef\u00bf\u00bdvre)",
         "lastName": "Grenouille",
         "dateOfBirth": "12/01/1868",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/10/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14193,7 +14981,8 @@ var birthplaces = {
         "Place of Birth": "Tarata (Udine)",
         "lastName": "Banchich",
         "dateOfBirth": "10/17/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/11/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14211,7 +15000,8 @@ var birthplaces = {
         "Place of Birth": "Avallon (Yonne)",
         "lastName": "Gagniard",
         "dateOfBirth": "09/22/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/11/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14229,7 +15019,8 @@ var birthplaces = {
         "Place of Birth": "Vitriola (Modena)",
         "lastName": "Prati",
         "dateOfBirth": "02/10/1860",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/11/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14247,7 +15038,8 @@ var birthplaces = {
         "Place of Birth": "Palermo",
         "lastName": "Arpa",
         "dateOfBirth": "02/22/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/12/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14265,7 +15057,8 @@ var birthplaces = {
         "Place of Birth": "Inishcrone (Sligo)",
         "lastName": "Kilcullin",
         "dateOfBirth": "09/14/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/17/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14283,7 +15076,8 @@ var birthplaces = {
         "Place of Birth": "Cappy (Somme)",
         "lastName": "Vignon",
         "dateOfBirth": "09/25/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/18/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14301,7 +15095,8 @@ var birthplaces = {
         "Place of Birth": "Berendrecht (Anvers)",
         "lastName": "Claessens",
         "dateOfBirth": "09/08/1811",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/18/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14319,7 +15114,8 @@ var birthplaces = {
         "Place of Birth": "Torre Caietani (Roma)",
         "lastName": "Lanzi",
         "dateOfBirth": "09/02/1860",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/27/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14337,7 +15133,8 @@ var birthplaces = {
         "Place of Birth": "Kirkham (Lancashire)",
         "lastName": "Brindle",
         "dateOfBirth": "06/24/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/01/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14355,7 +15152,8 @@ var birthplaces = {
         "Place of Birth": "Forl\u00ef\u00bf\u00bd",
         "lastName": "Cimatti",
         "dateOfBirth": "08/11/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/01/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14373,7 +15171,8 @@ var birthplaces = {
         "Place of Birth": "Trepuzzi (Lecce)",
         "lastName": "Miglietta",
         "dateOfBirth": "03/09/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/05/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14391,7 +15190,8 @@ var birthplaces = {
         "Place of Birth": "London",
         "lastName": "Hathaway",
         "dateOfBirth": "10/03/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/06/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14409,7 +15209,8 @@ var birthplaces = {
         "Place of Birth": "Plouguiel (C\u00ef\u00bf\u00bdtes-du-N)",
         "lastName": "Rogard",
         "dateOfBirth": "11/13/1868",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/06/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14427,7 +15228,8 @@ var birthplaces = {
         "Place of Birth": "Napoli",
         "lastName": "Negri",
         "dateOfBirth": "07/11/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/09/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14445,7 +15247,8 @@ var birthplaces = {
         "Place of Birth": "Malange (Jura)",
         "lastName": "Fiquet",
         "dateOfBirth": "04/04/1805",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/09/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14463,7 +15266,8 @@ var birthplaces = {
         "Place of Birth": "Grece, N.Y.",
         "lastName": "Kernan",
         "dateOfBirth": "06/09/1854",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/10/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14481,7 +15285,8 @@ var birthplaces = {
         "Place of Birth": "Bergamo",
         "lastName": "Gimpel",
         "dateOfBirth": "05/23/1815",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/10/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14499,7 +15304,8 @@ var birthplaces = {
         "Place of Birth": "Bastiglia (Modena)",
         "lastName": "Vellani",
         "dateOfBirth": "02/28/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/11/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14517,7 +15323,8 @@ var birthplaces = {
         "Place of Birth": "Albert (Somme)",
         "lastName": "Letierce",
         "dateOfBirth": "01/27/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/12/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14535,7 +15342,8 @@ var birthplaces = {
         "Place of Birth": "Trebov\u00ef\u00bf\u00bd (Morava)",
         "lastName": "D\u00ef\u00bf\u00bdrwanger",
         "dateOfBirth": "11/05/1816",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/15/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14553,7 +15361,8 @@ var birthplaces = {
         "Place of Birth": "Recologne (Doubs)",
         "lastName": "Jeanjacquot",
         "dateOfBirth": "10/31/1804",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/17/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14571,7 +15380,8 @@ var birthplaces = {
         "Place of Birth": "Anvers",
         "lastName": "Schermrer",
         "dateOfBirth": "03/15/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/17/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14589,7 +15399,8 @@ var birthplaces = {
         "Place of Birth": "Capriglia (Avellino)",
         "lastName": "Contursi",
         "dateOfBirth": "11/15/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/18/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14607,7 +15418,8 @@ var birthplaces = {
         "Place of Birth": "Asseln",
         "lastName": "Evers",
         "dateOfBirth": "04/27/1811",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/19/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14625,7 +15437,8 @@ var birthplaces = {
         "Place of Birth": "Astley (Worcester)",
         "lastName": "Foley",
         "dateOfBirth": "08/09/1811",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/19/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14643,7 +15456,8 @@ var birthplaces = {
         "Place of Birth": "Demen",
         "lastName": "Vervenne",
         "dateOfBirth": "03/10/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/20/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14661,7 +15475,8 @@ var birthplaces = {
         "Place of Birth": "Nauort (Hessen-Nassau)",
         "lastName": "Thewalt",
         "dateOfBirth": "01/20/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/21/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14679,7 +15494,8 @@ var birthplaces = {
         "Place of Birth": "Les Granges Gontardes (Drome)",
         "lastName": "Prati",
         "dateOfBirth": "05/05/1809",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/22/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14697,7 +15513,8 @@ var birthplaces = {
         "Place of Birth": "Sineu (Mallorca)",
         "lastName": "Rotger",
         "dateOfBirth": "12/22/1842",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/22/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14715,7 +15532,8 @@ var birthplaces = {
         "Place of Birth": "Port-Louis (Maurice)",
         "lastName": "Mallac",
         "dateOfBirth": "09/28/1829",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/23/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14733,7 +15551,8 @@ var birthplaces = {
         "Place of Birth": "Borja (Zaragoza)",
         "lastName": "Gimenez",
         "dateOfBirth": "01/11/1859",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/23/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14751,7 +15570,8 @@ var birthplaces = {
         "Place of Birth": "Caltanissetta",
         "lastName": "Lunetta",
         "dateOfBirth": "11/17/1833",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/25/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14769,7 +15589,8 @@ var birthplaces = {
         "Place of Birth": "Borgerhout (Anvers)",
         "lastName": "Van Der Keilen",
         "dateOfBirth": "01/10/1856",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/26/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14787,7 +15608,8 @@ var birthplaces = {
         "Place of Birth": "Ploneis (Finistere)",
         "lastName": "Quideau",
         "dateOfBirth": "11/01/1838",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/27/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14805,7 +15627,8 @@ var birthplaces = {
         "Place of Birth": "Mullingar (Westmeath)",
         "lastName": "Tuite",
         "dateOfBirth": "05/26/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/30/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14823,7 +15646,8 @@ var birthplaces = {
         "Place of Birth": "Arrigorriaga (Vizcaya)",
         "lastName": "Lecanda",
         "dateOfBirth": "09/28/1839",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/30/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14841,7 +15665,8 @@ var birthplaces = {
         "Place of Birth": "Oberageri (Zug)",
         "lastName": "Iten",
         "dateOfBirth": "02/20/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/01/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14859,7 +15684,8 @@ var birthplaces = {
         "Place of Birth": "Dolac pr Trawnik (Bosna)",
         "lastName": "Ilijasevic",
         "dateOfBirth": "03/23/1867",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/01/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14877,7 +15703,8 @@ var birthplaces = {
         "Place of Birth": "Tolosa (Guipuzcoa)",
         "lastName": "Lizargarate",
         "dateOfBirth": "03/29/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/01/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14895,7 +15722,8 @@ var birthplaces = {
         "Place of Birth": "Deschambault (Portneuf, Que.)",
         "lastName": "Mathieu",
         "dateOfBirth": "02/01/1861",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/06/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14913,7 +15741,8 @@ var birthplaces = {
         "Place of Birth": "Serfaus (Tirol)",
         "lastName": "Kirschner",
         "dateOfBirth": "04/27/1864",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/09/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14931,7 +15760,8 @@ var birthplaces = {
         "Place of Birth": "Pass Christian, Miss.",
         "lastName": "Waterman",
         "dateOfBirth": "11/07/1872",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/10/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14949,7 +15779,8 @@ var birthplaces = {
         "Place of Birth": "Slavkovice (Cechy)",
         "lastName": "Chilik",
         "dateOfBirth": "06/23/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/11/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14967,7 +15798,8 @@ var birthplaces = {
         "Place of Birth": "Plaidt (Rheinland)",
         "lastName": "Godderz",
         "dateOfBirth": "10/23/1840",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/16/1891"
       },
       "geometry": {
         "type": "Point",
@@ -14985,7 +15817,8 @@ var birthplaces = {
         "Place of Birth": "Rodeano (Udine)",
         "lastName": "Michelutti",
         "dateOfBirth": "04/08/1848",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/17/1891"
       },
       "geometry": {
         "type": "Point",
@@ -15003,7 +15836,8 @@ var birthplaces = {
         "Place of Birth": "Darfeld (Westfalen)",
         "lastName": "Heilers",
         "dateOfBirth": "05/14/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/19/1891"
       },
       "geometry": {
         "type": "Point",
@@ -15021,7 +15855,8 @@ var birthplaces = {
         "Place of Birth": "Witry (Luxembourg)",
         "lastName": "Herman",
         "dateOfBirth": "11/02/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/20/1891"
       },
       "geometry": {
         "type": "Point",
@@ -15039,7 +15874,8 @@ var birthplaces = {
         "Place of Birth": "Epernay (Marne)",
         "lastName": "Lacoste",
         "dateOfBirth": "07/22/1806",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/21/1891"
       },
       "geometry": {
         "type": "Point",
@@ -15057,7 +15893,8 @@ var birthplaces = {
         "Place of Birth": "Rathkeale (Limerick)",
         "lastName": "Dealy",
         "dateOfBirth": "04/07/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/23/1891"
       },
       "geometry": {
         "type": "Point",
@@ -15075,7 +15912,8 @@ var birthplaces = {
         "Place of Birth": "Vranjica pr Split (Dalmacija)",
         "lastName": "Grgic",
         "dateOfBirth": "12/19/1846",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/25/1891"
       },
       "geometry": {
         "type": "Point",
@@ -15093,7 +15931,8 @@ var birthplaces = {
         "Place of Birth": "Liliental",
         "lastName": "Siemers",
         "dateOfBirth": "08/12/1813",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/28/1891"
       },
       "geometry": {
         "type": "Point",
@@ -15111,7 +15950,8 @@ var birthplaces = {
         "Place of Birth": "Mosso Santa Maria (Novara)",
         "lastName": "Boggio",
         "dateOfBirth": "04/20/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/29/1891"
       },
       "geometry": {
         "type": "Point",
@@ -15129,7 +15969,8 @@ var birthplaces = {
         "Place of Birth": "Cedo (Lerida)",
         "lastName": "Cirera",
         "dateOfBirth": "03/08/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/29/1891"
       },
       "geometry": {
         "type": "Point",
@@ -15147,7 +15988,8 @@ var birthplaces = {
         "Place of Birth": "Chalus (Puy-de-D)",
         "lastName": "Du Ranquet",
         "dateOfBirth": "12/18/1809",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/30/1891"
       },
       "geometry": {
         "type": "Point",
@@ -15165,7 +16007,8 @@ var birthplaces = {
         "Place of Birth": "Gutersloh (Westfalen)",
         "lastName": "Bertels",
         "dateOfBirth": "11/13/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/31/1891"
       },
       "geometry": {
         "type": "Point",
@@ -15183,7 +16026,8 @@ var birthplaces = {
         "Place of Birth": "C\u00ef\u00bf\u00bddiz",
         "lastName": "Mendaro",
         "dateOfBirth": "05/09/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/01/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15201,7 +16045,8 @@ var birthplaces = {
         "Place of Birth": "Nice",
         "lastName": "Caravello",
         "dateOfBirth": "01/17/1859",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/03/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15219,7 +16064,8 @@ var birthplaces = {
         "Place of Birth": "St-Didier-la-S\u00ef\u00bf\u00bdauve (H-Loire)",
         "lastName": "Salichon",
         "dateOfBirth": "08/23/1853",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/04/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15237,7 +16083,8 @@ var birthplaces = {
         "Place of Birth": "Manresa",
         "lastName": "Armengou",
         "dateOfBirth": "10/30/1864",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/04/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15255,7 +16102,8 @@ var birthplaces = {
         "Place of Birth": "Bulle (Fribourg)",
         "lastName": "Tinguely",
         "dateOfBirth": "06/29/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/05/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15273,7 +16121,8 @@ var birthplaces = {
         "Place of Birth": "Bitschviller (H-Rhin)",
         "lastName": "Genlot",
         "dateOfBirth": "08/26/1839",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/06/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15291,7 +16140,8 @@ var birthplaces = {
         "Place of Birth": "Meerle (Anvers)",
         "lastName": "Mertens",
         "dateOfBirth": "11/22/1839",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/07/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15309,7 +16159,8 @@ var birthplaces = {
         "Place of Birth": "Coussac-Bonneval (H-Vienne)",
         "lastName": "Montazeau",
         "dateOfBirth": "04/03/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/07/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15327,7 +16178,8 @@ var birthplaces = {
         "Place of Birth": "Volvera (Torino)",
         "lastName": "Porporato",
         "dateOfBirth": "10/01/1816",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/09/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15345,7 +16197,8 @@ var birthplaces = {
         "Place of Birth": "Avuglione (Torino)",
         "lastName": "Pavesio",
         "dateOfBirth": "11/15/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/11/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15363,7 +16216,8 @@ var birthplaces = {
         "Place of Birth": "Altenb\u00ef\u00bf\u00bdren (Westfalen)",
         "lastName": "K\u00ef\u00bf\u00bdrling",
         "dateOfBirth": "02/11/1838",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/12/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15381,7 +16235,8 @@ var birthplaces = {
         "Place of Birth": "San Francisco",
         "lastName": "Malone",
         "dateOfBirth": "12/01/1872",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/12/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15399,7 +16254,8 @@ var birthplaces = {
         "Place of Birth": "Baltimore",
         "lastName": "Connell",
         "dateOfBirth": "07/20/1868",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/13/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15417,7 +16273,8 @@ var birthplaces = {
         "Place of Birth": "s-Hertogenbosch",
         "lastName": "Schoenmakers",
         "dateOfBirth": "11/21/1828",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/13/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15435,7 +16292,8 @@ var birthplaces = {
         "Place of Birth": "S\u00ef\u00bf\u00bdrsina (Forl\u00ef\u00bf\u00bd)",
         "lastName": "Mengoni",
         "dateOfBirth": "06/09/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/14/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15453,7 +16311,8 @@ var birthplaces = {
         "Place of Birth": "Rouen",
         "lastName": "R\u00ef\u00bf\u00bdgl\u00ef\u00bf\u00bd",
         "dateOfBirth": "06/22/1838",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/15/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15471,7 +16330,8 @@ var birthplaces = {
         "Place of Birth": "Caresana (Novara)",
         "lastName": "Greppi",
         "dateOfBirth": "12/24/1851",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/16/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15489,7 +16349,8 @@ var birthplaces = {
         "Place of Birth": "Brienne-le-Ch\u00ef\u00bf\u00bdteau",
         "lastName": "Mathaut",
         "dateOfBirth": "09/15/1813",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/16/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15507,7 +16368,8 @@ var birthplaces = {
         "Place of Birth": "Virginia (Cavan)",
         "lastName": "O'Reilly",
         "dateOfBirth": "11/28/1833",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/17/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15525,7 +16387,8 @@ var birthplaces = {
         "Place of Birth": "Roderen (H-Rhin)",
         "lastName": "Thro",
         "dateOfBirth": "06/29/1813",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/17/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15543,7 +16406,8 @@ var birthplaces = {
         "Place of Birth": "Haut-Clocher (Meurthe)",
         "lastName": "Oswald",
         "dateOfBirth": "08/15/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/17/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15561,7 +16425,8 @@ var birthplaces = {
         "Place of Birth": "Berisal (Valais)",
         "lastName": "Anderledy",
         "dateOfBirth": "06/03/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/18/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15579,7 +16444,8 @@ var birthplaces = {
         "Place of Birth": "Venezia",
         "lastName": "Cornoldi",
         "dateOfBirth": "09/19/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/18/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15597,7 +16463,8 @@ var birthplaces = {
         "Place of Birth": "K\u00ef\u00bf\u00bdln",
         "lastName": "Haan",
         "dateOfBirth": "09/14/1850",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/18/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15615,7 +16482,8 @@ var birthplaces = {
         "Place of Birth": "Vechel (N-Brabant)",
         "lastName": "van Asseldonk",
         "dateOfBirth": "04/25/1860",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/18/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15633,7 +16501,8 @@ var birthplaces = {
         "Place of Birth": "Brain (Ille-et-V)",
         "lastName": "Argand",
         "dateOfBirth": "01/04/1828",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/19/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15651,7 +16520,8 @@ var birthplaces = {
         "Place of Birth": "Baccarat (Meurthe-et-M)",
         "lastName": "de Fontenay",
         "dateOfBirth": "05/20/1856",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/19/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15669,7 +16539,8 @@ var birthplaces = {
         "Place of Birth": "Steinbach (Luxembourg)",
         "lastName": "Schmitz",
         "dateOfBirth": "06/24/1838",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/19/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15687,7 +16558,8 @@ var birthplaces = {
         "Place of Birth": "Birr (olim Parsonstown, King's)",
         "lastName": "Egan",
         "dateOfBirth": "05/10/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/19/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15705,7 +16577,8 @@ var birthplaces = {
         "Place of Birth": "Fimon di Arcugano (Vicenza)",
         "lastName": "Bedin",
         "dateOfBirth": "01/20/1804",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/20/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15723,7 +16596,8 @@ var birthplaces = {
         "Place of Birth": "Kappelkinger (Moselle)",
         "lastName": "Wamy",
         "dateOfBirth": "10/29/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/21/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15741,7 +16615,8 @@ var birthplaces = {
         "Place of Birth": "Capua (Caserta)",
         "lastName": "Figliolia",
         "dateOfBirth": "05/20/1836",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/22/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15759,7 +16634,8 @@ var birthplaces = {
         "Place of Birth": "Duisans (Pas-de-C)",
         "lastName": "Laroche",
         "dateOfBirth": "10/16/1840",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/25/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15777,7 +16653,8 @@ var birthplaces = {
         "Place of Birth": "Bonifacio (Corse)",
         "lastName": "Hucherot",
         "dateOfBirth": "09/11/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/26/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15795,7 +16672,8 @@ var birthplaces = {
         "Place of Birth": "Plouhinec (Morbihan)",
         "lastName": "Larboulette",
         "dateOfBirth": "02/22/1810",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/26/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15813,7 +16691,8 @@ var birthplaces = {
         "Place of Birth": "Villabaruz (Valladolid)",
         "lastName": "Sanabria",
         "dateOfBirth": "02/09/1851",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/28/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15831,7 +16710,8 @@ var birthplaces = {
         "Place of Birth": "Haren a.d. Ems (Hannover)",
         "lastName": "Kerckhoff",
         "dateOfBirth": "06/26/1836",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/29/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15849,7 +16729,8 @@ var birthplaces = {
         "Place of Birth": "Moreuil (Somme)",
         "lastName": "Masse",
         "dateOfBirth": "05/04/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/29/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15867,7 +16748,8 @@ var birthplaces = {
         "Place of Birth": "Verona",
         "lastName": "Salgari",
         "dateOfBirth": "09/18/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/30/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15885,7 +16767,8 @@ var birthplaces = {
         "Place of Birth": "Bitburg (Rheinland)",
         "lastName": "Gansen",
         "dateOfBirth": "07/22/1866",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/30/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15903,7 +16786,8 @@ var birthplaces = {
         "Place of Birth": "Amsterdam",
         "lastName": "Vredebuyl",
         "dateOfBirth": "04/19/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/30/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15921,7 +16805,8 @@ var birthplaces = {
         "Place of Birth": "Plouguernevel (C\u00ef\u00bf\u00bdtes-au-N)",
         "lastName": "Jouan",
         "dateOfBirth": "11/28/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/31/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15939,7 +16824,8 @@ var birthplaces = {
         "Place of Birth": "Arrens (H-Pyr\u00ef\u00bf\u00bdn\u00ef\u00bf\u00bdes)",
         "lastName": "Balencie",
         "dateOfBirth": "07/09/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/01/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15957,7 +16843,8 @@ var birthplaces = {
         "Place of Birth": "Jablonec (Cechy)",
         "lastName": "Dichtl",
         "dateOfBirth": "11/28/1848",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/02/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15975,7 +16862,8 @@ var birthplaces = {
         "Place of Birth": "Lesves (Namur)",
         "lastName": "Damanet",
         "dateOfBirth": "05/26/1809",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/04/1892"
       },
       "geometry": {
         "type": "Point",
@@ -15993,7 +16881,8 @@ var birthplaces = {
         "Place of Birth": "La Tour-du-Pin (Is\u00ef\u00bf\u00bdre)",
         "lastName": "Sambin",
         "dateOfBirth": "12/01/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/05/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16011,7 +16900,8 @@ var birthplaces = {
         "Place of Birth": "St-Prix (Ard\u00ef\u00bf\u00bdche)",
         "lastName": "Bernard",
         "dateOfBirth": "01/26/1839",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/05/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16029,7 +16919,8 @@ var birthplaces = {
         "Place of Birth": "D\u00ef\u00bf\u00bdle",
         "lastName": "Boisset",
         "dateOfBirth": "07/22/1836",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/06/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16047,7 +16938,8 @@ var birthplaces = {
         "Place of Birth": "Liverpool",
         "lastName": "Johnson",
         "dateOfBirth": "06/06/1812",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/06/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16065,7 +16957,8 @@ var birthplaces = {
         "Place of Birth": "Montepellier",
         "lastName": "Pujo",
         "dateOfBirth": "01/15/1856",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/06/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16083,7 +16976,8 @@ var birthplaces = {
         "Place of Birth": "Ciri\u00ef\u00bf\u00bd (Torino)",
         "lastName": "Bayma",
         "dateOfBirth": "11/09/1816",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/07/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16101,7 +16995,8 @@ var birthplaces = {
         "Place of Birth": "L'Hermet",
         "lastName": "Biron",
         "dateOfBirth": "2-/25/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/07/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16119,7 +17014,8 @@ var birthplaces = {
         "Place of Birth": "Bastogne (Luxembourg)",
         "lastName": "Pierron",
         "dateOfBirth": "01/09/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/08/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16137,7 +17033,8 @@ var birthplaces = {
         "Place of Birth": "Uffholtz (H-Rhin)",
         "lastName": "Haelling",
         "dateOfBirth": "08/23/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/08/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16155,7 +17052,8 @@ var birthplaces = {
         "Place of Birth": "Vitry-la-Ville (Marne)",
         "lastName": "Viart",
         "dateOfBirth": "02/01/1815",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/13/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16173,7 +17071,8 @@ var birthplaces = {
         "Place of Birth": "Brno (Morava)",
         "lastName": "Brobeil",
         "dateOfBirth": "12/11/1810",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/14/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16191,7 +17090,8 @@ var birthplaces = {
         "Place of Birth": "Ballyhay (Cork)",
         "lastName": "Morisson",
         "dateOfBirth": "01/04/1859",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/16/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16209,7 +17109,8 @@ var birthplaces = {
         "Place of Birth": "Buffalo",
         "lastName": "Sullivan",
         "dateOfBirth": "02/23/1856",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/16/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16227,7 +17128,8 @@ var birthplaces = {
         "Place of Birth": "Peyssous (H-Garonne)",
         "lastName": "Cassagne",
         "dateOfBirth": "03/08/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/18/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16245,7 +17147,8 @@ var birthplaces = {
         "Place of Birth": "Rovato (Brescia)",
         "lastName": "Recagni",
         "dateOfBirth": "09/30/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/18/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16263,7 +17166,8 @@ var birthplaces = {
         "Place of Birth": "Humain (Luxembourg)",
         "lastName": "Coppens",
         "dateOfBirth": "02/20/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/19/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16281,7 +17185,8 @@ var birthplaces = {
         "Place of Birth": "La Coltrie",
         "lastName": "de Boylesve",
         "dateOfBirth": "11/28/1813",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/22/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16299,7 +17204,8 @@ var birthplaces = {
         "Place of Birth": "Issenheim (H-Rhin)",
         "lastName": "Gilg",
         "dateOfBirth": "02/23/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/22/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16317,7 +17223,8 @@ var birthplaces = {
         "Place of Birth": "Cambrils (Tarragona)",
         "lastName": "Cabr\u00ef\u00bf\u00bd",
         "dateOfBirth": "01/02/1833",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/24/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16335,7 +17242,8 @@ var birthplaces = {
         "Place of Birth": "Villers-Bocage (Somme)",
         "lastName": "Oger",
         "dateOfBirth": "12/17/1799",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/24/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16353,7 +17261,8 @@ var birthplaces = {
         "Place of Birth": "St-Joseph (Beauce, Qu\u00ef\u00bf\u00bd)",
         "lastName": "Tardif",
         "dateOfBirth": "12/31/1854",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/24/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16371,7 +17280,8 @@ var birthplaces = {
         "Place of Birth": "Gangi (Palermo)",
         "lastName": "d'Angelo",
         "dateOfBirth": "08/22/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/27/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16389,7 +17299,8 @@ var birthplaces = {
         "Place of Birth": "Roma",
         "lastName": "Borghese",
         "dateOfBirth": "06/21/1855",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/27/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16407,7 +17318,8 @@ var birthplaces = {
         "Place of Birth": "Wouw (N-Brabant)",
         "lastName": "de Bie",
         "dateOfBirth": "01/21/1852",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/02/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16425,7 +17337,8 @@ var birthplaces = {
         "Place of Birth": "Mageney (Carlow)",
         "lastName": "Keogh",
         "dateOfBirth": "05/25/1866",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/02/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16443,7 +17356,8 @@ var birthplaces = {
         "Place of Birth": "Mountmellick (Queen's)",
         "lastName": "Murphy",
         "dateOfBirth": "01/17/1844",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/04/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16461,7 +17375,8 @@ var birthplaces = {
         "Place of Birth": "Roma",
         "lastName": "(Sheffington) Ross of Bladensbury",
         "dateOfBirth": "01/26/1847",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/04/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16479,7 +17394,8 @@ var birthplaces = {
         "Place of Birth": "Chassiers (Ard\u00ef\u00bf\u00bdche)",
         "lastName": "Payan",
         "dateOfBirth": "06/19/1811",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/05/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16497,7 +17413,8 @@ var birthplaces = {
         "Place of Birth": "Lyon",
         "lastName": "Laurent",
         "dateOfBirth": "03/07/1828",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/06/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16515,7 +17432,8 @@ var birthplaces = {
         "Place of Birth": "Hyderabad (India)",
         "lastName": "Romanini",
         "dateOfBirth": "02/11/1853",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/08/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16533,7 +17451,8 @@ var birthplaces = {
         "Place of Birth": "Hoogland (Utrecht)",
         "lastName": "van der Heijden",
         "dateOfBirth": "01/24/1871",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/09/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16551,7 +17470,8 @@ var birthplaces = {
         "Place of Birth": "Lavaur (Tarn)",
         "lastName": "Laporte",
         "dateOfBirth": "08/30/1801",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/10/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16569,7 +17489,8 @@ var birthplaces = {
         "Place of Birth": "Poitiers",
         "lastName": "Avenel",
         "dateOfBirth": "02/14/1863",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/12/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16587,7 +17508,8 @@ var birthplaces = {
         "Place of Birth": "Norbury (Shropshire)",
         "lastName": "Farmer",
         "dateOfBirth": "06/13/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/13/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16605,7 +17527,8 @@ var birthplaces = {
         "Place of Birth": "Palermo",
         "lastName": "Valenti",
         "dateOfBirth": "10/06/1813",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/13/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16623,7 +17546,8 @@ var birthplaces = {
         "Place of Birth": "Malonne (Namur)",
         "lastName": "Noulard",
         "dateOfBirth": "08/15/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/14/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16641,7 +17565,8 @@ var birthplaces = {
         "Place of Birth": "Tournon (Ard\u00ef\u00bf\u00bdche)",
         "lastName": "Vial",
         "dateOfBirth": "04/24/1866",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/15/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16659,7 +17584,8 @@ var birthplaces = {
         "Place of Birth": "Baienfurt (W\u00ef\u00bf\u00bdrtemberg)",
         "lastName": "Haas",
         "dateOfBirth": "05/20/1857",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/15/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16677,7 +17603,8 @@ var birthplaces = {
         "Place of Birth": "Nogaredo (Roveredo)",
         "lastName": "Petrolli",
         "dateOfBirth": "06/14/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/15/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16695,7 +17622,8 @@ var birthplaces = {
         "Place of Birth": "Les-Lacs pr St. \u00ef\u00bf\u00bdnimie (Lozere)",
         "lastName": "Valgalier",
         "dateOfBirth": "05/13/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/18/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16713,7 +17641,8 @@ var birthplaces = {
         "Place of Birth": "Bruxelles",
         "lastName": "van Vrekom",
         "dateOfBirth": "09/03/1865",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/18/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16731,7 +17660,8 @@ var birthplaces = {
         "Place of Birth": "*Rischden (Rheinland: a West-falen)",
         "lastName": "Franken",
         "dateOfBirth": "06/02/1828",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/19/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16749,7 +17679,8 @@ var birthplaces = {
         "Place of Birth": "Gredilla de Sedano (Burgos)",
         "lastName": "Mart\u00ef\u00bf\u00bdnez",
         "dateOfBirth": "01/16/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/21/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16767,7 +17698,8 @@ var birthplaces = {
         "Place of Birth": "Omagh (Tyrone)",
         "lastName": "Haugherty",
         "dateOfBirth": "09/09/1813",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/23/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16785,7 +17717,8 @@ var birthplaces = {
         "Place of Birth": "Nickursko, Pozn.",
         "lastName": "Glesinsky",
         "dateOfBirth": "08/07/1859",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/25/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16803,7 +17736,8 @@ var birthplaces = {
         "Place of Birth": "La Chaume pr Les Sables d'Olonne (Vend\u00ef\u00bf\u00bde)",
         "lastName": "Lev\u00ef\u00bf\u00bd",
         "dateOfBirth": "05/11/1797",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/27/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16821,7 +17755,8 @@ var birthplaces = {
         "Place of Birth": "Paris",
         "lastName": "Rottari",
         "dateOfBirth": "04/30/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/03/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16839,7 +17774,8 @@ var birthplaces = {
         "Place of Birth": "Belfast (Antrim)",
         "lastName": "Ford",
         "dateOfBirth": "11/09/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/05/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16857,7 +17793,8 @@ var birthplaces = {
         "Place of Birth": "Viterbo (Roma)",
         "lastName": "Monaci",
         "dateOfBirth": "04/27/1808",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/05/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16875,7 +17812,8 @@ var birthplaces = {
         "Place of Birth": "Roma",
         "lastName": "Caprioli",
         "dateOfBirth": "11/14/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/08/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16893,7 +17831,8 @@ var birthplaces = {
         "Place of Birth": "Talobre, par. St-Christophe-sure-Dolaison (H-Loire)",
         "lastName": "Pouderoux",
         "dateOfBirth": "07/01/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/09/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16911,7 +17850,8 @@ var birthplaces = {
         "Place of Birth": "Paris",
         "lastName": "Hureau",
         "dateOfBirth": "01/18/1871",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/12/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16929,7 +17869,8 @@ var birthplaces = {
         "Place of Birth": "Przysietnica, Krak. ?, Rzesz. ?",
         "lastName": "Wacek",
         "dateOfBirth": "11/11/1843",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/13/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16947,7 +17888,8 @@ var birthplaces = {
         "Place of Birth": "Moyen pr Izel (Luxembourg)",
         "lastName": "Poncelet",
         "dateOfBirth": "05/17/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/16/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16965,7 +17907,8 @@ var birthplaces = {
         "Place of Birth": "? (Derry)",
         "lastName": "Devine",
         "dateOfBirth": "09/23/1860",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/17/1892"
       },
       "geometry": {
         "type": "Point",
@@ -16983,7 +17926,8 @@ var birthplaces = {
         "Place of Birth": "St-Martin (Fribourg)",
         "lastName": "Esseiva",
         "dateOfBirth": "12/10/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/21/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17001,7 +17945,8 @@ var birthplaces = {
         "Place of Birth": "Palermo",
         "lastName": "Valente",
         "dateOfBirth": "03/23/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/21/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17019,7 +17964,8 @@ var birthplaces = {
         "Place of Birth": "Montuiri (Mallorca)",
         "lastName": "Aloy (Miralles)",
         "dateOfBirth": "05/23/1840",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/25/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17037,7 +17983,8 @@ var birthplaces = {
         "Place of Birth": "Ste-Martine (Montr\u00ef\u00bf\u00bdal)",
         "lastName": "Gagnier",
         "dateOfBirth": "07/21/1867",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/28/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17055,7 +18002,8 @@ var birthplaces = {
         "Place of Birth": "Uri (Sassari)",
         "lastName": "Delogu",
         "dateOfBirth": "08/15/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/30/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17073,7 +18021,8 @@ var birthplaces = {
         "Place of Birth": "Dublin",
         "lastName": "Kickham",
         "dateOfBirth": "03/05/1873",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/30/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17091,7 +18040,8 @@ var birthplaces = {
         "Place of Birth": "Saugues (H-Loire)",
         "lastName": "Trincal",
         "dateOfBirth": "09/08/1815",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/02/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17109,7 +18059,8 @@ var birthplaces = {
         "Place of Birth": "Wien",
         "lastName": "Fels",
         "dateOfBirth": "06/14/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/04/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17127,7 +18078,8 @@ var birthplaces = {
         "Place of Birth": "St-Mawgan (Cornwall)",
         "lastName": "Bond",
         "dateOfBirth": "07/08/1828",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/05/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17145,7 +18097,8 @@ var birthplaces = {
         "Place of Birth": "Managua (Nicaragua)",
         "lastName": "Lezcano",
         "dateOfBirth": "09/24/1858",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/05/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17163,7 +18116,8 @@ var birthplaces = {
         "Place of Birth": "Anvers",
         "lastName": "de Kinder",
         "dateOfBirth": "05/25/1829",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/11/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17181,7 +18135,8 @@ var birthplaces = {
         "Place of Birth": "Bogot\u00ef\u00bf\u00bd",
         "lastName": "Azuola",
         "dateOfBirth": "02/29/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/12/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17199,7 +18154,8 @@ var birthplaces = {
         "Place of Birth": "Roye (Somme)",
         "lastName": "Collin",
         "dateOfBirth": "05/07/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/16/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17217,7 +18173,8 @@ var birthplaces = {
         "Place of Birth": "Cagliari",
         "lastName": "Cabras",
         "dateOfBirth": "11/02/1871",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/21/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17235,7 +18192,8 @@ var birthplaces = {
         "Place of Birth": "Brighton (Sussex)",
         "lastName": "Cooke",
         "dateOfBirth": "09/12/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/23/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17253,7 +18211,8 @@ var birthplaces = {
         "Place of Birth": "Barcelona",
         "lastName": "Camps",
         "dateOfBirth": "03/10/1845",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/25/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17271,7 +18230,8 @@ var birthplaces = {
         "Place of Birth": "Filetto (Chieti)",
         "lastName": "Moscatelli",
         "dateOfBirth": "04/18/1836",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/27/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17289,7 +18249,8 @@ var birthplaces = {
         "Place of Birth": "Estavaver-le-Lac",
         "lastName": "Marmier",
         "dateOfBirth": "02/19/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/28/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17307,7 +18268,8 @@ var birthplaces = {
         "Place of Birth": "Ravenna",
         "lastName": "Triossi",
         "dateOfBirth": "09/24/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/28/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17325,7 +18287,8 @@ var birthplaces = {
         "Place of Birth": "Linne (Limburg)",
         "lastName": "Sampers",
         "dateOfBirth": "10/26/1809",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/28/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17343,7 +18306,8 @@ var birthplaces = {
         "Place of Birth": "Louargat (C\u00ef\u00bf\u00bdtes-du-N)",
         "lastName": "Scolan",
         "dateOfBirth": "09/11/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/30/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17361,7 +18325,8 @@ var birthplaces = {
         "Place of Birth": "Harelbeke (Fl Or)",
         "lastName": "van Tieghem",
         "dateOfBirth": "04/07/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/30/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17379,7 +18344,8 @@ var birthplaces = {
         "Place of Birth": "Harz\u00ef\u00bf\u00bd (Li\u00ef\u00bf\u00bdge)",
         "lastName": "Bodson",
         "dateOfBirth": "02/03/1856",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/dd/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17397,7 +18363,8 @@ var birthplaces = {
         "Place of Birth": "Montbri\u00ef\u00bf\u00bd (Tarragona)",
         "lastName": "Rovira",
         "dateOfBirth": "10/07/1841",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/02/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17415,7 +18382,8 @@ var birthplaces = {
         "Place of Birth": "Sta. Coloma de Queralt (Tarragona)",
         "lastName": "Padr\u00ef\u00bf\u00bd",
         "dateOfBirth": "01/26/1875",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/02/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17433,7 +18401,8 @@ var birthplaces = {
         "Place of Birth": "Baracal (Beria-Baixa)",
         "lastName": "Marques",
         "dateOfBirth": "06/11/1854",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/05/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17451,7 +18420,8 @@ var birthplaces = {
         "Place of Birth": "? (Malta)",
         "lastName": "Pavia",
         "dateOfBirth": "11/17/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/05/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17469,7 +18439,8 @@ var birthplaces = {
         "Place of Birth": "Saulcy (Bern)",
         "lastName": "Lovis",
         "dateOfBirth": "04/27/1863",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/08/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17487,7 +18458,8 @@ var birthplaces = {
         "Place of Birth": "Cessingen (par. Hollerich, Gr. D. de Luxemburg)",
         "lastName": "Niederkorn",
         "dateOfBirth": "05/15/1815",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/10/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17505,7 +18477,8 @@ var birthplaces = {
         "Place of Birth": "Ainay-le-Ch\u00ef\u00bf\u00bdteau (Allier)",
         "lastName": "R\u00ef\u00bf\u00bdtif",
         "dateOfBirth": "04/25/1844",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/10/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17523,7 +18496,8 @@ var birthplaces = {
         "Place of Birth": "? (Australia)",
         "lastName": "Newman",
         "dateOfBirth": "06/07/1865",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/10/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17541,7 +18515,8 @@ var birthplaces = {
         "Place of Birth": "Valmunster (Moselle)",
         "lastName": "Fetter",
         "dateOfBirth": "05/02/1843",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/11/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17559,7 +18534,8 @@ var birthplaces = {
         "Place of Birth": "Pannerden (Gelderland)",
         "lastName": "Terwindt",
         "dateOfBirth": "12/17/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/13/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17577,7 +18553,8 @@ var birthplaces = {
         "Place of Birth": "Trento",
         "lastName": "Giuliani",
         "dateOfBirth": "11/11/1836",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/13/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17595,7 +18572,8 @@ var birthplaces = {
         "Place of Birth": "Lebanon, Ky",
         "lastName": "Brown",
         "dateOfBirth": "12/31/1863",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/17/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17613,7 +18591,8 @@ var birthplaces = {
         "Place of Birth": "Philipstown (King's)",
         "lastName": "Scully",
         "dateOfBirth": "11/26/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/19/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17631,7 +18610,8 @@ var birthplaces = {
         "Place of Birth": "Hinojosa del Duque (C\u00ef\u00bf\u00bdrdoba)",
         "lastName": "Sandoval",
         "dateOfBirth": "09/03/1849",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/21/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17649,7 +18629,8 @@ var birthplaces = {
         "Place of Birth": "Labastida (\u00ef\u00bf\u00bdlava)",
         "lastName": "Ozalla",
         "dateOfBirth": "01/17/1854",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/22/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17667,7 +18648,8 @@ var birthplaces = {
         "Place of Birth": "Fribourg",
         "lastName": "Cotting",
         "dateOfBirth": "05/23/1812",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/23/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17685,7 +18667,8 @@ var birthplaces = {
         "Place of Birth": "Reggio Emilia",
         "lastName": "Predelli",
         "dateOfBirth": "01/16/1807",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/23/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17703,7 +18686,8 @@ var birthplaces = {
         "Place of Birth": "La Bourget-du-Lac (Savoie)",
         "lastName": "Richard",
         "dateOfBirth": "05/23/1856",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/26/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17721,7 +18705,8 @@ var birthplaces = {
         "Place of Birth": "St-Jean-en-Royans (Dr\u00ef\u00bf\u00bdme)",
         "lastName": "de Fonclayer",
         "dateOfBirth": "08/18/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/28/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17739,7 +18724,8 @@ var birthplaces = {
         "Place of Birth": "Torino",
         "lastName": "Arduino",
         "dateOfBirth": "03/01/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/29/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17757,7 +18743,8 @@ var birthplaces = {
         "Place of Birth": "Chomutov (Cechy)",
         "lastName": "Kulas",
         "dateOfBirth": "01/20/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/30/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17775,7 +18762,8 @@ var birthplaces = {
         "Place of Birth": "Soize (Aisne)",
         "lastName": "Douce",
         "dateOfBirth": "11/24/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/05/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17793,7 +18781,8 @@ var birthplaces = {
         "Place of Birth": "Madrid",
         "lastName": "Gonz\u00ef\u00bf\u00bdlez",
         "dateOfBirth": "07/15/1872",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/09/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17811,7 +18800,8 @@ var birthplaces = {
         "Place of Birth": "El Bonillo (Albacete)",
         "lastName": "Gonz\u00ef\u00bf\u00bdlez",
         "dateOfBirth": "04/13/1867",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/09/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17829,7 +18819,8 @@ var birthplaces = {
         "Place of Birth": "Vermes (Bern)",
         "lastName": "Charmillot",
         "dateOfBirth": "12/19/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/10/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17847,7 +18838,8 @@ var birthplaces = {
         "Place of Birth": "Manresa",
         "lastName": "Morera",
         "dateOfBirth": "03/10/1851",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/11/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17865,7 +18857,8 @@ var birthplaces = {
         "Place of Birth": "Schladen (Hannover)",
         "lastName": "Wippern",
         "dateOfBirth": "06/25/1815",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/11/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17883,7 +18876,8 @@ var birthplaces = {
         "Place of Birth": "Palermo",
         "lastName": "Previti",
         "dateOfBirth": "08/13/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/12/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17901,7 +18895,8 @@ var birthplaces = {
         "Place of Birth": "Paialvo (Extremadura)",
         "lastName": "de Freitas",
         "dateOfBirth": "11/23/1857",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/12/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17919,7 +18914,8 @@ var birthplaces = {
         "Place of Birth": "La Malmaison (Aisne)",
         "lastName": "Catillion",
         "dateOfBirth": "09/27/1882",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/13/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17937,7 +18933,8 @@ var birthplaces = {
         "Place of Birth": "Rebourguil (Aveyron)",
         "lastName": "Mazards",
         "dateOfBirth": "05/17/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/13/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17955,7 +18952,8 @@ var birthplaces = {
         "Place of Birth": "Ce\u00ef\u00bf\u00bdnuri (Vizcaya)",
         "lastName": "Aldecoa",
         "dateOfBirth": "04/28/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/14/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17973,7 +18971,8 @@ var birthplaces = {
         "Place of Birth": "Krems, N.\u00ef\u00bf\u00bd.",
         "lastName": "Marckhgott",
         "dateOfBirth": "11/17/1810",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/14/1892"
       },
       "geometry": {
         "type": "Point",
@@ -17991,7 +18990,8 @@ var birthplaces = {
         "Place of Birth": "Liverpool",
         "lastName": "Splaine",
         "dateOfBirth": "10/03/1843",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/17/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18009,7 +19009,8 @@ var birthplaces = {
         "Place of Birth": "Elbergen (Hannover)",
         "lastName": "Daling",
         "dateOfBirth": "08/10/1828",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/18/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18027,7 +19028,8 @@ var birthplaces = {
         "Place of Birth": "Le Montet-et-Bouxal (Lot)",
         "lastName": "Lalardie",
         "dateOfBirth": "08/18/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/26/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18045,7 +19047,8 @@ var birthplaces = {
         "Place of Birth": "Druille (par. Ste-Juliette, Aveyron)",
         "lastName": "Mazars",
         "dateOfBirth": "02/28/1870",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/27/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18063,7 +19066,8 @@ var birthplaces = {
         "Place of Birth": "Viladr\u00ef\u00bf\u00bdu (Gerona)",
         "lastName": "Pal\u00ef\u00bf\u00bdu",
         "dateOfBirth": "02/25/1841",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/27/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18081,7 +19085,8 @@ var birthplaces = {
         "Place of Birth": "Foxearths (Stafford)",
         "lastName": "Clifford",
         "dateOfBirth": "07/05/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/29/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18099,7 +19104,8 @@ var birthplaces = {
         "Place of Birth": "Roulers (Fl Oc)",
         "lastName": "de Meester",
         "dateOfBirth": "10/06/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/31/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18117,7 +19123,8 @@ var birthplaces = {
         "Place of Birth": "Zwolle (Overijsel)",
         "lastName": "Zwakenberg",
         "dateOfBirth": "04/28/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/01/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18135,7 +19142,8 @@ var birthplaces = {
         "Place of Birth": "Castrelo de Puebla de Trives (Orense)",
         "lastName": "Fern\u00ef\u00bf\u00bdndez (Remesal)",
         "dateOfBirth": "08/18/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/03/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18153,7 +19161,8 @@ var birthplaces = {
         "Place of Birth": "Goa.",
         "lastName": "Jaques",
         "dateOfBirth": "12/05/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/04/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18171,7 +19180,8 @@ var birthplaces = {
         "Place of Birth": "Tincry (Meurthe)",
         "lastName": "B\u00ef\u00bf\u00bdgin",
         "dateOfBirth": "09/21/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/05/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18189,7 +19199,8 @@ var birthplaces = {
         "Place of Birth": "Prochowice, Wrocl",
         "lastName": "Weinert",
         "dateOfBirth": "08/01/1852",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/07/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18207,7 +19218,8 @@ var birthplaces = {
         "Place of Birth": "Paris",
         "lastName": "Chambellan",
         "dateOfBirth": "01/18/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/12/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18225,7 +19237,8 @@ var birthplaces = {
         "Place of Birth": "Charlestown, N.H.",
         "lastName": "Robertson",
         "dateOfBirth": "03/22/1847",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/18/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18243,7 +19256,8 @@ var birthplaces = {
         "Place of Birth": "Kilnanare (Kerry)",
         "lastName": "Lyons",
         "dateOfBirth": "12/11/1872",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/19/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18261,7 +19275,8 @@ var birthplaces = {
         "Place of Birth": "Manresa",
         "lastName": "Bosch",
         "dateOfBirth": "01/28/1848",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/23/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18279,7 +19294,8 @@ var birthplaces = {
         "Place of Birth": "Alzano Maggiore (Bergamo)",
         "lastName": "Valenti",
         "dateOfBirth": "06/20/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/27/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18297,7 +19313,8 @@ var birthplaces = {
         "Place of Birth": "Ch\u00ef\u00bf\u00bdry-l\u00ef\u00bf\u00bds-Rozoy (Aisne)",
         "lastName": "Boitte",
         "dateOfBirth": "07/18/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/31/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18315,7 +19332,8 @@ var birthplaces = {
         "Place of Birth": "Guatemala",
         "lastName": "C\u00ef\u00bf\u00bdceres",
         "dateOfBirth": "10/19/1845",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/05/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18333,7 +19351,8 @@ var birthplaces = {
         "Place of Birth": "Erie, Pa.",
         "lastName": "Ehret",
         "dateOfBirth": "03/05/1860",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/05/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18351,7 +19370,8 @@ var birthplaces = {
         "Place of Birth": "Amsterdam",
         "lastName": "Weetink",
         "dateOfBirth": "02/21/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/16/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18369,7 +19389,8 @@ var birthplaces = {
         "Place of Birth": "Orj\u00ef\u00bf\u00bdes (Beira Baixa)",
         "lastName": "Carvalho",
         "dateOfBirth": "05/07/1857",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/18/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18387,7 +19408,8 @@ var birthplaces = {
         "Place of Birth": "Gourlizon (Finist\u00ef\u00bf\u00bdre)",
         "lastName": "Le Bars",
         "dateOfBirth": "11/05/1861",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/18/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18405,7 +19427,8 @@ var birthplaces = {
         "Place of Birth": "Proen\u00ef\u00bf\u00bda Nova (Beira Baixa)",
         "lastName": "da Silva",
         "dateOfBirth": "04/02/1854",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/19/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18423,7 +19446,8 @@ var birthplaces = {
         "Place of Birth": "Zevenaar (Gelderland)",
         "lastName": "Heynen",
         "dateOfBirth": "01/30/1828",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/20/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18441,7 +19465,8 @@ var birthplaces = {
         "Place of Birth": "Nowy S?cz",
         "lastName": "Plaski",
         "dateOfBirth": "05/16/1816",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/22/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18459,7 +19484,8 @@ var birthplaces = {
         "Place of Birth": "Namur",
         "lastName": "Brabant",
         "dateOfBirth": "03/24/1843",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/27/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18477,7 +19503,8 @@ var birthplaces = {
         "Place of Birth": "Reutte (Tirol)",
         "lastName": "Dengel",
         "dateOfBirth": "01/28/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/27/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18495,7 +19522,8 @@ var birthplaces = {
         "Place of Birth": "Anvers",
         "lastName": "Lusyterborgh",
         "dateOfBirth": "12/27/1807",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/30/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18513,7 +19541,8 @@ var birthplaces = {
         "Place of Birth": "Osterfeine (Damme, Oldenburg)",
         "lastName": "Reinerding",
         "dateOfBirth": "03/25/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/02/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18531,7 +19560,8 @@ var birthplaces = {
         "Place of Birth": "S. Estevan de Geraz (Minho)",
         "lastName": "Moraes",
         "dateOfBirth": "02/14/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/02/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18549,7 +19579,8 @@ var birthplaces = {
         "Place of Birth": "Manchester",
         "lastName": "Faulkner",
         "dateOfBirth": "06/30/1860",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/05/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18567,7 +19598,8 @@ var birthplaces = {
         "Place of Birth": "Alquer\u00ef\u00bf\u00bdas (Murcia)",
         "lastName": "Garre P\u00ef\u00bf\u00bdrez",
         "dateOfBirth": "11/13/1862",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/06/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18585,7 +19617,8 @@ var birthplaces = {
         "Place of Birth": "Wijchen (Gelderland)",
         "lastName": "van den Gheijn",
         "dateOfBirth": "10/25/1828",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/08/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18603,7 +19636,8 @@ var birthplaces = {
         "Place of Birth": "Canepina (Roma)",
         "lastName": "Angelini (Rota)",
         "dateOfBirth": "01/26/1809",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/12/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18621,7 +19655,8 @@ var birthplaces = {
         "Place of Birth": "Durango",
         "lastName": "Uriguen",
         "dateOfBirth": "01/13/1873",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/12/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18639,7 +19674,8 @@ var birthplaces = {
         "Place of Birth": "Truchtersheim (B-Rhin)",
         "lastName": "Jung",
         "dateOfBirth": "04/06/1838",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/13/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18657,7 +19693,8 @@ var birthplaces = {
         "Place of Birth": "Tortosa",
         "lastName": "Valldeperes",
         "dateOfBirth": "08/01/1844",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/14/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18675,7 +19712,8 @@ var birthplaces = {
         "Place of Birth": "Cuitzlo de la Laguna (Michoacan)",
         "lastName": "Reyes",
         "dateOfBirth": "11/14/1810",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/15/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18693,7 +19731,8 @@ var birthplaces = {
         "Place of Birth": "Woszczyce, Kat.",
         "lastName": "Kozubek",
         "dateOfBirth": "03/07/1859",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/15/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18711,7 +19750,8 @@ var birthplaces = {
         "Place of Birth": "Salerno",
         "lastName": "Liberatore",
         "dateOfBirth": "08/14/1810",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/18/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18729,7 +19769,8 @@ var birthplaces = {
         "Place of Birth": "Cingoli (Macerata)",
         "lastName": "Severi",
         "dateOfBirth": "01/19/1808",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/20/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18747,7 +19788,8 @@ var birthplaces = {
         "Place of Birth": "Villafranca (Massa)",
         "lastName": "Malaspina",
         "dateOfBirth": "07/08/1816",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/22/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18765,7 +19807,8 @@ var birthplaces = {
         "Place of Birth": "Lerida",
         "lastName": "Mies",
         "dateOfBirth": "05/10/1828",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/25/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18783,7 +19826,8 @@ var birthplaces = {
         "Place of Birth": "Campos (Mallorca)",
         "lastName": "Llado",
         "dateOfBirth": "09/17/1865",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/27/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18801,7 +19845,8 @@ var birthplaces = {
         "Place of Birth": "Herwen en Aard (Gelderland)",
         "lastName": "Huink",
         "dateOfBirth": "09/16/1838",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/27/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18819,7 +19864,8 @@ var birthplaces = {
         "Place of Birth": "Turnhout",
         "lastName": "Haeren",
         "dateOfBirth": "08/09/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/30/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18837,7 +19883,8 @@ var birthplaces = {
         "Place of Birth": "Lenz (Graubunden)",
         "lastName": "Nadig",
         "dateOfBirth": "06/14/1852",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/01/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18855,7 +19902,8 @@ var birthplaces = {
         "Place of Birth": "Stimpfach (Wurtemberg)",
         "lastName": "Piscalar",
         "dateOfBirth": "05/24/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/07/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18873,7 +19921,8 @@ var birthplaces = {
         "Place of Birth": "Huacho (Chancay, Lima)",
         "lastName": "Cano",
         "dateOfBirth": "05/16/1862",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/13/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18891,7 +19940,8 @@ var birthplaces = {
         "Place of Birth": "Mallow (Cork)",
         "lastName": "Kelleher",
         "dateOfBirth": "04/15/1813",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/14/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18909,7 +19959,8 @@ var birthplaces = {
         "Place of Birth": "Muhldorf (Bayern)",
         "lastName": "Kobler",
         "dateOfBirth": "06/22/1816",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/15/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18927,7 +19978,8 @@ var birthplaces = {
         "Place of Birth": "Clermont (Liege)",
         "lastName": "Denis",
         "dateOfBirth": "08/05/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/20/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18945,7 +19997,8 @@ var birthplaces = {
         "Place of Birth": "Bogot\u00ef\u00bf\u00bd",
         "lastName": "Fonseca",
         "dateOfBirth": "12/09/1829",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/20/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18963,7 +20016,8 @@ var birthplaces = {
         "Place of Birth": "Olvan (Barcelona)",
         "lastName": "Minoves",
         "dateOfBirth": "06/13/1841",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/20/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18981,7 +20035,8 @@ var birthplaces = {
         "Place of Birth": "Heinsberg (Rheinland)",
         "lastName": "Friderici",
         "dateOfBirth": "06/24/1836",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/22/1892"
       },
       "geometry": {
         "type": "Point",
@@ -18999,7 +20054,8 @@ var birthplaces = {
         "Place of Birth": "Tarbes (H-Pyrenees)",
         "lastName": "Lafaye",
         "dateOfBirth": "05/03/1850",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/23/1892"
       },
       "geometry": {
         "type": "Point",
@@ -19017,7 +20073,8 @@ var birthplaces = {
         "Place of Birth": "Azpeitia",
         "lastName": "Cendoya",
         "dateOfBirth": "11/29/1862",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/25/1892"
       },
       "geometry": {
         "type": "Point",
@@ -19035,7 +20092,8 @@ var birthplaces = {
         "Place of Birth": "Montceaux-l'Etoile (Saone-et-L)",
         "lastName": "Aupecle",
         "dateOfBirth": "12/23/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/27/1892"
       },
       "geometry": {
         "type": "Point",
@@ -19053,7 +20111,8 @@ var birthplaces = {
         "Place of Birth": "Lgota, Krak.",
         "lastName": "Klaput",
         "dateOfBirth": "09/01/1871",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/28/1892"
       },
       "geometry": {
         "type": "Point",
@@ -19071,7 +20130,8 @@ var birthplaces = {
         "Place of Birth": "Cairate (Milano)",
         "lastName": "Mantegazzi",
         "dateOfBirth": "08/03/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/28/1892"
       },
       "geometry": {
         "type": "Point",
@@ -19089,7 +20149,8 @@ var birthplaces = {
         "Place of Birth": "Albersloh (Westfalen)",
         "lastName": "Rother",
         "dateOfBirth": "01/01/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/02/1892"
       },
       "geometry": {
         "type": "Point",
@@ -19107,7 +20168,8 @@ var birthplaces = {
         "Place of Birth": "Lecce",
         "lastName": "Rossi",
         "dateOfBirth": "11/28/1816",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/08/1892"
       },
       "geometry": {
         "type": "Point",
@@ -19125,7 +20187,8 @@ var birthplaces = {
         "Place of Birth": "Toulouse",
         "lastName": "de Resseguier",
         "dateOfBirth": "11/22/1858",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/11/1892"
       },
       "geometry": {
         "type": "Point",
@@ -19143,7 +20206,8 @@ var birthplaces = {
         "Place of Birth": "Melckwesez (Brabant)",
         "lastName": "Es",
         "dateOfBirth": "10/01/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/12/1892"
       },
       "geometry": {
         "type": "Point",
@@ -19161,7 +20225,8 @@ var birthplaces = {
         "Place of Birth": "Radnotfaja (Transylvanie)",
         "lastName": "Kol",
         "dateOfBirth": "05/19/1871",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/13/1892"
       },
       "geometry": {
         "type": "Point",
@@ -19179,7 +20244,8 @@ var birthplaces = {
         "Place of Birth": "Montecchio (Reggio Emilia)",
         "lastName": "Jemmi",
         "dateOfBirth": "07/17/1829",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/17/1892"
       },
       "geometry": {
         "type": "Point",
@@ -19197,7 +20263,8 @@ var birthplaces = {
         "Place of Birth": "Herzele (Fl Or)",
         "lastName": "Van Den Eede",
         "dateOfBirth": "04/05/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/18/1892"
       },
       "geometry": {
         "type": "Point",
@@ -19215,7 +20282,8 @@ var birthplaces = {
         "Place of Birth": "Aups (Var)",
         "lastName": "Laure",
         "dateOfBirth": "01/29/1857",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/19/1892"
       },
       "geometry": {
         "type": "Point",
@@ -19233,7 +20301,8 @@ var birthplaces = {
         "Place of Birth": "Maashees (N-Brabant)",
         "lastName": "Gielen",
         "dateOfBirth": "02/02/1873",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/19/1892"
       },
       "geometry": {
         "type": "Point",
@@ -19251,7 +20320,8 @@ var birthplaces = {
         "Place of Birth": "Pistoia (Firenze)",
         "lastName": "Vannucci",
         "dateOfBirth": "09/18/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/21/1892"
       },
       "geometry": {
         "type": "Point",
@@ -19269,7 +20339,8 @@ var birthplaces = {
         "Place of Birth": "Issoudum (Indre)",
         "lastName": "Blanchard",
         "dateOfBirth": "01/28/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/31/1892"
       },
       "geometry": {
         "type": "Point",
@@ -19287,7 +20358,8 @@ var birthplaces = {
         "Place of Birth": "Gijon (Oviedo)",
         "lastName": "Lopez Acebal",
         "dateOfBirth": "03/24/1865",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/31/1892"
       },
       "geometry": {
         "type": "Point",
@@ -19305,7 +20377,8 @@ var birthplaces = {
         "Place of Birth": "Beauvais (Oise)",
         "lastName": "Daniel",
         "dateOfBirth": "12/31/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/01/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19323,7 +20396,8 @@ var birthplaces = {
         "Place of Birth": "London",
         "lastName": "Kingdon",
         "dateOfBirth": "11/30/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/01/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19341,7 +20415,8 @@ var birthplaces = {
         "Place of Birth": "Friedberg (Bayern)",
         "lastName": "Schwarz",
         "dateOfBirth": "06/02/1862",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/01/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19359,7 +20434,8 @@ var birthplaces = {
         "Place of Birth": "New York",
         "lastName": "Gormley",
         "dateOfBirth": "04/08/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/01/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19377,7 +20453,8 @@ var birthplaces = {
         "Place of Birth": "Wollmatingen (Baden)",
         "lastName": "Oehry",
         "dateOfBirth": "12/02/1854",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/03/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19395,7 +20472,8 @@ var birthplaces = {
         "Place of Birth": "Paris",
         "lastName": "(Aleno) de ST-Alouarn",
         "dateOfBirth": "05/13/1803",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/03/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19413,7 +20491,8 @@ var birthplaces = {
         "Place of Birth": "Senzeilles (Namur)",
         "lastName": "Meuret",
         "dateOfBirth": "08/14/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/05/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19431,7 +20510,8 @@ var birthplaces = {
         "Place of Birth": "Mittelberg (Vorarlberg)",
         "lastName": "Fritz",
         "dateOfBirth": "03/19/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/05/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19449,7 +20529,8 @@ var birthplaces = {
         "Place of Birth": "Moulme\u00ef\u00bf\u00bdn (Burma)",
         "lastName": "Abreu",
         "dateOfBirth": "04/04/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/06/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19467,7 +20548,8 @@ var birthplaces = {
         "Place of Birth": "Condominas (par. Nages, Tarn)",
         "lastName": "Vidal",
         "dateOfBirth": "07/07/1868",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/08/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19485,7 +20567,8 @@ var birthplaces = {
         "Place of Birth": "Trois-Pistoles, Qu\u00ef\u00bf\u00bd",
         "lastName": "Rioux",
         "dateOfBirth": "02/26/1868",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/09/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19503,7 +20586,8 @@ var birthplaces = {
         "Place of Birth": "Belovar (Croatie)",
         "lastName": "Premuzic",
         "dateOfBirth": "12/08/1875",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/10/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19521,7 +20605,8 @@ var birthplaces = {
         "Place of Birth": "Ch\u00ef\u00bf\u00bdtellerault (Vienne)",
         "lastName": "Dutau",
         "dateOfBirth": "06/30/1829",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/11/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19539,7 +20624,8 @@ var birthplaces = {
         "Place of Birth": "Booterstown (Dublin)",
         "lastName": "Nolan",
         "dateOfBirth": "03/10/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/11/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19557,7 +20643,8 @@ var birthplaces = {
         "Place of Birth": "Plandogau (L\u00ef\u00bf\u00bdrida)",
         "lastName": "Soler",
         "dateOfBirth": "02/13/1841",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/11/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19575,7 +20662,8 @@ var birthplaces = {
         "Place of Birth": "Banada Abbey (Sligo)",
         "lastName": "Jones",
         "dateOfBirth": "03/28/1828",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/12/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19593,7 +20681,8 @@ var birthplaces = {
         "Place of Birth": "Largenti\u00ef\u00bf\u00bdre (Ardeche)",
         "lastName": "de Rochemure",
         "dateOfBirth": "10/07/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/13/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19611,7 +20700,8 @@ var birthplaces = {
         "Place of Birth": "Amsterdam",
         "lastName": "(Oosterwyck) Veldhuis",
         "dateOfBirth": "08/22/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/13/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19629,7 +20719,8 @@ var birthplaces = {
         "Place of Birth": "Hall (Tirol)",
         "lastName": "Passmoser",
         "dateOfBirth": "04/07/1845",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/14/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19647,7 +20738,8 @@ var birthplaces = {
         "Place of Birth": "Killarney (Kerry)",
         "lastName": "Sullivan",
         "dateOfBirth": "05/12/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/14/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19665,7 +20757,8 @@ var birthplaces = {
         "Place of Birth": "London",
         "lastName": "O'Connor",
         "dateOfBirth": "01/01/1851",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/23/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19683,7 +20776,8 @@ var birthplaces = {
         "Place of Birth": "Palermo",
         "lastName": "Di Giorgio",
         "dateOfBirth": "07/31/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/25/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19701,7 +20795,8 @@ var birthplaces = {
         "Place of Birth": "Tolox (M\u00ef\u00bf\u00bdlaga)",
         "lastName": "Gonz\u00ef\u00bf\u00bdlez",
         "dateOfBirth": "01/17/1838",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/25/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19719,7 +20814,8 @@ var birthplaces = {
         "Place of Birth": "Bilch (Rheinland)",
         "lastName": "Viehoff",
         "dateOfBirth": "05/19/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/26/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19737,7 +20833,8 @@ var birthplaces = {
         "Place of Birth": "Vitr\u00ef\u00bf\u00bd (Ille-et-V)",
         "lastName": "(de la Dou\u00ef\u00bf\u00bdppe) Du Fougerais",
         "dateOfBirth": "03/14/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/27/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19755,7 +20852,8 @@ var birthplaces = {
         "Place of Birth": "Hell\u00ef\u00bf\u00bdn (Albacete)",
         "lastName": "Perier",
         "dateOfBirth": "08/02/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/27/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19773,7 +20871,8 @@ var birthplaces = {
         "Place of Birth": "Geneva",
         "lastName": "Sanguineti",
         "dateOfBirth": "10/12/1829",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/27/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19791,7 +20890,8 @@ var birthplaces = {
         "Place of Birth": "Foresto (Bergamo)",
         "lastName": "Duci",
         "dateOfBirth": "08/22/1866",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/27/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19809,7 +20909,8 @@ var birthplaces = {
         "Place of Birth": "Sevilla",
         "lastName": "Maruri",
         "dateOfBirth": "10/24/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/30/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19827,7 +20928,8 @@ var birthplaces = {
         "Place of Birth": "Kilworth (Cork)",
         "lastName": "Ginivan",
         "dateOfBirth": "02/08/1793",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/30/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19845,7 +20947,8 @@ var birthplaces = {
         "Place of Birth": "Carrigaholt (Clare)",
         "lastName": "Foley",
         "dateOfBirth": "01/06/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/01/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19863,7 +20966,8 @@ var birthplaces = {
         "Place of Birth": "Dinan (C\u00ef\u00bf\u00bdtes-du-N)",
         "lastName": "Adam",
         "dateOfBirth": "05/10/1871",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/01/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19881,7 +20985,8 @@ var birthplaces = {
         "Place of Birth": "London",
         "lastName": "Fraser",
         "dateOfBirth": "03/21/1866",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/01/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19899,7 +21004,8 @@ var birthplaces = {
         "Place of Birth": "Agrate (Novara)",
         "lastName": "Julitta",
         "dateOfBirth": "02/06/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": NaN
       },
       "geometry": {
         "type": "Point",
@@ -19917,7 +21023,8 @@ var birthplaces = {
         "Place of Birth": "Modena",
         "lastName": "Campioli",
         "dateOfBirth": "02/18/1863",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/05/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19935,7 +21042,8 @@ var birthplaces = {
         "Place of Birth": "Campos (Mallorca)",
         "lastName": "Llad\u00ef\u00bf\u00bd",
         "dateOfBirth": "01/16/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/05/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19953,7 +21061,8 @@ var birthplaces = {
         "Place of Birth": "Mun\u00ef\u00bf\u00bdbrega (Zaragoza)",
         "lastName": "Morlanes",
         "dateOfBirth": "07/29/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/10/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19971,7 +21080,8 @@ var birthplaces = {
         "Place of Birth": "Champignelles (Yonne)",
         "lastName": "Fleaux",
         "dateOfBirth": "04/15/1811",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/11/1893"
       },
       "geometry": {
         "type": "Point",
@@ -19989,7 +21099,8 @@ var birthplaces = {
         "Place of Birth": "Courgeout (Orne)",
         "lastName": "de Beaumont",
         "dateOfBirth": "06/24/1833",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/18/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20007,7 +21118,8 @@ var birthplaces = {
         "Place of Birth": "Lys\u00ef\u00bf\u00bd (?echy)",
         "lastName": "Dworz\u00ef\u00bf\u00bdk",
         "dateOfBirth": "11/23/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/18/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20025,7 +21137,8 @@ var birthplaces = {
         "Place of Birth": "Sarlat",
         "lastName": "Poulange",
         "dateOfBirth": "11/11/1849",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/18/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20043,7 +21156,8 @@ var birthplaces = {
         "Place of Birth": "Wrotham (Kent)",
         "lastName": "Williams",
         "dateOfBirth": "06/14/1854",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/18/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20061,7 +21175,8 @@ var birthplaces = {
         "Place of Birth": "St-Nicolas (Fl Or)",
         "lastName": "Poppe",
         "dateOfBirth": "07/31/1871",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/19/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20079,7 +21194,8 @@ var birthplaces = {
         "Place of Birth": "Askeaton (Limerick)",
         "lastName": "Nash",
         "dateOfBirth": "11/01/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/20/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20097,7 +21213,8 @@ var birthplaces = {
         "Place of Birth": "Castle Gregory (Kerry)",
         "lastName": "O'Farrell",
         "dateOfBirth": "04/06/1839",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/20/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20115,7 +21232,8 @@ var birthplaces = {
         "Place of Birth": "Framerville (Somme)",
         "lastName": "Delavenne",
         "dateOfBirth": "01/18/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/21/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20133,7 +21251,8 @@ var birthplaces = {
         "Place of Birth": "Montalto (Torino)",
         "lastName": "Cerutti",
         "dateOfBirth": "09/10/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/24/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20151,7 +21270,8 @@ var birthplaces = {
         "Place of Birth": "Chioggia",
         "lastName": "Perini",
         "dateOfBirth": "09/08/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/24/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20169,7 +21289,8 @@ var birthplaces = {
         "Place of Birth": "Bourg-de-P\u00ef\u00bf\u00bdage (Dr\u00ef\u00bf\u00bdme)",
         "lastName": "Mazelier",
         "dateOfBirth": "08/19/1838",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/01/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20187,7 +21308,8 @@ var birthplaces = {
         "Place of Birth": "Manresa",
         "lastName": "Coma",
         "dateOfBirth": "01/26/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/03/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20205,7 +21327,8 @@ var birthplaces = {
         "Place of Birth": "Argenteuil (Seine-et-O)",
         "lastName": "Chevreuil",
         "dateOfBirth": "09/29/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/03/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20223,7 +21346,8 @@ var birthplaces = {
         "Place of Birth": "Springfield, Ill.",
         "lastName": "Paillou",
         "dateOfBirth": "08/11/1857",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/05/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20241,7 +21365,8 @@ var birthplaces = {
         "Place of Birth": "Placencia (Guip\u00ef\u00bf\u00bdzcoa)",
         "lastName": "Oregui",
         "dateOfBirth": "08/21/1838",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/05/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20259,7 +21384,8 @@ var birthplaces = {
         "Place of Birth": "Anna di Sotto (Bolzano)",
         "lastName": "Tuzer",
         "dateOfBirth": "04/16/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/08/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20277,7 +21403,8 @@ var birthplaces = {
         "Place of Birth": "Waldenrath (Rheinland)",
         "lastName": "Fratz",
         "dateOfBirth": "08/15/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/08/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20295,7 +21422,8 @@ var birthplaces = {
         "Place of Birth": "Huarte (Navarra)",
         "lastName": "Miranda",
         "dateOfBirth": "04/04/1861",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/08/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20313,7 +21441,8 @@ var birthplaces = {
         "Place of Birth": "Alost",
         "lastName": "van Hove",
         "dateOfBirth": "02/18/1853",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/08/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20331,7 +21460,8 @@ var birthplaces = {
         "Place of Birth": "Coleraine (Londonderry)",
         "lastName": "Begley",
         "dateOfBirth": "06/21/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/10/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20349,7 +21479,8 @@ var birthplaces = {
         "Place of Birth": "Kildare",
         "lastName": "Geekie",
         "dateOfBirth": "12/27/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/10/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20367,7 +21498,8 @@ var birthplaces = {
         "Place of Birth": "Overhagen (Lippstadt, Westfalen)",
         "lastName": "de Schorlemer",
         "dateOfBirth": "04/17/1858",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/11/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20385,7 +21517,8 @@ var birthplaces = {
         "Place of Birth": "Sans (Barcelona)",
         "lastName": "Bofill",
         "dateOfBirth": "11/21/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/12/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20403,7 +21536,8 @@ var birthplaces = {
         "Place of Birth": "Valencia",
         "lastName": "Chamb\u00ef\u00bf\u00bd",
         "dateOfBirth": "01/16/1846",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/12/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20421,7 +21555,8 @@ var birthplaces = {
         "Place of Birth": "Seneffe (Hainaut)",
         "lastName": "Deham",
         "dateOfBirth": "08/20/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/18/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20439,7 +21574,8 @@ var birthplaces = {
         "Place of Birth": "Haasdonck (Fl Or)",
         "lastName": "Weemaes",
         "dateOfBirth": "01/10/1809",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/18/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20457,7 +21593,8 @@ var birthplaces = {
         "Place of Birth": "Amsterdam",
         "lastName": "Klamer",
         "dateOfBirth": "06/07/1874",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/18/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20475,7 +21612,8 @@ var birthplaces = {
         "Place of Birth": "Elbing (Gdansj)",
         "lastName": "Kolberg",
         "dateOfBirth": "02/24/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/20/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20493,7 +21631,8 @@ var birthplaces = {
         "Place of Birth": "Lopidana (\u00ef\u00bf\u00bdlava)",
         "lastName": "L\u00ef\u00bf\u00bdpez",
         "dateOfBirth": "01/24/1872",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/20/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20511,7 +21650,8 @@ var birthplaces = {
         "Place of Birth": "Millstreet (Cork)",
         "lastName": "Macswyney",
         "dateOfBirth": "03/22/1844",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/21/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20529,7 +21669,8 @@ var birthplaces = {
         "Place of Birth": "Bagnalstown (Carlow)",
         "lastName": "Timmon",
         "dateOfBirth": "02/02/1828",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/21/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20547,7 +21688,8 @@ var birthplaces = {
         "Place of Birth": "Dingle (Kerry)",
         "lastName": "Manning",
         "dateOfBirth": "04/07/1844",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/22/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20565,7 +21707,8 @@ var birthplaces = {
         "Place of Birth": "Orl\u00ef\u00bf\u00bdans (Loiret)",
         "lastName": "Daudier",
         "dateOfBirth": "03/09/1863",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/24/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20583,7 +21726,8 @@ var birthplaces = {
         "Place of Birth": "Lavaltrie, Qu\u00ef\u00bf\u00bd.",
         "lastName": "Rosselin",
         "dateOfBirth": "12/26/1839",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/24/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20601,7 +21745,8 @@ var birthplaces = {
         "Place of Birth": "Cincinnati",
         "lastName": "Flannery",
         "dateOfBirth": "07/27/1863",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/25/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20619,7 +21764,8 @@ var birthplaces = {
         "Place of Birth": "Neuwied (Rheinland)",
         "lastName": "Kloft",
         "dateOfBirth": "02/13/1840",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/26/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20637,7 +21783,8 @@ var birthplaces = {
         "Place of Birth": "Napoli",
         "lastName": "De Rosa",
         "dateOfBirth": "11/25/1873",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/28/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20655,7 +21802,8 @@ var birthplaces = {
         "Place of Birth": "Guildford (Surrey)",
         "lastName": "Stevens",
         "dateOfBirth": "11/29/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/28/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20673,7 +21821,8 @@ var birthplaces = {
         "Place of Birth": "Listowel (Kerry)",
         "lastName": "Wolfe",
         "dateOfBirth": "09/29/1864",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/30/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20691,7 +21840,8 @@ var birthplaces = {
         "Place of Birth": "s-Hertogenbosch",
         "lastName": "Marijnen",
         "dateOfBirth": "12/22/1828",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/31/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20709,7 +21859,8 @@ var birthplaces = {
         "Place of Birth": "Baons-le-Conte (Seine-M)",
         "lastName": "Fessard",
         "dateOfBirth": "02/10/1812",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/01/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20727,7 +21878,8 @@ var birthplaces = {
         "Place of Birth": "Allahabad, Ind.",
         "lastName": "Tickell",
         "dateOfBirth": "12/12/1815",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/05/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20745,7 +21897,8 @@ var birthplaces = {
         "Place of Birth": "Altshausen (Wurtemberg)",
         "lastName": "Rimmele",
         "dateOfBirth": "08/07/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/06/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20763,7 +21916,8 @@ var birthplaces = {
         "Place of Birth": "Sta. Eulalia de Riuprimer (Barcelona)",
         "lastName": "Terricabras",
         "dateOfBirth": "07/06/1843",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/06/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20781,7 +21935,8 @@ var birthplaces = {
         "Place of Birth": "Paseka ohr Unicov (Morava)",
         "lastName": "Ott",
         "dateOfBirth": "02/14/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/07/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20799,7 +21954,8 @@ var birthplaces = {
         "Place of Birth": "Umkirch (Baden)",
         "lastName": "Sonderer",
         "dateOfBirth": "12/03/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/07/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20817,7 +21973,8 @@ var birthplaces = {
         "Place of Birth": "Lille",
         "lastName": "Kolb",
         "dateOfBirth": "10/16/1845",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/08/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20835,7 +21992,8 @@ var birthplaces = {
         "Place of Birth": "Mallavia (Vizcaya)",
         "lastName": "Olarra",
         "dateOfBirth": "02/29/1839",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/08/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20853,7 +22011,8 @@ var birthplaces = {
         "Place of Birth": "Cane di Vione (Brescia)",
         "lastName": "Tommasi",
         "dateOfBirth": "01/24/1850",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/11/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20871,7 +22030,8 @@ var birthplaces = {
         "Place of Birth": "San Jose, Calif.",
         "lastName": "Gerlach",
         "dateOfBirth": "08/08/1872",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/11/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20889,7 +22049,8 @@ var birthplaces = {
         "Place of Birth": "Torokbalint (Pest)",
         "lastName": "Kaufler",
         "dateOfBirth": "01/28/1870",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/11/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20907,7 +22068,8 @@ var birthplaces = {
         "Place of Birth": "London",
         "lastName": "Coleridge",
         "dateOfBirth": "09/20/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/13/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20925,7 +22087,8 @@ var birthplaces = {
         "Place of Birth": "Biar (Alicante)",
         "lastName": "Quilez",
         "dateOfBirth": "02/24/1860",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/15/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20943,7 +22106,8 @@ var birthplaces = {
         "Place of Birth": "Ferentino (Roma)",
         "lastName": "Cocumelli",
         "dateOfBirth": "05/10/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/16/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20961,7 +22125,8 @@ var birthplaces = {
         "Place of Birth": "Scilla (Reggio Calabria)",
         "lastName": "Minasi",
         "dateOfBirth": "03/13/1842",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/19/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20979,7 +22144,8 @@ var birthplaces = {
         "Place of Birth": "Charleville (Cork)",
         "lastName": "O'Mahony",
         "dateOfBirth": "11/24/1875",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/19/1893"
       },
       "geometry": {
         "type": "Point",
@@ -20997,7 +22163,8 @@ var birthplaces = {
         "Place of Birth": "Abadiano-Celayeta (Vizcaya)",
         "lastName": "Sarriortuzar",
         "dateOfBirth": "03/15/1868",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/21/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21015,7 +22182,8 @@ var birthplaces = {
         "Place of Birth": "Auroux (Lozere)",
         "lastName": "Balmadier",
         "dateOfBirth": "05/10/1813",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/21/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21033,7 +22201,8 @@ var birthplaces = {
         "Place of Birth": "Castel San Pietro (Bologna)",
         "lastName": "Spisi",
         "dateOfBirth": "06/23/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/25/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21051,7 +22220,8 @@ var birthplaces = {
         "Place of Birth": "St-Agil (Loir-et-Ch)",
         "lastName": "de St-Maixent",
         "dateOfBirth": "07/30/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/26/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21069,7 +22239,8 @@ var birthplaces = {
         "Place of Birth": "Harmelen (Utrecht)",
         "lastName": "van der Berg",
         "dateOfBirth": "12/17/1816",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/26/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21087,7 +22258,8 @@ var birthplaces = {
         "Place of Birth": "St-Yvi (Finistere)",
         "lastName": "Bleuzen",
         "dateOfBirth": "03/05/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/01/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21105,7 +22277,8 @@ var birthplaces = {
         "Place of Birth": "Preston",
         "lastName": "Mercer",
         "dateOfBirth": "12/18/1867",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/02/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21123,7 +22296,8 @@ var birthplaces = {
         "Place of Birth": "Port-Louis (Maurice)",
         "lastName": "Gonnet",
         "dateOfBirth": "09/24/1872",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/03/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21141,7 +22315,8 @@ var birthplaces = {
         "Place of Birth": "Yamaska, Que",
         "lastName": "Hebert",
         "dateOfBirth": "11/10/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/08/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21159,7 +22334,8 @@ var birthplaces = {
         "Place of Birth": "Courtrai",
         "lastName": "Vercruysse",
         "dateOfBirth": "03/08/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/08/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21177,7 +22353,8 @@ var birthplaces = {
         "Place of Birth": "Alleyras (H-Loire)",
         "lastName": "Pradier",
         "dateOfBirth": "10/26/1847",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/09/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21195,7 +22372,8 @@ var birthplaces = {
         "Place of Birth": "Le Breul-Barret (Vendee)",
         "lastName": "Cornuau",
         "dateOfBirth": "01/23/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/10/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21213,7 +22391,8 @@ var birthplaces = {
         "Place of Birth": "Pesmes (H-Saone)",
         "lastName": "Darlin",
         "dateOfBirth": "04/10/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/10/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21231,7 +22410,8 @@ var birthplaces = {
         "Place of Birth": "St-Andre-lez-Dalhem (Liege)",
         "lastName": "Lipstadt",
         "dateOfBirth": "02/01/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/12/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21249,7 +22429,8 @@ var birthplaces = {
         "Place of Birth": "Flacey (Saone-et-L)",
         "lastName": "Buchaillat",
         "dateOfBirth": "11/17/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/15/1896"
       },
       "geometry": {
         "type": "Point",
@@ -21267,7 +22448,8 @@ var birthplaces = {
         "Place of Birth": "Rennes (Ille-et-V)",
         "lastName": "Morvan",
         "dateOfBirth": "07/19/1810",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/16/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21285,7 +22467,8 @@ var birthplaces = {
         "Place of Birth": "Pustomer (Morava)",
         "lastName": "Gregor",
         "dateOfBirth": "07/18/1808",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/17/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21303,7 +22486,8 @@ var birthplaces = {
         "Place of Birth": "Calvizzano (Napoli)",
         "lastName": "D'Errico",
         "dateOfBirth": "10/10/1871",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/18/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21321,7 +22505,8 @@ var birthplaces = {
         "Place of Birth": "Grottaglie (Lecce)",
         "lastName": "Manigrasso",
         "dateOfBirth": "03/31/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/19/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21339,7 +22524,8 @@ var birthplaces = {
         "Place of Birth": "Werl (Westfalen)",
         "lastName": "Schwerter",
         "dateOfBirth": "06/01/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/25/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21357,7 +22543,8 @@ var birthplaces = {
         "Place of Birth": "Berga (Barcelona)",
         "lastName": "Casals",
         "dateOfBirth": "09/28/1855",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/26/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21375,7 +22562,8 @@ var birthplaces = {
         "Place of Birth": "Lille",
         "lastName": "Desmons",
         "dateOfBirth": "07/10/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/29/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21393,7 +22581,8 @@ var birthplaces = {
         "Place of Birth": "Cette (Herault)",
         "lastName": "Vons",
         "dateOfBirth": "04/15/1846",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/29/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21411,7 +22600,8 @@ var birthplaces = {
         "Place of Birth": "Gand",
         "lastName": "Botte",
         "dateOfBirth": "12/20/1872",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/29/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21429,7 +22619,8 @@ var birthplaces = {
         "Place of Birth": "Noirmoutier (Vendee)",
         "lastName": "Monnier",
         "dateOfBirth": "04/02/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/29/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21447,7 +22638,8 @@ var birthplaces = {
         "Place of Birth": "San Francisco",
         "lastName": "Casserly",
         "dateOfBirth": "09/18/1869",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/31/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21465,7 +22657,8 @@ var birthplaces = {
         "Place of Birth": "Tronchiennes",
         "lastName": "De Boever",
         "dateOfBirth": "04/03/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/31/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21483,7 +22676,8 @@ var birthplaces = {
         "Place of Birth": "Vannes",
         "lastName": "Le Falher",
         "dateOfBirth": "10/24/1844",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/01/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21501,7 +22695,8 @@ var birthplaces = {
         "Place of Birth": "Bourcy (Luxembourg)",
         "lastName": "Baltus",
         "dateOfBirth": "10/11/1815",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/03/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21519,7 +22714,8 @@ var birthplaces = {
         "Place of Birth": "Sigmaringen (Hohenzollern)",
         "lastName": "Allseits",
         "dateOfBirth": "01/14/1847",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/05/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21537,7 +22733,8 @@ var birthplaces = {
         "Place of Birth": "Arras (Pas-de-C)",
         "lastName": "Cotteau",
         "dateOfBirth": "03/19/1840",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/06/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21555,7 +22752,8 @@ var birthplaces = {
         "Place of Birth": "Onate (Guipuzcoa)",
         "lastName": "Mendia",
         "dateOfBirth": "08/04/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/10/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21573,7 +22771,8 @@ var birthplaces = {
         "Place of Birth": "Liege",
         "lastName": "Dumont",
         "dateOfBirth": "07/26/1843",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/11/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21591,7 +22790,8 @@ var birthplaces = {
         "Place of Birth": "s-Hertogenbosch",
         "lastName": "van Rijckevorsel",
         "dateOfBirth": "10/04/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/11/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21609,7 +22809,8 @@ var birthplaces = {
         "Place of Birth": "Jaslowice (Halicz)",
         "lastName": "Malewicz",
         "dateOfBirth": "01/06/1840",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/11/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21627,7 +22828,8 @@ var birthplaces = {
         "Place of Birth": "Racalmuto (Girgenti)",
         "lastName": "Nalbone",
         "dateOfBirth": "02/03/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/13/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21645,7 +22847,8 @@ var birthplaces = {
         "Place of Birth": "Toulon (Var)",
         "lastName": "Hubert",
         "dateOfBirth": "07/19/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/14/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21663,7 +22866,8 @@ var birthplaces = {
         "Place of Birth": "Montreal",
         "lastName": "Resther",
         "dateOfBirth": "08/26/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/15/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21681,7 +22885,8 @@ var birthplaces = {
         "Place of Birth": "Nimes",
         "lastName": "Lecointe",
         "dateOfBirth": "09/14/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/18/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21699,7 +22904,8 @@ var birthplaces = {
         "Place of Birth": "Dunkelthal (Cechy)",
         "lastName": "Prediger",
         "dateOfBirth": "11/24/1870",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/19/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21717,7 +22923,8 @@ var birthplaces = {
         "Place of Birth": "Pfaffendorf",
         "lastName": "Rimbaugh",
         "dateOfBirth": "03/25/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/22/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21735,7 +22942,8 @@ var birthplaces = {
         "Place of Birth": "Nieuwerkerken (Fl Or)",
         "lastName": "Lievens",
         "dateOfBirth": "07/12/1859",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/24/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21753,7 +22961,8 @@ var birthplaces = {
         "Place of Birth": "Usson (Vienne)",
         "lastName": "de Baglion",
         "dateOfBirth": "09/09/1863",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/26/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21771,7 +22980,8 @@ var birthplaces = {
         "Place of Birth": "Treguier (Cotes-du-N)",
         "lastName": "Ropers",
         "dateOfBirth": "03/24/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/28/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21789,7 +22999,8 @@ var birthplaces = {
         "Place of Birth": "Sassari",
         "lastName": "Talongo",
         "dateOfBirth": "07/31/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/29/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21807,7 +23018,8 @@ var birthplaces = {
         "Place of Birth": "Sumene (Gard)",
         "lastName": "Serviere",
         "dateOfBirth": "09/12/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/30/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21825,7 +23037,8 @@ var birthplaces = {
         "Place of Birth": "Liverpool",
         "lastName": "Johnson",
         "dateOfBirth": "04/28/1810",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/08/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21843,7 +23056,8 @@ var birthplaces = {
         "Place of Birth": "Lourical (Beira-Baixa)",
         "lastName": "Guitterres",
         "dateOfBirth": "07/06/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/08/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21861,7 +23075,8 @@ var birthplaces = {
         "Place of Birth": "Mesanger (Loire-A)",
         "lastName": "Hourdeau",
         "dateOfBirth": "09/09/1843",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/08/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21879,7 +23094,8 @@ var birthplaces = {
         "Place of Birth": "Napoli",
         "lastName": "Barbella",
         "dateOfBirth": "04/03/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/12/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21897,7 +23113,8 @@ var birthplaces = {
         "Place of Birth": "Romagnieu (Isere)",
         "lastName": "Vangeon",
         "dateOfBirth": "06/12/1851",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/15/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21915,7 +23132,8 @@ var birthplaces = {
         "Place of Birth": "Tronchiennes",
         "lastName": "Lambrecht",
         "dateOfBirth": "03/23/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/15/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21933,7 +23151,8 @@ var birthplaces = {
         "Place of Birth": "Martelange (Luxembourg)",
         "lastName": "Gengler",
         "dateOfBirth": "09/26/1853",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/19/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21951,7 +23170,8 @@ var birthplaces = {
         "Place of Birth": "Gerona",
         "lastName": "Pumarola",
         "dateOfBirth": "06/18/1871",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/21/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21969,7 +23189,8 @@ var birthplaces = {
         "Place of Birth": "Bruges",
         "lastName": "Steyaert",
         "dateOfBirth": "12/26/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/22/1893"
       },
       "geometry": {
         "type": "Point",
@@ -21987,7 +23208,8 @@ var birthplaces = {
         "Place of Birth": "Poperinghe (Fl Oc)",
         "lastName": "Isacq",
         "dateOfBirth": "11/04/1812",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/24/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22005,7 +23227,8 @@ var birthplaces = {
         "Place of Birth": "Poboleda (Tarragona)",
         "lastName": "Vines",
         "dateOfBirth": "09/19/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/24/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22023,7 +23246,8 @@ var birthplaces = {
         "Place of Birth": "Cork",
         "lastName": "Lynch",
         "dateOfBirth": "08/06/1858",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/24/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22041,7 +23265,8 @@ var birthplaces = {
         "Place of Birth": "Floriana (Malta)",
         "lastName": "Magro",
         "dateOfBirth": "11/25/1845",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/25/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22059,7 +23284,8 @@ var birthplaces = {
         "Place of Birth": "Castellgal\u00ef\u00bf\u00bd (Barcelona)",
         "lastName": "Debant",
         "dateOfBirth": "10/02/1851",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/26/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22077,7 +23303,8 @@ var birthplaces = {
         "Place of Birth": "Les Ponts-de-C\u00ef\u00bf\u00bd (Maine-et-L)",
         "lastName": "V\u00ef\u00bf\u00bdtault",
         "dateOfBirth": "01/19/1874",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/28/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22095,7 +23322,8 @@ var birthplaces = {
         "Place of Birth": "Villafranca Montes de Oca (Burgos)",
         "lastName": "Bola\u00ef\u00bf\u00bdos Garc\u00ef\u00bf\u00bda",
         "dateOfBirth": "09/22/1856",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/29/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22113,7 +23341,8 @@ var birthplaces = {
         "Place of Birth": "Courtrai",
         "lastName": "Ghyoot",
         "dateOfBirth": "08/21/1874",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/29/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22131,7 +23360,8 @@ var birthplaces = {
         "Place of Birth": "Camarones (Sta. Clara, Cuba)",
         "lastName": "Pell\u00ef\u00bf\u00bdn",
         "dateOfBirth": "04/20/1875",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/30/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22149,7 +23379,8 @@ var birthplaces = {
         "Place of Birth": "Napoli",
         "lastName": "Blois",
         "dateOfBirth": "07/19/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/01/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22167,7 +23398,8 @@ var birthplaces = {
         "Place of Birth": "? (Meath)",
         "lastName": "Curry",
         "dateOfBirth": "12/23/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/06/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22185,7 +23417,8 @@ var birthplaces = {
         "Place of Birth": "St-Amand-les-Eaux (Nord)",
         "lastName": "Delcourt",
         "dateOfBirth": "10/26/1809",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/08/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22203,7 +23436,8 @@ var birthplaces = {
         "Place of Birth": "Hoorebeke-Ste-Marie (Fl Or)",
         "lastName": "De Temmerman",
         "dateOfBirth": "02/16/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/03/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22221,7 +23455,8 @@ var birthplaces = {
         "Place of Birth": "Florac (Loz\u00ef\u00bf\u00bdre)",
         "lastName": "Blanchard",
         "dateOfBirth": "03/30/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/13/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22239,7 +23474,8 @@ var birthplaces = {
         "Place of Birth": "Dublin",
         "lastName": "MacDonald",
         "dateOfBirth": "06/26/1811",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/21/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22257,7 +23493,8 @@ var birthplaces = {
         "Place of Birth": "Escamps (Lot)",
         "lastName": "Elorza",
         "dateOfBirth": "08/28/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/22/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22275,7 +23512,8 @@ var birthplaces = {
         "Place of Birth": "St-Vincent (Laval, Qu\u00ef\u00bf\u00bd)",
         "lastName": "Joubert",
         "dateOfBirth": "09/14/1868",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/24/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22293,7 +23531,8 @@ var birthplaces = {
         "Place of Birth": "Nantes",
         "lastName": "Potiron",
         "dateOfBirth": "08/28/1860",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/28/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22311,7 +23550,8 @@ var birthplaces = {
         "Place of Birth": "Bochum (Westfalen)",
         "lastName": "Passmann",
         "dateOfBirth": "02/09/1874",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/28/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22329,7 +23569,8 @@ var birthplaces = {
         "Place of Birth": "London",
         "lastName": "Harper",
         "dateOfBirth": "09/26/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/29/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22347,7 +23588,8 @@ var birthplaces = {
         "Place of Birth": "Villafranca (Torino)",
         "lastName": "Ballerino",
         "dateOfBirth": "11/25/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/29/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22365,7 +23607,8 @@ var birthplaces = {
         "Place of Birth": "Castrop (Arnsberg, Westfalen)",
         "lastName": "Todt",
         "dateOfBirth": "05/17/1872",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/29/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22383,7 +23626,8 @@ var birthplaces = {
         "Place of Birth": "Manila",
         "lastName": "Labayru",
         "dateOfBirth": "05/07/1840",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/31/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22401,7 +23645,8 @@ var birthplaces = {
         "Place of Birth": "Pig\u00ef\u00bf\u00bdre",
         "lastName": "Souche",
         "dateOfBirth": "07/13/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/31/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22419,7 +23664,8 @@ var birthplaces = {
         "Place of Birth": "Palermo",
         "lastName": "Amico",
         "dateOfBirth": "11/06/1806",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/02/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22437,7 +23683,8 @@ var birthplaces = {
         "Place of Birth": "Chauteuges (H-Loire)",
         "lastName": "Bonhomme",
         "dateOfBirth": "04/09/1843",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/03/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22455,7 +23702,8 @@ var birthplaces = {
         "Place of Birth": "Fahy (Bern)",
         "lastName": "Beureux",
         "dateOfBirth": "01/25/1844",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/03/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22473,7 +23721,8 @@ var birthplaces = {
         "Place of Birth": "Apalachicola, Fla",
         "lastName": "O'Connor",
         "dateOfBirth": "04/02/1855",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/04/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22491,7 +23740,8 @@ var birthplaces = {
         "Place of Birth": "Mieras (Gerona)",
         "lastName": "Codinach",
         "dateOfBirth": "10/13/1875",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/04/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22509,7 +23759,8 @@ var birthplaces = {
         "Place of Birth": "S\u00ef\u00bf\u00bdlhuben (Bayern)",
         "lastName": "Aigner",
         "dateOfBirth": "04/04/1838",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/06/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22527,7 +23778,8 @@ var birthplaces = {
         "Place of Birth": "Gr\u00ef\u00bf\u00bdvalos (Lorgro\u00ef\u00bf\u00bdo)",
         "lastName": "Garriga",
         "dateOfBirth": "05/01/1838",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/06/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22545,7 +23797,8 @@ var birthplaces = {
         "Place of Birth": "Mantilly (Orne)",
         "lastName": "Maillard",
         "dateOfBirth": "12/24/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/09/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22563,7 +23816,8 @@ var birthplaces = {
         "Place of Birth": "Penmaenmawr (Caernarvon)",
         "lastName": "Thomas",
         "dateOfBirth": "08/31/1864",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/10/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22581,7 +23835,8 @@ var birthplaces = {
         "Place of Birth": "Gij\u00ef\u00bf\u00bdn (Oviedo)",
         "lastName": "\u00ef\u00bf\u00bdlvarez",
         "dateOfBirth": "07/26/1851",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/12/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22599,7 +23854,8 @@ var birthplaces = {
         "Place of Birth": "Cognin pr Chamb\u00ef\u00bf\u00bdry",
         "lastName": "Bouchet",
         "dateOfBirth": "08/25/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/12/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22617,7 +23873,8 @@ var birthplaces = {
         "Place of Birth": "Biervliet (Zeeland)",
         "lastName": "Calon",
         "dateOfBirth": "04/16/1852",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/14/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22635,7 +23892,8 @@ var birthplaces = {
         "Place of Birth": "Souternon (Loire)",
         "lastName": "Donjon",
         "dateOfBirth": "09/01/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/14/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22653,7 +23911,8 @@ var birthplaces = {
         "Place of Birth": "K\u00ef\u00bf\u00bdln",
         "lastName": "Kamp",
         "dateOfBirth": "01/27/1836",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/15/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22671,7 +23930,8 @@ var birthplaces = {
         "Place of Birth": "Cru\u00ef\u00bf\u00bdjouls (Aveyron)",
         "lastName": "Loubi\u00ef\u00bf\u00bdre",
         "dateOfBirth": "01/07/1863",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/18/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22689,7 +23949,8 @@ var birthplaces = {
         "Place of Birth": "St-Roch-de-Richelieu, Qu\u00ef\u00bf\u00bd",
         "lastName": "Lapointe",
         "dateOfBirth": "08/11/1869",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/18/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22707,7 +23968,8 @@ var birthplaces = {
         "Place of Birth": "Marineo (Palermo)",
         "lastName": "Orlando",
         "dateOfBirth": "11/09/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/19/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22725,7 +23987,8 @@ var birthplaces = {
         "Place of Birth": "Tolosa (Guip\u00ef\u00bf\u00bdzcoa)",
         "lastName": "Iriatre",
         "dateOfBirth": "02/13/1851",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/22/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22743,7 +24006,8 @@ var birthplaces = {
         "Place of Birth": "Palazzago (Bergamo)",
         "lastName": "Fenili",
         "dateOfBirth": "04/10/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/24/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22761,7 +24025,8 @@ var birthplaces = {
         "Place of Birth": "Lourtier (Valais)",
         "lastName": "Perrodin",
         "dateOfBirth": "12/30/1859",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/26/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22779,7 +24044,8 @@ var birthplaces = {
         "Place of Birth": "Vilvorde (Brabant)",
         "lastName": "van Derker",
         "dateOfBirth": "05/16/1813",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/27/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22797,7 +24063,8 @@ var birthplaces = {
         "Place of Birth": "Dublin",
         "lastName": "Curtis",
         "dateOfBirth": "04/07/1852",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/29/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22815,7 +24082,8 @@ var birthplaces = {
         "Place of Birth": "San Jordi (Gerona)",
         "lastName": "Vi\u00ef\u00bf\u00bdals",
         "dateOfBirth": "08/04/1836",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/03/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22833,7 +24101,8 @@ var birthplaces = {
         "Place of Birth": "Montfort-en-Chalosse (Landes)",
         "lastName": "Candeloup",
         "dateOfBirth": "08/31/1828",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/03/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22851,7 +24120,8 @@ var birthplaces = {
         "Place of Birth": "Reggio Emilia",
         "lastName": "Capelli",
         "dateOfBirth": "02/23/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/04/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22869,7 +24139,8 @@ var birthplaces = {
         "Place of Birth": "Cert\u00ef\u00bf\u00bd (Beira-Baixa)",
         "lastName": "Ferreira",
         "dateOfBirth": "07/04/1848",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/04/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22887,7 +24158,8 @@ var birthplaces = {
         "Place of Birth": "Bobingen (Schwaben)",
         "lastName": "Fischer",
         "dateOfBirth": "01/31/1841",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/05/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22905,7 +24177,8 @@ var birthplaces = {
         "Place of Birth": "Granada",
         "lastName": "Mata",
         "dateOfBirth": "02/11/1870",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/05/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22923,7 +24196,8 @@ var birthplaces = {
         "Place of Birth": "Philadelphia",
         "lastName": "Duross",
         "dateOfBirth": "02/15/1869",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/07/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22941,7 +24215,8 @@ var birthplaces = {
         "Place of Birth": "Civaux (Vienne)",
         "lastName": "Touchard",
         "dateOfBirth": "03/23/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/10/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22959,7 +24234,8 @@ var birthplaces = {
         "Place of Birth": "Rouffach (H-Rhin)",
         "lastName": "Denis",
         "dateOfBirth": "12/03/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/12/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22977,7 +24253,8 @@ var birthplaces = {
         "Place of Birth": "Pommier (Is\u00ef\u00bf\u00bdre)",
         "lastName": "Noir",
         "dateOfBirth": "12/21/1816",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/13/1893"
       },
       "geometry": {
         "type": "Point",
@@ -22995,7 +24272,8 @@ var birthplaces = {
         "Place of Birth": "Mirabel-et-Blacons (Dr\u00ef\u00bf\u00bdme)",
         "lastName": "Bonnemaison",
         "dateOfBirth": "01/07/1828",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/19/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23013,7 +24291,8 @@ var birthplaces = {
         "Place of Birth": "Pr\u00ef\u00bf\u00bdaux (Ardeche)",
         "lastName": "Sauz\u00ef\u00bf\u00bdat",
         "dateOfBirth": "07/22/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/20/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23031,7 +24310,8 @@ var birthplaces = {
         "Place of Birth": "Maastricht",
         "lastName": "Haenen",
         "dateOfBirth": "12/08/1840",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/21/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23049,7 +24329,8 @@ var birthplaces = {
         "Place of Birth": "Gr\u00ef\u00bf\u00bdnstadt (Bayern)",
         "lastName": "Heichemer",
         "dateOfBirth": "07/31/1836",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/21/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23067,7 +24348,8 @@ var birthplaces = {
         "Place of Birth": "Hitzendorf (Steiermark)",
         "lastName": "Schreiner",
         "dateOfBirth": "06/16/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/21/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23085,7 +24367,8 @@ var birthplaces = {
         "Place of Birth": "Ootacamund",
         "lastName": "Morris",
         "dateOfBirth": "07/04/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/22/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23103,7 +24386,8 @@ var birthplaces = {
         "Place of Birth": "Millen (Limbourg)",
         "lastName": "Vrindts",
         "dateOfBirth": "06/12/1838",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/24/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23121,7 +24405,8 @@ var birthplaces = {
         "Place of Birth": "Vannes",
         "lastName": "Duperron",
         "dateOfBirth": "08/13/1833",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/30/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23139,7 +24424,8 @@ var birthplaces = {
         "Place of Birth": "Tarnopol",
         "lastName": "Zielinski",
         "dateOfBirth": "12/13/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/30/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23157,7 +24443,8 @@ var birthplaces = {
         "Place of Birth": "Anjengo",
         "lastName": "Rodr\u00ef\u00bf\u00bdguez",
         "dateOfBirth": "02/20/1810",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/01/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23175,7 +24462,8 @@ var birthplaces = {
         "Place of Birth": "Anvers",
         "lastName": "Fierens",
         "dateOfBirth": "10/08/1844",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/03/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23193,7 +24481,8 @@ var birthplaces = {
         "Place of Birth": "Moorslede (Fl Oc)",
         "lastName": "Lievens",
         "dateOfBirth": "04/11/1856",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/07/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23211,7 +24500,8 @@ var birthplaces = {
         "Place of Birth": "Chiavari (Genova)",
         "lastName": "Solari",
         "dateOfBirth": "03/18/1864",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/08/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23229,7 +24519,8 @@ var birthplaces = {
         "Place of Birth": "Goscieszyn",
         "lastName": "Koczorowski",
         "dateOfBirth": "05/01/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/09/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23247,7 +24538,8 @@ var birthplaces = {
         "Place of Birth": "Torino",
         "lastName": "Franco",
         "dateOfBirth": "01/22/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/10/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23265,7 +24557,8 @@ var birthplaces = {
         "Place of Birth": "Bouxwiller (H-Rhin)",
         "lastName": "Kuentz",
         "dateOfBirth": "08/31/1854",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/11/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23283,7 +24576,8 @@ var birthplaces = {
         "Place of Birth": "Land\u00ef\u00bf\u00bdda (Finist\u00ef\u00bf\u00bdre)",
         "lastName": "Gourv\u00ef\u00bf\u00bdnec",
         "dateOfBirth": "02/05/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/13/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23301,7 +24595,8 @@ var birthplaces = {
         "Place of Birth": "Guatemala",
         "lastName": "Manzano",
         "dateOfBirth": "01/01/1833",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/14/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23319,7 +24614,8 @@ var birthplaces = {
         "Place of Birth": "Wolsum (Friesland)",
         "lastName": "Jorna",
         "dateOfBirth": "02/23/1862",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/15/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23337,7 +24633,8 @@ var birthplaces = {
         "Place of Birth": "Weil die Stadt (W\u00ef\u00bf\u00bdrtemberg)",
         "lastName": "Dolfinger",
         "dateOfBirth": "01/14/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/21/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23355,7 +24652,8 @@ var birthplaces = {
         "Place of Birth": "Napoli",
         "lastName": "Zuppa",
         "dateOfBirth": "09/27/1868",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/23/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23373,7 +24671,8 @@ var birthplaces = {
         "Place of Birth": "Roma",
         "lastName": "Ciampi",
         "dateOfBirth": "01/31/1816",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/24/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23391,7 +24690,8 @@ var birthplaces = {
         "Place of Birth": "La C\u00ef\u00bf\u00bdte-St-Andr\u00ef\u00bf\u00bd (Is\u00ef\u00bf\u00bdre)",
         "lastName": "Berton",
         "dateOfBirth": "09/05/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/28/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23409,7 +24709,8 @@ var birthplaces = {
         "Place of Birth": "Wodecq (Hainaut)",
         "lastName": "Blocq",
         "dateOfBirth": "12/21/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/01/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23427,7 +24728,8 @@ var birthplaces = {
         "Place of Birth": "Elg\u00ef\u00bf\u00bdibar (Guip\u00ef\u00bf\u00bdzcoa)",
         "lastName": "Iturrioz",
         "dateOfBirth": "12/07/1833",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/02/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23445,7 +24747,8 @@ var birthplaces = {
         "Place of Birth": "Innsbruck",
         "lastName": "Malfatti",
         "dateOfBirth": "08/15/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/04/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23463,7 +24766,8 @@ var birthplaces = {
         "Place of Birth": "Salzig (Rheinland)",
         "lastName": "Gras",
         "dateOfBirth": "04/16/1843",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/08/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23481,7 +24785,8 @@ var birthplaces = {
         "Place of Birth": "Ch\u00ef\u00bf\u00bdrisey (Moselle)",
         "lastName": "Bronne",
         "dateOfBirth": "06/14/1859",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/11/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23499,7 +24804,8 @@ var birthplaces = {
         "Place of Birth": "Louroux, par. St-Priest (Creuse)",
         "lastName": "de Bar",
         "dateOfBirth": "09/19/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/11/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23517,7 +24823,8 @@ var birthplaces = {
         "Place of Birth": "Aurach, O.\u00ef\u00bf\u00bd",
         "lastName": "Hoeller",
         "dateOfBirth": "06/17/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/11/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23535,7 +24842,8 @@ var birthplaces = {
         "Place of Birth": "Gambatesa (Campobasso)",
         "lastName": "Berardinelli",
         "dateOfBirth": "06/16/1816",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/13/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23553,7 +24861,8 @@ var birthplaces = {
         "Place of Birth": "Racale (Lecce)",
         "lastName": "Vitale",
         "dateOfBirth": "03/17/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/14/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23571,7 +24880,8 @@ var birthplaces = {
         "Place of Birth": "Nowy Sacz",
         "lastName": "W\u00ef\u00bf\u00bdjcikowski",
         "dateOfBirth": "06/09/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/14/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23589,7 +24899,8 @@ var birthplaces = {
         "Place of Birth": "Gudia (Malta)",
         "lastName": "Azzopradi",
         "dateOfBirth": "05/05/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/14/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23607,7 +24918,8 @@ var birthplaces = {
         "Place of Birth": "Aubers (Nord)",
         "lastName": "Cordonnier",
         "dateOfBirth": "12/22/1803",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/15/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23625,7 +24937,8 @@ var birthplaces = {
         "Place of Birth": "Diersbach, O.\u00ef\u00bf\u00bd.",
         "lastName": "Hoeller",
         "dateOfBirth": "06/26/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/15/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23643,7 +24956,8 @@ var birthplaces = {
         "Place of Birth": "Monasterio (Burgos)",
         "lastName": "Colina",
         "dateOfBirth": "01/21/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/16/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23661,7 +24975,8 @@ var birthplaces = {
         "Place of Birth": "Olomouc (Morava)",
         "lastName": "Janalik",
         "dateOfBirth": "11/29/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/17/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23679,7 +24994,8 @@ var birthplaces = {
         "Place of Birth": "Noriglio (Roveredo)",
         "lastName": "Fontana",
         "dateOfBirth": "03/05/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/18/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23697,7 +25013,8 @@ var birthplaces = {
         "Place of Birth": "Tosa (Gerona)",
         "lastName": "Mor\u00ef\u00bf\u00bd",
         "dateOfBirth": "01/13/1838",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/19/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23715,7 +25032,8 @@ var birthplaces = {
         "Place of Birth": "L\u00ef\u00bf\u00bdrida",
         "lastName": "Freixes",
         "dateOfBirth": "01/01/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/22/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23733,7 +25051,8 @@ var birthplaces = {
         "Place of Birth": "Burgberg (W\u00ef\u00bf\u00bdrtemberg)",
         "lastName": "Brenner",
         "dateOfBirth": "02/10/1851",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/24/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23751,7 +25070,8 @@ var birthplaces = {
         "Place of Birth": "St-Herblain (Loire-A)",
         "lastName": "de R\u00ef\u00bf\u00bdgnon",
         "dateOfBirth": "10/10/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/26/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23769,7 +25089,8 @@ var birthplaces = {
         "Place of Birth": "Mishawak, Ind.",
         "lastName": "Jenn",
         "dateOfBirth": "03/23/1871",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/27/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23787,7 +25108,8 @@ var birthplaces = {
         "Place of Birth": "H\u00ef\u00bf\u00bdrsching, O.\u00ef\u00bf\u00bd.",
         "lastName": "Ranzmaier",
         "dateOfBirth": "03/13/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/30/1893"
       },
       "geometry": {
         "type": "Point",
@@ -23805,7 +25127,8 @@ var birthplaces = {
         "Place of Birth": "Partinico (Palermo)",
         "lastName": "Lovasco",
         "dateOfBirth": "07/02/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/02/1894"
       },
       "geometry": {
         "type": "Point",
@@ -23823,7 +25146,8 @@ var birthplaces = {
         "Place of Birth": "Chiavari (Genova)",
         "lastName": "Coari",
         "dateOfBirth": "09/14/1810",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/04/1894"
       },
       "geometry": {
         "type": "Point",
@@ -23841,7 +25165,8 @@ var birthplaces = {
         "Place of Birth": "R\u00ef\u00bf\u00bdgil (Guip\u00ef\u00bf\u00bdzcoa)",
         "lastName": "Aguerreche",
         "dateOfBirth": "09/23/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/05/1894"
       },
       "geometry": {
         "type": "Point",
@@ -23859,7 +25184,8 @@ var birthplaces = {
         "Place of Birth": "St-S\u00ef\u00bf\u00bdbastien, Qu\u00ef\u00bf\u00bd.",
         "lastName": "Couture",
         "dateOfBirth": "03/20/1865",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/06/1894"
       },
       "geometry": {
         "type": "Point",
@@ -23877,7 +25203,8 @@ var birthplaces = {
         "Place of Birth": "Radolfzell (Baden)",
         "lastName": "Kressibuch",
         "dateOfBirth": "01/09/1860",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/07/1894"
       },
       "geometry": {
         "type": "Point",
@@ -23895,7 +25222,8 @@ var birthplaces = {
         "Place of Birth": "Bingelraade (Limburg)",
         "lastName": "Sch\u00ef\u00bf\u00bdnen",
         "dateOfBirth": "03/18/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/07/1894"
       },
       "geometry": {
         "type": "Point",
@@ -23913,7 +25241,8 @@ var birthplaces = {
         "Place of Birth": "Reusel (N-Brabant)",
         "lastName": "Moonen",
         "dateOfBirth": "07/28/1845",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/08/1894"
       },
       "geometry": {
         "type": "Point",
@@ -23931,7 +25260,8 @@ var birthplaces = {
         "Place of Birth": "Hatfield-Peverell (Essex)",
         "lastName": "Walford",
         "dateOfBirth": "03/27/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/09/1894"
       },
       "geometry": {
         "type": "Point",
@@ -23949,7 +25279,8 @@ var birthplaces = {
         "Place of Birth": "Karikal (dc Trivandren)",
         "lastName": "Amirdanader",
         "dateOfBirth": "09/04/1853",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/10/1894"
       },
       "geometry": {
         "type": "Point",
@@ -23967,7 +25298,8 @@ var birthplaces = {
         "Place of Birth": "Azcoitia",
         "lastName": "Garate",
         "dateOfBirth": "05/19/1870",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/10/1894"
       },
       "geometry": {
         "type": "Point",
@@ -23985,7 +25317,8 @@ var birthplaces = {
         "Place of Birth": "St-Laurent-en-Grandvaux (Jura)",
         "lastName": "Besson",
         "dateOfBirth": "01/21/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/11/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24003,7 +25336,8 @@ var birthplaces = {
         "Place of Birth": "St-Nicolas (Fl Or)",
         "lastName": "de Wolf",
         "dateOfBirth": "09/17/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/11/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24021,7 +25355,8 @@ var birthplaces = {
         "Place of Birth": "Alost",
         "lastName": "de Loose",
         "dateOfBirth": "10/28/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/12/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24039,7 +25374,8 @@ var birthplaces = {
         "Place of Birth": "San Sebasti\u00ef\u00bf\u00bdn",
         "lastName": "Azarola",
         "dateOfBirth": "12/20/1841",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/14/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24057,7 +25393,8 @@ var birthplaces = {
         "Place of Birth": "Clermont (Puy-de-D)",
         "lastName": "Servier",
         "dateOfBirth": "07/02/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/14/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24075,7 +25412,8 @@ var birthplaces = {
         "Place of Birth": "Losinj (Croatie)",
         "lastName": "Budinich",
         "dateOfBirth": "02/15/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/15/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24093,7 +25431,8 @@ var birthplaces = {
         "Place of Birth": "Tydavnet (Monaghan)",
         "lastName": "Macelroy",
         "dateOfBirth": "05/01/1812",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/15/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24111,7 +25450,8 @@ var birthplaces = {
         "Place of Birth": "Livron (Dr\u00ef\u00bf\u00bdme)",
         "lastName": "Courtois",
         "dateOfBirth": "12/12/1846",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/18/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24129,7 +25469,8 @@ var birthplaces = {
         "Place of Birth": "Anvers",
         "lastName": "van Eeckhoven",
         "dateOfBirth": "07/16/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/18/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24147,7 +25488,8 @@ var birthplaces = {
         "Place of Birth": "F\u00ef\u00bf\u00bdternes (Savoie)",
         "lastName": "Bougeon",
         "dateOfBirth": "08/01/1804",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/22/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24165,7 +25507,8 @@ var birthplaces = {
         "Place of Birth": "Cagliari",
         "lastName": "Vincenti",
         "dateOfBirth": "01/06/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/22/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24183,7 +25526,8 @@ var birthplaces = {
         "Place of Birth": "St-Julien-Molhesabate (H-Loire)",
         "lastName": "Fayard",
         "dateOfBirth": "09/01/1869",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/22/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24201,7 +25545,8 @@ var birthplaces = {
         "Place of Birth": "St-James (Manche)",
         "lastName": "Bailleul",
         "dateOfBirth": "04/01/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/23/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24219,7 +25564,8 @@ var birthplaces = {
         "Place of Birth": "Matarello (Trento)",
         "lastName": "Gentili",
         "dateOfBirth": "08/22/1865",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/24/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24237,7 +25583,8 @@ var birthplaces = {
         "Place of Birth": "Dinan (C\u00ef\u00bf\u00bdtes-du-N)",
         "lastName": "Bazin",
         "dateOfBirth": "11/25/1803",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/26/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24255,7 +25602,8 @@ var birthplaces = {
         "Place of Birth": "Palma de Mallorca",
         "lastName": "Llad\u00ef\u00bf\u00bd",
         "dateOfBirth": "04/14/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/28/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24273,7 +25621,8 @@ var birthplaces = {
         "Place of Birth": "Gross-Neudorf, Opole",
         "lastName": "Boeger",
         "dateOfBirth": "10/06/1852",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/30/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24291,7 +25640,8 @@ var birthplaces = {
         "Place of Birth": "Terre-Bonne, La.",
         "lastName": "Boudreaux",
         "dateOfBirth": "05/22/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/30/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24309,7 +25659,8 @@ var birthplaces = {
         "Place of Birth": "Smolnik (Sl. sko)",
         "lastName": "Czimmermann",
         "dateOfBirth": "03/13/1849",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/31/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24327,7 +25678,8 @@ var birthplaces = {
         "Place of Birth": "Laer (M\u00ef\u00bf\u00bdnster)",
         "lastName": "Temming",
         "dateOfBirth": "02/29/1856",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/31/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24345,7 +25697,8 @@ var birthplaces = {
         "Place of Birth": "Ber\u00ef\u00bf\u00bdstegui (Guip\u00ef\u00bf\u00bdzcoa)",
         "lastName": "Garciarena",
         "dateOfBirth": "03/24/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/02/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24363,7 +25716,8 @@ var birthplaces = {
         "Place of Birth": "Calpan, Pue.",
         "lastName": "Velazquez",
         "dateOfBirth": "11/17/1859",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/03/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24381,7 +25735,8 @@ var birthplaces = {
         "Place of Birth": "Faenza (Ravenna)",
         "lastName": "Bellenghi",
         "dateOfBirth": "08/20/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/04/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24399,7 +25754,8 @@ var birthplaces = {
         "Place of Birth": "Mainz (Rheinland)",
         "lastName": "Holzem",
         "dateOfBirth": "05/08/1839",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/06/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24417,7 +25773,8 @@ var birthplaces = {
         "Place of Birth": "Monagear (pr Clone Wexford)",
         "lastName": "Murphy",
         "dateOfBirth": "03/17/1853",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/07/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24435,7 +25792,8 @@ var birthplaces = {
         "Place of Birth": "Pleyben (Finistere)",
         "lastName": "Le Moal",
         "dateOfBirth": "12/12/1843",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/07/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24453,7 +25811,8 @@ var birthplaces = {
         "Place of Birth": "Hilversum (N-Brabant)",
         "lastName": "Fennis",
         "dateOfBirth": "12/27/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/08/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24471,7 +25830,8 @@ var birthplaces = {
         "Place of Birth": "Almodovar del Campo (Ciudad Real)",
         "lastName": "Delgado",
         "dateOfBirth": "10/15/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/09/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24489,7 +25849,8 @@ var birthplaces = {
         "Place of Birth": "Anvers",
         "lastName": "Van De Weyer",
         "dateOfBirth": "02/24/1848",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/10/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24507,7 +25868,8 @@ var birthplaces = {
         "Place of Birth": "Albens (Savoie)",
         "lastName": "Blanc",
         "dateOfBirth": "05/04/1816",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/10/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24525,7 +25887,8 @@ var birthplaces = {
         "Place of Birth": "Merin (Morava)",
         "lastName": "Kozeny",
         "dateOfBirth": "01/10/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/12/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24543,7 +25906,8 @@ var birthplaces = {
         "Place of Birth": "Liverpool",
         "lastName": "Picinich",
         "dateOfBirth": "09/04/1870",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/12/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24561,7 +25925,8 @@ var birthplaces = {
         "Place of Birth": "Marsous (H-Pyrenees)",
         "lastName": "Picou",
         "dateOfBirth": "10/13/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/14/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24579,7 +25944,8 @@ var birthplaces = {
         "Place of Birth": "Sariegos (Leon)",
         "lastName": "Gordon",
         "dateOfBirth": "03/27/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/14/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24597,7 +25963,8 @@ var birthplaces = {
         "Place of Birth": "Ploumillian (Cotes-du-N)",
         "lastName": "Dagorn",
         "dateOfBirth": "06/05/1841",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/17/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24615,7 +25982,8 @@ var birthplaces = {
         "Place of Birth": "Villeurbanne (Rhone)",
         "lastName": "Heritier",
         "dateOfBirth": "07/01/1845",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/17/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24633,7 +26001,8 @@ var birthplaces = {
         "Place of Birth": "Villanueva de Araquil (Navarra)",
         "lastName": "Aizcorbe",
         "dateOfBirth": "07/31/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/20/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24651,7 +26020,8 @@ var birthplaces = {
         "Place of Birth": "Salemi (Trapani)",
         "lastName": "Marino",
         "dateOfBirth": "09/21/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/20/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24669,7 +26039,8 @@ var birthplaces = {
         "Place of Birth": "Cavareno (Trento)",
         "lastName": "Borzaga",
         "dateOfBirth": "02/19/1844",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/21/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24687,7 +26058,8 @@ var birthplaces = {
         "Place of Birth": "Nort (Loire-A)",
         "lastName": "Riot",
         "dateOfBirth": "11/11/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/21/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24705,7 +26077,8 @@ var birthplaces = {
         "Place of Birth": "Rambla (Cordoba)",
         "lastName": "Cabello",
         "dateOfBirth": "09/04/1840",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/25/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24723,7 +26096,8 @@ var birthplaces = {
         "Place of Birth": "Arnhem (Gelderland)",
         "lastName": "de Bruyn",
         "dateOfBirth": "05/29/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/27/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24741,7 +26115,8 @@ var birthplaces = {
         "Place of Birth": "Roma",
         "lastName": "Belli",
         "dateOfBirth": "03/23/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/28/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24759,7 +26134,8 @@ var birthplaces = {
         "Place of Birth": "St-Agreve (Ardeche)",
         "lastName": "Deleage",
         "dateOfBirth": "07/24/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/01/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24777,7 +26153,8 @@ var birthplaces = {
         "Place of Birth": "Gerde (H-Pyrenees)",
         "lastName": "Lavigne",
         "dateOfBirth": "07/09/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/03/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24795,7 +26172,8 @@ var birthplaces = {
         "Place of Birth": "Courtomer (Orne)",
         "lastName": "Levillain",
         "dateOfBirth": "04/18/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/03/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24813,7 +26191,8 @@ var birthplaces = {
         "Place of Birth": "Schwyz",
         "lastName": "de Weber",
         "dateOfBirth": "09/09/1810",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/04/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24831,7 +26210,8 @@ var birthplaces = {
         "Place of Birth": "Batya (Bacs-Kiskun)",
         "lastName": "Nemeth",
         "dateOfBirth": "06/01/1859",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/05/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24849,7 +26229,8 @@ var birthplaces = {
         "Place of Birth": "Cincinnati",
         "lastName": "Votel",
         "dateOfBirth": "03/06/1853",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/06/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24867,7 +26248,8 @@ var birthplaces = {
         "Place of Birth": "Saugues (H-Loire)",
         "lastName": "Trincal",
         "dateOfBirth": "01/20/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/09/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24885,7 +26267,8 @@ var birthplaces = {
         "Place of Birth": "Arihuela",
         "lastName": "Canovas",
         "dateOfBirth": "10/12/1848",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/14/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24903,7 +26286,8 @@ var birthplaces = {
         "Place of Birth": "Marsens (Fribourg)",
         "lastName": "Magnin",
         "dateOfBirth": "05/13/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/14/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24921,7 +26305,8 @@ var birthplaces = {
         "Place of Birth": "Wiebelsheim (Rheinland)",
         "lastName": "Oppermann",
         "dateOfBirth": "03/03/1848",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/14/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24939,7 +26324,8 @@ var birthplaces = {
         "Place of Birth": "Ploudaniel (Finistere)",
         "lastName": "Gouriou",
         "dateOfBirth": "07/09/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/15/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24957,7 +26343,8 @@ var birthplaces = {
         "Place of Birth": "Mundeldingen (Wurtemburg)",
         "lastName": "Strahl",
         "dateOfBirth": "01/10/1849",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/15/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24975,7 +26362,8 @@ var birthplaces = {
         "Place of Birth": "San Pedro de Valldeneu (Barcelona)",
         "lastName": "Matheu",
         "dateOfBirth": "02/03/1872",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/17/1894"
       },
       "geometry": {
         "type": "Point",
@@ -24993,7 +26381,8 @@ var birthplaces = {
         "Place of Birth": "Leest (Anvers)",
         "lastName": "Moons",
         "dateOfBirth": "01/23/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": NaN
       },
       "geometry": {
         "type": "Point",
@@ -25011,7 +26400,8 @@ var birthplaces = {
         "Place of Birth": "Rush (Dublin)",
         "lastName": "Maguire",
         "dateOfBirth": "03/19/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/18/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25029,7 +26419,8 @@ var birthplaces = {
         "Place of Birth": "Richmond, Minn.",
         "lastName": "Simonitsch",
         "dateOfBirth": "12/03/1875",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/19/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25047,7 +26438,8 @@ var birthplaces = {
         "Place of Birth": "Zar\u00ef\u00bf\u00bduz (Guip\u00ef\u00bf\u00bdzcoa)",
         "lastName": "Echave",
         "dateOfBirth": "05/06/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/24/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25065,7 +26457,8 @@ var birthplaces = {
         "Place of Birth": "Gorges (Manche)",
         "lastName": "Brotelande",
         "dateOfBirth": "10/25/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/26/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25083,7 +26476,8 @@ var birthplaces = {
         "Place of Birth": "Montevideo (Rocha)",
         "lastName": "Terra",
         "dateOfBirth": "05/30/1874",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/27/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25101,7 +26495,8 @@ var birthplaces = {
         "Place of Birth": "Araches (H-Savoie)",
         "lastName": "Plantaz",
         "dateOfBirth": "02/23/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/28/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25119,7 +26514,8 @@ var birthplaces = {
         "Place of Birth": "St-Ch\u00ef\u00bf\u00bdly-d'Apcher (Loz\u00ef\u00bf\u00bdre)",
         "lastName": "Biron",
         "dateOfBirth": "01/21/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/30/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25137,7 +26533,8 @@ var birthplaces = {
         "Place of Birth": "St-Omer (Pas-de-C)",
         "lastName": "de Lage",
         "dateOfBirth": "06/03/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/30/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25155,7 +26552,8 @@ var birthplaces = {
         "Place of Birth": "Tolosa (Guip\u00ef\u00bf\u00bdzcoa)",
         "lastName": "Egu\u00ef\u00bf\u00bdluz",
         "dateOfBirth": "12/14/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/30/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25173,7 +26571,8 @@ var birthplaces = {
         "Place of Birth": "Stara Wies",
         "lastName": "Pyra",
         "dateOfBirth": "03/19/1836",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/31/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25191,7 +26590,8 @@ var birthplaces = {
         "Place of Birth": "Feldkirch",
         "lastName": "Ilg",
         "dateOfBirth": "07/17/1808",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/02/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25209,7 +26609,8 @@ var birthplaces = {
         "Place of Birth": "Villanueva de Ador (Valencia)",
         "lastName": "Estruch",
         "dateOfBirth": "10/25/1856",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/04/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25227,7 +26628,8 @@ var birthplaces = {
         "Place of Birth": "Paris",
         "lastName": "Esteve",
         "dateOfBirth": "06/23/1805",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/06/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25245,7 +26647,8 @@ var birthplaces = {
         "Place of Birth": "Nonantola (Modena)",
         "lastName": "Vaccari",
         "dateOfBirth": "02/17/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/07/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25263,7 +26666,8 @@ var birthplaces = {
         "Place of Birth": "Bremgarten (Aargau)",
         "lastName": "Dosenbach",
         "dateOfBirth": "08/24/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/09/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25281,7 +26685,8 @@ var birthplaces = {
         "Place of Birth": "Ijsselstein (Utrecht)",
         "lastName": "Van den Anker",
         "dateOfBirth": "07/16/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/09/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25299,7 +26704,8 @@ var birthplaces = {
         "Place of Birth": "Curieres (Aveyron)",
         "lastName": "Viguier",
         "dateOfBirth": "10/13/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/11/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25317,7 +26723,8 @@ var birthplaces = {
         "Place of Birth": "Flassa (Gerona)",
         "lastName": "Costa",
         "dateOfBirth": "10/11/1806",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/12/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25335,7 +26742,8 @@ var birthplaces = {
         "Place of Birth": "Pondichery",
         "lastName": "Dayriam",
         "dateOfBirth": "04/12/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/12/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25353,7 +26761,8 @@ var birthplaces = {
         "Place of Birth": "Utrecht",
         "lastName": "Van Kuik",
         "dateOfBirth": "09/12/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/13/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25371,7 +26780,8 @@ var birthplaces = {
         "Place of Birth": "Valtierra (Navarra)",
         "lastName": "Aramend\u00ef\u00bf\u00bda",
         "dateOfBirth": "02/10/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/17/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25389,7 +26799,8 @@ var birthplaces = {
         "Place of Birth": "Tipperary",
         "lastName": "Molloy",
         "dateOfBirth": "01/06/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/18/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25407,7 +26818,8 @@ var birthplaces = {
         "Place of Birth": "Reggio Calabria",
         "lastName": "Spinelli",
         "dateOfBirth": "02/23/1857",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/18/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25425,7 +26837,8 @@ var birthplaces = {
         "Place of Birth": "St-Barth\u00ef\u00bf\u00bdlemy (B-Alpes)",
         "lastName": "L\u00ef\u00bf\u00bdautier",
         "dateOfBirth": "08/20/1840",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/19/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25443,7 +26856,8 @@ var birthplaces = {
         "Place of Birth": "San Savino (Cremona)",
         "lastName": "Parizzi",
         "dateOfBirth": "04/06/1857",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/19/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25461,7 +26875,8 @@ var birthplaces = {
         "Place of Birth": "Caprycke (Fl Or)",
         "lastName": "Van Vooren",
         "dateOfBirth": "02/11/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/20/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25479,7 +26894,8 @@ var birthplaces = {
         "Place of Birth": "Cerignola (Foggia)",
         "lastName": "Palumbo",
         "dateOfBirth": "11/10/1871",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/21/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25497,7 +26913,8 @@ var birthplaces = {
         "Place of Birth": "Kazan; RSFSR",
         "lastName": "Martinov",
         "dateOfBirth": "10/07/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/26/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25515,7 +26932,8 @@ var birthplaces = {
         "Place of Birth": "Sart\u00ef\u00bf\u00bdne (Corse)",
         "lastName": "Pietri",
         "dateOfBirth": "11/08/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/03/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25533,7 +26951,8 @@ var birthplaces = {
         "Place of Birth": "Dublin",
         "lastName": "O'Connor",
         "dateOfBirth": "12/01/1843",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/05/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25551,7 +26970,8 @@ var birthplaces = {
         "Place of Birth": "Allerton (York)",
         "lastName": "Young",
         "dateOfBirth": "01/24/1829",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/07/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25569,7 +26989,8 @@ var birthplaces = {
         "Place of Birth": "Milwaukee",
         "lastName": "Duggan",
         "dateOfBirth": "06/01/1859",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/09/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25587,7 +27008,8 @@ var birthplaces = {
         "Place of Birth": "Liverpool",
         "lastName": "Scott",
         "dateOfBirth": "01/26/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/11/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25605,7 +27027,8 @@ var birthplaces = {
         "Place of Birth": "Amsterdam",
         "lastName": "van Schaijik",
         "dateOfBirth": "05/27/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/11/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25623,7 +27046,8 @@ var birthplaces = {
         "Place of Birth": "*Curragh Camp (Kildare)",
         "lastName": "Griffin",
         "dateOfBirth": "11/19/1861",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/12/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25641,7 +27065,8 @@ var birthplaces = {
         "Place of Birth": "*Bally Mac Cullom (Donegal)",
         "lastName": "Gallagher",
         "dateOfBirth": "05/15/1845",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/13/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25659,7 +27084,8 @@ var birthplaces = {
         "Place of Birth": "Roma",
         "lastName": "Tortolini",
         "dateOfBirth": "09/14/1810",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/14/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25677,7 +27103,8 @@ var birthplaces = {
         "Place of Birth": "Gonzeville (Seine-M)",
         "lastName": "Bonay",
         "dateOfBirth": "06/28/1875",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/14/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25695,7 +27122,8 @@ var birthplaces = {
         "Place of Birth": "Nocera de' Pagani (Salerno)",
         "lastName": "Angrisani",
         "dateOfBirth": "11/03/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/16/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25713,7 +27141,8 @@ var birthplaces = {
         "Place of Birth": "Herenthals (Anvers)",
         "lastName": "Leysen",
         "dateOfBirth": "08/29/1836",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/17/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25731,7 +27160,8 @@ var birthplaces = {
         "Place of Birth": "Eicks (Rheinland)",
         "lastName": "Keller",
         "dateOfBirth": "01/22/1862",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/23/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25749,7 +27179,8 @@ var birthplaces = {
         "Place of Birth": "Ternopol; USSR",
         "lastName": "Wagilewiecz",
         "dateOfBirth": "01/18/1864",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/25/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25767,7 +27198,8 @@ var birthplaces = {
         "Place of Birth": "Fourmies (Nord)",
         "lastName": "Bontemps",
         "dateOfBirth": "09/23/1858",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/27/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25785,7 +27217,8 @@ var birthplaces = {
         "Place of Birth": "Settimo San Pietro (Cagliari)",
         "lastName": "Lussu",
         "dateOfBirth": "11/19/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/05/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25803,7 +27236,8 @@ var birthplaces = {
         "Place of Birth": "Barcelona",
         "lastName": "de Gibert",
         "dateOfBirth": "12/01/1864",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/06/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25821,7 +27255,8 @@ var birthplaces = {
         "Place of Birth": "Hettingen (Hohenzollern)",
         "lastName": "Schneider",
         "dateOfBirth": "02/13/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/08/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25839,7 +27274,8 @@ var birthplaces = {
         "Place of Birth": "Reus (Tarragona)",
         "lastName": "Salvad\u00ef\u00bf\u00bd",
         "dateOfBirth": "03/10/1836",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/09/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25857,7 +27293,8 @@ var birthplaces = {
         "Place of Birth": "Cumiana (Torino)",
         "lastName": "Raimondo",
         "dateOfBirth": "10/25/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/09/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25875,7 +27312,8 @@ var birthplaces = {
         "Place of Birth": "Lucca",
         "lastName": "Provenzali",
         "dateOfBirth": "06/15/1815",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/10/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25893,7 +27331,8 @@ var birthplaces = {
         "Place of Birth": "Arpajon (Cantal)",
         "lastName": "Boyssou",
         "dateOfBirth": "12/19/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/11/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25911,7 +27350,8 @@ var birthplaces = {
         "Place of Birth": "Trnava",
         "lastName": "Richter",
         "dateOfBirth": "07/04/1872",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/11/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25929,7 +27369,8 @@ var birthplaces = {
         "Place of Birth": "Wyler (Lotschenchthal, Valais)",
         "lastName": "Rieder",
         "dateOfBirth": "06/18/1857",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/11/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25947,7 +27388,8 @@ var birthplaces = {
         "Place of Birth": "Baliard (Ariege)",
         "lastName": "Delort",
         "dateOfBirth": "09/14/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/13/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25965,7 +27407,8 @@ var birthplaces = {
         "Place of Birth": "Vossem (Brabant)",
         "lastName": "Belym",
         "dateOfBirth": "01/04/1844",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/14/1894"
       },
       "geometry": {
         "type": "Point",
@@ -25983,7 +27426,8 @@ var birthplaces = {
         "Place of Birth": "Arnhem",
         "lastName": "Mulder",
         "dateOfBirth": "09/08/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/16/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26001,7 +27445,8 @@ var birthplaces = {
         "Place of Birth": "Gent",
         "lastName": "Hogger",
         "dateOfBirth": "06/15/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/17/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26019,7 +27464,8 @@ var birthplaces = {
         "Place of Birth": "Bogota",
         "lastName": "Borda",
         "dateOfBirth": "07/22/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/18/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26037,7 +27483,8 @@ var birthplaces = {
         "Place of Birth": "Manresa",
         "lastName": "Balaguer",
         "dateOfBirth": "12/27/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/21/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26055,7 +27502,8 @@ var birthplaces = {
         "Place of Birth": "Castandet (Landes)",
         "lastName": "Cadillon",
         "dateOfBirth": "10/27/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/22/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26073,7 +27521,8 @@ var birthplaces = {
         "Place of Birth": "Bailleul (Nord)",
         "lastName": "De Heere",
         "dateOfBirth": "08/27/1810",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/25/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26091,7 +27540,8 @@ var birthplaces = {
         "Place of Birth": "Umpeau (Eure-et-L)",
         "lastName": "Ouellard",
         "dateOfBirth": "10/31/1836",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/25/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26109,7 +27559,8 @@ var birthplaces = {
         "Place of Birth": "Apremont (Savoie)",
         "lastName": "Viboux",
         "dateOfBirth": "03/17/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/28/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26127,7 +27578,8 @@ var birthplaces = {
         "Place of Birth": "St-Marcel (H-Sa\u00ef\u00bf\u00bdne)",
         "lastName": "Jacottin",
         "dateOfBirth": "11/08/1840",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/30/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26145,7 +27597,8 @@ var birthplaces = {
         "Place of Birth": "S. Pietro in Valle Aurina (Bolzano)",
         "lastName": "Hofer",
         "dateOfBirth": "06/27/1843",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/06/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26163,7 +27616,8 @@ var birthplaces = {
         "Place of Birth": "St Helen's (Lancashire)",
         "lastName": "Cooper",
         "dateOfBirth": "05/29/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/14/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26181,7 +27635,8 @@ var birthplaces = {
         "Place of Birth": "Naas (Kildare)",
         "lastName": "Lawless",
         "dateOfBirth": "01/04/1829",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/15/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26199,7 +27654,8 @@ var birthplaces = {
         "Place of Birth": "Sta Coloma de Centelles (Barcelona)",
         "lastName": "Dalm\u00ef\u00bf\u00bdu",
         "dateOfBirth": "02/15/1829",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/22/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26217,7 +27673,8 @@ var birthplaces = {
         "Place of Birth": "Wormeldange (Gr. D. de Luxembourg)",
         "lastName": "Schmit",
         "dateOfBirth": "08/04/1848",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/22/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26235,7 +27692,8 @@ var birthplaces = {
         "Place of Birth": "Halberbracht (Westfalen)",
         "lastName": "Behme",
         "dateOfBirth": "01/16/1862",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "07/26/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26253,7 +27711,8 @@ var birthplaces = {
         "Place of Birth": "Genova",
         "lastName": "Piccolo",
         "dateOfBirth": "11/08/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/03/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26271,7 +27730,8 @@ var birthplaces = {
         "Place of Birth": "Tayac (Aveyron)",
         "lastName": "Rey",
         "dateOfBirth": "05/25/1828",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/04/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26289,7 +27749,8 @@ var birthplaces = {
         "Place of Birth": "Bosas (Ard\u00ef\u00bf\u00bdche)",
         "lastName": "Daronat",
         "dateOfBirth": "04/14/1846",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/04/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26307,7 +27768,8 @@ var birthplaces = {
         "Place of Birth": "Tillac (Gers)",
         "lastName": "Matharan",
         "dateOfBirth": "03/26/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "06/05/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26325,7 +27787,8 @@ var birthplaces = {
         "Place of Birth": "Avent (Valais)",
         "lastName": "Sauthi\u00ef\u00bf\u00bd",
         "dateOfBirth": "11/08/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/07/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26343,7 +27806,8 @@ var birthplaces = {
         "Place of Birth": "Mainz (Rheinland)",
         "lastName": "Genelli",
         "dateOfBirth": "02/12/1857",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/08/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26361,7 +27825,8 @@ var birthplaces = {
         "Place of Birth": "Rasueros (\u00ef\u00bf\u00bdvila)",
         "lastName": "Velasco",
         "dateOfBirth": "05/15/1875",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/09/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26379,7 +27844,8 @@ var birthplaces = {
         "Place of Birth": "Gr\u00ef\u00bf\u00bdfenhausen (Baden)",
         "lastName": "H\u00ef\u00bf\u00bdfele",
         "dateOfBirth": "02/19/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/09/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26397,7 +27863,8 @@ var birthplaces = {
         "Place of Birth": "Cervera (L\u00ef\u00bf\u00bdrida)",
         "lastName": "Pujol",
         "dateOfBirth": "02/09/1852",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/10/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26415,7 +27882,8 @@ var birthplaces = {
         "Place of Birth": "Vercelli (Novara)",
         "lastName": "(Arborio) Mella",
         "dateOfBirth": "02/13/1828",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/12/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26433,7 +27901,8 @@ var birthplaces = {
         "Place of Birth": "Essen (Rheinland)",
         "lastName": "Tewes",
         "dateOfBirth": "11/13/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/14/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26451,7 +27920,8 @@ var birthplaces = {
         "Place of Birth": "Lacalm (Aveyron)",
         "lastName": "Mestre",
         "dateOfBirth": "02/14/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/15/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26469,7 +27939,8 @@ var birthplaces = {
         "Place of Birth": "Flandre",
         "lastName": "de Smedt",
         "dateOfBirth": "04/14/1869",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/16/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26487,7 +27958,8 @@ var birthplaces = {
         "Place of Birth": "Bailleul (Nord)",
         "lastName": "Liefooghe",
         "dateOfBirth": "05/22/1857",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/17/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26505,7 +27977,8 @@ var birthplaces = {
         "Place of Birth": "Marcinelle (Hainaut)",
         "lastName": "Bierny",
         "dateOfBirth": "12/31/1874",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/17/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26523,7 +27996,8 @@ var birthplaces = {
         "Place of Birth": "St-\u00ef\u00bf\u00bdtienne",
         "lastName": "Mounier",
         "dateOfBirth": "11/19/1850",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/18/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26541,7 +28015,8 @@ var birthplaces = {
         "Place of Birth": "L'Assomption, Qu\u00ef\u00bf\u00bd.",
         "lastName": "Vaillant",
         "dateOfBirth": "12/08/1871",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/19/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26559,7 +28034,8 @@ var birthplaces = {
         "Place of Birth": "Neuenkirchen (Westfalen)",
         "lastName": "Epping",
         "dateOfBirth": "12/01/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/22/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26577,7 +28053,8 @@ var birthplaces = {
         "Place of Birth": "Moyvally (Kildare)",
         "lastName": "Killian",
         "dateOfBirth": "04/15/1809",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/24/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26595,7 +28072,8 @@ var birthplaces = {
         "Place of Birth": "Prades (Pyr\u00ef\u00bf\u00bdn\u00ef\u00bf\u00bdes-Or)",
         "lastName": "Pal\u00ef\u00bf\u00bdu",
         "dateOfBirth": "04/18/1874",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "08/25/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26613,7 +28091,8 @@ var birthplaces = {
         "Place of Birth": "Geseke (Westfalen)",
         "lastName": "Menke",
         "dateOfBirth": "03/02/1812",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/02/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26631,7 +28110,8 @@ var birthplaces = {
         "Place of Birth": "Napoli",
         "lastName": "Amato",
         "dateOfBirth": "05/26/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/05/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26649,7 +28129,8 @@ var birthplaces = {
         "Place of Birth": "Sta Cruz de Campezo",
         "lastName": "R\u00ef\u00bf\u00bdmon",
         "dateOfBirth": "11/28/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/06/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26667,7 +28148,8 @@ var birthplaces = {
         "Place of Birth": "Roma",
         "lastName": "Valle",
         "dateOfBirth": "10/16/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/07/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26685,7 +28167,8 @@ var birthplaces = {
         "Place of Birth": "Ferentino (Roma)",
         "lastName": "Bianchi",
         "dateOfBirth": "01/28/1848",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/07/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26703,7 +28186,8 @@ var birthplaces = {
         "Place of Birth": "Ideikkattur (dc Madhuraien)",
         "lastName": "Saverimutu",
         "dateOfBirth": "03/28/1850",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/11/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26721,7 +28205,8 @@ var birthplaces = {
         "Place of Birth": "Estavayer-le-Lac",
         "lastName": "Chaney",
         "dateOfBirth": "07/23/1815",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/14/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26739,7 +28224,8 @@ var birthplaces = {
         "Place of Birth": "Lisboa",
         "lastName": "Nunes",
         "dateOfBirth": "02/04/1849",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/15/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26757,7 +28243,8 @@ var birthplaces = {
         "Place of Birth": "Matadepera (Barcelona)",
         "lastName": "Torrella",
         "dateOfBirth": "12/08/1854",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/17/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26775,7 +28262,8 @@ var birthplaces = {
         "Place of Birth": "Forl\u00ef\u00bf\u00bd",
         "lastName": "Mazza",
         "dateOfBirth": "03/12/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/18/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26793,7 +28281,8 @@ var birthplaces = {
         "Place of Birth": "Wodecq (Hainaut)",
         "lastName": "Barbieux",
         "dateOfBirth": "04/23/1816",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/18/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26811,7 +28300,8 @@ var birthplaces = {
         "Place of Birth": "Landshut (Bayern)",
         "lastName": "Karlst\u00ef\u00bf\u00bdtter",
         "dateOfBirth": "03/23/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/20/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26829,7 +28319,8 @@ var birthplaces = {
         "Place of Birth": "Didam (Gelderland)",
         "lastName": "ter Laak",
         "dateOfBirth": "04/07/1870",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/22/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26847,7 +28338,8 @@ var birthplaces = {
         "Place of Birth": "St. Helens (Lancashire)",
         "lastName": "Murphy",
         "dateOfBirth": "08/06/1838",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/25/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26865,7 +28357,8 @@ var birthplaces = {
         "Place of Birth": "London",
         "lastName": "Dignam",
         "dateOfBirth": "05/08/1833",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/26/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26883,7 +28376,8 @@ var birthplaces = {
         "Place of Birth": "Caltanissetta",
         "lastName": "Labso",
         "dateOfBirth": "02/01/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/27/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26901,7 +28395,8 @@ var birthplaces = {
         "Place of Birth": "Escaunets (H-Pyr\u00ef\u00bf\u00bdn\u00ef\u00bf\u00bdes)",
         "lastName": "Guichot",
         "dateOfBirth": "07/28/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/27/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26919,7 +28414,8 @@ var birthplaces = {
         "Place of Birth": "Wipperfuerth (K\u00ef\u00bf\u00bdln)",
         "lastName": "Platzweg",
         "dateOfBirth": "03/04/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/30/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26937,7 +28433,8 @@ var birthplaces = {
         "Place of Birth": "Boston",
         "lastName": "Hilling",
         "dateOfBirth": "01/01/1875",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "09/30/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26955,7 +28452,8 @@ var birthplaces = {
         "Place of Birth": "Alba da Tormes (Salamanca)",
         "lastName": "S\u00ef\u00bf\u00bdnchez Teruel",
         "dateOfBirth": "12/04/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/01/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26973,7 +28471,8 @@ var birthplaces = {
         "Place of Birth": "Suchorzew, Pozn.",
         "lastName": "Szarama",
         "dateOfBirth": "01/27/1871",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/01/1894"
       },
       "geometry": {
         "type": "Point",
@@ -26991,7 +28490,8 @@ var birthplaces = {
         "Place of Birth": "Casci (Pavia)",
         "lastName": "Megazzini",
         "dateOfBirth": "03/31/1839",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/08/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27009,7 +28509,8 @@ var birthplaces = {
         "Place of Birth": "Callen (Landes)",
         "lastName": "Martinov",
         "dateOfBirth": "10/26/1828",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/09/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27027,7 +28528,8 @@ var birthplaces = {
         "Place of Birth": "Nachitoches, La.",
         "lastName": "Wets",
         "dateOfBirth": "01/30/1838",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/10/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27045,7 +28547,8 @@ var birthplaces = {
         "Place of Birth": "Bedouin (Vaucluse)",
         "lastName": "Imbert",
         "dateOfBirth": "01/20/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/10/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27063,7 +28566,8 @@ var birthplaces = {
         "Place of Birth": "Drumkeeran (Fermanagh)",
         "lastName": "Corrigan",
         "dateOfBirth": "05/02/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/11/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27081,7 +28585,8 @@ var birthplaces = {
         "Place of Birth": "Evreux (Eure)",
         "lastName": "de Cacqueray",
         "dateOfBirth": "02/19/1826",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/17/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27099,7 +28604,8 @@ var birthplaces = {
         "Place of Birth": "Roderen (H-Rhin)",
         "lastName": "Rebuschung",
         "dateOfBirth": "04/13/1825",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/17/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27117,7 +28623,8 @@ var birthplaces = {
         "Place of Birth": "Aizarna (Guip\u00ef\u00bf\u00bdzcoa)",
         "lastName": "Eguiburu",
         "dateOfBirth": "02/25/1872",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/21/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27135,7 +28642,8 @@ var birthplaces = {
         "Place of Birth": "Castelltersol (Barcelona)",
         "lastName": "Guardiet",
         "dateOfBirth": "11/28/1853",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/25/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27153,7 +28661,8 @@ var birthplaces = {
         "Place of Birth": "Thuer (Koblenz)",
         "lastName": "Eultgen",
         "dateOfBirth": "06/27/1833",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/29/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27171,7 +28680,8 @@ var birthplaces = {
         "Place of Birth": "San Severino (Macerata)",
         "lastName": "Ciotti",
         "dateOfBirth": "04/05/1815",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/30/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27189,7 +28699,8 @@ var birthplaces = {
         "Place of Birth": "Rennes (Ille-et-V)",
         "lastName": "Boulais",
         "dateOfBirth": "02/28/1843",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "10/31/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27207,7 +28718,8 @@ var birthplaces = {
         "Place of Birth": "Logelheim (H-Rhin)",
         "lastName": "Grosshoeny",
         "dateOfBirth": "02/02/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/01/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27225,7 +28737,8 @@ var birthplaces = {
         "Place of Birth": "pr Montgomery, Ala.",
         "lastName": "Duncan",
         "dateOfBirth": "10/19/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/02/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27243,7 +28756,8 @@ var birthplaces = {
         "Place of Birth": "Beaupr\u00ef\u00bf\u00bdau (Maine-et-L)",
         "lastName": "Pouplard",
         "dateOfBirth": "08/24/1839",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/06/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27261,7 +28775,8 @@ var birthplaces = {
         "Place of Birth": "Saverdun (Ari\u00ef\u00bf\u00bdge)",
         "lastName": "Roumieu",
         "dateOfBirth": "05/28/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/07/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27279,7 +28794,8 @@ var birthplaces = {
         "Place of Birth": "Castellvell (Barcelona)",
         "lastName": "Brunet",
         "dateOfBirth": "01/08/1853",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/09/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27297,7 +28813,8 @@ var birthplaces = {
         "Place of Birth": "Terheiden (N-Brabant)",
         "lastName": "van Lommel",
         "dateOfBirth": "10/03/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/10/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27315,7 +28832,8 @@ var birthplaces = {
         "Place of Birth": "Hamburg",
         "lastName": "Knoch",
         "dateOfBirth": "02/19/1872",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/10/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27333,7 +28851,8 @@ var birthplaces = {
         "Place of Birth": "Livorno",
         "lastName": "Burnside",
         "dateOfBirth": "11/23/1827",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/12/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27351,7 +28870,8 @@ var birthplaces = {
         "Place of Birth": "Oberbergheim (H-Rhin)",
         "lastName": "Ehrhard",
         "dateOfBirth": "07/25/1873",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/12/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27369,7 +28889,8 @@ var birthplaces = {
         "Place of Birth": "Martouzin (Namur)",
         "lastName": "Motet",
         "dateOfBirth": "03/20/1843",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/13/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27387,7 +28908,8 @@ var birthplaces = {
         "Place of Birth": "Whitehaven (Cumberland)",
         "lastName": "Starkey",
         "dateOfBirth": "04/13/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/20/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27405,7 +28927,8 @@ var birthplaces = {
         "Place of Birth": "Aya pr Orio (Guip\u00ef\u00bf\u00bdzcoa)",
         "lastName": "Embil",
         "dateOfBirth": "01/05/1842",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/21/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27423,7 +28946,8 @@ var birthplaces = {
         "Place of Birth": "St. Cuthbert (Berthier, Qu\u00ef\u00bf\u00bd)",
         "lastName": "Cuellet",
         "dateOfBirth": "12/22/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/26/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27441,7 +28965,8 @@ var birthplaces = {
         "Place of Birth": "Dunmore (Galway)",
         "lastName": "Macclelland",
         "dateOfBirth": "08/31/1865",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/28/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27459,7 +28984,8 @@ var birthplaces = {
         "Place of Birth": "Lohn (Rheinland)",
         "lastName": "Wolf",
         "dateOfBirth": "05/06/1894",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "11/30/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27477,7 +29003,8 @@ var birthplaces = {
         "Place of Birth": "Biekenhead (Cheshire)",
         "lastName": "Smallwood",
         "dateOfBirth": "05/11/1841",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/01/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27495,7 +29022,8 @@ var birthplaces = {
         "Place of Birth": "Windle (Lancashire)",
         "lastName": "Unsworth",
         "dateOfBirth": "07/15/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/01/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27513,7 +29041,8 @@ var birthplaces = {
         "Place of Birth": "Koblenz",
         "lastName": "Pottgeisser",
         "dateOfBirth": "03/10/1813",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/02/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27531,7 +29060,8 @@ var birthplaces = {
         "Place of Birth": "Shk\u00ef\u00bf\u00bdder",
         "lastName": "Mala",
         "dateOfBirth": "10/06/1860",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/07/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27549,7 +29079,8 @@ var birthplaces = {
         "Place of Birth": "Genova",
         "lastName": "Di Negro",
         "dateOfBirth": "03/08/1815",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/12/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27567,7 +29098,8 @@ var birthplaces = {
         "Place of Birth": "Daimiel (Ciudad Real)",
         "lastName": "Molina",
         "dateOfBirth": "10/14/1840",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/13/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27585,7 +29117,8 @@ var birthplaces = {
         "Place of Birth": "Torino",
         "lastName": "Bovo",
         "dateOfBirth": "07/17/1862",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/14/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27603,7 +29136,8 @@ var birthplaces = {
         "Place of Birth": "Vitoria (\u00ef\u00bf\u00bdlava)",
         "lastName": "Garc\u00ef\u00bf\u00bda Fresca",
         "dateOfBirth": "08/24/1831",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/15/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27621,7 +29155,8 @@ var birthplaces = {
         "Place of Birth": "Sampigny (Sa\u00ef\u00bf\u00bdne-et-L)",
         "lastName": "Gautrelet",
         "dateOfBirth": "06/27/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/20/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27639,7 +29174,8 @@ var birthplaces = {
         "Place of Birth": "St-Aubin (Jura)",
         "lastName": "Brelot",
         "dateOfBirth": "06/20/1836",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/22/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27657,7 +29193,8 @@ var birthplaces = {
         "Place of Birth": "Torre Caietani (Roma)",
         "lastName": "Lanzi",
         "dateOfBirth": "02/06/1858",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/24/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27675,7 +29212,8 @@ var birthplaces = {
         "Place of Birth": "Vallelunga (Caltanissetta)",
         "lastName": "Taglierini",
         "dateOfBirth": "06/19/896?",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/25/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27693,7 +29231,8 @@ var birthplaces = {
         "Place of Birth": "Borghetto Lodigiano (Milano)",
         "lastName": "Beretta",
         "dateOfBirth": "12/27/1817",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/27/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27711,7 +29250,8 @@ var birthplaces = {
         "Place of Birth": "Villeneuve (Torino)",
         "lastName": "Rosaire",
         "dateOfBirth": "07/24/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/28/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27729,7 +29269,8 @@ var birthplaces = {
         "Place of Birth": "Lavalette (par. Langogne, Loz\u00ef\u00bf\u00bdre)",
         "lastName": "Amblard",
         "dateOfBirth": "08/15/1844",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/28/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27747,7 +29288,8 @@ var birthplaces = {
         "Place of Birth": "Bernardsviller (Obeznai, B-Rhin)",
         "lastName": "Friedrich",
         "dateOfBirth": "03/18/1870",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/28/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27765,7 +29307,8 @@ var birthplaces = {
         "Place of Birth": "Gra\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdn (Logro\u00ef\u00bf\u00bdo)",
         "lastName": "Oca",
         "dateOfBirth": "02/08/1834",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/30/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27783,7 +29326,8 @@ var birthplaces = {
         "Place of Birth": "B\u00ef\u00bf\u00bdttelbronn (W\u00ef\u00bf\u00bdrtemberg)",
         "lastName": "Singer",
         "dateOfBirth": "01/22/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/31/1894"
       },
       "geometry": {
         "type": "Point",
@@ -27801,7 +29345,8 @@ var birthplaces = {
         "Place of Birth": "Seneffe (Hainaut)",
         "lastName": "Thomas",
         "dateOfBirth": "09/25/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/02/1895"
       },
       "geometry": {
         "type": "Point",
@@ -27819,7 +29364,8 @@ var birthplaces = {
         "Place of Birth": "Montblanch (Tarragona)",
         "lastName": "Ferrer",
         "dateOfBirth": "04/05/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/02/1895"
       },
       "geometry": {
         "type": "Point",
@@ -27837,7 +29383,8 @@ var birthplaces = {
         "Place of Birth": "Albaredo (Sondrio)",
         "lastName": "Carabini",
         "dateOfBirth": "02/02/1867",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/02/1895"
       },
       "geometry": {
         "type": "Point",
@@ -27855,7 +29402,8 @@ var birthplaces = {
         "Place of Birth": "Fontenelle-Montby (Doubs)",
         "lastName": "Rochelandet",
         "dateOfBirth": "02/14/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/03/1895"
       },
       "geometry": {
         "type": "Point",
@@ -27873,7 +29421,8 @@ var birthplaces = {
         "Place of Birth": "Rafelbunal (Valencia)",
         "lastName": "Bosso",
         "dateOfBirth": "05/23/1842",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/04/1895"
       },
       "geometry": {
         "type": "Point",
@@ -27891,7 +29440,8 @@ var birthplaces = {
         "Place of Birth": "La Borie",
         "lastName": "Issoulier",
         "dateOfBirth": "04/08/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/09/1895"
       },
       "geometry": {
         "type": "Point",
@@ -27909,7 +29459,8 @@ var birthplaces = {
         "Place of Birth": "Le Mazel",
         "lastName": "Ginhac",
         "dateOfBirth": "05/31/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/10/1895"
       },
       "geometry": {
         "type": "Point",
@@ -27927,7 +29478,8 @@ var birthplaces = {
         "Place of Birth": "Champagne-sur-Vingeanne (Cote d'O)",
         "lastName": "Bartet",
         "dateOfBirth": "02/02/1836",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/16/1895"
       },
       "geometry": {
         "type": "Point",
@@ -27945,7 +29497,8 @@ var birthplaces = {
         "Place of Birth": "Cincinnati",
         "lastName": "Clasgens",
         "dateOfBirth": "01/28/1870",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/23/1895"
       },
       "geometry": {
         "type": "Point",
@@ -27963,7 +29516,8 @@ var birthplaces = {
         "Place of Birth": "Angers",
         "lastName": "de Kersabiec",
         "dateOfBirth": "04/12/1835",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/24/1895"
       },
       "geometry": {
         "type": "Point",
@@ -27981,7 +29535,8 @@ var birthplaces = {
         "Place of Birth": "Fermo (Ascoli Piceno)",
         "lastName": "De Melis",
         "dateOfBirth": "12/19/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/27/1895"
       },
       "geometry": {
         "type": "Point",
@@ -27999,7 +29554,8 @@ var birthplaces = {
         "Place of Birth": "Hevilliers (Meuse)",
         "lastName": "Hannus",
         "dateOfBirth": "01/19/1829",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/27/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28017,7 +29573,8 @@ var birthplaces = {
         "Place of Birth": "Godewaersvelde (Nord)",
         "lastName": "Houvenagel",
         "dateOfBirth": "05/08/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/28/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28035,7 +29592,8 @@ var birthplaces = {
         "Place of Birth": "Leningrad",
         "lastName": "Balabine",
         "dateOfBirth": "08/29/1815",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/29/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28053,7 +29611,8 @@ var birthplaces = {
         "Place of Birth": "Amatrice (Aquila)",
         "lastName": "Tommasi",
         "dateOfBirth": "05/29/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/30/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28071,7 +29630,8 @@ var birthplaces = {
         "Place of Birth": "Scheidgen (Luxembourg)",
         "lastName": "Erdel",
         "dateOfBirth": "04/19/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/31/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28089,7 +29649,8 @@ var birthplaces = {
         "Place of Birth": "Lazions (Bolzano)",
         "lastName": "Kantioler",
         "dateOfBirth": "07/05/1838",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "01/31/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28107,7 +29668,8 @@ var birthplaces = {
         "Place of Birth": "Bilbao",
         "lastName": "Barua",
         "dateOfBirth": "08/31/1833",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/01/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28125,7 +29687,8 @@ var birthplaces = {
         "Place of Birth": "Langogne",
         "lastName": "Bonnefille",
         "dateOfBirth": "03/24/1841",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/02/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28143,7 +29706,8 @@ var birthplaces = {
         "Place of Birth": "Limoges",
         "lastName": "Demartial",
         "dateOfBirth": "12/18/1833",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/02/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28161,7 +29725,8 @@ var birthplaces = {
         "Place of Birth": "Logar do Alqueidao (Extremadura)",
         "lastName": "da Costa",
         "dateOfBirth": "09/12/1876",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/02/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28179,7 +29744,8 @@ var birthplaces = {
         "Place of Birth": "Palermo",
         "lastName": "Tramita",
         "dateOfBirth": "02/15/1829",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/03/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28197,7 +29763,8 @@ var birthplaces = {
         "Place of Birth": "Nurnberg (Bayern)",
         "lastName": "Rungaldier",
         "dateOfBirth": "03/17/1812",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/04/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28215,7 +29782,8 @@ var birthplaces = {
         "Place of Birth": "Verona",
         "lastName": "Carli",
         "dateOfBirth": "06/19/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/06/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28233,7 +29801,8 @@ var birthplaces = {
         "Place of Birth": "Radinghem (Nord)",
         "lastName": "Couvreur",
         "dateOfBirth": "05/05/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/06/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28251,7 +29820,8 @@ var birthplaces = {
         "Place of Birth": "Berwick-on-Tweed (Northumberland)",
         "lastName": "Stevenson",
         "dateOfBirth": "11/27/1806",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/08/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28269,7 +29839,8 @@ var birthplaces = {
         "Place of Birth": "Liverpool",
         "lastName": "Cotham",
         "dateOfBirth": "08/30/1806",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/09/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28287,7 +29858,8 @@ var birthplaces = {
         "Place of Birth": "Montesarchio (Benevento)",
         "lastName": "Zingone",
         "dateOfBirth": "03/20/1809",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/10/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28305,7 +29877,8 @@ var birthplaces = {
         "Place of Birth": "Abionzo (Santander)",
         "lastName": "Sierra",
         "dateOfBirth": "08/11/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/11/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28323,7 +29896,8 @@ var birthplaces = {
         "Place of Birth": "Bannio (Novara)",
         "lastName": "Buschaglia",
         "dateOfBirth": "04/08/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/14/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28341,7 +29915,8 @@ var birthplaces = {
         "Place of Birth": "Osek (Morava)",
         "lastName": "Bruna",
         "dateOfBirth": "05/31/1849",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/15/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28359,7 +29934,8 @@ var birthplaces = {
         "Place of Birth": "Paris",
         "lastName": "Dauchez",
         "dateOfBirth": "06/16/1846",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/16/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28377,7 +29953,8 @@ var birthplaces = {
         "Place of Birth": "Ste-Menehould (Marne)",
         "lastName": "Desc\u00ef\u00bf\u00bdtes",
         "dateOfBirth": "12/26/1810",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/18/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28395,7 +29972,8 @@ var birthplaces = {
         "Place of Birth": "Lana (Bolzano)",
         "lastName": "Gruber",
         "dateOfBirth": "08/23/1813",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/20/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28413,7 +29991,8 @@ var birthplaces = {
         "Place of Birth": "La Terrasse (Is\u00ef\u00bf\u00bdre)",
         "lastName": "Savey",
         "dateOfBirth": "03/17/1875",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "12/21/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28431,7 +30010,8 @@ var birthplaces = {
         "Place of Birth": "Dokkum (Friesland)",
         "lastName": "Smit",
         "dateOfBirth": "09/13/1856",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/23/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28449,7 +30029,8 @@ var birthplaces = {
         "Place of Birth": "Schendelbeke (Fl Oc)",
         "lastName": "de Fru",
         "dateOfBirth": "10/20/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/24/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28467,7 +30048,8 @@ var birthplaces = {
         "Place of Birth": "Enfield (Meath)",
         "lastName": "Frayne",
         "dateOfBirth": "08/01/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/24/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28485,7 +30067,8 @@ var birthplaces = {
         "Place of Birth": "Lyon",
         "lastName": "Chenevaz",
         "dateOfBirth": "10/01/1840",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/25/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28503,7 +30086,8 @@ var birthplaces = {
         "Place of Birth": "Esen (Fl Oc)",
         "lastName": "De Poorter",
         "dateOfBirth": "04/23/1836",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/27/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28521,7 +30105,8 @@ var birthplaces = {
         "Place of Birth": "Liverpool",
         "lastName": "Walsh",
         "dateOfBirth": "08/10/1868",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/27/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28539,7 +30124,8 @@ var birthplaces = {
         "Place of Birth": "Sanremo",
         "lastName": "Arnaldi",
         "dateOfBirth": "02/04/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/28/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28557,7 +30143,8 @@ var birthplaces = {
         "Place of Birth": "Asti (Alessandria)",
         "lastName": "Saracco",
         "dateOfBirth": "01/09/1811",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "02/28/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28575,7 +30162,8 @@ var birthplaces = {
         "Place of Birth": "St-Marcellin (Is\u00ef\u00bf\u00bdre)",
         "lastName": "Bonnet",
         "dateOfBirth": "06/06/1824",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/01/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28593,7 +30181,8 @@ var birthplaces = {
         "Place of Birth": "Fondremand (H-Sa\u00ef\u00bf\u00bdne)",
         "lastName": "Moussard",
         "dateOfBirth": "05/23/1858",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/01/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28611,7 +30200,8 @@ var birthplaces = {
         "Place of Birth": "Castellabate (Salerno)",
         "lastName": "Naso",
         "dateOfBirth": "07/31/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/03/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28629,7 +30219,8 @@ var birthplaces = {
         "Place of Birth": "Wigan (Lancashire)",
         "lastName": "Baldwin",
         "dateOfBirth": "08/07/1865",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/07/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28647,7 +30238,8 @@ var birthplaces = {
         "Place of Birth": "Valezan (Savoie)",
         "lastName": "Usannaz",
         "dateOfBirth": "04/02/1819",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/07/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28665,7 +30257,8 @@ var birthplaces = {
         "Place of Birth": "Helzel (K\u00ef\u00bf\u00bdln)",
         "lastName": "Bollig",
         "dateOfBirth": "08/23/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/09/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28683,7 +30276,8 @@ var birthplaces = {
         "Place of Birth": "Avellino",
         "lastName": "Lanzilli",
         "dateOfBirth": "02/22/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/10/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28701,7 +30295,8 @@ var birthplaces = {
         "Place of Birth": "Wien",
         "lastName": "Rosenberg",
         "dateOfBirth": "12/10/1840",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/13/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28719,7 +30314,8 @@ var birthplaces = {
         "Place of Birth": "Turnhout",
         "lastName": "Biernmans",
         "dateOfBirth": "07/13/1866",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/15/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28737,7 +30333,8 @@ var birthplaces = {
         "Place of Birth": "Estavayer-le-Lac",
         "lastName": "Billet",
         "dateOfBirth": "03/08/1816",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/20/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28755,7 +30352,8 @@ var birthplaces = {
         "Place of Birth": "Augsburg",
         "lastName": "Platzer",
         "dateOfBirth": "11/15/1860",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/21/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28773,7 +30371,8 @@ var birthplaces = {
         "Place of Birth": "Vincennes, Ind.",
         "lastName": "Lalumiere",
         "dateOfBirth": "02/13/1822",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/23/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28791,7 +30390,8 @@ var birthplaces = {
         "Place of Birth": "St-Christophe-du-Jambet (Sarthe)",
         "lastName": "Hersant",
         "dateOfBirth": "08/15/1830",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/25/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28809,7 +30409,8 @@ var birthplaces = {
         "Place of Birth": "Napoli",
         "lastName": "Petrazzoli",
         "dateOfBirth": "12/09/1823",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/26/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28827,7 +30428,8 @@ var birthplaces = {
         "Place of Birth": "Enniscorty (Wexford)",
         "lastName": "Keating",
         "dateOfBirth": "03/25/1843",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/29/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28845,7 +30447,8 @@ var birthplaces = {
         "Place of Birth": "Elberfeld (Rheinl.)",
         "lastName": "Risse",
         "dateOfBirth": "04/20/1859",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/29/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28863,7 +30466,8 @@ var birthplaces = {
         "Place of Birth": "Ezcaray (Logro\u00ef\u00bf\u00bdo)",
         "lastName": "Izquierdo",
         "dateOfBirth": "03/02/1868",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/29/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28881,7 +30485,8 @@ var birthplaces = {
         "Place of Birth": "Calazze (Caserta)",
         "lastName": "Sica",
         "dateOfBirth": "09/06/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "03/31/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28899,7 +30504,8 @@ var birthplaces = {
         "Place of Birth": "Cocuy (Boyac\u00ef\u00bf\u00bd)",
         "lastName": "Taboada",
         "dateOfBirth": "07/05/1818",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/01/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28917,7 +30523,8 @@ var birthplaces = {
         "Place of Birth": "Anagni (Roma)",
         "lastName": "D'Avoli",
         "dateOfBirth": "04/26/1814",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/01/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28935,7 +30542,8 @@ var birthplaces = {
         "Place of Birth": "Valls (Tarragona)",
         "lastName": "Carta\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
         "dateOfBirth": "11/06/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/01/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28953,7 +30561,8 @@ var birthplaces = {
         "Place of Birth": "Salinas (Guip\u00ef\u00bf\u00bdzcoa)",
         "lastName": "\u00ef\u00bf\u00bdzaga",
         "dateOfBirth": "10/24/1833",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/03/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28971,7 +30580,8 @@ var birthplaces = {
         "Place of Birth": "Baltimore",
         "lastName": "Tarr",
         "dateOfBirth": "09/19/1855",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/03/1895"
       },
       "geometry": {
         "type": "Point",
@@ -28989,7 +30599,8 @@ var birthplaces = {
         "Place of Birth": "Lierre (Anvers)",
         "lastName": "Van Neuten",
         "dateOfBirth": "01/11/1851",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/03/1895"
       },
       "geometry": {
         "type": "Point",
@@ -29007,7 +30618,8 @@ var birthplaces = {
         "Place of Birth": "Villareal (Guip\u00ef\u00bf\u00bdzcoa)",
         "lastName": "Alberdi",
         "dateOfBirth": "11/13/1829",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/06/1895"
       },
       "geometry": {
         "type": "Point",
@@ -29025,7 +30637,8 @@ var birthplaces = {
         "Place of Birth": "St-\u00ef\u00bf\u00bdtienne-de-Tulmont (Tarn et G.)",
         "lastName": "Marty",
         "dateOfBirth": "03/15/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/08/1895"
       },
       "geometry": {
         "type": "Point",
@@ -29043,7 +30656,8 @@ var birthplaces = {
         "Place of Birth": "Napoli",
         "lastName": "Pellegrino",
         "dateOfBirth": "01/07/1813",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "05/08/1895"
       },
       "geometry": {
         "type": "Point",
@@ -29061,7 +30675,8 @@ var birthplaces = {
         "Place of Birth": "Michelbeke (Fl Or)",
         "lastName": "De Wolf",
         "dateOfBirth": "07/21/1821",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/09/1895"
       },
       "geometry": {
         "type": "Point",
@@ -29079,7 +30694,8 @@ var birthplaces = {
         "Place of Birth": "Igualada (Barcelona)",
         "lastName": "Ferrer",
         "dateOfBirth": "09/25/1847",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/09/1895"
       },
       "geometry": {
         "type": "Point",
@@ -29097,7 +30713,8 @@ var birthplaces = {
         "Place of Birth": "Laxenburg (Wien)",
         "lastName": "Bruckberger",
         "dateOfBirth": "08/20/1842",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/10/1895"
       },
       "geometry": {
         "type": "Point",
@@ -29115,7 +30732,8 @@ var birthplaces = {
         "Place of Birth": "Cagliari",
         "lastName": "Molle",
         "dateOfBirth": "09/14/1820",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/12/1895"
       },
       "geometry": {
         "type": "Point",
@@ -29133,7 +30751,8 @@ var birthplaces = {
         "Place of Birth": "Poitiers",
         "lastName": "de Bizemont",
         "dateOfBirth": "03/28/1839",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/13/1895"
       },
       "geometry": {
         "type": "Point",
@@ -29151,7 +30770,8 @@ var birthplaces = {
         "Place of Birth": "Wallerstein (Bayern)",
         "lastName": "Hieber",
         "dateOfBirth": "07/22/1837",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/13/1895"
       },
       "geometry": {
         "type": "Point",
@@ -29169,7 +30789,8 @@ var birthplaces = {
         "Place of Birth": "Temploux (Namur)",
         "lastName": "Bovy",
         "dateOfBirth": "09/14/1864",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/15/1895"
       },
       "geometry": {
         "type": "Point",
@@ -29187,7 +30808,8 @@ var birthplaces = {
         "Place of Birth": "San Mart\u00ef\u00bf\u00bdn de Unx (Navarra)",
         "lastName": "Muruz\u00ef\u00bf\u00bdbal",
         "dateOfBirth": "01/29/1842",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/16/1895"
       },
       "geometry": {
         "type": "Point",
@@ -29205,7 +30827,8 @@ var birthplaces = {
         "Place of Birth": "Bleibach (Baden)",
         "lastName": "Nopper",
         "dateOfBirth": "11/19/1832",
-        "showOnMap": false
+        "showOnMap": false,
+        "dateOfDeath": "04/16/1895"
       },
       "geometry": {
         "type": "Point",

@@ -2,7 +2,7 @@
  
  
 Examples:
-Filter Birthplaces by Date (selection)
+Filter Birthplaces Between two dates
 https://mnaglak.github.io/JesuitLives/examples/dateFilter.html
 
 Filter Birthplaces by Year (selection)

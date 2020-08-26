@@ -19,3 +19,8 @@
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
+
+#search {
+  z-index: 100;
+  margin-bottom: 5px;
+}

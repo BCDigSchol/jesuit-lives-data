@@ -68,7 +68,7 @@ L.Control.Search = L.Control.extend({
 		moveToLocation: null,			//callback run on location found, params: latlng, title, map
 		buildTip: null,					//function to return row tip html node(or html string), receive text tooltip in first param
 		container: '',					//container id to insert Search Control		
-		zoom: 3,						//default zoom level for move to location
+		zoom: 17,						//default zoom level for move to location
 		minLength: 1,					//minimal text length for autocomplete
 		initial: true,					//search elements only by initial text
 		casesensitive: false,			//search elements in case sensitive text
@@ -81,9 +81,9 @@ L.Control.Search = L.Control.extend({
 		collapsed: true,				//collapse search control at startup
 		autoCollapse: false,			//collapse search control after submit(on button or on tips if enabled tipAutoSubmit)
 		autoCollapseTime: 1200,			//delay for autoclosing alert and collapse after blur
-		textErr: 'Person not found',	//error message
+		textErr: 'Location not found',	//error message
 		textCancel: 'Cancel',		    //title in cancel button		
-		textPlaceholder: 'Search by Person',   //placeholder value			
+		textPlaceholder: 'Search by Location',   //placeholder value			
 		hideMarkerOnCollapse: false,    //remove circle and marker on search control collapsed		
 		position: 'topleft',		
 		marker: {						//custom L.Marker or false for hide
@@ -200,7 +200,7 @@ L.Control.Search = L.Control.extend({
 	setLayer: function(layer) {	//set search layer at runtime
 		//this.options.layer = layer; //setting this, run only this._recordsFromLayer()
 		this._layer = layer;
-		//this._layer.addTo(this._map);
+		this._layer.addTo(this._map);
 		return this;
 	},
 	
@@ -239,7 +239,7 @@ L.Control.Search = L.Control.extend({
 		L.DomUtil.addClass(this._container, 'search-exp');
 		if ( toggle !== false ) {
 			this._input.focus();
-			//this._map.on('dragstart click', this.collapse, this); //Don't want to collapse on drag
+			this._map.on('dragstart click', this.collapse, this);
 		}
 		this.fire('search:expanded');
 		return this;	

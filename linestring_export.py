@@ -21,7 +21,7 @@ with open("placescsvtojson.json") as f:
 for i in range (0, len(people)):
     for j in range (0, len(places)):
         
-        if people[i]['Place of Death'] == places[j]['Places']:
+        if people[i]['Place of Birth'] == places[j]['Places']:
             people[i]['birthlatitude'] = places[j]['Latitude']
             people[i]['birthlongitude'] = places[j]['Longitude']
             people[i]['dateOfBirth'] = people[i]['Birth date (n)\ndd-mm-yyyy']
@@ -29,6 +29,7 @@ for i in range (0, len(people)):
             people[i]['dateOfDeath'] = people[i]['Death Date (+)\ndd-mm-yyyy']
             people[i]['dateOfDeath'] = people[i]['dateOfDeath'][3:5] + "/" + people[i]['dateOfDeath'][0:2] + "/" + people[i]['dateOfDeath'][-4:]
             people[i]['lastName'] = people[i]['Last Name']
+            people[i]['showOnMap']= "false"
         
         if people[i]['Place of Death'] == places[j]['Places']:
             people[i]['deathlatitude'] = places[j]['Latitude']
@@ -46,14 +47,15 @@ df['deathlatitude'] =  pd.to_numeric(df['deathlatitude'],errors='coerce')
 df['deathlongitude'] =  pd.to_numeric(df['deathlongitude'],errors='coerce')
 
 
-useful_cols = ['Id', 'dateOfDeath', 'Place of Death', 'Place of Birth', 'dateOfBirth', 'lastName', 'birthlatitude', 'birthlongitude', 'deathlatitude', 'deathlongitude']
+useful_cols = ['Id', 'dateOfDeath', 'showOnMap', 'Place of Death', 'Place of Birth', 'dateOfBirth', 'lastName', 'birthlatitude', 'birthlongitude', 'deathlatitude', 'deathlongitude']
 df_subset = df[useful_cols]
 df_geo = df_subset.dropna(subset=['birthlatitude', 'birthlongitude'], axis=0, inplace=False)
 print('We have {} geotagged rows with birth data'.format(len(df_geo)))
 
+df_geo2 = df_geo.dropna(subset=['deathlatitude', 'deathlongitude'], axis=0, inplace=False)
+print('We have {} geotagged rows with birth and death data'.format(len(df_geo2)))
 
-
-def df_to_geojson(df, properties, birthlat='birthlatitude', birthlon='birthlongitude', deathlat = 'deathlatitude', deathlon='deathlongitude'):
+def df_to_geojson(df, properties, deathlon = 'deathlongitude', deathlat = 'deathlatitude', birthlat='birthlatitude', birthlon='birthlongitude'):
     """
     Turn a dataframe containing point data into a geojson formatted python dictionary
     
@@ -86,9 +88,9 @@ def df_to_geojson(df, properties, birthlat='birthlatitude', birthlon='birthlongi
     
     return geojson
 
-useful_columns = ['Id','Place of Death', 'Place of Birth', 'lastName', 'dateOfBirth', 'dateOfDeath']
+useful_columns = ['Id','Place of Death', 'showOnMap', 'Place of Birth', 'lastName', 'dateOfBirth', 'dateOfDeath', 'birthlatitude', 'birthlongitude', 'deathlatitude', 'deathlongitude']
 
-geojson_dict = df_to_geojson(df_geo, properties=useful_columns)
+geojson_dict = df_to_geojson(df_geo2, properties=useful_columns)
 geojson_str = json.dumps(geojson_dict, indent=2)
 
 # save the geojson result to a file

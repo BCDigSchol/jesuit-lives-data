@@ -68,6 +68,7 @@ function popUp(f,l) {
 	}).on('search:collapsed', function(e) {
 		});	
 		
+		
 
 
 	

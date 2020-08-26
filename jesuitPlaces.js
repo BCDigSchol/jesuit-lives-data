@@ -1,4 +1,4 @@
-
+  
 //Define map start up options, here defined to center on Gabii
 		var mapOptions = {
 			center: [ 41.887856934, 12.719429433], //set center
@@ -15,49 +15,29 @@
 			attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
 			}).addTo(map);
 
-//add geojson exported from python to map with popup		
-
-var birthplacesImported = L.geoJson(birthplaces, {
-   onEachFeature: popUpLife
+var lineStringImported = L.geoJson(toLineString, {
+	onEachFeature: forEachFeature
 	}
 );
+			
+var baseLayers = {
+			"Satellite Imagery" : Esri_WorldImagery,
+			};
+var overlayMaps = {
+			"Jesuit Lives" : lineStringImported
+			};
+//L.control.layers(baseLayers, overlayMaps).addTo(map);
 
-var deathplacesImported = L.geoJson(deathplaces, {
-	onEachFeature: popUpDeath,
-    pointToLayer: function (feature, latlng) {
-        return L.circleMarker(latlng, geojsonMarkerOptions);
-}});
+//add geojson exported from python to map with popup		
 
-var geojsonMarkerOptions = {
-    radius: 8,
-    fillColor: "#ff00ee",
-    color: "#ff00ee",
-    weight: 1,
-    opacity: 1,
-    fillOpacity: 0.8
-};
 
+
+
+var lineGroup = L.layerGroup([lineStringImported]); 
+
+function forEachFeature(f, layer) {
+     
 		
-
-console.log(deathplaces.features[0].properties.dateOfDeath);
-console.log(typeof deathplaces.features[0].properties.dateOfDeath);
-
-console.log(birthplaces.features[0].properties.dateOfBirth);
-console.log(typeof birthplaces.features[0].properties.dateOfBirth);
-
-console.log(deathplaces.features[0].properties.deathStamp)
-
-//cluster birthplaces, need to cluster or create a group to make refiltering easier
-var cluster_lives= new L.MarkerClusterGroup({showCoverageOnHover: false});
-    cluster_lives.addLayer(birthplacesImported);
-	cluster_lives.addTo(map);
-
-var cluster_deaths = new L.MarkerClusterGroup({showCoverageOnHover: false});
-    cluster_deaths.addLayer(deathplacesImported);
-	cluster_deaths.addTo(map);
-
-//popUp box function
-function popUpLife(f,l) {
 	f.properties.birthStamp = timestamp(f.properties.dateOfBirth);
 	f.properties.deathStamp = timestamp(f.properties.dateOfDeath);
 
@@ -69,201 +49,53 @@ function popUpLife(f,l) {
 		out.push('Year: ' + f.properties.yearOfBirth);
 		out.push('BirthTimestamp: ' + f.properties.birthStamp);
 		out.push('DeathTimestam: ' + f.properties.deathStamp);
-		out.push('Lastname: ' + f.properties.lastName);
-		l.bindPopup(out.join("<br />"));
+		out.push('Last Name: ' + f.properties.lastName);
+		layer.bindPopup(out.join("<br />"));
 	}	
 }
 
-function popUpDeath(f,l) {
-	f.properties.deathStamp = timestamp(f.properties.dateOfDeath);
-	
-	var out = [];
-	if (f.properties) {
-		out.push('Deathplace no.: ' + f.properties.Id);
-		out.push('Date of Death: ' + f.properties.dateOfDeath);
-		out.push('Timestamp: ' + f.properties.deathStamp);
-		out.push('Lastname: ' + f.properties.lastName);
-		l.bindPopup(out.join("<br />"));
-	}	
-}
+
 
 function timestamp(str) {
     return new Date(str).getTime();
 }
 
 
-/*var myMovingMarker = L.Marker.movingMarker([[48.8567, 2.3508],[50.45, 30.523333]],
-						[20000]).addTo(map);
-	myMovingMarker.start();*/			
-
 //Creation of pan/scale function like Fulcrum images have. Uses PanControl plugin  
 		L.control.pan().addTo(map);
-		L.control.scale().addTo(map); 
+		L.control.scale().addTo(map); 	
 
-
-var dateSlider = document.getElementById('slider-date');
-
-noUiSlider.create(dateSlider, {
-// Create two timestamps to define a range.
-    range: {
-        min: timestamp('01/01/1775'),
-        max: timestamp('12/31/1910')
-    },
-	tooltips: true,
-	// Steps of one week
-    step: 7*60*60*24 *1000 ,
+//create the search control, set up currently for searching places, note that the text within the search box can be edited directly in the .js for the plugin
+//soom set in plugin .js
+	var searchControl = new L.Control.Search({
+		layer: L.featureGroup([lineGroup]),
+		propertyName: 'lastName',
+		marker: false,
+	}); 
+		map.addControl( searchControl ); 
+//pop up when found		
+	searchControl.on('search:locationfound', function(e) {	
+		if(e.layer._popup)
+			e.layer.openPopup();
+		lineGroup.clearLayers();
+		//note this html id seems to change every once in a while...need to check
+		var choice = document.getElementById("searchtext16").value;
+		console.log(choice);
+		var lineStringImported = L.geoJson(toLineString, {
+			onEachFeature: forEachFeature,
+			filter:
+				function (feature, layer) {
+					return (feature.properties.lastName == choice);
+				}
+		});
+		lineGroup.addLayer(lineStringImported).addTo(map);
+	}).on('search:cancel', function(e) {
+		lineGroup.clearLayers();
+		var lineStringImported = L.geoJson(toLineString, {
+		onEachFeature: forEachFeature
+	})
+	map.removeLayer(lineGroup);
+	lineGroup.addLayer(lineStringImported);
 	
-	// timestamp indicates the handle starting positions.
-    start: [timestamp('01/01/1775')],
-
-// No decimals
-    format: wNumb({
-        decimals: 0
-    })
-});
-var dateValues = [
-    document.getElementById('date_hidden')
-];
-
-var dateValuesNice = [
-    document.getElementById('date') 
-];
-
-var weekdays = [
-    "Sunday", "Monday", "Tuesday",
-    "Wednesday", "Thursday", "Friday",
-    "Saturday"
-];
-
-var months = [
-    "January", "February", "March",
-    "April", "May", "June", "July",
-    "August", "September", "October",
-    "November", "December"
-];
-
-dateSlider.noUiSlider.on('update', function (values, handle) {
-    dateValues[handle].innerHTML = values[handle];
-    dateValuesNice[handle].innerHTML = "Birthplaces of Living People: " + formatDate(new Date(+values[handle]));
-	
-
-
-
-	dateNumber = dateValues[0].innerHTML;
-	dateNumberhidden = dateValuesNice[0].innerHTML;
-	
-	console.log("Date: " + dateNumber);
-	console.log("Date: " + dateNumber);
-
-    
-	//first let's clear the layer	
-	cluster_lives.clearLayers();
-	
-	//and repopulate it after filtering
-	birthplacesImported = new L.geoJson(birthplaces,{
-    onEachFeature: popUpLife,
-        filter:
-            function(feature, layer) {
-                 return (feature.properties.birthStamp <= dateNumber) && feature.properties.deathStamp >= dateNumber;
-            }
-    
-	});
-	
-//and back again into the cluster group
-	cluster_lives.addLayer(birthplacesImported);
-});
-
-
-
-
-// Append a suffix to dates.
-// Example: 23 => 23rd, 1 => 1st.
-function nth(d) {
-    if (d > 3 && d < 21) return 'th';
-    switch (d % 10) {
-        case 1:
-            return "st";
-        case 2:
-            return "nd";
-        case 3:
-            return "rd";
-        default:
-            return "th";
-    }
-}
-
-// Create a string representation of the date.
-function formatDate(date) {
-    return weekdays[date.getDay()] + ", " +
-        date.getDate() + nth(date.getDate()) + " " +
-        months[date.getMonth()] + " " +
-        date.getFullYear();
-} 
-
-
-
-var dateSlider2 = document.getElementById('slider-date-death');
-
-noUiSlider.create(dateSlider2, {
-// Create two timestamps to define a range.
-    range: {
-        min: timestamp('01/01/1775'),
-        max: timestamp('12/31/1910')
-    },
-	tooltips: true,
-	// Steps of one week
-    step: 7*60*60*24 *1000 ,
-	
-	// timestamp indicates the handle starting positions.
-    start: [timestamp('01/01/1775')],
-
-// No decimals
-    format: wNumb({
-        decimals: 0
-    })
-});
-
-var dateValues2 = [
-    document.getElementById('date_hidden2')
-];
-
-var dateValuesNice2 = [
-    document.getElementById('date2') 
-];
-
-dateSlider2.noUiSlider.on('update', function (values, handle) {
-    dateValues2[handle].innerHTML = values[handle];
-    dateValuesNice2[handle].innerHTML = "Death locations as of: " + formatDate(new Date(+values[handle]));
-	
-
-
-
-	dateNumber2 = dateValues2[0].innerHTML;
-	dateNumberhidden2 = dateValuesNice2[0].innerHTML;
-	
-	console.log("Date: " + dateNumber);
-	console.log("Date: " + dateNumber);
-
-    
-	//first let's clear the layer	
-	cluster_deaths.clearLayers();
-	
-	//and repopulate it after filtering
-	
-	deathplacesImported = new L.geoJson(deathplaces, 
-	{
-	onEachFeature: popUpDeath,
-    pointToLayer: 
-		function (feature, latlng) {
-			return L.circleMarker(latlng, geojsonMarkerOptions); 
-			},
-	filter: 
-		function(feature, layer) {
-			return feature.properties.deathStamp<=dateNumber2;
-		}
-	}
-	);
-	
-//and back again into the cluster group
-	cluster_deaths.addLayer(deathplacesImported);
-});
+	});	
+		

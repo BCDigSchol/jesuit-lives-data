@@ -13,3 +13,6 @@ https://mnaglak.github.io/JesuitLives/examples/placesSearch.html
 
 Filter births and deaths on separate single sliders, both show up on same map
 https://mnaglak.github.io/JesuitLives/examples/birthdeathFilter.html
+
+Movement via timeline between birthplaces and deathplaces by last name search
+https://mnaglak.github.io/JesuitLives/examples/birthDeathMovement.html

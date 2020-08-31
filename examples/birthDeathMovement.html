@@ -19,15 +19,20 @@
 	<script type="text/javascript" src="../jquery.min.js"></script>	
 	<script type="text/javascript" src="../jesuitWorld.js"></script>	
 	<script type="text/javascript" src="../csvjsontest.js"></script>
-	<script type="text/javascript" src="../birthplaces.js"></script>	
+	<script type="text/javascript" src="../birthplaces.js"></script>
+	<script type="text/javascript" src="../deathplaces.js"></script>	
+	<script type="text/javascript" src="../toLineString.js"></script>	
+	<!-- JS file -->
+
+<!-- CSS file -->
 	<script type="text/javascript" src="../MovingMarker.js"></script>
 	<script type="text/javascript" src="../wNumb.js"></script>
-
+	<script type="text/javascript" src="../AnimatedMarker.js"></script>
 	<script src="https://d3js.org/d3.v5.min.js"></script>
 	
 
-	<link rel="stylesheet" href="./leaflet-search-master-places/src/leaflet-search.css" />
-	<script src="./leaflet-search-master-places/src/leaflet-search.js"></script>
+	<link rel="stylesheet" href="./leaflet-search-master-people/src/leaflet-search.css" />
+	<script src="./leaflet-search-master-people/src/leaflet-search.js"></script>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/8.5.1/nouislider.min.css" />
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/8.5.1/nouislider.min.js"></script>
 
@@ -37,9 +42,20 @@
 <body>
 	<!-- create map object and call map .js file -->
 	<div id = "map" style = "width:900px; height:580px;"></div>
+	
+		<!-- slider for filtering by date -->
+	<div id="slider-date" style="top: 0px; right: 1px; margin: 10px 25px;"></div>
+		<div style="margin-right: auto; margin-left: auto; width: 90%; margin-bottom: 10px; text-align: center;">
+	</div>
+	<!-- hidden classes contain timestamp info not visible to users, formatted timestamp "event-type-2" -->
+	<span class="example-val-hidden" id="date_hidden"></span>
+	<span class="example-val" id="date"></span>
+	
 
 	
-    <script type="text/javascript" src="placesSearch.js"></script>
+    <script type="text/javascript" src="birthDeathMovement.js"></script>
+	
+	
 	
 </body>
 </html>

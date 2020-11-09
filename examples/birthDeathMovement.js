@@ -15,6 +15,18 @@
 		attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
 		}).addTo(map);
 
+	var southItaly = L.tileLayer('./tiledMaps/Italy/{z}/{x}/{y}.png', {tms: true, opacity: 1, attribution: "", minZoom: 4, maxZoom: 9}).addTo(map);
+	var mexico = L.tileLayer('./tiledMaps/Mexico/{z}/{x}/{y}.png', {tms: true, opacity: 1, attribution: "", minZoom: 3, maxZoom: 7}).addTo(map);
+
+var baseLayers = {
+			"Satellite Imagery" : Esri_WorldImagery,
+			};
+			
+		var overlayMaps = {
+			"Italy" : southItaly,
+			"Mexico" : mexico
+			};
+			L.control.layers(baseLayers, overlayMaps).addTo(map);
 
 //import external geojson and call function to run on each feature to create popups and define timestamps
 var lineStringImported = L.geoJson(toLineString, {

@@ -8,7 +8,7 @@ https://mnaglak.github.io/JesuitLives/examples/dateFilter.html
 Filter Birthplaces between two years on a slider or by typing in the year
 https://mnaglak.github.io/JesuitLives/examples/yearFilter.html
 
-Search by Places with autocomplete (all listed in places spreadsheet as of 8/7/2020)
+Search by Places with autocomplete (all listed in places spreadsheet as of 11/11/2020)
 https://mnaglak.github.io/JesuitLives/examples/placesSearch.html
 
 Filter births and deaths on separate single sliders, both show up on same map

@@ -15,6 +15,12 @@
 			attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
 			}).addTo(map);
 
+var loaded = 0; //ensures it is loaded before firing events happen
+console.log(loaded);
+Esri_WorldImagery.on('load', function (event) {
+    loaded = 1;
+	console.log(loaded);
+});
 //add geojson exported from python to map with popup		
 
 
@@ -30,12 +36,35 @@
 	);
 
 //cluster birthplaces, need to cluster or create a group to make refiltering easier
+//chunked loading also helps speed this process
+/*
 	var birthCluster= new L.MarkerClusterGroup({chunkedLoading: true, showCoverageOnHover: false});
     birthCluster.addLayer(birthplacesImported);
-    birthCluster.addTo(map);
+
 	
 	var deathCluster= new L.MarkerClusterGroup({chunkedLoading: true, showCoverageOnHover: false});
     deathCluster.addLayer(deathplacesImported);
+*/
+
+var birthCluster= new L.MarkerClusterGroup({chunkedLoading: true, showCoverageOnHover: false,
+		iconCreateFunction: function(cluster) {
+        var icon = birthCluster._defaultIconCreateFunction(cluster);
+        icon.options.className += ' birthgroup';
+        return icon;
+    
+	 }});
+    birthCluster.addLayer(birthplacesImported);
+ 
+	
+	var deathCluster= new L.MarkerClusterGroup({chunkedLoading: true, showCoverageOnHover: false,
+			 iconCreateFunction: function(cluster) {
+        var icon = deathCluster._defaultIconCreateFunction(cluster);
+        icon.options.className += ' deathgroup';
+        return icon;
+    } });
+    deathCluster.addLayer(deathplacesImported);
+
+
 	
 	var baseLayers = {
 		"Satellite Imagery" : Esri_WorldImagery,
@@ -72,7 +101,7 @@
 	var slidervar = document.getElementById('slider');
 	noUiSlider.create(slidervar, {
 		connect: true,
-		start: [1825, 1875],
+		start: [1725, 1975],
 		step: 5,
 		decimals: 0,
 		tooltips: false,
@@ -80,14 +109,20 @@
         min: 1725,
         max: 1975
     },
+	pips: {
+        mode: 'count',
+        values: 6,
+        density: 4,
+        stepped: false
+    },
 	format: wNumb({
         decimals: 0
 		}),
 	});
 
 	//min and max slider input fields (also must be set in html)
-	document.getElementById('input-number-min').setAttribute("value", 1825);
-	document.getElementById('input-number-max').setAttribute("value", 1875);
+	document.getElementById('input-number-min').setAttribute("value", 1725);
+	document.getElementById('input-number-max').setAttribute("value", 1975);
 
 	var inputNumberMin = document.getElementById('input-number-min');
 	var inputNumberMax = document.getElementById('input-number-max');
@@ -101,7 +136,13 @@
 	});
 
 //update handles if min or max is used
+
 	slidervar.noUiSlider.on('update', function( values, handle ) {
+		if (loaded == 1){ //keeps from firing on initial load, which causes it to be very slow
+		
+		
+		
+		
 		//handle = 0 if min-slider is moved and handle = 1 if max slider is moved
 		if (handle==0){
 			document.getElementById('input-number-min').value = values[0];
@@ -112,6 +153,7 @@
 		rangeMax = document.getElementById('input-number-max').value;
 	
 		//first let's clear the layers	
+		console.log('im clearing layers');
 		birthCluster.clearLayers();
 		deathCluster.clearLayers();
 		
@@ -120,6 +162,7 @@
 			onEachFeature: popUp,
         filter:
             function(feature, layer) {
+				console.log('im filtering births');
                  return (feature.properties.yearOfBirth <= rangeMax) && (feature.properties.yearOfBirth >= rangeMin);
             }
 		})
@@ -128,6 +171,7 @@
 			onEachFeature: popUp,
         filter:
             function(feature, layer) {
+				console.log('im filtering deaths');
                  return (feature.properties.yearOfDeath <= rangeMax) && (feature.properties.yearOfDeath >= rangeMin);
             }
 		})
@@ -135,8 +179,8 @@
 //and back again into the cluster group
 	birthCluster.addLayer(birthplacesImported);
 	deathCluster.addLayer(deathplacesImported);
-	});
-	
+	}});
+
 	
 
 /*

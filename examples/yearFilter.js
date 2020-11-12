@@ -23,17 +23,60 @@ Esri_WorldImagery.on('load', function (event) {
 });
 //add geojson exported from python to map with popup		
 
+// replace Leaflet's default blue marker with a custom icon for birthplaces
+function createCustomIconBirth (feature, latlng) {
+  let myIcon = L.icon({
+    iconUrl: './img/marker-icon-green.png',
+    shadowUrl: './img/marker-shadow.png',
+    iconSize:     [18, 25], // width and height of the image in pixels
+    shadowSize:   [35, 20], // width, height of optional shadow image
+    iconAnchor:   [12, 12], // point of the icon which will correspond to marker's location
+    shadowAnchor: [12, 6],  // anchor point of the shadow. should be offset
+    popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
+  })
+  return L.marker(latlng, { icon: myIcon })
+}
+
+// replace Leaflet's default blue marker with a custom icon for deathplaces
+function createCustomIconDeath (feature, latlng) {
+  let myIcon = L.icon({
+    iconUrl: './img/marker-icon-red.png',
+    shadowUrl: './img/marker-shadow.png',
+    iconSize:     [18, 25], // width and height of the image in pixels
+    shadowSize:   [35, 20], // width, height of optional shadow image
+    iconAnchor:   [12, 12], // point of the icon which will correspond to marker's location
+    shadowAnchor: [12, 6],  // anchor point of the shadow. should be offset
+    popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
+  })
+  return L.marker(latlng, { icon: myIcon })
+}
 
 
 	var birthplacesImported = L.geoJson(birthplaces, {
-		onEachFeature: popUp
-		}
-	);
+		onEachFeature: popUp,
+		pointToLayer: createCustomIconBirth
+		});
 
 	var deathplacesImported = L.geoJson(deathplaces, {
-		onEachFeature: popUp
+		onEachFeature: popUp,
+		pointToLayer: createCustomIconDeath
+		});
+	
+	
+//popUp box function
+	function popUp(f,l) {
+		var out = [];
+		if (f.properties) {
+			out.push('Entry Number.: ' + f.properties.d);
+			out.push('First Name: ' + f.properties.First_Name);
+			out.push('Last Name: ' + f.properties.Last_Name);
+			out.push('Date of Birth: ' + f.properties.Birth_Date);
+			out.push('Place of Birth: ' + f.properties.Place_of_Birth);
+			out.push('Date of Death: ' + f.properties.Death_Date);
+			out.push('Place of Death: ' + f.properties.Place_of_Death);
+			l.bindPopup(out.join("<br />"));
 		}
-	);
+	}
 
 //cluster birthplaces, need to cluster or create a group to make refiltering easier
 //chunked loading also helps speed this process
@@ -77,20 +120,7 @@ var birthCluster= new L.MarkerClusterGroup({chunkedLoading: true, showCoverageOn
 	L.control.layers(baseLayers, clusterLayers, {collapsed:false}).addTo(map);
 	
 
-//popUp box function
-	function popUp(f,l) {
-		var out = [];
-		if (f.properties) {
-			out.push('Entry Number.: ' + f.properties.d);
-			out.push('First Name: ' + f.properties.First_Name);
-			out.push('Last Name: ' + f.properties.Last_Name);
-			out.push('Date of Birth: ' + f.properties.Birth_Date);
-			out.push('Place of Birth: ' + f.properties.Place_of_Birth);
-			out.push('Date of Death: ' + f.properties.Death_Date);
-			out.push('Place of Death: ' + f.properties.Place_of_Death);
-			l.bindPopup(out.join("<br />"));
-		}
-	}
+
 
 
 //Creation of pan/scale function like Fulcrum images have. Uses PanControl plugin  
@@ -160,6 +190,7 @@ var birthCluster= new L.MarkerClusterGroup({chunkedLoading: true, showCoverageOn
 		//and repopulate it after filtering
 		birthplacesImported = new L.geoJson(birthplaces,{
 			onEachFeature: popUp,
+			pointToLayer: createCustomIconBirth,
         filter:
             function(feature, layer) {
 				console.log('im filtering births');
@@ -169,6 +200,7 @@ var birthCluster= new L.MarkerClusterGroup({chunkedLoading: true, showCoverageOn
 		
 		deathplacesImported = new L.geoJson(deathplaces,{
 			onEachFeature: popUp,
+			pointToLayer: createCustomIconDeath,
         filter:
             function(feature, layer) {
 				console.log('im filtering deaths');

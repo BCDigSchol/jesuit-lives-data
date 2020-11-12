@@ -5,6 +5,7 @@
 			zoom: 2 , //set initial zoom
 			maxZoom : 17,  //set max zoom
 			minZoom : 1,
+			loadingControl: true
 			}
 		
 //Creates Map according to map options 
@@ -16,6 +17,7 @@
 			}).addTo(map);
 
 var loaded = 0; //ensures it is loaded before firing events happen
+
 console.log(loaded);
 Esri_WorldImagery.on('load', function (event) {
     loaded = 1;
@@ -105,7 +107,7 @@ var birthCluster= new L.MarkerClusterGroup({chunkedLoading: true, showCoverageOn
         icon.options.className += ' deathgroup';
         return icon;
     } });
-    deathCluster.addLayer(deathplacesImported);
+    deathCluster.addLayer(deathplacesImported)
 
 
 	
@@ -134,7 +136,7 @@ var birthCluster= new L.MarkerClusterGroup({chunkedLoading: true, showCoverageOn
 		start: [1725, 1975],
 		step: 5,
 		decimals: 0,
-		tooltips: false,
+		tooltips: true,
     range: {
         min: 1725,
         max: 1975
@@ -151,12 +153,14 @@ var birthCluster= new L.MarkerClusterGroup({chunkedLoading: true, showCoverageOn
 	});
 
 	//min and max slider input fields (also must be set in html)
-	document.getElementById('input-number-min').setAttribute("value", 1725);
-	document.getElementById('input-number-max').setAttribute("value", 1975);
-
+	//access turned off due to loading time issues
+	//document.getElementById('input-number-min').setAttribute("value", 1725);
+	//document.getElementById('input-number-max').setAttribute("value", 1975);
+/*
 	var inputNumberMin = document.getElementById('input-number-min');
 	var inputNumberMax = document.getElementById('input-number-max');
 
+	
 	inputNumberMin.addEventListener('change', function(){
 		slidervar.noUiSlider.set([this.value, null]);
 	});
@@ -164,15 +168,24 @@ var birthCluster= new L.MarkerClusterGroup({chunkedLoading: true, showCoverageOn
 	inputNumberMax.addEventListener('change', function(){
 		slidervar.noUiSlider.set([null, this.value]);
 	});
-
+	
 //update handles if min or max is used
+*/
+var dateValues = [
+    document.getElementById('event-start-2'),
+    document.getElementById('event-end-2')
+];
+dateValues[0].innerHTML=1725;
+dateValues[1].innerHTML=1975;
+	slidervar.noUiSlider.on('change', function( values, handle ) {
+		if (loaded == 1) { //keeps from firing on initial load, which causes it to be very slow
 
-	slidervar.noUiSlider.on('update', function( values, handle ) {
-		if (loaded == 1){ //keeps from firing on initial load, which causes it to be very slow
-		
-		
-		
-		
+
+		dateValues[handle].innerHTML = values[handle];
+
+		rangeMin = dateValues[0].innerHTML;
+		rangeMax = dateValues[1].innerHTML;
+		/*
 		//handle = 0 if min-slider is moved and handle = 1 if max slider is moved
 		if (handle==0){
 			document.getElementById('input-number-min').value = values[0];
@@ -181,7 +194,7 @@ var birthCluster= new L.MarkerClusterGroup({chunkedLoading: true, showCoverageOn
 		}
 		rangeMin = document.getElementById('input-number-min').value;
 		rangeMax = document.getElementById('input-number-max').value;
-	
+		*/
 		//first let's clear the layers	
 		console.log('im clearing layers');
 		birthCluster.clearLayers();
@@ -211,6 +224,7 @@ var birthCluster= new L.MarkerClusterGroup({chunkedLoading: true, showCoverageOn
 //and back again into the cluster group
 	birthCluster.addLayer(birthplacesImported);
 	deathCluster.addLayer(deathplacesImported);
+	 var now2 = new Date().getTime();
 	}});
 
 	

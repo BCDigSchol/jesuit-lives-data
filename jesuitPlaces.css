@@ -1,10 +1,18 @@
-.example-val {
-    width: 100%;
+span.example-val {
+    /*width: 100%;
     clear: both;
     float: left;
     margin: 10px 0;
-    text-align: center;
-    font-family: 'Arial';
+    /*text-align: center;
+	display: inline;
+    font-family: 'Arial';*/
+	
+display: inline; /* the default for span */
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;  
+  background-color: yellow; 
 }
 
 .example-val-hidden {
@@ -24,4 +32,9 @@
   z-index: 100;
   margin-bottom: 5px;
 }
-
+.center {
+  margin: auto;
+  width: 40%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}

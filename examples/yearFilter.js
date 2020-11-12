@@ -1,71 +1,62 @@
 
 //Define map start up options
-		var mapOptions = {
-			center: [ 41.887856934, 12.719429433], //set center
-			zoom: 2 , //set initial zoom
-			maxZoom : 17,  //set max zoom
-			minZoom : 1,
-			loadingControl: true
-			}
+	var mapOptions = {
+		center: [ 41.887856934, 12.719429433], //set center
+		zoom: 2 , //set initial zoom
+		maxZoom : 17,  //set max zoom
+		minZoom : 1,
+	}
 		
 //Creates Map according to map options 
-		var map = new L.map('map', mapOptions); 
+	var map = new L.map('map', mapOptions); 
 		
 //Examples of an externally called tiled basemap
-		var Esri_WorldImagery = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
-			attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
-			}).addTo(map);
-
-var loaded = 0; //ensures it is loaded before firing events happen
-
-console.log(loaded);
-Esri_WorldImagery.on('load', function (event) {
-    loaded = 1;
-	console.log(loaded);
-});
-//add geojson exported from python to map with popup		
-
-// replace Leaflet's default blue marker with a custom icon for birthplaces
-function createCustomIconBirth (feature, latlng) {
-  let myIcon = L.icon({
-    iconUrl: './img/marker-icon-green.png',
-    shadowUrl: './img/marker-shadow.png',
-    iconSize:     [18, 25], // width and height of the image in pixels
-    shadowSize:   [35, 20], // width, height of optional shadow image
-    iconAnchor:   [12, 12], // point of the icon which will correspond to marker's location
-    shadowAnchor: [12, 6],  // anchor point of the shadow. should be offset
-    popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
-  })
-  return L.marker(latlng, { icon: myIcon })
-}
-
-// replace Leaflet's default blue marker with a custom icon for deathplaces
-function createCustomIconDeath (feature, latlng) {
-  let myIcon = L.icon({
-    iconUrl: './img/marker-icon-red.png',
-    shadowUrl: './img/marker-shadow.png',
-    iconSize:     [18, 25], // width and height of the image in pixels
-    shadowSize:   [35, 20], // width, height of optional shadow image
-    iconAnchor:   [12, 12], // point of the icon which will correspond to marker's location
-    shadowAnchor: [12, 6],  // anchor point of the shadow. should be offset
-    popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
-  })
-  return L.marker(latlng, { icon: myIcon })
-}
+	var Esri_WorldImagery = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+		attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+		}).addTo(map);
 
 
+// replace Leaflet's default blue marker with a custom green icon for birthplaces
+	function createCustomIconBirth (feature, latlng) {
+		let myIcon = L.icon({
+			iconUrl: './img/marker-icon-green.png',
+			shadowUrl: './img/marker-shadow.png',
+			iconSize:     [18, 25], // width and height of the image in pixels
+			shadowSize:   [35, 20], // width, height of optional shadow image
+			iconAnchor:   [12, 12], // point of the icon which will correspond to marker's location
+			shadowAnchor: [12, 6],  // anchor point of the shadow. should be offset
+			popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
+		})
+		return L.marker(latlng, { icon: myIcon })
+	}
+
+// replace Leaflet's default blue marker with a custom red icon for deathplaces
+	function createCustomIconDeath (feature, latlng) {
+		let myIcon = L.icon({
+			iconUrl: './img/marker-icon-red.png',
+			shadowUrl: './img/marker-shadow.png',
+			iconSize:     [18, 25], // width and height of the image in pixels
+			shadowSize:   [35, 20], // width, height of optional shadow image
+			iconAnchor:   [12, 12], // point of the icon which will correspond to marker's location
+			shadowAnchor: [12, 6],  // anchor point of the shadow. should be offset
+			popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
+		})
+		return L.marker(latlng, { icon: myIcon })
+	}
+
+//import geojson files for birthplaces and deathplaces and apply popup boxes and custom icons
 	var birthplacesImported = L.geoJson(birthplaces, {
 		onEachFeature: popUp,
 		pointToLayer: createCustomIconBirth
-		});
+	});
 
 	var deathplacesImported = L.geoJson(deathplaces, {
 		onEachFeature: popUp,
 		pointToLayer: createCustomIconDeath
-		});
+	});
 	
 	
-//popUp box function
+//Create popUp box function
 	function popUp(f,l) {
 		var out = [];
 		if (f.properties) {
@@ -81,37 +72,29 @@ function createCustomIconDeath (feature, latlng) {
 	}
 
 //cluster birthplaces, need to cluster or create a group to make refiltering easier
-//chunked loading also helps speed this process
-/*
-	var birthCluster= new L.MarkerClusterGroup({chunkedLoading: true, showCoverageOnHover: false});
-    birthCluster.addLayer(birthplacesImported);
+//chunked loading also helps speed this process slightly
 
-	
-	var deathCluster= new L.MarkerClusterGroup({chunkedLoading: true, showCoverageOnHover: false});
-    deathCluster.addLayer(deathplacesImported);
-*/
-
-var birthCluster= new L.MarkerClusterGroup({chunkedLoading: true, showCoverageOnHover: false,
+	var birthCluster= new L.MarkerClusterGroup({chunkedLoading: true, showCoverageOnHover: false,
 		iconCreateFunction: function(cluster) {
-        var icon = birthCluster._defaultIconCreateFunction(cluster);
-        icon.options.className += ' birthgroup';
-        return icon;
-    
-	 }});
+			var icon = birthCluster._defaultIconCreateFunction(cluster); //apply specialized css for clustergroups
+			icon.options.className += ' birthgroup';
+			return icon;
+		}
+	});
     birthCluster.addLayer(birthplacesImported);
-	birthCluster.addTo(map);
+	birthCluster.addTo(map); //load birthcluster on startup 
  
 	
 	var deathCluster= new L.MarkerClusterGroup({chunkedLoading: true, showCoverageOnHover: false,
-			 iconCreateFunction: function(cluster) {
-        var icon = deathCluster._defaultIconCreateFunction(cluster);
-        icon.options.className += ' deathgroup';
-        return icon;
-    } });
+		iconCreateFunction: function(cluster) {
+			var icon = deathCluster._defaultIconCreateFunction(cluster);
+			icon.options.className += ' deathgroup';
+			return icon;
+		}
+	});
     deathCluster.addLayer(deathplacesImported)
 
-
-	
+//Create Control Box for turning on and off layers	
 	var baseLayers = {
 		"Satellite Imagery" : Esri_WorldImagery,
 	};
@@ -123,15 +106,13 @@ var birthCluster= new L.MarkerClusterGroup({chunkedLoading: true, showCoverageOn
 	L.control.layers(baseLayers, clusterLayers, {collapsed:false}).addTo(map);
 	
 
-
-
-
 //Creation of pan/scale function like Fulcrum images have. Uses PanControl plugin  
 	L.control.pan().addTo(map);
 	L.control.scale().addTo(map); 
 	
+	
 //Creating the slider
-	var slidervar = document.getElementById('slider');
+	var slidervar = document.getElementById('slider'); //call the html div
 	noUiSlider.create(slidervar, {
 		connect: true,
 		start: [1725, 1975],
@@ -153,11 +134,13 @@ var birthCluster= new L.MarkerClusterGroup({chunkedLoading: true, showCoverageOn
 		}),
 	});
 
+
+
+/* This portion original controlled input boxes; turned off due to loading issues with .on(update) (would fire multiple times)
 	//min and max slider input fields (also must be set in html)
-	//access turned off due to loading time issues
 	//document.getElementById('input-number-min').setAttribute("value", 1725);
 	//document.getElementById('input-number-max').setAttribute("value", 1975);
-/*
+
 	var inputNumberMin = document.getElementById('input-number-min');
 	var inputNumberMax = document.getElementById('input-number-max');
 
@@ -172,21 +155,28 @@ var birthCluster= new L.MarkerClusterGroup({chunkedLoading: true, showCoverageOn
 	
 //update handles if min or max is used
 */
-var dateValues = [
-    document.getElementById('event-start-2'),
-    document.getElementById('event-end-2')
-];
-dateValues[0].innerHTML=1725;
-dateValues[1].innerHTML=1975;
+
+//Create array holding values from the html display classes 
+	var dateValues = [
+		document.getElementById('event-start-2'),
+		document.getElementById('event-end-2')
+	];
+
+//set the initial loading values for the html classes, should be the same as the "start" attribute in slider creation
+//otherwise the html starts as empty
+	dateValues[0].innerHTML=1725;
+	dateValues[1].innerHTML=1975;
+	
+//function that controls filtering when slider changes
+//Note that .on('update') was originally used but would sometimes fire multiple times on a single change	
 	slidervar.noUiSlider.on('change', function( values, handle ) {
-		if (loaded == 1) { //keeps from firing on initial load, which causes it to be very slow
+		dateValues[handle].innerHTML = values[handle]; //set HTML values equal to slider values
 
-
-		dateValues[handle].innerHTML = values[handle];
-
-		rangeMin = dateValues[0].innerHTML;
-		rangeMax = dateValues[1].innerHTML;
-		/*
+		rangeMin = dateValues[0].innerHTML; //set min value equal to left slider for filtering
+		rangeMax = dateValues[1].innerHTML; //set max value equal to right slider for filtering
+		
+		
+		/*Removed as direct input function was removed 
 		//handle = 0 if min-slider is moved and handle = 1 if max slider is moved
 		if (handle==0){
 			document.getElementById('input-number-min').value = values[0];
@@ -196,176 +186,34 @@ dateValues[1].innerHTML=1975;
 		rangeMin = document.getElementById('input-number-min').value;
 		rangeMax = document.getElementById('input-number-max').value;
 		*/
-		//first let's clear the layers	
-		console.log('im clearing layers');
+		
+		
+		//first clear the layers	
 		birthCluster.clearLayers();
 		deathCluster.clearLayers();
 		
-		//and repopulate it after filtering
+		//and repopulate it after filtering for both geojson layers
 		birthplacesImported = new L.geoJson(birthplaces,{
 			onEachFeature: popUp,
 			pointToLayer: createCustomIconBirth,
-        filter:
-            function(feature, layer) {
-				console.log('im filtering births');
-                 return (feature.properties.yearOfBirth <= rangeMax) && (feature.properties.yearOfBirth >= rangeMin);
-            }
+			filter:
+				function(feature, layer) {
+					console.log('im filtering births');
+					return (feature.properties.yearOfBirth <= rangeMax) && (feature.properties.yearOfBirth >= rangeMin);
+				}
 		})
 		
 		deathplacesImported = new L.geoJson(deathplaces,{
 			onEachFeature: popUp,
 			pointToLayer: createCustomIconDeath,
-        filter:
-            function(feature, layer) {
-				console.log('im filtering deaths');
-                 return (feature.properties.yearOfDeath <= rangeMax) && (feature.properties.yearOfDeath >= rangeMin);
-            }
+			filter:
+				function(feature, layer) {
+					console.log('im filtering deaths');
+					return (feature.properties.yearOfDeath <= rangeMax) && (feature.properties.yearOfDeath >= rangeMin);
+				}
 		})
 
 //and back again into the cluster group
-	birthCluster.addLayer(birthplacesImported);
-	deathCluster.addLayer(deathplacesImported);
-	 var now2 = new Date().getTime();
-	}});
-
-	
-
-/*
-
-var dateSlider = document.getElementById('slider-date');
-
-noUiSlider.create(dateSlider, {
-// Create two timestamps to define a range.
-    range: {
-        min: timestamp('01/01/1860'),
-        max: timestamp('12/31/1871')
-    },
-	connect: true,
-	tooltips: true,
-	// Steps of one week
-    step: 7*60*60*24 *1000 ,
-	
-	// Two more timestamps indicate the handle starting positions.
-    start: [timestamp('01/01/1861'), timestamp('12/31/1870')],
-
-// No decimals
-    format: wNumb({
-        decimals: 0
-    })
-});
-
-var dateValues = [
-    document.getElementById('event-start'),
-    document.getElementById('event-end')
-];
-
-var dateValuesNice = [
-    document.getElementById('event-start-2'),
-    document.getElementById('event-end-2')
-];
-
-var weekdays = [
-    "Sunday", "Monday", "Tuesday",
-    "Wednesday", "Thursday", "Friday",
-    "Saturday"
-];
-
-var months = [
-    "January", "February", "March",
-    "April", "May", "June", "July",
-    "August", "September", "October",
-    "November", "December"
-];
-
-dateSlider.noUiSlider.on('update', function (values, handle) {
-    dateValues[handle].innerHTML = values[handle];
-    dateValuesNice[handle].innerHTML = formatDate(new Date(+values[handle]));
-	/*
-	//handle = 0 if min-slider is moved and handle = 1 if max slider is moved
-    if (handle==0){
-        document.getElementById('event-start').value = dateValuesNice[0];
-    } else {
-        document.getElementById('event-end').value =  dateValuesNice[1];
-    }
-	rangeMin = document.getElementById('event-start').value;
-	rangeMax = document.getElementById('event-end').value;
-
-
-
-	rangeMinNumber = dateValues[0].innerHTML;
-	rangeMaxNumber = dateValues[1].innerHTML;
-	
-	console.log("Min: " + rangeMinNumber);
-	console.log("Max: " + rangeMaxNumber);
-    
-	//first let's clear the layer	
-	cluster_birth.clearLayers();
-
-	//and repopulate it after filtering
-	birthplacesImported = new L.geoJson(birthplaces,{
-    onEachFeature: popUp,
-        filter:
-            function(feature, layer) {
-                 return (feature.properties.birthStamp <= rangeMaxNumber) && (feature.properties.birthStamp >= rangeMinNumber);
-            }
-    
-	})
-//and back again into the cluster group
-	cluster_birth.addLayer(birthplacesImported);
-	
-});
-
-
-
-
-// Append a suffix to dates.
-// Example: 23 => 23rd, 1 => 1st.
-function nth(d) {
-    if (d > 3 && d < 21) return 'th';
-    switch (d % 10) {
-        case 1:
-            return "st";
-        case 2:
-            return "nd";
-        case 3:
-            return "rd";
-        default:
-            return "th";
-    }
-}
-
-// Create a string representation of the date.
-function formatDate(date) {
-    return weekdays[date.getDay()] + ", " +
-        date.getDate() + nth(date.getDate()) + " " +
-        months[date.getMonth()] + " " +
-        date.getFullYear();
-} 
-/*
-dateSlider.noUiSlider.on('update', function( values, handle ) {
-    //handle = 0 if min-slider is moved and handle = 1 if max slider is moved
-    if (handle==0){
-        document.getElementById('event-start').value = dateValues[0];
-    } else {
-        document.getElementById('event-end').value =  dateValues[1];
-    }
-	rangeMin = document.getElementById('event-start').value;
-	rangeMax = document.getElementById('event-end').value;
-	
-	
-	//first let's clear the layer	
-	cluster_birth.clearLayers();
-/*
-	//and repopulate it after filtering
-	birthplacesImported = new L.geoJson(birthplaces,{
-    onEachFeature: popUp,
-        filter:
-            function(feature, layer) {
-                 return (feature.properties.birthStamp <= rangeMax) && (feature.properties.birthStamp >= rangeMin);
-            }
-    
-	})
-//and back again into the cluster group
-
-
-}); */
+		birthCluster.addLayer(birthplacesImported);
+		deathCluster.addLayer(deathplacesImported);
+	});

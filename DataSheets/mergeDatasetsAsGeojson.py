@@ -96,7 +96,7 @@ def df_to_geojson(df, properties, lat='birthlatitude', lon='birthlongitude'):
     return geojson
 
 #set columns to be exported as properties
-useful_columns = ['d', 'Title', 'First_Name', 'Last_Name', 'Place_of_Birth', 'Birth_Date', 'Death_Date', 'Place_of_Death', 'showOnMap', 'birthlatitude', 'birthlongitude', 'deathlatitude', 'deathlongitude', 'Entrance_Province']
+useful_columns = ['d', 'Title', 'First_Name', 'Last_Name', 'Place_of_Birth', 'Birth_Date', 'Death_Date', 'Place_of_Death', 'showOnMap', 'birthlatitude', 'birthlongitude', 'deathlatitude', 'deathlongitude', 'Entrance_Province', 'yearOfBirth', 'yearOfDeath']
 
 geojson_dict = df_to_geojson(df_geo, properties=useful_columns)
 

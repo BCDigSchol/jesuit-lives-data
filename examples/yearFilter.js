@@ -1,5 +1,5 @@
 
-//Define map start up options, here defined to center on Gabii
+//Define map start up options
 		var mapOptions = {
 			center: [ 41.887856934, 12.719429433], //set center
 			zoom: 2 , //set initial zoom
@@ -19,128 +19,114 @@
 
 
 
-var birthplacesImported = L.geoJson(birthplaces, {
-   onEachFeature: popUp
-	}
-);
+	var birthplacesImported = L.geoJson(birthplaces, {
+		onEachFeature: popUp
+		}
+	);
 
-
+	var deathplacesImported = L.geoJson(deathplaces, {
+		onEachFeature: popUp
+		}
+	);
 
 //cluster birthplaces, need to cluster or create a group to make refiltering easier
-var cluster_birth= new L.MarkerClusterGroup({showCoverageOnHover: false});
-    cluster_birth.addLayer(birthplacesImported);
-    cluster_birth.addTo(map);
+	var birthCluster= new L.MarkerClusterGroup({showCoverageOnHover: false});
+    birthCluster.addLayer(birthplacesImported);
+    birthCluster.addTo(map);
+	
+	var deathCluster= new L.MarkerClusterGroup({showCoverageOnHover: false});
+    deathCluster.addLayer(deathplacesImported);
+	
+	var baseLayers = {
+		"Satellite Imagery" : Esri_WorldImagery,
+	};
+			
+	var clusterLayers = {
+		"Birthplaces" : birthCluster,
+		"Deathplaces" : deathCluster
+	};
+	L.control.layers(baseLayers, clusterLayers).addTo(map);
+	
 
 //popUp box function
-function popUp(f,l) {
-	f.properties.birthStamp = timestamp(f.properties.dateOfBirth);
-	
-	var out = [];
-	if (f.properties) {
-		out.push('Birthplace no.: ' + f.properties.Id);
-		out.push('Date of Birth: ' + f.properties.dateOfBirth);
-		out.push('Year: ' + f.properties.yearOfBirth);
-		out.push('Timestamp: ' + f.properties.birthStamp);
-		l.bindPopup(out.join("<br />"));
+	function popUp(f,l) {
+		var out = [];
+		if (f.properties) {
+			out.push('Entry Number.: ' + f.properties.d);
+			out.push('First Name: ' + f.properties.First_Name);
+			out.push('Last Name: ' + f.properties.Last_Name);
+			out.push('Date of Birth: ' + f.properties.Birth_Date);
+			out.push('Place of Birth: ' + f.properties.Place_of_Birth);
+			out.push('Date of Death: ' + f.properties.Death_Date);
+			out.push('Place of Death: ' + f.properties.Place_of_Death);
+			l.bindPopup(out.join("<br />"));
+		}
 	}
-	
-	
-}
-console.log(birthplacesImported);
 
-/*var myMovingMarker = L.Marker.movingMarker([[48.8567, 2.3508],[50.45, 30.523333]],
-						[20000]).addTo(map);
-	myMovingMarker.start();*/			
 
 //Creation of pan/scale function like Fulcrum images have. Uses PanControl plugin  
-		L.control.pan().addTo(map);
-		L.control.scale().addTo(map); 
-
-//create the search control, set up currently for searching places, note that the text within the search box can be edited directly in the .js for the plugin
-//soom set in plugin .js
-/*	var searchControl = new L.Control.Search({
-		layer: L.featureGroup([placeMarkers]),
-		propertyName: 'Places',
-		marker: false,
-	}); 
-		map.addControl( searchControl );
-//pop up when found		
-	searchControl.on('search:locationfound', function(e) {	
-		if(e.layer._popup)
-			e.layer.openPopup();
-	}).on('search:collapsed', function(e) {
-		});	*/
-		
-
-
+	L.control.pan().addTo(map);
+	L.control.scale().addTo(map); 
 	
 //Creating the slider
-var slidervar = document.getElementById('slider');
-noUiSlider.create(slidervar, {
-    connect: true,
-    start: [ 1700, 1901 ],
-	step: 1,
-	decimals: 0,
-	tooltips: true,
+	var slidervar = document.getElementById('slider');
+	noUiSlider.create(slidervar, {
+		connect: true,
+		start: [ 1725, 1975],
+		step: 5,
+		decimals: 0,
+		tooltips: true,
     range: {
-        min: 1700,
-        max: 1901
+        min: 1725,
+        max: 1975
     },
 	format: wNumb({
         decimals: 0
-    }),
-});
+		}),
+	});
 
-//min and max slider (also must be set in html
-document.getElementById('input-number-min').setAttribute("value", 1500);
-document.getElementById('input-number-max').setAttribute("value", 1901);
+	//min and max slider input fields (also must be set in html)
+	document.getElementById('input-number-min').setAttribute("value", 1725);
+	document.getElementById('input-number-max').setAttribute("value", 1975);
 
-var inputNumberMin = document.getElementById('input-number-min');
-var inputNumberMax = document.getElementById('input-number-max');
+	var inputNumberMin = document.getElementById('input-number-min');
+	var inputNumberMax = document.getElementById('input-number-max');
 
-inputNumberMin.addEventListener('change', function(){
-    slidervar.noUiSlider.set([this.value, null]);
-});
+	inputNumberMin.addEventListener('change', function(){
+		slidervar.noUiSlider.set([this.value, null]);
+	});
 
-inputNumberMax.addEventListener('change', function(){
-    slidervar.noUiSlider.set([null, this.value]);
-});
+	inputNumberMax.addEventListener('change', function(){
+		slidervar.noUiSlider.set([null, this.value]);
+	});
 
 //update handles if min or max is used
-slidervar.noUiSlider.on('update', function( values, handle ) {
-    //handle = 0 if min-slider is moved and handle = 1 if max slider is moved
-    if (handle==0){
-        document.getElementById('input-number-min').value = values[0];
-    } else {
-        document.getElementById('input-number-max').value =  values[1];
-    }
-	rangeMin = document.getElementById('input-number-min').value;
-	rangeMax = document.getElementById('input-number-max').value;
+	slidervar.noUiSlider.on('update', function( values, handle ) {
+		//handle = 0 if min-slider is moved and handle = 1 if max slider is moved
+		if (handle==0){
+			document.getElementById('input-number-min').value = values[0];
+		} else {
+			document.getElementById('input-number-max').value =  values[1];
+		}
+		rangeMin = document.getElementById('input-number-min').value;
+		rangeMax = document.getElementById('input-number-max').value;
 	
-	console.log(rangeMin);
-	console.log(typeof rangeMin);
-	//first let's clear the layer	
-	cluster_birth.clearLayers();
+		//first let's clear the layer	
+		birthCluster.clearLayers();
 
-	//and repopulate it after filtering
-	birthplacesImported = new L.geoJson(birthplaces,{
-    onEachFeature: popUp,
+		//and repopulate it after filtering
+		birthplacesImported = new L.geoJson(birthplaces,{
+			onEachFeature: popUp,
         filter:
             function(feature, layer) {
                  return (feature.properties.yearOfBirth <= rangeMax) && (feature.properties.yearOfBirth >= rangeMin);
             }
-    
-	})
+		})
+
 //and back again into the cluster group
-	cluster_birth.addLayer(birthplacesImported);
-});
+	birthCluster.addLayer(birthplacesImported);
+	});
 
-
-
-//now working on filtering by date rather than by year
-function timestamp(str) {
-    return new Date(str).getTime();
-}
 /*
 
 var dateSlider = document.getElementById('slider-date');

@@ -2,34 +2,40 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Jesuit Places</title>
+  <title>Jesuit Places Filtering by Year</title>
   <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
 
   <!-- Load Leaflet stylesheet and .js locally -->
 	<link rel="stylesheet" href="../leaflet1_5_1/leaflet.css"/>
 	<script src="../leaflet1_5_1/leaflet.js"></script>  
 	<link rel="stylesheet" href="../jesuitPlaces.css"/>
-  <!-- Load plugins locally (Pancontrol for panning and Ajax for .geojson import
-	measure-master for measuring, search-master for searching-->
+  
+  
+  <!-- Load plugins locally
+	Pancontrol for panning and zooming
+	MarkerCluster for marker clustering
+	noUiSlider for the slider -- uses wNumb for formating
+	-->
 	<link rel="stylesheet" href="../Leaflet.Pancontrol/src/L.Control.Pan.css" />
 	<script src="../Leaflet.Pancontrol/src/L.Control.Pan.js"></script>
+	
 	<script type="text/javascript" src="../Leaflet.markercluster-1.4.1/dist/leaflet.markercluster-src.js"></script>	
 	<link rel="stylesheet" href="../Leaflet.markercluster-1.4.1/dist/MarkerCluster.css" />
 	<link rel="stylesheet" href="../Leaflet.markercluster-1.4.1/dist/MarkerCluster.Default.css" />
-	<script type="text/javascript" src="../jquery.min.js"></script>	
-	<script type="text/javascript" src="../jesuitWorld.js"></script>	
-	<script type="text/javascript" src="../csvjsontest.js"></script>
-	<script type="text/javascript" src="../birthplaces.js"></script>	
-	<script type="text/javascript" src="../MovingMarker.js"></script>
-	<script type="text/javascript" src="../wNumb.js"></script>
-
-	<script src="https://d3js.org/d3.v5.min.js"></script>
 	
-
-	<link rel="stylesheet" href="../leaflet-search-master/src/leaflet-search.css" />
-	<script src="../leaflet-search-master/src/leaflet-search.js"></script>
+	
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/8.5.1/nouislider.min.css" />
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/8.5.1/nouislider.min.js"></script>
+	<script type="text/javascript" src="../wNumb.js"></script>
+	
+	
+	<script type="text/javascript" src="../jquery.min.js"></script>	
+	<script src="https://d3js.org/d3.v5.min.js"></script>
+	
+  <!--Load js for birth and deathlocations -->
+  	<script type="text/javascript" src="../DataSheets/birthplaceData.js"></script>	
+  	<script type="text/javascript" src="../DataSheets/deathplaceData.js"></script>	
+
 
 
 </head>
@@ -38,11 +44,11 @@
 	<!-- create map object and call map .js file -->
 	<div id = "map" style = "width:900px; height:580px;"></div>
 	
-	<!-- slider for filtering by year -->
+	<!-- slider for filtering by year using UIslider -->
 	<div id="slider" style="top: 0px; right: 1px; margin: 10px 25px;"></div>
 		<div style="margin-right: auto; margin-left: auto; width: 90%; margin-bottom: 10px; text-align: center;">
-		<input type="number" min='1700' max='1900' step='1' id="input-number-min">
-		<input type="number" min='1701' max='1901' step='1' id="input-number-max">
+		<input type="number" min='1725' max='1974' step='5' id="input-number-min">
+		<input type="number" min='1726' max='1975' step='5' id="input-number-max">
 	</div>
 	
 	<!-- slider for filtering by date

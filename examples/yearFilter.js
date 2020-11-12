@@ -99,6 +99,7 @@ var birthCluster= new L.MarkerClusterGroup({chunkedLoading: true, showCoverageOn
     
 	 }});
     birthCluster.addLayer(birthplacesImported);
+	birthCluster.addTo(map);
  
 	
 	var deathCluster= new L.MarkerClusterGroup({chunkedLoading: true, showCoverageOnHover: false,

@@ -30,11 +30,11 @@
 	);
 
 //cluster birthplaces, need to cluster or create a group to make refiltering easier
-	var birthCluster= new L.MarkerClusterGroup({showCoverageOnHover: false});
+	var birthCluster= new L.MarkerClusterGroup({chunkedLoading: true, showCoverageOnHover: false});
     birthCluster.addLayer(birthplacesImported);
     birthCluster.addTo(map);
 	
-	var deathCluster= new L.MarkerClusterGroup({showCoverageOnHover: false});
+	var deathCluster= new L.MarkerClusterGroup({chunkedLoading: true, showCoverageOnHover: false});
     deathCluster.addLayer(deathplacesImported);
 	
 	var baseLayers = {
@@ -45,7 +45,7 @@
 		"Birthplaces" : birthCluster,
 		"Deathplaces" : deathCluster
 	};
-	L.control.layers(baseLayers, clusterLayers).addTo(map);
+	L.control.layers(baseLayers, clusterLayers, {collapsed:false}).addTo(map);
 	
 
 //popUp box function
@@ -72,10 +72,10 @@
 	var slidervar = document.getElementById('slider');
 	noUiSlider.create(slidervar, {
 		connect: true,
-		start: [ 1725, 1975],
+		start: [1825, 1875],
 		step: 5,
 		decimals: 0,
-		tooltips: true,
+		tooltips: false,
     range: {
         min: 1725,
         max: 1975
@@ -86,8 +86,8 @@
 	});
 
 	//min and max slider input fields (also must be set in html)
-	document.getElementById('input-number-min').setAttribute("value", 1725);
-	document.getElementById('input-number-max').setAttribute("value", 1975);
+	document.getElementById('input-number-min').setAttribute("value", 1825);
+	document.getElementById('input-number-max').setAttribute("value", 1875);
 
 	var inputNumberMin = document.getElementById('input-number-min');
 	var inputNumberMax = document.getElementById('input-number-max');
@@ -111,9 +111,10 @@
 		rangeMin = document.getElementById('input-number-min').value;
 		rangeMax = document.getElementById('input-number-max').value;
 	
-		//first let's clear the layer	
+		//first let's clear the layers	
 		birthCluster.clearLayers();
-
+		deathCluster.clearLayers();
+		
 		//and repopulate it after filtering
 		birthplacesImported = new L.geoJson(birthplaces,{
 			onEachFeature: popUp,
@@ -122,10 +123,21 @@
                  return (feature.properties.yearOfBirth <= rangeMax) && (feature.properties.yearOfBirth >= rangeMin);
             }
 		})
+		
+		deathplacesImported = new L.geoJson(deathplaces,{
+			onEachFeature: popUp,
+        filter:
+            function(feature, layer) {
+                 return (feature.properties.yearOfDeath <= rangeMax) && (feature.properties.yearOfDeath >= rangeMin);
+            }
+		})
 
 //and back again into the cluster group
 	birthCluster.addLayer(birthplacesImported);
+	deathCluster.addLayer(deathplacesImported);
 	});
+	
+	
 
 /*
 

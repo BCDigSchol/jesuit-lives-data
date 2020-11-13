@@ -2,10 +2,10 @@
 Functionality examples for possible features of Jesuit lives maps 
  
 Examples:
-Filter Birthplaces between two dates on a slider
+Filter Birthplaces and deathplaces between two dates on one slider
 https://mnaglak.github.io/JesuitLives/examples/dateFilter.html
 
-Filter Birthplaces between two years on a slider or by typing in the year
+Filter Birthplaces and Deathplaces between two years on one slider
 https://mnaglak.github.io/JesuitLives/examples/yearFilter.html
 
 Search by Places with autocomplete (all listed in places spreadsheet as of 11/11/2020)

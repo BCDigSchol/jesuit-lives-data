@@ -9,12 +9,18 @@
 		
 //Creates Map according to map options 
 	var map = new L.map('map', mapOptions); 
+
+//timestamp conversion function
+function timestamp(str) {
+    return new Date(str).getTime();
+}
 		
 //Examples of an externally called tiled basemap
 	var Esri_WorldImagery = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
 		attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
 		}).addTo(map);
 
+//Example tiled maps
 	var southItaly = L.tileLayer('./tiledMaps/Italy/{z}/{x}/{y}.png', {tms: true, opacity: 1, attribution: "", minZoom: 4, maxZoom: 9}).addTo(map);
 	var mexico = L.tileLayer('./tiledMaps/Mexico/{z}/{x}/{y}.png', {tms: true, opacity: 1, attribution: "", minZoom: 3, maxZoom: 7}).addTo(map);
 
@@ -29,12 +35,12 @@ var baseLayers = {
 			L.control.layers(baseLayers, overlayMaps).addTo(map);
 
 //import external geojson and call function to run on each feature to create popups and define timestamps
-var lineStringImported = L.geoJson(toLineString, {
+var jesuitLives = L.geoJson(movementMap, {
 	onEachFeature: forEachFeature
 	});
 
 //put the geojson into a layerGroup in order to be filtered
-var lineGroup = L.layerGroup([lineStringImported]); 
+var jesuitLivesGroup = L.layerGroup([jesuitLives]); 
 
 //create global variables for timestamps and markers
 var personBirthStamp = null;
@@ -48,31 +54,26 @@ var searchActive = false;
 var isAlive = true;
 var isBorn = false;
 
+
 //create popup boxes for polylines as well as the timestamps for each moment of importance; timestamps are needed for current date filter system
 function forEachFeature(f, layer) {	
-	f.properties.birthStamp = timestamp(f.properties.dateOfBirth);
-	f.properties.deathStamp = timestamp(f.properties.dateOfDeath);
+	f.properties.birthStamp = timestamp(f.properties.Birth_Date);
+	f.properties.deathStamp = timestamp(f.properties.Death_Date);
 
 	var out = [];
 	if (f.properties) {
-		out.push('Birthplace no.: ' + f.properties.Id);
-		out.push('Date of Birth: ' + f.properties.dateOfBirth);
-		out.push('Date of Death: ' + f.properties.dateOfDeath);
-		out.push('Year: ' + f.properties.yearOfBirth);
-		out.push('BirthTimestamp: ' + f.properties.birthStamp);
-		out.push('DeathTimestam: ' + f.properties.deathStamp);
-		out.push('Last Name: ' + f.properties.lastName);
-		out.push('Birth latitude: ' + f.properties.birthlatitude);
+		out.push('Entry Number.: ' + f.properties.d);
+			out.push('First Name: ' + f.properties.First_Name);
+			out.push('Last Name: ' + f.properties.Last_Name);
+			out.push('Date of Birth: ' + f.properties.Birth_Date);
+			out.push('Place of Birth: ' + f.properties.Place_of_Birth);
+			out.push('Date of Death: ' + f.properties.Death_Date);
+			out.push('Place of Death: ' + f.properties.Place_of_Death);
 		layer.bindPopup(out.join("<br />"));
 	}	
 	
 	personBirthStamp = f.properties.birthStamp;
 	personDeathStamp = f.properties.deathStamp;
-}
-
-//timestamp conversion function
-function timestamp(str) {
-    return new Date(str).getTime();
 }
 
 //Creation of pan/scale function like Fulcrum images have. Uses PanControl plugin  
@@ -81,39 +82,40 @@ function timestamp(str) {
 
 
 //create the search control, set up currently for searching places, note that the text within the search box can be edited directly in the .js for the plugin
-//soom set in plugin .js
+//zoom functions set inthe plugin's .js
 	var searchControl = new L.Control.Search({
-		layer: L.featureGroup([lineGroup]),
-		propertyName: 'lastName',
+		layer: L.featureGroup([jesuitLivesGroup]),
+		propertyName: 'Last_Name',
 		marker: false,
 	}); 
 		map.addControl( searchControl ); 
+
 	
 //Runs when search control finds a result	
 	searchControl.on('search:locationfound', function(e) {	
 		searchActive = true;
-		lineGroup.clearLayers(); //clear group layer
+		jesuitLivesGroup.clearLayers(); //clear group layer
 		//note this html id seems to change every once in a while...need to check
-		var choice = document.getElementById("searchtext16").value; //record user input 
+		var choice = document.getElementById("searchtext16").value; //record user input from search box 
 		console.log(choice);
 		var bLat = null; //create variables to record start and stop positions of moving marker
 		var bLong = null;
 		var dLat = null;
 		var dLong = null;
-		var lineStringImported = L.geoJson(toLineString, { //filter geojson based on user input and record start and stop data
+		var jesuitLives = L.geoJson(movementMap, { //filter geojson based on user input and record start and stop data
 			filter:
 				function (feature, layer) {
-					if (feature.properties.lastName == choice) {
+					if (feature.properties.Last_Name == choice) {
 						bLat = feature.properties.birthlatitude;
 						bLong = feature.properties.birthlongitude;
 						dLat = feature.properties.deathlatitude;
 						dLong = feature.properties.deathlongitude;
-						return (feature.properties.lastName == choice);}
+						return (feature.properties.Last_Name == choice);}
 				},
 			onEachFeature: forEachFeature
 			
 		});
-		lineGroup.addLayer(lineStringImported).addTo(map); //add layer back to group 
+		jesuitLivesGroup.addLayer(jesuitLives).addTo(map); //add layer back to group 
 		
 		myStaticEndMarker = new L.Marker([dLat, dLong]);
 		myStaticStartMarker = new L.Marker([bLat, bLong]);
@@ -140,15 +142,15 @@ function timestamp(str) {
 	}).on('search:cancel', function(e) {
 		isAlive = false;
 		searchActive = false;
-		lineGroup.clearLayers();
-		var lineStringImported = L.geoJson(toLineString, {
+		jesuitLivesGroup.clearLayers();
+		var jesuitLives = L.geoJson(movementMap, {
 		onEachFeature: forEachFeature
 	})
 	map.removeLayer(myMovingMarker);
 	map.removeLayer(myStaticEndMarker);
 	map.removeLayer(myStaticStartMarker);
-	map.removeLayer(lineGroup);
-	lineGroup.addLayer(lineStringImported);
+	map.removeLayer(jesuitLivesGroup);
+	jesuitLivesGroup.addLayer(jesuitLives);
 	personBirthStamp = null;
 	personDeathStamp = null;
 	
@@ -212,15 +214,15 @@ var dateSlider = document.getElementById('slider-date');
 noUiSlider.create(dateSlider, {
 // Create two timestamps to define a range.
     range: {
-        min: timestamp('01/01/1775'),
-        max: timestamp('12/31/1910')
+        min: timestamp('01/01/1725'),
+        max: timestamp('12/31/1970')
     },
-	tooltips: true,
+	tooltips: false,
 	// Steps of one week
-    step: 7*60*60*24 *1000 ,
+    step: 7*60*60*24 *2000 ,
 	
 	// timestamp indicates the handle starting positions.
-    start: [timestamp('01/01/1775')],
+    start: [timestamp('01/01/1725')],
 
 // No decimals
     format: wNumb({
@@ -228,6 +230,8 @@ noUiSlider.create(dateSlider, {
     })
 });
 
+
+//need to set initial values still?
 var dateValues = [
     document.getElementById('date_hidden')
 ];

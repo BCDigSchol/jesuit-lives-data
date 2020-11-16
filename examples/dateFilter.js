@@ -116,11 +116,7 @@
 	function timestamp(str) {
 		return new Date(str).getTime();
 	}
-function updatePips( value ){
-    var date = new Date(value * 1000);
-    return date;
-	console.log('update pips');
-}
+
 //Create slider using html div name
 	var dateSlider = document.getElementById('slider-date');
 
@@ -138,9 +134,6 @@ function updatePips( value ){
 		start: [timestamp('01/01/1725'), timestamp('12/31/1975')],
 
 		// No decimals
-		//format: wNumb({
-		//	decimals: 0
-		//})
 		format: wNumb({
         decimals: 0
 		})
@@ -182,7 +175,7 @@ function updatePips( value ){
 
 	
 
-//function for updating slider; will need to see if update works
+//function for updating slider
 	dateSlider.noUiSlider.on('change', function (values, handle) {
 		dateValues[handle].innerHTML = values[handle]; //set slider timestamp values in array 
 		dateValuesNice[handle].innerHTML = formatDate(new Date(+values[handle])); //set slider nice looking values in array
@@ -207,7 +200,7 @@ function updatePips( value ){
 				console.log('im filtering births');
 				return (feature.properties.birthStamp <= rangeMax) && (feature.properties.birthStamp >= rangeMin);
 			}
-	})
+	});
 		
 	deathplacesImported = new L.geoJson(deathplaces,{
 		onEachFeature: popUp,

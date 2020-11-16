@@ -109,7 +109,7 @@
 //Creation of pan/scale function like Fulcrum images have. Uses PanControl plugin  
 	L.control.pan().addTo(map);
 	L.control.scale().addTo(map); 
-	
+
 	
 //Creating the slider
 	var slidervar = document.getElementById('slider'); //call the html div
@@ -132,6 +132,7 @@
 	format: wNumb({
         decimals: 0
 		}),
+	
 	});
 
 

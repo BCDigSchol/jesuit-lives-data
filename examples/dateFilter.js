@@ -116,7 +116,11 @@
 	function timestamp(str) {
 		return new Date(str).getTime();
 	}
-
+function updatePips( value ){
+    var date = new Date(value * 1000);
+    return date;
+	console.log('update pips');
+}
 //Create slider using html div name
 	var dateSlider = document.getElementById('slider-date');
 
@@ -126,17 +130,21 @@
 			max: timestamp('12/31/1975')
 		},
 		connect: true,
-		tooltips: true,
+		tooltips: false,
 		// Steps of one week
-		step: 7*60*60*24 *1000 ,
-	
+		step: 7*60*60*24 *2000 ,
+		
 		// Two more timestamps indicate the handle starting positions.
 		start: [timestamp('01/01/1725'), timestamp('12/31/1975')],
 
 		// No decimals
+		//format: wNumb({
+		//	decimals: 0
+		//})
 		format: wNumb({
-			decimals: 0
+        decimals: 0
 		})
+     
 	});
 	
 	//create array to hold hidden timestamp values for filtering

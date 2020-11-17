@@ -53,16 +53,17 @@ var baseLayers = {
 	var searchActive = false; //boolean for if a search is currently taking place 
 	var isAlive = true; //variable to control marker appearance when someone moves the slider back and forth across the death moment 
 	var isBorn = false; //variable to control marker appearance when someone moves the slider back and forth across the birth moment 
-
+	var popupText = null; //holder for marker popup text
 
 //create popup boxes for polylines as well as the timestamps for each moment of importance; timestamps are needed for current date filter system
-function forEachFeature(f, layer) {	
-	f.properties.birthStamp = timestamp(f.properties.Birth_Date);
-	f.properties.deathStamp = timestamp(f.properties.Death_Date);
+//runs only when search is performed
+	function forEachFeature(f, layer) {	
+		f.properties.birthStamp = timestamp(f.properties.Birth_Date);
+		f.properties.deathStamp = timestamp(f.properties.Death_Date);
 
-	var out = [];
-	if (f.properties) {
-		out.push('Entry Number.: ' + f.properties.d);
+		var out = [];	
+		if (f.properties) {
+			out.push('Entry Number.: ' + f.properties.d);
 			out.push('First Name: ' + f.properties.First_Name);
 			out.push('Last Name: ' + f.properties.Last_Name);
 			out.push('Date of Birth: ' + f.properties.Birth_Date);
@@ -70,11 +71,17 @@ function forEachFeature(f, layer) {
 			out.push('Date of Death: ' + f.properties.Death_Date);
 			out.push('Place of Death: ' + f.properties.Place_of_Death);
 		layer.bindPopup(out.join("<br />"));
-	}	
+		}	
 	
+	//creates popup text for markers (forEachFeature doesn't work for individual marker creation I don't believe)
+	popupText =  'Entry Number.: ' + f.properties.d + '<br>' + 'First Name: ' + f.properties.First_Name + '<br>' + 'Last Name: ' + f.properties.Last_Name + '<br>' +
+				'Date of Birth: ' + f.properties.Birth_Date + '<br>' + 'Place of Birth: ' + f.properties.Place_of_Birth + '<br>' + 'Date of Death: ' + f.properties.Death_Date +
+				'<br>' + 'Place of Death: ' + f.properties.Place_of_Death;
+	
+	//record birth and deathstamps for marker movement later
 	personBirthStamp = f.properties.birthStamp;
 	personDeathStamp = f.properties.deathStamp;
-}
+	}
 
 //Creation of pan/scale function like Fulcrum images have. Uses PanControl plugin  
 	L.control.pan().addTo(map);
@@ -82,23 +89,22 @@ function forEachFeature(f, layer) {
 
 
 //create the search control, set up currently for searching places, note that the text within the search box can be edited directly in the .js for the plugin
-//zoom functions set inthe plugin's .js
+//zoom functions set in the plugin's .js as well
 	var searchControl = new L.Control.Search({
 		layer: L.featureGroup([jesuitLivesGroup]),
 		propertyName: 'fullName',
 		marker: false,
-	}); 
-		map.addControl( searchControl ); 
+		}); 
+	map.addControl( searchControl ); 
 
 	
 //Runs when search control finds a result	
 	searchControl.on('search:locationfound', function(e) {	
-		searchActive = true;
+		searchActive = true; //sets search boolean to active 
 		jesuitLivesGroup.clearLayers(); //clear group layer
 		//note this html id seems to change every once in a while, I think it has to do with the text label?
 		var choice = document.getElementById("searchtext19").value; //record user input from search box 
-		console.log(choice);
-		var bLat = null; //create variables to record start and stop positions of moving marker
+		var bLat = null; //create variables to record start and stop positions for moving marker; probably a better way to do this with an array
 		var bLong = null;
 		var dLat = null;
 		var dLong = null;
@@ -112,17 +118,21 @@ function forEachFeature(f, layer) {
 						dLong = feature.properties.deathlongitude;
 						return (feature.properties.fullName == choice);}
 				},
-			onEachFeature: forEachFeature
+			onEachFeature: forEachFeature //creates popup for line
 			
 		});
 		jesuitLivesGroup.addLayer(jesuitLives).addTo(map); //add layer back to group 
 		
 		myStaticEndMarker = new L.Marker([dLat, dLong]);
+		myStaticEndMarker.bindPopup(popupText);
 		myStaticStartMarker = new L.Marker([bLat, bLong]);
-	
+		myStaticStartMarker.bindPopup(popupText);
+
+		//popup text bound to all markers 
 		myMovingMarker = new L.Marker.movingMarker([[bLat, bLong],[dLat, dLong]],[5000]);
 		myReverseMovingMarker = new L.Marker.movingMarker([[dLat, dLong],[bLat, bLong]],[5000]);
-
+		myMovingMarker.bindPopup(popupText);
+		myReverseMovingMarker.bindPopup(popupText);
 		
 		
 		if (dateNumber > personBirthStamp && dateNumber < personDeathStamp) {

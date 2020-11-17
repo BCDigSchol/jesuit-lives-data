@@ -35,24 +35,24 @@ var baseLayers = {
 			L.control.layers(baseLayers, overlayMaps).addTo(map);
 
 //import external geojson and call function to run on each feature to create popups and define timestamps
-var jesuitLives = L.geoJson(movementMap, {
-	onEachFeature: forEachFeature
-	});
+	var jesuitLives = L.geoJson(movementMap, {
+		onEachFeature: forEachFeature
+		});
 
 //put the geojson into a layerGroup in order to be filtered
-var jesuitLivesGroup = L.layerGroup([jesuitLives]); 
+	var jesuitLivesGroup = L.layerGroup([jesuitLives]); 
 
-//create global variables for timestamps and markers
-var personBirthStamp = null;
-var personDeathStamp = null;
-var dateNumber = null;
-var myMovingMarker;
-var myReverseMovingMarker;
-var myStaticEndMarker;
-var myStaticStartMarker;
-var searchActive = false;
-var isAlive = true;
-var isBorn = false;
+//create global variables for timestamps and markers. There is probably a better way to do this
+	var personBirthStamp = null; //birthstamp data for individual searched for
+	var personDeathStamp = null; //deathstamp data for individual searched for
+	var dateNumber = null; //holds the current value of the slider
+	var myMovingMarker; //marker moving from birth to death
+	var myReverseMovingMarker; //marker moving from death to birth 
+	var myStaticEndMarker; //marker created at death location once the movement is completed 
+	var myStaticStartMarker; //marker created at birth location before movement takes place 
+	var searchActive = false; //boolean for if a search is currently taking place 
+	var isAlive = true; //variable to control marker appearance when someone moves the slider back and forth across the death moment 
+	var isBorn = false; //variable to control marker appearance when someone moves the slider back and forth across the birth moment 
 
 
 //create popup boxes for polylines as well as the timestamps for each moment of importance; timestamps are needed for current date filter system
@@ -85,7 +85,7 @@ function forEachFeature(f, layer) {
 //zoom functions set inthe plugin's .js
 	var searchControl = new L.Control.Search({
 		layer: L.featureGroup([jesuitLivesGroup]),
-		propertyName: 'Last_Name',
+		propertyName: 'fullName',
 		marker: false,
 	}); 
 		map.addControl( searchControl ); 
@@ -95,8 +95,8 @@ function forEachFeature(f, layer) {
 	searchControl.on('search:locationfound', function(e) {	
 		searchActive = true;
 		jesuitLivesGroup.clearLayers(); //clear group layer
-		//note this html id seems to change every once in a while...need to check
-		var choice = document.getElementById("searchtext16").value; //record user input from search box 
+		//note this html id seems to change every once in a while, I think it has to do with the text label?
+		var choice = document.getElementById("searchtext19").value; //record user input from search box 
 		console.log(choice);
 		var bLat = null; //create variables to record start and stop positions of moving marker
 		var bLong = null;
@@ -105,12 +105,12 @@ function forEachFeature(f, layer) {
 		var jesuitLives = L.geoJson(movementMap, { //filter geojson based on user input and record start and stop data
 			filter:
 				function (feature, layer) {
-					if (feature.properties.Last_Name == choice) {
+					if (feature.properties.fullName == choice) {
 						bLat = feature.properties.birthlatitude;
 						bLong = feature.properties.birthlongitude;
 						dLat = feature.properties.deathlatitude;
 						dLong = feature.properties.deathlongitude;
-						return (feature.properties.Last_Name == choice);}
+						return (feature.properties.fullName == choice);}
 				},
 			onEachFeature: forEachFeature
 			
@@ -281,7 +281,7 @@ function formatDate(date) {
 //updating the slider
 dateSlider.noUiSlider.on('update', function (values, handle) {
     dateValues[handle].innerHTML = values[handle];
-    dateValuesNice[handle].innerHTML = "Location on Date: " + formatDate(new Date(+values[handle]));
+    dateValuesNice[handle].innerHTML = formatDate(new Date(+values[handle]));
 	dateNumber = dateValues[0].innerHTML;
 	dateNumberhidden = dateValuesNice[0].innerHTML;
 	

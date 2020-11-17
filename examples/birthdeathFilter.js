@@ -142,11 +142,6 @@
 //Creation of pan/scale function like Fulcrum images have. Uses PanControl plugin  
 	L.control.pan().addTo(map);
 	L.control.scale().addTo(map); 
-		
-
-//Creation of pan/scale function like Fulcrum images have. Uses PanControl plugin  
-	L.control.pan().addTo(map);
-	L.control.scale().addTo(map); 
 
 
 	var dateSlider = document.getElementById('slider-date');

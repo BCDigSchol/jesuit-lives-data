@@ -37,6 +37,8 @@
 			out.push('City: ' + f.properties.City);
 			out.push('Region: ' + f.properties.Region);
 			out.push('Department: ' + f.properties.Department);
+			out.push('Jesuits who were born here: ' + f.properties.bornHere);
+			out.push('Jesuits who died here: ' + f.properties.diedHere);
 			l.bindPopup(out.join("<br />"));
 		}
 	}

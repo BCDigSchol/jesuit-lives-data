@@ -10,6 +10,21 @@ import pandas as pd
 
 with open("places.json", encoding="utf8") as f:
     places = json.load(f)
+    
+with open("people.json", encoding="utf8") as f2:
+    people = json.load(f2)
+
+
+for i in range(0, len(places)):
+    places[i]['bornHere']=[]
+    places[i]['diedHere']=[]
+    for j in range (0, len(people)):
+        people[j]['fullName']=people[j]['Last_Name'] + ", " + people[j]['First_Name'] +  ' (' + str(people[j]['d']) + ')'
+        if places[i]['Places']==people[j]['Place_of_Birth']:
+            places[i]['bornHere'].append(people[j]['fullName'])
+        if places[i]['Places']==people[j]['Place_of_Death']:
+            places[i]['diedHere'].append(people[j]['fullName'])
+
 
 ##Process for converting json to geojson, checking for coordinates, and exporting, for births
 df = pd.DataFrame(places)
@@ -21,7 +36,7 @@ df['Longitude'] =  pd.to_numeric(df['Longitude'],errors='coerce')
 df['Latitude'] =  pd.to_numeric(df['Latitude'],errors='coerce')
 
 #choose which column headings to include in geojson
-useful_cols = ['Places', 'Latitude', 'Longitude', 'City', 'Country', 'Region', 'Department','Department number']
+useful_cols = ['Places', 'Latitude', 'Longitude', 'City', 'Country', 'Region', 'Department','Department number', 'bornHere', 'diedHere']
 df_subset = df[useful_cols]
 
 #drop places that do not have spatial data
@@ -65,7 +80,7 @@ def df_to_geojson(df, properties, lat='Latitude', lon='Longitude'):
     return geojson
 
 #set columns to be exported as properties
-useful_columns = ['Places', 'Latitude', 'Longitude', 'City', 'Country', 'Region', 'Department','Department number']
+useful_columns = ['Places', 'Latitude', 'Longitude', 'City', 'Country', 'Region', 'Department','Department number', 'bornHere', 'diedHere']
 
 geojson_dict = df_to_geojson(df_geo, properties=useful_columns)
 

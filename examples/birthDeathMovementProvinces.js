@@ -14,8 +14,7 @@
 function timestamp(str) {
     return new Date(str).getTime();
 }
-	
-
+		
 //Creation of pan/scale function like Fulcrum images have. Uses PanControl plugin  
 	L.control.pan().addTo(map);
 	L.control.scale().addTo(map); 
@@ -103,6 +102,17 @@ var baseLayers = {
 		}); 
 	map.addControl( searchControl ); 
 
+	var myBirthIcon = new L.Icon({iconUrl: './img/marker-icon-green.png',
+							iconAnchor:   [10, 38],//changed marker icon position
+							popupAnchor:  [0, -36]//changed popup position
+							});
+	
+	var myDeathIcon = new L.Icon({iconUrl: './img/marker-icon-red.png',
+							iconAnchor:   [10, 38],//changed marker icon position
+							popupAnchor:  [0, -36]//changed popup position
+							});
+	
+
 	
 //Runs when search control finds a result	
 	searchControl.on('search:locationfound', function(e) {	
@@ -136,24 +146,25 @@ var baseLayers = {
 		
 		jesuitLivesGroup.addLayer(jesuitLives).addTo(map); //add layer back to group 
 		
+
+		
 		//create static markers based on person data 
-		myStaticEndMarker = new L.Marker([dLat, dLong]);
+		myStaticEndMarker = new L.Marker([dLat, dLong], {icon: myDeathIcon} );
 		myStaticEndMarker.bindPopup(popupText);
-		myStaticStartMarker = new L.Marker([bLat, bLong]);
+		myStaticStartMarker = new L.Marker([bLat, bLong], {icon: myBirthIcon});
 		myStaticStartMarker.bindPopup(popupText);
 		myStaticProvinceMarker = new L.Marker([pLat, pLong]);
 		myStaticProvinceMarker.bindPopup(popupText);
 
 		//create moving markers
 		myMovingMarker = new L.Marker.movingMarker([[bLat, bLong],[pLat, pLong]],[5000]);
-		myMovingMarker2 = new L.Marker.movingMarker([[pLat, pLong],[dLat, dLong]],[5000]);
+		myMovingMarker2 = new L.Marker.movingMarker([[pLat, pLong],[dLat, dLong]],[5000], {icon: myDeathIcon} );
 		myMovingMarker.bindPopup(popupText);
 		myMovingMarker2.bindPopup(popupText);
 
 		
 		//these 3 if statements control if a marker initially pops up upon filtering, depending on where the slider is at a moment in time
 		if (dateNumber > personBirthStamp && dateNumber < personProvinceStamp) {
-				//myMovingMarker.addTo(map);
 				myStaticStartMarker.addTo(map);
 				isAlive = true;
 				isJesuit = false;
@@ -240,9 +251,14 @@ function movingTheMarker(date) {
 		myMovingMarker2.addTo(map);
 		myMovingMarker2.start(() => 
 			myStaticEndMarker.addTo(map));
+		//map.removeLayer(myMovingMarker2));
 		isAlive=false; 
 		console.log('dead');
 	}
+	
+/*	myMovingMarker2.on('end', function () {
+		map.removeLayer(myMovingMarker2);
+		myStaticEndMarker.addTo(map)});*/
 	
 	
 	
@@ -265,9 +281,9 @@ function movingTheMarker(date) {
 		myStaticProvinceMarker.addTo(map);
 		map.removeLayer(myStaticEndMarker);
 	}*/
-
 	
 } 
+
 
 	
 var dateSlider = document.getElementById('slider-date');

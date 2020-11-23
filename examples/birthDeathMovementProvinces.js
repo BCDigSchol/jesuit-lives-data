@@ -76,6 +76,7 @@ var baseLayers = {
 			out.push('Date of Birth: ' + f.properties.Birth_Date);
 			out.push('Place of Birth: ' + f.properties.Place_of_Birth);
 			out.push('Date of Entrance: ' + f.properties.Entrance_Date_1);
+			out.push('Place of Entrance: ' + f.properties.provinceCity);
 			out.push('Date of Death: ' + f.properties.Death_Date);
 			out.push('Place of Death: ' + f.properties.Place_of_Death);
 		layer.bindPopup(out.join("<br />"));
@@ -84,7 +85,7 @@ var baseLayers = {
 	//creates popup text for markers (forEachFeature doesn't work for individual marker creation, only for lines)
 	popupText =  'Entry Number.: ' + f.properties.Id + '<br>' + 'First Name: ' + f.properties.First_Name + '<br>' + 'Last Name: ' + f.properties.Last_Name + '<br>' +
 				'Date of Birth: ' + f.properties.Birth_Date + '<br>' + 'Place of Birth: ' + f.properties.Place_of_Birth + '<br>' + 'Date of Entrance: ' + f.properties.Entrance_Date_1 + '<br>' 
-				+ 'Date of Death: ' + f.properties.Death_Date + '<br>' + 'Place of Death: ' + f.properties.Place_of_Death;
+				+ 'Place of Entrance: ' + f.properties.provinceCity + '<br>' + 'Date of Death: ' + f.properties.Death_Date + '<br>' + 'Place of Death: ' + f.properties.Place_of_Death;
 	
 	//record birth and deathstamps for marker movement later
 	personBirthStamp = f.properties.birthStamp;
@@ -351,5 +352,4 @@ dateSlider.noUiSlider.on('update', function (values, handle) {
 	//if a search has taken place, run the movemarker function; otherwise it throws errors because certain variables are empty
 	if (searchActive) {
 		movingTheMarker(dateNumber);}
-    
 });

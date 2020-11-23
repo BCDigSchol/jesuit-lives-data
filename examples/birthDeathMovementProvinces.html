@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Jesuit Lives Movement</title>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+
+  <!-- Load Leaflet stylesheet and .js locally -->
+	<link rel="stylesheet" href="../leaflet1_5_1/leaflet.css"/>
+	<script src="../leaflet1_5_1/leaflet.js"></script>  
+	<link rel="stylesheet" href="../jesuitPlaces.css"/>
+  
+   <!-- Load plugins locally
+	Pancontrol for panning and zooming
+	MarkerCluster for marker clustering
+	noUiSlider for the slider -- uses wNumb for formatting
+	-->
+	<link rel="stylesheet" href="../Leaflet.Pancontrol/src/L.Control.Pan.css" />
+	<script src="../Leaflet.Pancontrol/src/L.Control.Pan.js"></script>
+	
+	<script type="text/javascript" src="../Leaflet.markercluster-1.4.1/dist/leaflet.markercluster-src.js"></script>	
+	<link rel="stylesheet" href="../Leaflet.markercluster-1.4.1/dist/MarkerCluster.css" />
+	<link rel="stylesheet" href="../Leaflet.markercluster-1.4.1/dist/MarkerCluster.Default.css" />
+	
+	<link rel="stylesheet" href="../noUiSlider/distribute/nouislider.min.css" />
+	<script src="../noUiSlider/distribute/nouislider.min.js"></script>
+	<script src="../Leaflet.MovingMarker/MovingMarker.js"></script>
+
+	<!-- I do not think these are needed
+	<script src="https://d3js.org/d3.v5.min.js"></script>
+	-->
+	
+	<script type="text/javascript" src="../wNumb.js"></script>
+	<script type="text/javascript" src="../jquery.min.js"></script>	
+	
+	<!-- Search for people, needs a different instance of the plugin than the search for places -->
+	<link rel="stylesheet" href="./leaflet-search-master-people/src/leaflet-search.css" />
+	<script src="./leaflet-search-master-people/src/leaflet-search.js"></script>
+  <!--Load js for birth and deathlocations -->
+  	<script type="text/javascript" src="../DataSheets/movementMapProvinces.js"></script>	
+</head>
+
+<body>
+	<!-- create map object and call map .js file -->
+	<div id = "map" style = "width:100%; height:500px;"></div>
+	
+		<!-- slider for filtering by date -->
+	<div id="slider-date" style="top: 0px; right: 1px; margin: 10px 25px;"></div>
+		<div style="margin-right: auto; margin-left: auto; width: 90%; margin-bottom: 10px; text-align: center;">
+	</div>
+	
+	<div class="center2"> Marker shows location of Jesuit on: <span class="example-val" id="date"></span> AD</div>
+
+	<!-- hidden classes contain timestamp info not visible to users, formatted timestamp "event-type-2" -->
+	<span class="example-val-hidden" id="date_hidden"></span>
+	
+
+	
+    <script type="text/javascript" src="birthDeathMovementProvinces.js"></script>
+	
+	
+	
+</body>
+</html>

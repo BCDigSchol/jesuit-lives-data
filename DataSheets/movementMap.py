@@ -15,6 +15,9 @@ with open("people.json", encoding="utf8") as f2:
 with open("places.json", encoding="utf8") as f:
     places = json.load(f)
     
+with open("provinces.json", encoding="utf8") as f3:
+    provinces=json.load(f3)
+    
 #reformatting the date attribute to match the format needed for timestamps in Leaflet
 #Pulling out the year in case it is wanted for filtering
 for i in range (0, len(people)):
@@ -22,7 +25,8 @@ for i in range (0, len(people)):
     people[i]['yearOfBirth'] = people[i]['Birth_Date'][-4:]
     people[i]['Death_Date'] = people[i]['Death_Date'][3:5] + "/" + people[i]['Death_Date'][0:2] + "/" + people[i]['Death_Date'][-4:]
     people[i]['yearOfDeath'] = people[i]['Death_Date'][-4:]
-    people[i]['fullName']=people[i]['Last_Name'] + ", " + people[i]['First_Name'] +  ' (' + str(people[i]['d']) + ')'
+    people[i]['fullName']=people[i]['Last_Name'] + ", " + people[i]['First_Name'] +  ' (' + str(people[i]['Id']) + ')'
+    people[i]['Entrance_Date_1'] = people[i]['Entrance_Date_1'][3:5] + "/" + people[i]['Entrance_Date_1'][0:2] + "/" + people[i]['Entrance_Date_1'][-4:]
 
 
 
@@ -37,7 +41,16 @@ for i in range (0, len(people)):
         if people[i]['Place_of_Death'] == places[j]['Places']:
             people[i]['deathlatitude'] = places[j]['Latitude']
             people[i]['deathlongitude'] = places[j]['Longitude']
-    
+
+
+for i in range (0, len(people)):
+    for j in range (0, len(provinces)):
+        if people[i]['Entrance_Province'] == provinces[j]['JesuitPlaceAbbreviation']:
+            people[i]['provinceLatitude'] = provinces[j]['Latitude']
+            people[i]['provinceLongitude'] = provinces[j]['Longitude']
+            people[i]['provinceFull'] = provinces[j]['JesuitPlaceFull']
+            people[i]['provinceCity'] = provinces[j]['Placeholder City']
+            people[i]['provinceCountry'] = provinces[j]['Placeholder Country']
 
 ##Process for converting json to geojson, checking for coordinates, and exporting, for births
 df = pd.DataFrame(people)
@@ -50,9 +63,15 @@ df['yearOfBirth'] =  pd.to_numeric(df['yearOfBirth'],errors='coerce')
 df['yearOfDeath'] =  pd.to_numeric(df['yearOfDeath'],errors='coerce')
 df['deathlatitude'] =  pd.to_numeric(df['deathlatitude'],errors='coerce')
 df['deathlongitude'] =  pd.to_numeric(df['deathlongitude'],errors='coerce')
+df['provinceLatitude'] =  pd.to_numeric(df['provinceLatitude'],errors='coerce')
+df['provinceLongitude'] =  pd.to_numeric(df['provinceLongitude'],errors='coerce')
+
 
 #choose which column headings to include in geojson
-useful_cols = ['d', 'fullName', 'Title', 'First_Name', 'Last_Name', 'Place_of_Birth', 'yearOfBirth', 'yearOfDeath','Birth_Date', 'Death_Date', 'Place_of_Death', 'showOnMap', 'birthlatitude', 'birthlongitude', 'deathlatitude', 'deathlongitude', 'Entrance_Province']
+useful_cols = ['Id', 'fullName', 'Title', 'First_Name', 'Last_Name', 'Place_of_Birth', 'yearOfBirth', 
+               'yearOfDeath','Birth_Date', 'Death_Date', 'Place_of_Death', 'showOnMap', 'birthlatitude', 
+               'birthlongitude', 'deathlatitude', 'deathlongitude', 'Entrance_Province', 'provinceLatitude', 'provinceLongitude',
+               'provinceFull', 'provinceCity', 'provinceCountry', 'Entrance_Date_1']
 df_subset = df[useful_cols]
 
 
@@ -62,7 +81,10 @@ print('We have {} geotagged rows with birth data'.format(len(df_geo)))
 df_geo2 = df_geo.dropna(subset=['deathlatitude', 'deathlongitude'], axis=0, inplace=False)
 print('We have {} geotagged rows with birth and death data'.format(len(df_geo2)))
 
-def df_to_geojson(df, properties, deathlon = 'deathlongitude', deathlat = 'deathlatitude', birthlat='birthlatitude', birthlon='birthlongitude'):
+df_geo3 = df_geo2.dropna(subset=['provinceLatitude', 'provinceLongitude'], axis=0, inplace=False)
+print('We have {} geotagged rows with birth and death and province data'.format(len(df_geo3)))
+
+def df_to_geojson(df, properties, provlon='provinceLongitude', provlat='provinceLatitude', deathlon = 'deathlongitude', deathlat = 'deathlatitude', birthlat='birthlatitude', birthlon='birthlongitude'):
     """
     Turn a dataframe containing point data into a geojson formatted python dictionary
     
@@ -84,7 +106,7 @@ def df_to_geojson(df, properties, deathlon = 'deathlongitude', deathlat = 'death
                                'coordinates':[]}}
 
         # fill in the coordinates, makes an array with birth and death data 
-        feature['geometry']['coordinates'] = [[row[birthlon],row[birthlat]],[row[deathlon],row[deathlat]]]
+        feature['geometry']['coordinates'] = [[row[birthlon],row[birthlat]],[row[provlon],row[provlat]],[row[deathlon],row[deathlat]]]
 
         # for each column, get the value and add it as a new feature property
         for prop in properties:
@@ -95,15 +117,18 @@ def df_to_geojson(df, properties, deathlon = 'deathlongitude', deathlat = 'death
     
     return geojson
 
-useful_columns = ['d', 'fullName', 'Title', 'First_Name', 'Last_Name', 'Place_of_Birth', 'Birth_Date', 'Death_Date', 'Place_of_Death', 'showOnMap', 'birthlatitude', 'birthlongitude', 'deathlatitude', 'deathlongitude', 'Entrance_Province', 'yearOfBirth', 'yearOfDeath']
+useful_columns = ['Id', 'fullName', 'Title', 'First_Name', 'Last_Name', 'Place_of_Birth', 'Birth_Date', 
+                  'Death_Date', 'Place_of_Death', 'showOnMap', 'birthlatitude', 'birthlongitude', 'deathlatitude', 
+                  'deathlongitude', 'Entrance_Province', 'yearOfBirth', 'yearOfDeath', 'Entrance_Province', 'provinceLatitude', 'provinceLongitude',
+                  'provinceFull', 'provinceCity', 'provinceCountry', 'Entrance_Date_1']
 
-geojson_dict = df_to_geojson(df_geo2, properties=useful_columns)
+geojson_dict = df_to_geojson(df_geo3, properties=useful_columns)
 geojson_str = json.dumps(geojson_dict, indent=2, ensure_ascii=False)
 
 # save the geojson result to a file
-output_filename = 'movementMap.js'
+output_filename = 'movementMapProvinces.js'
 with open(output_filename, 'w', encoding='utf8') as output_file:
-    output_file.write('var movementMap = {};'.format(geojson_str))
+    output_file.write('var movementMapProvinces = {};'.format(geojson_str))
     
 # how many features did we save to the geojson file?
 print('{} geotagged features saved to file'.format(len(geojson_dict['features'])))

@@ -52,7 +52,7 @@ df['deathlatitude'] =  pd.to_numeric(df['deathlatitude'],errors='coerce')
 df['deathlongitude'] =  pd.to_numeric(df['deathlongitude'],errors='coerce')
 
 #choose which column headings to include in geojson
-useful_cols = ['d', 'Title', 'First_Name', 'Last_Name', 'Place_of_Birth', 'yearOfBirth', 'yearOfDeath','Birth_Date', 'Death_Date', 'Place_of_Death', 'showOnMap', 'birthlatitude', 'birthlongitude', 'deathlatitude', 'deathlongitude', 'Entrance_Province']
+useful_cols = ['Id', 'Title', 'First_Name', 'Last_Name', 'Place_of_Birth', 'yearOfBirth', 'yearOfDeath','Birth_Date', 'Death_Date', 'Place_of_Death', 'showOnMap', 'birthlatitude', 'birthlongitude', 'deathlatitude', 'deathlongitude', 'Entrance_Province']
 df_subset = df[useful_cols]
 
 #drop people that do not have birthplace data
@@ -96,7 +96,7 @@ def df_to_geojson(df, properties, lat='birthlatitude', lon='birthlongitude'):
     return geojson
 
 #set columns to be exported as properties
-useful_columns = ['d', 'Title', 'First_Name', 'Last_Name', 'Place_of_Birth', 'Birth_Date', 'Death_Date', 'Place_of_Death', 'showOnMap', 'birthlatitude', 'birthlongitude', 'deathlatitude', 'deathlongitude', 'Entrance_Province', 'yearOfBirth', 'yearOfDeath']
+useful_columns = ['Id', 'Title', 'First_Name', 'Last_Name', 'Place_of_Birth', 'Birth_Date', 'Death_Date', 'Place_of_Death', 'showOnMap', 'birthlatitude', 'birthlongitude', 'deathlatitude', 'deathlongitude', 'Entrance_Province', 'yearOfBirth', 'yearOfDeath']
 
 geojson_dict = df_to_geojson(df_geo, properties=useful_columns)
 

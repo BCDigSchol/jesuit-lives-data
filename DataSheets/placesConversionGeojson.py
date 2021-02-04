@@ -19,7 +19,7 @@ for i in range(0, len(places)):
     places[i]['bornHere']=[]
     places[i]['diedHere']=[]
     for j in range (0, len(people)):
-        people[j]['fullName']=people[j]['Last_Name'] + ", " + people[j]['First_Name'] +  ' (' + str(people[j]['d']) + ')'
+        people[j]['fullName']=people[j]['Last_Name'] + ", " + people[j]['First_Name'] +  ' (' + str(people[j]['Id']) + ')'
         if places[i]['Places']==people[j]['Place_of_Birth']:
             places[i]['bornHere'].append(people[j]['fullName'])
         if places[i]['Places']==people[j]['Place_of_Death']:

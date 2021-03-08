@@ -20,7 +20,7 @@
 	background-image: url('../images/search-icon-mobile.png');
 	-webkit-border-radius: 4px;
 	        border-radius: 4px;
-	background-position: 1px 1px;	
+	background-position: 1px 1px;
 	width:32px;
 	height:32px;
 }
@@ -48,14 +48,14 @@
 	color:black;
 	background: rgba(255,255,255,0.8);
 	border-radius:.25em;
-	text-decoration:none;	
+	text-decoration:none;
 	white-space:nowrap;
 	vertical-align:center;
 }
 .leaflet-control-search .search-tip .climbo-icon-mini {
 	float:right;
 	display:block;
-	white-space:nowrap;	
+	white-space:nowrap;
 }
 .leaflet-control-search .search-button:hover,
 .leaflet-control-search .search-tip-select,
@@ -64,4 +64,4 @@
 }
 .leaflet-control-search .search-alert {
 	font-size:1.2em;
-} 
+}

@@ -3,21 +3,21 @@ This repo contains example maps for the Jesuit Lives project with varying functi
 
 <h2> Main Map Examples </h2>
  <h3> Advanced filtering map </h3> https://mnaglak.github.io/JesuitLives/examples/filteredLives.html
- This map demonstrates filtering mechanisms for Jesuit Lives data based on user input, in this case focused on entrance province and entrance year. Filters can be added together or singularly. Birth information and death information can are styled separately and can be turned on or off. Data based on the filters can be download as a .json file to the user's computer (both birth and death spatial data is exported). Popup information is included for each Life. Autocomplete is available for user queries and filters automatically when performing dual searches.
+ This map demonstrates filtering mechanisms for Jesuit Lives data based on user input, in this case focused on entrance province and entrance year. Filters can be added together or singularly. Birth information and death information can are styled separately and can be turned on or off. Data based on the filters can be download as a .json file to the user's computer (both birth and death spatial data is exported). Popup information is included for each Life. Autocomplete is available for user queries and filters automatically when performing dual searches. <br>
  
  Sample Question: "I want to see the distribution of where Jesuits who joined in the California province in 1902 were born"
  
  <h3> Life Movement Map </h3> https://mnaglak.github.io/JesuitLives/examples/birthDeathMovementProvincesExpanded.html
  This map allows user input based on the life of a single Jesuit, searchable by last name with Autocomplete. The line representing that life appears. A timeline at the bottom allows you to see where a Jesuit is at a certain moment, with the marker appearing when they are born (green), moving to their place of entrance (blue) and moving to their place of death (red) at the appropriate moment. Life data is exportable as a json. Popups on life track and marker are avaiable. 
  
- This map also includes filtering by province like the above, though this is not interoperable with the timeline so will eventually be removed. Also present are examples of georeferenced Jesuit Atlas maps, which can be turned on and off with the control box. 
+ This map also includes filtering by province like the above, though this is not interoperable with the timeline so will eventually be removed. Also present are examples of georeferenced Jesuit Atlas maps, which can be turned on and off with the control box. <br>
  
  Sample Question: "I want to see where Jesuit XXX was on date YYY."
  
  <h3> Filtering Birth/Death Dates </h3> https://mnaglak.github.io/JesuitLives/examples/dateFilter.html
  This map allows the user to view the locations where Jesuits were born and died using a range from a slider. This example uses dates, but years are also possible (see below). Markers each represent a different Jesuit Life and contain individaul popups with information.
  
- Sample Question: "I want to see where the majority of Jesuits were born between rough Jan 1875 and June 1890"
+ Sample Question: "I want to see where the majority of Jesuits were born between roughly Jan 1875 and June 1890"
  
  <h2> Other maps </h2>
  These maps contain much similar functaionality to the above but with different user interfaces

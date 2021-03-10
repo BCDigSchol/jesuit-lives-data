@@ -25,3 +25,6 @@ https://mnaglak.github.io/JesuitLives/examples/birthDeathMovementProvinces.html
 
 Marker movement between birth, death, and entrance places by timeline, last name search filter
 https://mnaglak.github.io/JesuitLives/examples/birthDeathMovementProvincesExpanded.html
+
+Advanced filtering map
+https://mnaglak.github.io/JesuitLives/examples/filteredLives.html

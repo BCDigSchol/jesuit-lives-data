@@ -7,14 +7,14 @@ This repo contains example maps for the Jesuit Lives project with varying functi
  
  Sample Question: "I want to see the distribution of where Jesuits who joined in the California province in 1902 were born"
  
- <h3> Life Movement Map </h3> https://mnaglak.github.io/JesuitLives/examples/birthDeathMovementProvincesExpanded.html
+ <h3> Life Movement Map  https://mnaglak.github.io/JesuitLives/examples/birthDeathMovementProvincesExpanded.html </h3>
  This map allows user input based on the life of a single Jesuit, searchable by last name with Autocomplete. The line representing that life appears. A timeline at the bottom allows you to see where a Jesuit is at a certain moment, with the marker appearing when they are born (green), moving to their place of entrance (blue) and moving to their place of death (red) at the appropriate moment. Life data is exportable as a json. Popups on life track and marker are avaiable. 
  
  This map also includes filtering by province like the above, though this is not interoperable with the timeline so will eventually be removed. Also present are examples of georeferenced Jesuit Atlas maps, which can be turned on and off with the control box. <br>
  
  Sample Question: "I want to see where Jesuit XXX was on date YYY."
  
- <h3> Filtering Birth/Death Dates </h3> https://mnaglak.github.io/JesuitLives/examples/dateFilter.html
+ <h3> Filtering Birth/Death Dates  https://mnaglak.github.io/JesuitLives/examples/dateFilter.html </h3>
  This map allows the user to view the locations where Jesuits were born and died using a range from a slider. This example uses dates, but years are also possible (see below). Markers each represent a different Jesuit Life and contain individaul popups with information.
  
  Sample Question: "I want to see where the majority of Jesuits were born between roughly Jan 1875 and June 1890"

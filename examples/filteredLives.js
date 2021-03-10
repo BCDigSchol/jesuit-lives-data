@@ -269,7 +269,7 @@ map.addControl( searchControlYear );
 		var choiceYear = document.getElementById("searchtext21").value; //record user input from search box
 		var choiceProvince = document.getElementById("searchtext18").value; //record user input from search box
 
-		birthLife = L.geoJson(birthToProvinces, { //filter geojson based on user input and record start and stop data and province data
+		var birthLife = L.geoJson(birthToProvinces, { //filter geojson based on user input and record start and stop data and province data
 			filter:
 				function (feature, layer) {
 						if(choiceProvince=='') {
@@ -287,7 +287,7 @@ map.addControl( searchControlYear );
 			style: birthStyle
 		});
 
-		deathLife = L.geoJson(deathToProvinces, { //filter geojson based on user input and record start and stop data and province data
+		var deathLife = L.geoJson(deathToProvinces, { //filter geojson based on user input and record start and stop data and province data
 			filter:
 				function (feature, layer) {
 					if(choiceProvince=='') {
@@ -349,7 +349,7 @@ map.addControl( searchControlYear );
 			console.log('Choice province is ' + choiceProvince);
 			jesuitLivesGroup.clearLayers();
 
-			birthLife = L.geoJson(birthToProvinces, { //filter geojson based on user input and record start and stop data and province data
+			var birthLife = L.geoJson(birthToProvinces, { //filter geojson based on user input and record start and stop data and province data
 				filter:
 					function (feature, layer) {
 
@@ -362,7 +362,7 @@ map.addControl( searchControlYear );
 			});
 
 
-			deathLife = L.geoJson(deathToProvinces, { //filter geojson based on user input and record start and stop data and province data
+			var deathLife = L.geoJson(deathToProvinces, { //filter geojson based on user input and record start and stop data and province data
 				filter:
 					function (feature, layer) {
 
@@ -385,43 +385,23 @@ map.addControl( searchControlYear );
 			jesuitLivesGroup.addLayer(deathLife).addTo(map); //add layer back to group
 		}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	});
 
 
 		//export current viewport dataset to json, which could then be converted to a csv
 
-	  L.easyButton('<strong>Export Data</strong>', function(){
+		var button =L.easyButton('<strong>Export Data</strong>', function(){
 
+			console.log('easy button pressed')
 
-			var exportGroup = L.layerGroup();
+			var exportGroup = jesuitLivesGroup; //exports both birth to province and province to death in one file;
 
-			if (map.hasLayer(birthLife)) {
-				console.log("Birthlife is turned on for easybutton");
-				exportGroup.addLayer(birthLife);
-			}
-
-			if (map.hasLayer(deathLife)) {
-				console.log("deathlife is turned on for easybutton");
-				exportGroup.addLayer(deathLife);
-			}
-
-	    var geojsonExport = exportGroup.toGeoJSON();
+/*
+			var exportGroup = jesuitLivesGroup.getLayers(); //creates an array of the two layers in jesuitLivesGroup (duplicate information)
+			var exportLayer = exportGroup[0]; //we only want to export
+			var geojsonExport = exportLayer.toGeoJSON();
+*/
+			var geojsonExport = exportGroup.toGeoJSON();
 	    var stringExport = JSON.stringify(geojsonExport);
 
 	    function download(content, fileName, contentType) {
@@ -432,6 +412,6 @@ map.addControl( searchControlYear );
 	        a.download = fileName;
 	        a.click();
 	    }
-	    download(stringExport, 'json.txt', 'text/plain');
+	    download(stringExport, 'exportjson.txt', 'text/plain');
 
 	    }).addTo(map);

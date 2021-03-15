@@ -3,7 +3,7 @@ This repo contains example maps for the Jesuit Lives project with varying functi
 
 <h2> Main Map Examples </h2>
  <h3> Advanced filtering map https://mnaglak.github.io/JesuitLives/examples/filteredLives.html </h3>
- This map demonstrates filtering mechanisms for Jesuit Lives data based on user input, in this case focused on entrance province and entrance year. Filters can be added together or singularly. Birth information and death information can are styled separately and can be turned on or off. Data based on the filters can be download as a .json file to the user's computer (both birth and death spatial data is exported). Popup information is included for each Life. Autocomplete is available for user queries and filters automatically when performing dual searches. <br>
+ This map demonstrates filtering mechanisms for Jesuit Lives data based on user input, in this case focused on entrance province and entrance year. Filters can be added together or singularly. Birth information and death information can are styled separately and can be turned on or off. Data based on the filters can be download as a .json file to the user's computer (both birth and death spatial data is exported). Popup information is included for each Life. Autocomplete is available for user queries and filters automatically when performing dual searches. Pop ups also link out to database entries of the individual Jesuits <br>
  
  Sample Question: "I want to see the distribution of where Jesuits who joined in the California province in 1902 were born"
  

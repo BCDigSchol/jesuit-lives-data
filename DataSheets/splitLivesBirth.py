@@ -69,7 +69,7 @@ df['provinceLongitude'] =  pd.to_numeric(df['provinceLongitude'],errors='coerce'
 
 
 #choose which column headings to include in geojson
-useful_cols = ['Id', 'fullName', 'Title', 'First_Name', 'Last_Name', 'Place_of_Birth', 'yearOfBirth', 
+useful_cols = ['UniqueHiddenID','Id', 'fullName', 'Title', 'First_Name', 'Last_Name', 'Place_of_Birth', 'yearOfBirth', 
                'yearOfDeath','Birth_Date', 'Death_Date', 'Place_of_Death', 'showOnMap', 'birthlatitude', 
                'birthlongitude', 'deathlatitude', 'deathlongitude', 'Entrance_Province', 'provinceLatitude', 'provinceLongitude',
                'provinceFull', 'provinceCity', 'provinceCountry', 'Entrance_Date_1', 'yearOfEntry']
@@ -120,7 +120,7 @@ def df_to_geojson(df, properties, provlon='provinceLongitude', provlat='province
     
     return geojson
 
-useful_columns = ['Id', 'fullName', 'Title', 'First_Name', 'Last_Name', 'Place_of_Birth', 'Birth_Date', 
+useful_columns = ['UniqueHiddenID','Id', 'fullName', 'Title', 'First_Name', 'Last_Name', 'Place_of_Birth', 'Birth_Date', 
                   'Death_Date', 'Place_of_Death', 'showOnMap', 'birthlatitude', 'birthlongitude', 'deathlatitude', 
                   'deathlongitude', 'Entrance_Province', 'yearOfBirth', 'yearOfDeath', 'Entrance_Province', 'provinceLatitude', 'provinceLongitude',
                   'provinceFull', 'provinceCity', 'provinceCountry', 'Entrance_Date_1', 'yearOfEntry']

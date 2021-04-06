@@ -71,7 +71,7 @@ function timestamp(str) {
 	var personProvinceStamp = null; //entranceDate data for individaul search for
 	var searchActive = false; //boolean for if a search is currently taking place
 	var personStringYear= '';
-	var url = 'https://jesuit-lives.lontracanadensis.net/catalog/'
+	var url = 'https://jesuit-lives.lontracanadensis.net/catalog/';
 //create popup boxes for polylines as well as the timestamps for each moment of importance; timestamps are needed for current date filter system
 //runs only when search is performed
 	function forEachFeature(f, layer) {
@@ -93,7 +93,7 @@ function timestamp(str) {
 			out.push('Date of Death: ' + f.properties.Death_Date);
 			out.push('Place of Death: ' + f.properties.Place_of_Death);
 			out.push('Entry Year: ' + personStringYear);
-			out.push('<a href="'+ url + f.properties.Id + '" target="_blank">Database Entry</a>');  //allows for link to external URL via attribute in .geoJson table
+			out.push('<a href="'+ url + f.properties.UniqueHiddenID + '" target="_blank">Database Entry</a>');  //allows for link to external URL via attribute in .geoJson table
 		layer.bindPopup(out.join("<br />"));
 		}
 

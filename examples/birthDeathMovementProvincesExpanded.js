@@ -23,7 +23,7 @@ function timestamp(str) {
 	var Esri_WorldImagery = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
 		attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
 		}).addTo(map);
-
+/*
 //Example tiled maps
 	var southItaly = L.tileLayer('./tiledMaps/Italy/{z}/{x}/{y}.png', {tms: true, opacity: 1, attribution: "", minZoom: 4, maxZoom: 9}).addTo(map);
 	var mexico = L.tileLayer('./tiledMaps/Mexico/{z}/{x}/{y}.png', {tms: true, opacity: 1, attribution: "", minZoom: 3, maxZoom: 7}).addTo(map);
@@ -37,7 +37,7 @@ var baseLayers = {
 			"Mexico" : mexico
 			};
 			L.control.layers(baseLayers, overlayMaps).addTo(map);
-
+*/
 //import external geojson and call function to run on each feature to create popups and define timestamps
 	var jesuitLives = L.geoJson(movementMapProvinces, {
 		onEachFeature: forEachFeature
@@ -60,6 +60,8 @@ var baseLayers = {
 	var isAlive = true; //variable to control marker appearance when someone moves the slider back and forth across the death moment
 	var isJesuit = false;
 	var popupText = null; //holder for marker popup text
+	var url = 'https://jesuit-lives.lontracanadensis.net/catalog/';
+
 
 //create popup boxes for polylines as well as the timestamps for each moment of importance; timestamps are needed for current date filter system
 //runs only when search is performed
@@ -78,13 +80,15 @@ var baseLayers = {
 			out.push('Place of Entrance: ' + f.properties.provinceCity + ', ' + f.properties.provinceFull + ', ' + f.properties.provinceCountry);
 			out.push('Date of Death: ' + f.properties.Death_Date);
 			out.push('Place of Death: ' + f.properties.Place_of_Death);
+			out.push('<a href="'+ url + f.properties.UniqueHiddenID + '" target="_blank">Database Entry</a>');  //allows for link to external URL via attribute in .geoJson table
 		layer.bindPopup(out.join("<br />"));
 		}
 
 	//creates popup text for markers (forEachFeature doesn't work for individual marker creation, only for lines)
 	popupText =  'Entry Number.: ' + f.properties.Id + '<br>' + 'First Name: ' + f.properties.First_Name + '<br>' + 'Last Name: ' + f.properties.Last_Name + '<br>' +
 				'Date of Birth: ' + f.properties.Birth_Date + '<br>' + 'Place of Birth: ' + f.properties.Place_of_Birth + '<br>' + 'Date of Entrance: ' + f.properties.Entrance_Date_1 + '<br>'
-				+ 'Place of Entrance: ' + f.properties.provinceCity + ', ' + f.properties.provinceFull + ', ' + f.properties.provinceCountry + '<br>' + 'Date of Death: ' + f.properties.Death_Date + '<br>' + 'Place of Death: ' + f.properties.Place_of_Death;
+				+ 'Place of Entrance: ' + f.properties.provinceCity + ', ' + f.properties.provinceFull + ', ' + f.properties.provinceCountry + '<br>' + 'Date of Death: ' + f.properties.Death_Date + '<br>' + 'Place of Death: ' + f.properties.Place_of_Death
+				+ '<br>' + '<a href="'+ url + f.properties.UniqueHiddenID + '" target="_blank">Database Entry</a>';
 
 	//record birth and deathstamps for marker movement later
 	personBirthStamp = f.properties.birthStamp;
@@ -94,8 +98,8 @@ var baseLayers = {
 
 
 
-//create search control for provinces
-var searchControlProvinces = new L.Control.Search({
+//create search control for provinces; moved to a different map
+/*var searchControlProvinces = new L.Control.Search({
   layer: L.featureGroup([jesuitLivesGroup]),
   propertyName: 'provinceFull',
   textPlaceholder: 'Filter by Province',
@@ -138,7 +142,7 @@ map.addControl( searchControlProvinces );
 
 	});
 
-
+*/
 
 
 

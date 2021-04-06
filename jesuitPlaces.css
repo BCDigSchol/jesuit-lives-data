@@ -6,13 +6,13 @@ span.example-val {
     /*text-align: center;
 	display: inline;
     font-family: 'Arial';*/
-	
+
 display: inline; /* the default for span */
   width: 100px;
   height: 100px;
   padding: 5px;
-  border: 1px solid blue;  
-  background-color: yellow; 
+  border: 1px solid blue;
+  background-color: yellow;
 }
 
 .example-val-hidden {
@@ -44,4 +44,8 @@ display: inline; /* the default for span */
   width: 60%;
   border: 3px solid #73AD21;
   padding: 10px;
+}
+.leaflet-popup-content {
+	height:300px;
+	overflow: scroll;
 }

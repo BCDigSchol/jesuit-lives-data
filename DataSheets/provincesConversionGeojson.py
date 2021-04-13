@@ -17,15 +17,6 @@ with open("people.json", encoding="utf8") as f2:
 with open("provinces.json", encoding="utf8") as f3:
     provinces=json.load(f3)
 
-for i in range(0, len(places)):
-    places[i]['bornHere']=[]
-    places[i]['diedHere']=[]
-    for j in range (0, len(people)):
-        people[j]['fullName']=people[j]['Last_Name'] + ", " + people[j]['First_Name'] +  ' (' + str(people[j]['Id']) + ')'
-        if places[i]['Places']==people[j]['Place_of_Birth']:
-            places[i]['bornHere'].append(people[j]['fullName'])
-        if places[i]['Places']==people[j]['Place_of_Death']:
-            places[i]['diedHere'].append(people[j]['fullName'])
 
 for i in range(0, len(provinces)):
     provinces[i]['vowedHere']=[]
@@ -39,24 +30,24 @@ for i in range(0, len(provinces)):
 
 ###########################################################################
 ##Process for converting json to geojson, checking for coordinates, and exporting, for "birth/death" places information
-df = pd.DataFrame(places)
+df = pd.DataFrame(provinces)
 print('We have {} rows'.format(len(df)))
 str(df.columns.tolist())
 
 #convert all dates and numbers from strings to numbers so they can be filtered
-df['Longitude'] =  pd.to_numeric(df['Longitude'],errors='coerce')
-df['Latitude'] =  pd.to_numeric(df['Latitude'],errors='coerce')
+df['provLong'] =  pd.to_numeric(df['provLong'],errors='coerce')
+df['provLat'] =  pd.to_numeric(df['provLat'],errors='coerce')
 
 #choose which column headings to include in geojson
-useful_cols = ['Places', 'Latitude', 'Longitude', 'City', 'Country', 'Region', 'Department','Department number', 'bornHere', 'diedHere']
+useful_cols = ['JesuitPlaceFull', 'provLat', 'provLong', 'Placeholder City', 'Placeholder Country', 'vowedHere', 'MissionDate(s)', 'ViceProvinceDate(s)', 'ProvinceDate(s)']
 df_subset = df[useful_cols]
 
 #drop places that do not have spatial data
-df_geo = df_subset.dropna(subset=['Latitude', 'Longitude'], axis=0, inplace=False)
+df_geo = df_subset.dropna(subset=['provLat', 'provLong'], axis=0, inplace=False)
 print('We have {} geotagged rows with spatial data'.format(len(df_geo)))
 
 #make sure to set lat and long equal to the proper fields
-def df_to_geojson(df, properties, lat='Latitude', lon='Longitude'):
+def df_to_geojson(df, properties, lat='provLat', lon='provLong'):
    
    
     """    
@@ -92,17 +83,18 @@ def df_to_geojson(df, properties, lat='Latitude', lon='Longitude'):
     return geojson
 
 #set columns to be exported as properties
-useful_columns = ['Places', 'Latitude', 'Longitude', 'City', 'Country', 'Region', 'Department','Department number', 'bornHere', 'diedHere']
+useful_cols = ['JesuitPlaceFull', 'provLat', 'provLong', 'Placeholder City', 'Placeholder Country', 'vowedHere', 'MissionDate(s)', 'ViceProvinceDate(s)', 'ProvinceDate(s)']
 
-geojson_dict = df_to_geojson(df_geo, properties=useful_columns)
+geojson_dict = df_to_geojson(df_geo, properties=useful_cols)
 
 geojson_str = json.dumps(geojson_dict, indent=2, ensure_ascii=False)
 # save the geojson result to a file
-output_filename = 'allPlaces.js'
+output_filename = 'allProvinces.js'
 with open(output_filename, 'w', encoding='utf8') as output_file:
-    output_file.write('var allPlaces = {};'.format(geojson_str))
+    output_file.write('var allProvinces= {};'.format(geojson_str))
 
    
 # how many features did we save to the geojson file?
 print('{} geotagged features saved to file'.format(len(geojson_dict['features'])))
+
 

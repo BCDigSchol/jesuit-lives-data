@@ -1,12 +1,12 @@
-var allProvinces = {
+var allProvinces= {
   "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Aequatoriana",
-        "Latitude": 37.6785135,
-        "Longitude": 12.7917794,
+        "provLat": -0.180653,
+        "provLong": -78.467834,
         "Placeholder City": "Quito",
         "Placeholder Country": "Ecuador",
         "vowedHere": [
@@ -56,8 +56,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.7917794,
-          37.6785135
+          -78.467834,
+          -0.180653
         ]
       }
     },
@@ -65,8 +65,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Africae Centralis",
-        "Latitude": 50.8513682,
-        "Longitude": 5.6909725,
+        "provLat": -4.441931,
+        "provLong": 15.266293,
         "Placeholder City": "Kinshasa",
         "Placeholder Country": "Congo",
         "vowedHere": [
@@ -111,8 +111,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.6909725,
-          50.8513682
+          15.266293,
+          -4.441931
         ]
       }
     },
@@ -120,8 +120,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Ahmedabadensis",
-        "Latitude": 41.0732181,
-        "Longitude": 14.3270683,
+        "provLat": 23.022505,
+        "provLong": 72.571365,
         "Placeholder City": "Ahmedabad",
         "Placeholder Country": "India",
         "vowedHere": [
@@ -136,8 +136,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.3270683,
-          41.0732181
+          72.571365,
+          23.022505
         ]
       }
     },
@@ -145,8 +145,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Albae Russiae",
-        "Latitude": 38.11569,
-        "Longitude": 13.3614868,
+        "provLat": 53.904541,
+        "provLong": 27.561523,
         "Placeholder City": "Minsk",
         "Placeholder Country": "Belarus",
         "vowedHere": [],
@@ -157,8 +157,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.3614868,
-          38.11569
+          27.561523,
+          53.904541
         ]
       }
     },
@@ -166,8 +166,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Angliae",
-        "Latitude": 37.6800751,
-        "Longitude": 13.6038617,
+        "provLat": 51.5073219,
+        "provLong": -0.1276474,
         "Placeholder City": "London",
         "Placeholder Country": "United Kingdom",
         "vowedHere": [
@@ -1477,8 +1477,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.6038617,
-          37.6800751
+          -0.1276474,
+          51.5073219
         ]
       }
     },
@@ -1486,8 +1486,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Antillensis",
-        "Latitude": 40.8104271,
-        "Longitude": 14.3504033,
+        "provLat": 23.135305,
+        "provLong": -82.3589631,
         "Placeholder City": "Havana",
         "Placeholder Country": "Cuba",
         "vowedHere": [
@@ -1564,8 +1564,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.3504033,
-          40.8104271
+          -82.3589631,
+          23.135305
         ]
       }
     },
@@ -1573,8 +1573,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Aragoniae",
-        "Latitude": 45.9563684,
-        "Longitude": 12.661452,
+        "provLat": 41.70057095,
+        "provLong": -0.90908596,
         "Placeholder City": "Zaragoza",
         "Placeholder Country": "Spain",
         "vowedHere": [
@@ -2936,8 +2936,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.661452,
-          45.9563684
+          -0.90908596,
+          41.70057095
         ]
       }
     },
@@ -2945,8 +2945,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Argentinensis",
-        "Latitude": 45.4408474,
-        "Longitude": 12.3155151,
+        "provLat": -34.6075682,
+        "provLong": -58.4370894,
         "Placeholder City": "Buenos Aires",
         "Placeholder Country": "Argentina",
         "vowedHere": [
@@ -3116,8 +3116,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.3155151,
-          45.4408474
+          -58.4370894,
+          -34.6075682
         ]
       }
     },
@@ -3125,8 +3125,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Argentino-Chilensis",
-        "Latitude": 41.0953745,
-        "Longitude": -7.8123805,
+        "provLat": -30.7054363,
+        "provLong": -69.1988222,
         "Placeholder City": "San Juan",
         "Placeholder Country": "Argentina",
         "vowedHere": [
@@ -3139,8 +3139,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.8123805,
-          41.0953745
+          -69.1988222,
+          -30.7054363
         ]
       }
     },
@@ -3148,8 +3148,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Austriaco-Galician",
-        "Latitude": 50.7753455,
-        "Longitude": 6.0838868,
+        "provLat": 49.5557716,
+        "provLong": 25.591886,
         "Placeholder City": "Ternopil",
         "Placeholder Country": "Ukraine",
         "vowedHere": [
@@ -3183,8 +3183,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.0838868,
-          50.7753455
+          25.591886,
+          49.5557716
         ]
       }
     },
@@ -3192,8 +3192,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Austriaco-Hungarica",
-        "Latitude": 39.947158,
-        "Longitude": -7.5309038,
+        "provLat": 48.2083537,
+        "provLong": 16.3725042,
         "Placeholder City": "Vienna",
         "Placeholder Country": "Austria",
         "vowedHere": [
@@ -3610,8 +3610,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.5309038,
-          39.947158
+          16.3725042,
+          48.2083537
         ]
       }
     },
@@ -3619,8 +3619,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Australiae",
-        "Latitude": -13.1547062,
-        "Longitude": -72.5254412,
+        "provLat": -37.8142176,
+        "provLong": 144.9631608,
         "Placeholder City": "Melbourne",
         "Placeholder Country": "Australia",
         "vowedHere": [
@@ -3744,8 +3744,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.5254412,
-          -13.1547062
+          144.9631608,
+          -37.8142176
         ]
       }
     },
@@ -3753,8 +3753,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Austriaca",
-        "Latitude": 51.919438,
-        "Longitude": 19.145136,
+        "provLat": 48.2083537,
+        "provLong": 16.3725042,
         "Placeholder City": "Vienna",
         "Placeholder Country": "Austria",
         "vowedHere": [],
@@ -3765,8 +3765,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.145136,
-          51.919438
+          16.3725042,
+          48.2083537
         ]
       }
     },
@@ -3774,8 +3774,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Austriae",
-        "Latitude": 41.3850639,
-        "Longitude": 2.1734035,
+        "provLat": 48.2083537,
+        "provLong": 16.3725043,
         "Placeholder City": "Vienna",
         "Placeholder Country": "Austria",
         "vowedHere": [
@@ -4325,8 +4325,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.1734035,
-          41.3850639
+          16.3725043,
+          48.2083537
         ]
       }
     },
@@ -4334,8 +4334,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Baeticae",
-        "Latitude": -25.2637399,
-        "Longitude": -57.575926,
+        "provLat": 37.3886303,
+        "provLong": -5.9953403,
         "Placeholder City": "Sevilla",
         "Placeholder Country": "Spain",
         "vowedHere": [
@@ -4619,8 +4619,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -57.575926,
-          -25.2637399
+          -5.9953403,
+          37.3886303
         ]
       }
     },
@@ -4628,8 +4628,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Belgaensis",
-        "Latitude": 40.2980923,
-        "Longitude": -1.4081445,
+        "provLat": 15.8572666,
+        "provLong": 74.5069343,
         "Placeholder City": "Belgaum",
         "Placeholder Country": "India",
         "vowedHere": [],
@@ -4640,8 +4640,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.4081445,
-          40.2980923
+          74.5069343,
+          15.8572666
         ]
       }
     },
@@ -4649,8 +4649,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Belgicae Meridionalis",
-        "Latitude": 47.8404856,
-        "Longitude": -0.3334185,
+        "provLat": 50.8465573,
+        "provLong": 4.351697,
         "Placeholder City": "Brussels",
         "Placeholder Country": "Belgium",
         "vowedHere": [
@@ -5002,8 +5002,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.3334185,
-          47.8404856
+          4.351697,
+          50.8465573
         ]
       }
     },
@@ -5011,8 +5011,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Beligicae Septemtrionalis",
-        "Latitude": 51.165691,
-        "Longitude": 10.451526,
+        "provLat": 50.8465573,
+        "provLong": 4.351697,
         "Placeholder City": "Brussels",
         "Placeholder Country": "Belgium",
         "vowedHere": [
@@ -5403,8 +5403,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.451526,
-          51.165691
+          4.351697,
+          50.8465573
         ]
       }
     },
@@ -5412,8 +5412,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Bohemiae",
-        "Latitude": 49.8596108,
-        "Longitude": 5.6131081,
+        "provLat": 50.0596288,
+        "provLong": 14.44645927,
         "Placeholder City": "Prague",
         "Placeholder Country": "Czech Republic",
         "vowedHere": [
@@ -5484,8 +5484,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.6131081,
-          49.8596108
+          14.44645927,
+          50.0596288
         ]
       }
     },
@@ -5493,8 +5493,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Bolivian.",
-        "Latitude": 38.11569,
-        "Longitude": 13.3614868,
+        "provLat": -16.4955455,
+        "provLong": -68.1336229,
         "Placeholder City": "La Paz",
         "Placeholder Country": "Bolivia",
         "vowedHere": [
@@ -5509,8 +5509,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.3614868,
-          38.11569
+          -68.1336229,
+          -16.4955455
         ]
       }
     },
@@ -5518,8 +5518,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Bombayensis",
-        "Latitude": 45.4064349,
-        "Longitude": 11.8767611,
+        "provLat": 18.9387711,
+        "provLong": 72.8353355,
         "Placeholder City": "Mumbai",
         "Placeholder Country": "India",
         "vowedHere": [
@@ -5561,8 +5561,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.8767611,
-          45.4064349
+          72.8353355,
+          18.9387711
         ]
       }
     },
@@ -5570,8 +5570,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Belgaum-Poonensis",
-        "Latitude": 19.0414398,
-        "Longitude": -98.2062727,
+        "provLat": 18.521428,
+        "provLong": 73.8544541,
         "Placeholder City": "Pune",
         "Placeholder Country": "India",
         "vowedHere": [
@@ -5585,8 +5585,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.2062727,
-          19.0414398
+          73.8544541,
+          18.521428
         ]
       }
     },
@@ -5594,8 +5594,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Brasiliae Centralis",
-        "Latitude": 37.4901115,
-        "Longitude": 14.0628928,
+        "provLat": -22.9110137,
+        "provLong": -43.2093727,
         "Placeholder City": "Rio de Janeiro",
         "Placeholder Country": "Brazil",
         "vowedHere": [
@@ -5687,8 +5687,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.0628928,
-          37.4901115
+          -43.2093727,
+          -22.9110137
         ]
       }
     },
@@ -5696,8 +5696,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Brasiliae Meridionalis",
-        "Latitude": 37.5018305,
-        "Longitude": 15.0854743,
+        "provLat": -30.10091665,
+        "provLong": -51.18878819,
         "Placeholder City": "Porto Alegre",
         "Placeholder Country": "Brazil",
         "vowedHere": [
@@ -5899,8 +5899,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.0854743,
-          37.5018305
+          -51.18878819,
+          -30.10091665
         ]
       }
     },
@@ -5908,8 +5908,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Brasiliae Septemtrionalis",
-        "Latitude": 36.7725774,
-        "Longitude": -6.3529689,
+        "provLat": -12.9822499,
+        "provLong": -38.4812772,
         "Placeholder City": "Salvador",
         "Placeholder Country": "Brazil",
         "vowedHere": [
@@ -5999,8 +5999,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.3529689,
-          36.7725774
+          -38.4812772,
+          -12.9822499
         ]
       }
     },
@@ -6008,8 +6008,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Buffalensis",
-        "Latitude": 39.0457549,
-        "Longitude": -76.6412712,
+        "provLat": 42.8867166,
+        "provLong": -78.8783922,
         "Placeholder City": "Buffalo",
         "Placeholder Country": "United States",
         "vowedHere": [
@@ -6043,8 +6043,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.6412712,
-          39.0457549
+          -78.8783922,
+          42.8867166
         ]
       }
     },
@@ -6052,8 +6052,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Calcuttensis",
-        "Latitude": 39.9175391,
-        "Longitude": -5.1747162,
+        "provLat": 22.5726723,
+        "provLong": 88.3638815,
         "Placeholder City": "Kolkata",
         "Placeholder Country": "India",
         "vowedHere": [
@@ -6105,8 +6105,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.1747162,
-          39.9175391
+          88.3638815,
+          22.5726723
         ]
       }
     },
@@ -6114,8 +6114,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Californiae",
-        "Latitude": 44.4056499,
-        "Longitude": 8.946256,
+        "provLat": 37.7647993,
+        "provLong": -122.4629897,
         "Placeholder City": "San Francisco",
         "Placeholder Country": "United States",
         "vowedHere": [
@@ -6444,8 +6444,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.946256,
-          44.4056499
+          -122.4629897,
+          37.7647993
         ]
       }
     },
@@ -6453,8 +6453,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Centro-American",
-        "Latitude": 36.746209,
-        "Longitude": -5.1612251,
+        "provLat": 13.6989939,
+        "provLong": -89.1914249,
         "Placeholder City": "San Salvador",
         "Placeholder Country": "El Salvador",
         "vowedHere": [
@@ -6479,8 +6479,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.1612251,
-          36.746209
+          -89.1914249,
+          13.6989939
         ]
       }
     },
@@ -6488,8 +6488,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Campaniae",
-        "Latitude": 47.237829,
-        "Longitude": 6.0240539,
+        "provLat": 49.2368732,
+        "provLong": 4.08030473,
         "Placeholder City": "Reims",
         "Placeholder Country": "France",
         "vowedHere": [
@@ -7592,8 +7592,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.0240539,
-          47.237829
+          4.08030473,
+          49.2368732
         ]
       }
     },
@@ -7601,8 +7601,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Canadensis",
-        "Latitude": 51.209348,
-        "Longitude": 3.2246995,
+        "provLat": 45.5505849,
+        "provLong": -73.60223174,
         "Placeholder City": "Montreal",
         "Placeholder Country": "Canada",
         "vowedHere": [
@@ -7765,8 +7765,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.2246995,
-          51.209348
+          -73.60223174,
+          45.5505849
         ]
       }
     },
@@ -7774,8 +7774,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Canadae Inferioris",
-        "Latitude": 41.7689166,
-        "Longitude": -1.1173154,
+        "provLat": 45.5505849,
+        "provLong": -73.60223174,
         "Placeholder City": "Montreal",
         "Placeholder Country": "Canada",
         "vowedHere": [
@@ -8042,8 +8042,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.1173154,
-          41.7689166
+          -73.60223174,
+          45.5505849
         ]
       }
     },
@@ -8051,8 +8051,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Canadae Superioris",
-        "Latitude": 42.0613816,
-        "Longitude": -1.6063169,
+        "provLat": 43.6534817,
+        "provLong": -79.3839347,
         "Placeholder City": "Toronto",
         "Placeholder Country": "Canada",
         "vowedHere": [
@@ -8171,8 +8171,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6063169,
-          42.0613816
+          -79.3839347,
+          43.6534817
         ]
       }
     },
@@ -8180,8 +8180,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Castellan",
-        "Latitude": 37.9922399,
-        "Longitude": -1.1306544,
+        "provLat": 43.4620412,
+        "provLong": -3.8099719,
         "Placeholder City": "Santander",
         "Placeholder Country": "Spain",
         "vowedHere": [
@@ -9371,8 +9371,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.1306544,
-          37.9922399
+          -3.8099719,
+          43.4620412
         ]
       }
     },
@@ -9380,8 +9380,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Checho-Slovakiae",
-        "Latitude": 50.6390979,
-        "Longitude": -2.208757,
+        "provLat": 50.0596288,
+        "provLong": 14.44645927,
         "Placeholder City": "Prague",
         "Placeholder Country": "Czech Republic",
         "vowedHere": [
@@ -9452,8 +9452,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.208757,
-          50.6390979
+          14.44645927,
+          50.0596288
         ]
       }
     },
@@ -9461,8 +9461,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Ceylonen",
-        "Latitude": 39.2651188,
-        "Longitude": -1.912995,
+        "provLat": 6.9349969,
+        "provLong": 79.8538463,
         "Placeholder City": "Colombo",
         "Placeholder Country": "Sri Lanka",
         "vowedHere": [
@@ -9481,8 +9481,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.912995,
-          39.2651188
+          79.8538463,
+          6.9349969
         ]
       }
     },
@@ -9490,8 +9490,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Chicagiensis",
-        "Latitude": 45.5075929,
-        "Longitude": 15.6628112,
+        "provLat": 41.8755616,
+        "provLong": -87.6244212,
         "Placeholder City": "Chicago",
         "Placeholder Country": "United States",
         "vowedHere": [
@@ -9827,8 +9827,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.6628112,
-          45.5075929
+          -87.6244212,
+          41.8755616
         ]
       }
     },
@@ -9836,8 +9836,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Chilensis",
-        "Latitude": 52.270696,
-        "Longitude": -1.893509,
+        "provLat": -33.4377968,
+        "provLong": -70.6504451,
         "Placeholder City": "Santiago",
         "Placeholder Country": "Chile",
         "vowedHere": [
@@ -9932,8 +9932,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.893509,
-          52.270696
+          -70.6504451,
+          -33.4377968
         ]
       }
     },
@@ -9941,8 +9941,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Castellan. Occidentalis",
-        "Latitude": 42.812526,
-        "Longitude": -1.6457745,
+        "provLat": 43.2938686,
+        "provLong": -8.3593063,
         "Placeholder City": "A Coruña",
         "Placeholder Country": "Spain",
         "vowedHere": [
@@ -10026,8 +10026,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6457745,
-          42.812526
+          -8.3593063,
+          43.2938686
         ]
       }
     },
@@ -10035,8 +10035,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Castellan. Orientalis",
-        "Latitude": 40.9900573,
-        "Longitude": -1.1634967,
+        "provLat": 42.063972,
+        "provLong": -1.6053391,
         "Placeholder City": "Tudela",
         "Placeholder Country": "Spain",
         "vowedHere": [
@@ -10188,8 +10188,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.1634967,
-          40.9900573
+          -1.6053391,
+          42.063972
         ]
       }
     },
@@ -10197,8 +10197,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Colombiana",
-        "Latitude": 56.4906712,
-        "Longitude": -4.2026458,
+        "provLat": 4.59808,
+        "provLong": -74.0760439,
         "Placeholder City": "Bogota",
         "Placeholder Country": "Colombia",
         "vowedHere": [
@@ -10367,8 +10367,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2026458,
-          56.4906712
+          -74.0760439,
+          4.59808
         ]
       }
     },
@@ -10376,8 +10376,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Colombiana Occidentalis",
-        "Latitude": 41.1579438,
-        "Longitude": -8.6291053,
+        "provLat": 6.2443382,
+        "provLong": -75.573553,
         "Placeholder City": "Medellín",
         "Placeholder Country": "Colombia",
         "vowedHere": [
@@ -10412,8 +10412,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.6291053,
-          41.1579438
+          -75.573553,
+          6.2443382
         ]
       }
     },
@@ -10421,8 +10421,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Colombiana Orientalis",
-        "Latitude": 42.6953909,
-        "Longitude": -1.6760691,
+        "provLat": 4.59808,
+        "provLong": -74.0760439,
         "Placeholder City": "Bogota",
         "Placeholder Country": "Colombia",
         "vowedHere": [
@@ -10447,8 +10447,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6760691,
-          42.6953909
+          -74.0760439,
+          4.59808
         ]
       }
     },
@@ -10456,8 +10456,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Croatiae",
-        "Latitude": 43.318334,
-        "Longitude": -1.9812313,
+        "provLat": 45.8131847,
+        "provLong": 15.9771774,
         "Placeholder City": "Zagreb",
         "Placeholder Country": "Croatia",
         "vowedHere": [
@@ -10543,8 +10543,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.9812313,
-          43.318334
+          15.9771774,
+          45.8131847
         ]
       }
     },
@@ -10552,8 +10552,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Detroitensis",
-        "Latitude": 40.879942,
-        "Longitude": 0.4992069,
+        "provLat": 42.3315509,
+        "provLong": -83.0466403,
         "Placeholder City": "Detroit",
         "Placeholder Country": "United States",
         "vowedHere": [
@@ -10634,8 +10634,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.4992069,
-          40.879942
+          -83.0466403,
+          42.3315509
         ]
       }
     },
@@ -10643,8 +10643,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Extremi Orientis",
-        "Latitude": 18.9659554,
-        "Longitude": -97.8993756,
+        "provLat": 25.0375198,
+        "provLong": 121.5636796,
         "Placeholder City": "Taipei",
         "Placeholder Country": "Taiwan",
         "vowedHere": [
@@ -10744,8 +10744,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.8993756,
-          18.9659554
+          121.5636796,
+          25.0375198
         ]
       }
     },
@@ -10753,8 +10753,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Franciae",
-        "Latitude": 38.7947651,
-        "Longitude": -0.2520582,
+        "provLat": 48.8566969,
+        "provLong": 2.3514616,
         "Placeholder City": "Paris",
         "Placeholder Country": "France",
         "vowedHere": [
@@ -12488,8 +12488,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.2520582,
-          38.7947651
+          2.3514616,
+          48.8566969
         ]
       }
     },
@@ -12497,8 +12497,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Galliae Atlanticae",
-        "Latitude": 38.0855352,
-        "Longitude": -0.9480358,
+        "provLat": 47.2186371,
+        "provLong": -1.5541362,
         "Placeholder City": "Nantes",
         "Placeholder Country": "France",
         "vowedHere": [
@@ -12587,8 +12587,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.9480358,
-          38.0855352
+          -1.5541362,
+          47.2186371
         ]
       }
     },
@@ -12596,8 +12596,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Gallo-Canadensis",
-        "Latitude": 37.5414656,
-        "Longitude": -5.0826742,
+        "provLat": 45.5592181,
+        "provLong": -73.66060931,
         "Placeholder City": "Montreal",
         "Placeholder Country": "France",
         "vowedHere": [
@@ -12629,8 +12629,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.0826742,
-          37.5414656
+          -73.66060931,
+          45.5592181
         ]
       }
     },
@@ -12638,8 +12638,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Galiciae",
-        "Latitude": -33.4488897,
-        "Longitude": -70.6692655,
+        "provLat": 49.5557716,
+        "provLong": 25.591886,
         "Placeholder City": "Ternopil",
         "Placeholder Country": "Ukraine",
         "vowedHere": [],
@@ -12650,8 +12650,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.6692655,
-          -33.4488897
+          25.591886,
+          49.5557716
         ]
       }
     },
@@ -12659,8 +12659,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Galiciae Austriacae",
-        "Latitude": 41.3305607,
-        "Longitude": -5.0819935,
+        "provLat": 49.5557716,
+        "provLong": 25.591887,
         "Placeholder City": "Ternopil",
         "Placeholder Country": "Ukraine",
         "vowedHere": [
@@ -12746,8 +12746,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.0819935,
-          41.3305607
+          25.591887,
+          49.5557716
         ]
       }
     },
@@ -12755,8 +12755,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Galician.",
-        "Latitude": 51.7285836,
-        "Longitude": 5.160875,
+        "provLat": 50.0619474,
+        "provLong": 19.9368564,
         "Placeholder City": "Krakow",
         "Placeholder Country": "Poland",
         "vowedHere": [
@@ -13153,8 +13153,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.160875,
-          51.7285836
+          19.9368564,
+          50.0619474
         ]
       }
     },
@@ -13162,8 +13162,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Galliae",
-        "Latitude": 51.5073509,
-        "Longitude": -0.1277583,
+        "provLat": 48.8566969,
+        "provLong": 2.3514616,
         "Placeholder City": "Paris",
         "Placeholder Country": "France",
         "vowedHere": [
@@ -13254,8 +13254,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.1277583,
-          51.5073509
+          2.3514616,
+          48.8566969
         ]
       }
     },
@@ -13263,8 +13263,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Galliae Mediterraneae",
-        "Latitude": 45.0526206,
-        "Longitude": 9.6929845,
+        "provLat": 45.7578137,
+        "provLong": 4.8320114,
         "Placeholder City": "Lyon",
         "Placeholder Country": "France",
         "vowedHere": [
@@ -13358,8 +13358,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.6929845,
-          45.0526206
+          4.8320114,
+          45.7578137
         ]
       }
     },
@@ -13367,8 +13367,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Galliae Septemtrionalis",
-        "Latitude": 47.1756114,
-        "Longitude": 8.1095183,
+        "provLat": 49.2368732,
+        "provLong": 4.08030473,
         "Placeholder City": "Reims",
         "Placeholder Country": "France",
         "vowedHere": [
@@ -13462,8 +13462,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.1095183,
-          47.1756114
+          4.08030473,
+          49.2368732
         ]
       }
     },
@@ -13471,8 +13471,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Germaniae",
-        "Latitude": 23.634501,
-        "Longitude": -102.552784,
+        "provLat": 51.2288401,
+        "provLong": 5.88419653,
         "Placeholder City": "Baexem",
         "Placeholder Country": "Netherlands",
         "vowedHere": [
@@ -14476,8 +14476,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -102.552784,
-          23.634501
+          5.88419653,
+          51.2288401
         ]
       }
     },
@@ -14485,8 +14485,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Germaniae Inferioris",
-        "Latitude": 38.11569,
-        "Longitude": 13.3614868,
+        "provLat": 50.938361,
+        "provLong": 6.959974,
         "Placeholder City": "Cologne",
         "Placeholder Country": "Germany",
         "vowedHere": [
@@ -14971,8 +14971,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.3614868,
-          38.11569
+          6.959974,
+          50.938361
         ]
       }
     },
@@ -14980,8 +14980,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Germaniae Orientalis",
-        "Latitude": 45.7903473,
-        "Longitude": 10.7478063,
+        "provLat": 52.5015217,
+        "provLong": 13.4025498,
         "Placeholder City": "Berlin",
         "Placeholder Country": "Germany",
         "vowedHere": [
@@ -15142,8 +15142,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.7478063,
-          45.7903473
+          13.4025498,
+          52.5015217
         ]
       }
     },
@@ -15151,8 +15151,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Germaniae Superioris",
-        "Latitude": 42.2870733,
-        "Longitude": -2.539603,
+        "provLat": 48.1371079,
+        "provLong": 11.5753822,
         "Placeholder City": "Munich",
         "Placeholder Country": "Germany",
         "vowedHere": [
@@ -15585,8 +15585,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.539603,
-          42.2870733
+          11.5753822,
+          48.1371079
         ]
       }
     },
@@ -15594,8 +15594,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Germaniae Superioris et Inferioris",
-        "Latitude": 41.9015654,
-        "Longitude": -4.8981036,
+        "provLat": 51.7177044,
+        "provLong": 8.752653,
         "Placeholder City": "Paderborn",
         "Placeholder Country": "Germany",
         "vowedHere": [
@@ -15616,8 +15616,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.8981036,
-          41.9015654
+          8.752653,
+          51.7177044
         ]
       }
     },
@@ -15625,8 +15625,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Goiano-Minensis",
-        "Latitude": 37.3890924,
-        "Longitude": -5.9844589,
+        "provLat": -16.680882,
+        "provLong": -49.2532691,
         "Placeholder City": "Goiânia",
         "Placeholder Country": "Brazil",
         "vowedHere": [
@@ -15640,8 +15640,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.9844589,
-          37.3890924
+          -49.2532691,
+          -16.680882
         ]
       }
     },
@@ -15649,8 +15649,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Goa-Poonensis",
-        "Latitude": 38.9197587,
-        "Longitude": -0.1187855,
+        "provLat": 15.398403,
+        "provLong": 73.8129178,
         "Placeholder City": "Vasco da Gama",
         "Placeholder Country": "India",
         "vowedHere": [
@@ -15674,8 +15674,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.1187855,
-          38.9197587
+          73.8129178,
+          15.398403
         ]
       }
     },
@@ -15683,8 +15683,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Gujaratensis",
-        "Latitude": 41.652251,
-        "Longitude": -4.7245321,
+        "provLat": 22.0685829,
+        "provLong": 71.02964535,
         "Placeholder City": "Rajkot",
         "Placeholder Country": "India",
         "vowedHere": [
@@ -15709,8 +15709,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.7245321,
-          41.652251
+          71.02964535,
+          22.0685829
         ]
       }
     },
@@ -15718,8 +15718,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Helvetiae",
-        "Latitude": 45.4692736,
-        "Longitude": 9.6827845,
+        "provLat": 47.3723941,
+        "provLong": 8.5423328,
         "Placeholder City": "Zurich",
         "Placeholder Country": "Switzerland",
         "vowedHere": [
@@ -15796,8 +15796,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.6827845,
-          45.4692736
+          8.5423328,
+          47.3723941
         ]
       }
     },
@@ -15805,8 +15805,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Hiberniae",
-        "Latitude": 37.7981074,
-        "Longitude": 12.4372236,
+        "provLat": 53.3497645,
+        "provLong": -6.2602732,
         "Placeholder City": "Dublin",
         "Placeholder Country": "Ireland",
         "vowedHere": [
@@ -16393,8 +16393,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4372236,
-          37.7981074
+          -6.2602732,
+          53.3497645
         ]
       }
     },
@@ -16402,8 +16402,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Hispaniae",
-        "Latitude": 39.1582611,
-        "Longitude": -3.0212324,
+        "provLat": 40.4167047,
+        "provLong": -3.7035825,
         "Placeholder City": "Madrid",
         "Placeholder Country": "Spain",
         "vowedHere": [
@@ -16692,8 +16692,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.0212324,
-          39.1582611
+          -3.7035825,
+          40.4167047
         ]
       }
     },
@@ -16701,8 +16701,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Hongkongensis",
-        "Latitude": 38.7830604,
-        "Longitude": -0.3399066,
+        "provLat": 22.2850394,
+        "provLong": 114.1583819,
         "Placeholder City": "Hong Kong",
         "Placeholder Country": "China",
         "vowedHere": [
@@ -16716,8 +16716,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.3399066,
-          38.7830604
+          114.1583819,
+          22.2850394
         ]
       }
     },
@@ -16725,8 +16725,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Hungariae",
-        "Latitude": 43.2972564,
-        "Longitude": -2.5619215,
+        "provLat": 47.48138955,
+        "provLong": 19.14607278,
         "Placeholder City": "Budapest",
         "Placeholder Country": "Hungary",
         "vowedHere": [
@@ -16927,8 +16927,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.5619215,
-          43.2972564
+          19.14607278,
+          47.48138955
         ]
       }
     },
@@ -16936,8 +16936,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Iaponica",
-        "Latitude": 37.1613188,
-        "Longitude": 14.7488678,
+        "provLat": 35.6828387,
+        "provLong": 139.7594549,
         "Placeholder City": "Tokyo",
         "Placeholder Country": "Japan",
         "vowedHere": [
@@ -16971,8 +16971,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.7488678,
-          37.1613188
+          139.7594549,
+          35.6828387
         ]
       }
     },
@@ -16980,8 +16980,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Imperio Russico",
-        "Latitude": 45.0522366,
-        "Longitude": 7.5153885,
+        "provLat": 59.9606739,
+        "provLong": 30.1586551,
         "Placeholder City": "St. Petersburg",
         "Placeholder Country": "Russia",
         "vowedHere": [],
@@ -16992,8 +16992,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.5153885,
-          45.0522366
+          30.1586551,
+          59.9606739
         ]
       }
     },
@@ -17001,8 +17001,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Indonesiae",
-        "Latitude": 38.1937335,
-        "Longitude": 15.5542057,
+        "provLat": -6.1753942,
+        "provLong": 106.827183,
         "Placeholder City": "Jakarta",
         "Placeholder Country": "Indonesia",
         "vowedHere": [
@@ -17041,8 +17041,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.5542057,
-          38.1937335
+          106.827183,
+          -6.1753942
         ]
       }
     },
@@ -17050,8 +17050,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Italiae",
-        "Latitude": 40.3456879,
-        "Longitude": -1.1064345,
+        "provLat": 41.8933203,
+        "provLong": 12.4829321,
         "Placeholder City": "Rome",
         "Placeholder Country": "Italy",
         "vowedHere": [],
@@ -17062,8 +17062,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.1064345,
-          40.3456879
+          12.4829321,
+          41.8933203
         ]
       }
     },
@@ -17071,8 +17071,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Jamshedpurensis",
-        "Latitude": 43.1776439,
-        "Longitude": -2.3109203,
+        "provLat": 22.8015194,
+        "provLong": 86.2029579,
         "Placeholder City": "Jamshedpur",
         "Placeholder Country": "India",
         "vowedHere": [
@@ -17086,8 +17086,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.3109203,
-          43.1776439
+          86.2029579,
+          22.8015194
         ]
       }
     },
@@ -17095,8 +17095,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Jugoslaviae",
-        "Latitude": 43.427173,
-        "Longitude": -2.8126769,
+        "provLat": 45.8131847,
+        "provLong": 15.9771774,
         "Placeholder City": "Zagreb",
         "Placeholder Country": "Croatia",
         "vowedHere": [
@@ -17134,8 +17134,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.8126769,
-          43.427173
+          15.9771774,
+          45.8131847
         ]
       }
     },
@@ -17143,8 +17143,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Kanarensis",
-        "Latitude": 43.2741817,
-        "Longitude": -2.8328025,
+        "provLat": 12.9791198,
+        "provLong": 77.5912997,
         "Placeholder City": "Bangaluru",
         "Placeholder Country": "India",
         "vowedHere": [
@@ -17180,8 +17180,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.8328025,
-          43.2741817
+          77.5912997,
+          12.9791198
         ]
       }
     },
@@ -17189,8 +17189,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Keralensis",
-        "Latitude": 37.984023,
-        "Longitude": 13.6961892,
+        "provLat": 10.3528744,
+        "provLong": 76.5120396,
         "Placeholder City": "Kerala",
         "Placeholder Country": "India",
         "vowedHere": [
@@ -17209,8 +17209,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.6961892,
-          37.984023
+          76.5120396,
+          10.3528744
         ]
       }
     },
@@ -17218,8 +17218,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Legionensis",
-        "Latitude": 41.6838422,
-        "Longitude": 1.2794744,
+        "provLat": 42.5989995,
+        "provLong": -5.5682413,
         "Placeholder City": "León",
         "Placeholder Country": "Spain",
         "vowedHere": [
@@ -17660,8 +17660,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.2794744,
-          41.6838422
+          -5.5682413,
+          42.5989995
         ]
       }
     },
@@ -17669,8 +17669,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Lettoniae et Estoniae",
-        "Latitude": 47.32352,
-        "Longitude": 12.79685,
+        "provLat": 59.4250354,
+        "provLong": 24.74386926,
         "Placeholder City": "Tallin",
         "Placeholder Country": "Estonia",
         "vowedHere": [],
@@ -17681,8 +17681,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.79685,
-          47.32352
+          24.74386926,
+          59.4250354
         ]
       }
     },
@@ -17690,8 +17690,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Lituaniae",
-        "Latitude": 39.962884,
-        "Longitude": -4.8304536,
+        "provLat": 54.8982139,
+        "provLong": 23.9044817,
         "Placeholder City": "Kaunas",
         "Placeholder Country": "Lithuania",
         "vowedHere": [
@@ -17719,8 +17719,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.8304536,
-          39.962884
+          23.9044817,
+          54.8982139
         ]
       }
     },
@@ -17728,8 +17728,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Loyolensis",
-        "Latitude": 44.0678288,
-        "Longitude": 12.5695158,
+        "provLat": 42.7343909,
+        "provLong": -3.413458,
         "Placeholder City": "Oña",
         "Placeholder Country": "Spain",
         "vowedHere": [
@@ -17823,8 +17823,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5695158,
-          44.0678288
+          -3.413458,
+          42.7343909
         ]
       }
     },
@@ -17832,8 +17832,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Lugdunensis",
-        "Latitude": 39.7877712,
-        "Longitude": -77.02766,
+        "provLat": 45.7578137,
+        "provLong": 4.8320114,
         "Placeholder City": "Lyon",
         "Placeholder Country": "France",
         "vowedHere": [
@@ -19451,8 +19451,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.02766,
-          39.7877712
+          4.8320114,
+          45.7578137
         ]
       }
     },
@@ -19460,8 +19460,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Lusitaniae",
-        "Latitude": 50.8570277,
-        "Longitude": 3.6319101,
+        "provLat": 38.7077507,
+        "provLong": -9.1365919,
         "Placeholder City": "Lisbon",
         "Placeholder Country": "Portugal",
         "vowedHere": [
@@ -19883,8 +19883,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.6319101,
-          50.8570277
+          -9.1365919,
+          38.7077507
         ]
       }
     },
@@ -19892,8 +19892,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Madecassensis",
-        "Latitude": 37.3963433,
-        "Longitude": -6.4756552,
+        "provLat": -18.9100122,
+        "provLong": 47.5255809,
         "Placeholder City": "Antananarivo",
         "Placeholder Country": "Madagascar",
         "vowedHere": [
@@ -19951,8 +19951,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.4756552,
-          37.3963433
+          47.5255809,
+          -18.9100122
         ]
       }
     },
@@ -19960,8 +19960,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Madurensis",
-        "Latitude": 50.4673883,
-        "Longitude": 4.8719854,
+        "provLat": 9.833333,
+        "provLong": 77.833333,
         "Placeholder City": "Madurai",
         "Placeholder Country": "India",
         "vowedHere": [
@@ -20091,8 +20091,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.8719854,
-          50.4673883
+          77.833333,
+          9.833333
         ]
       }
     },
@@ -20100,8 +20100,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Mangalorensis",
-        "Latitude": 51.4826537,
-        "Longitude": 5.2321687,
+        "provLat": 12.8698101,
+        "provLong": 74.8430082,
         "Placeholder City": "Mangalore",
         "Placeholder Country": "India",
         "vowedHere": [
@@ -20115,8 +20115,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.2321687,
-          51.4826537
+          74.8430082,
+          12.8698101
         ]
       }
     },
@@ -20124,8 +20124,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Marylandiae",
-        "Latitude": 19.5437751,
-        "Longitude": -96.9101806,
+        "provLat": 39.2908816,
+        "provLong": -76.610759,
         "Placeholder City": "Baltimore",
         "Placeholder Country": "United States",
         "vowedHere": [
@@ -20516,8 +20516,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.9101806,
-          19.5437751
+          -76.610759,
+          39.2908816
         ]
       }
     },
@@ -20525,8 +20525,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Marylandiae-Neo Eboracensis",
-        "Latitude": 42.151599,
-        "Longitude": -4.692841,
+        "provLat": 40.7127281,
+        "provLong": -74.0060152,
         "Placeholder City": "New York",
         "Placeholder Country": "United States",
         "vowedHere": [
@@ -21268,8 +21268,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.692841,
-          42.151599
+          -74.0060152,
+          40.7127281
         ]
       }
     },
@@ -21277,8 +21277,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Melitensis",
-        "Latitude": 43.2630126,
-        "Longitude": -2.9349852,
+        "provLat": 35.8989818,
+        "provLong": 14.5136759,
         "Placeholder City": "Valletta",
         "Placeholder Country": "Malta",
         "vowedHere": [
@@ -21304,8 +21304,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.9349852,
-          43.2630126
+          14.5136759,
+          35.8989818
         ]
       }
     },
@@ -21313,8 +21313,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Mexicana",
-        "Latitude": 39.399872,
-        "Longitude": -8.224454,
+        "provLat": 19.4326296,
+        "provLong": -99.1331785,
         "Placeholder City": "Mexico City",
         "Placeholder Country": "Mexico",
         "vowedHere": [
@@ -21633,8 +21633,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.224454,
-          39.399872
+          -99.1331785,
+          19.4326296
         ]
       }
     },
@@ -21642,8 +21642,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Mexicana Meridionalis",
-        "Latitude": 39.4408362,
-        "Longitude": -1.7492463,
+        "provLat": 19.4326296,
+        "provLong": -99.1331785,
         "Placeholder City": "Mexico City",
         "Placeholder Country": "Mexico",
         "vowedHere": [
@@ -21702,8 +21702,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.7492463,
-          39.4408362
+          -99.1331785,
+          19.4326296
         ]
       }
     },
@@ -21711,8 +21711,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Mexicana Septemtrionalis",
-        "Latitude": 46.2043907,
-        "Longitude": 6.1431577,
+        "provLat": 20.6720375,
+        "provLong": -103.3383962,
         "Placeholder City": "Guadalajara",
         "Placeholder Country": "Mexico",
         "vowedHere": [
@@ -21765,8 +21765,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.1431577,
-          46.2043907
+          -103.3383962,
+          20.6720375
         ]
       }
     },
@@ -21774,8 +21774,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Missourianae",
-        "Latitude": 53.3812896,
-        "Longitude": -6.5918499,
+        "provLat": 38.6268039,
+        "provLong": -90.1994097,
         "Placeholder City": "St. Louis",
         "Placeholder Country": "United States",
         "vowedHere": [
@@ -22792,8 +22792,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.5918499,
-          53.3812896
+          -90.1994097,
+          38.6268039
         ]
       }
     },
@@ -22801,8 +22801,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Montis Regii",
-        "Latitude": 37.0754739,
-        "Longitude": 15.2865861,
+        "provLat": 45.5505849,
+        "provLong": -73.60223174,
         "Placeholder City": "Montreal",
         "Placeholder Country": "Canada",
         "vowedHere": [
@@ -22824,8 +22824,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.2865861,
-          37.0754739
+          -73.60223174,
+          45.5505849
         ]
       }
     },
@@ -22833,8 +22833,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Novae Angliae",
-        "Latitude": 40.8517983,
-        "Longitude": 14.26812,
+        "provLat": 42.3602534,
+        "provLong": -71.0582912,
         "Placeholder City": "Boston",
         "Placeholder Country": "United States",
         "vowedHere": [
@@ -23179,8 +23179,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.26812,
-          40.8517983
+          -71.0582912,
+          42.3602534
         ]
       }
     },
@@ -23188,8 +23188,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Neo-Aurelianensis",
-        "Latitude": 21.1250077,
-        "Longitude": -101.6859605,
+        "provLat": 29.9499323,
+        "provLong": -90.0701156,
         "Placeholder City": "New Orleans",
         "Placeholder Country": "United States",
         "vowedHere": [
@@ -23616,8 +23616,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.6859605,
-          21.1250077
+          -90.0701156,
+          29.9499323
         ]
       }
     },
@@ -23625,8 +23625,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Neapolitana",
-        "Latitude": 40.4167754,
-        "Longitude": -3.7037902,
+        "provLat": 40.8359336,
+        "provLong": 14.2487826,
         "Placeholder City": "Naples",
         "Placeholder Country": "Italy",
         "vowedHere": [
@@ -24329,8 +24329,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.7037902,
-          40.4167754
+          14.2487826,
+          40.8359336
         ]
       }
     },
@@ -24338,8 +24338,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Neo-Eboracensis",
-        "Latitude": 43.3619145,
-        "Longitude": -5.8493887,
+        "provLat": 40.7127281,
+        "provLong": -74.0060152,
         "Placeholder City": "New York",
         "Placeholder Country": "United States",
         "vowedHere": [
@@ -24653,8 +24653,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.8493887,
-          43.3619145
+          -74.0060152,
+          40.7127281
         ]
       }
     },
@@ -24662,8 +24662,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Neerlandiae",
-        "Latitude": 40.2287673,
-        "Longitude": -0.810952,
+        "provLat": 52.0799838,
+        "provLong": 4.3113461,
         "Placeholder City": "The Hague",
         "Placeholder Country": "Netherlands",
         "vowedHere": [
@@ -25575,8 +25575,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.810952,
-          40.2287673
+          4.3113461,
+          52.0799838
         ]
       }
     },
@@ -25584,8 +25584,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Oregoniensis",
-        "Latitude": 41.5523078,
-        "Longitude": -0.2115709,
+        "provLat": 45.5202471,
+        "provLong": -122.6741949,
         "Placeholder City": "Portland",
         "Placeholder Country": "Oregon",
         "vowedHere": [
@@ -25831,8 +25831,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.2115709,
-          41.5523078
+          -122.6741949,
+          45.5202471
         ]
       }
     },
@@ -25840,8 +25840,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Parisiensis",
-        "Latitude": 42.1225093,
-        "Longitude": -7.8336656,
+        "provLat": 48.8566969,
+        "provLong": 2.3514616,
         "Placeholder City": "Paris",
         "Placeholder Country": "France",
         "vowedHere": [
@@ -25882,8 +25882,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.8336656,
-          42.1225093
+          2.3514616,
+          48.8566969
         ]
       }
     },
@@ -25891,8 +25891,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Patnen.",
-        "Latitude": 40.9701039,
-        "Longitude": -5.6635397,
+        "provLat": 25.416667,
+        "provLong": 85.166667,
         "Placeholder City": "Patna",
         "Placeholder Country": "India",
         "vowedHere": [
@@ -25919,8 +25919,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.6635397,
-          40.9701039
+          85.166667,
+          25.416667
         ]
       }
     },
@@ -25928,8 +25928,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Peruvian.",
-        "Latitude": 37.1661897,
-        "Longitude": -4.149075,
+        "provLat": -12.0621065,
+        "provLong": -77.0365256,
         "Placeholder City": "Lima",
         "Placeholder Country": "Peru",
         "vowedHere": [
@@ -25956,8 +25956,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.149075,
-          37.1661897
+          -77.0365256,
+          -12.0621065
         ]
       }
     },
@@ -25965,8 +25965,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Phillippina",
-        "Latitude": 37.1716374,
-        "Longitude": -3.6660586,
+        "provLat": 14.5907332,
+        "provLong": 120.9809674,
         "Placeholder City": "Manila",
         "Placeholder Country": "Philippines",
         "vowedHere": [
@@ -26018,8 +26018,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.6660586,
-          37.1716374
+          120.9809674,
+          14.5907332
         ]
       }
     },
@@ -26027,8 +26027,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Poloniae",
-        "Latitude": 37.6063408,
-        "Longitude": -4.7393576,
+        "provLat": 52.2337172,
+        "provLong": 21.07141113,
         "Placeholder City": "Warsaw",
         "Placeholder Country": "Poland",
         "vowedHere": [
@@ -26111,8 +26111,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.7393576,
-          37.6063408
+          21.07141113,
+          52.2337172
         ]
       }
     },
@@ -26120,8 +26120,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Poloniae Maioris et Mazoviae",
-        "Latitude": 45.042768,
-        "Longitude": 3.882936,
+        "provLat": 52.2337172,
+        "provLong": 21.07141113,
         "Placeholder City": "Warsaw",
         "Placeholder Country": "Poland",
         "vowedHere": [
@@ -26335,8 +26335,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.882936,
-          45.042768
+          21.07141113,
+          52.2337172
         ]
       }
     },
@@ -26344,8 +26344,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Poloniae Minoris",
-        "Latitude": 40.5372512,
-        "Longitude": -3.6372245,
+        "provLat": 50.0619474,
+        "provLong": 19.9368564,
         "Placeholder City": "Krakow",
         "Placeholder Country": "Poland",
         "vowedHere": [
@@ -26615,8 +26615,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.6372245,
-          40.5372512
+          19.9368564,
+          50.0619474
         ]
       }
     },
@@ -26624,8 +26624,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Proximi Orientis",
-        "Latitude": 37.1773363,
-        "Longitude": -3.5985571,
+        "provLat": 33.8959203,
+        "provLong": 35.47843,
         "Placeholder City": "Beirut",
         "Placeholder Country": "Lebanon",
         "vowedHere": [
@@ -26677,8 +26677,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.5985571,
-          37.1773363
+          35.47843,
+          33.8959203
         ]
       }
     },
@@ -26686,8 +26686,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Quebecen.",
-        "Latitude": 51.3614279,
-        "Longitude": -0.193961,
+        "provLat": 45.5505849,
+        "provLong": -73.60223174,
         "Placeholder City": "Montreal",
         "Placeholder Country": "Canada",
         "vowedHere": [
@@ -26724,8 +26724,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.193961,
-          51.3614279
+          -73.60223174,
+          45.5505849
         ]
       }
     },
@@ -26733,8 +26733,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Ranchiensis",
-        "Latitude": 38.1113006,
-        "Longitude": 15.6472914,
+        "provLat": 23.30063985,
+        "provLong": 85.37344271,
         "Placeholder City": "Ranchi",
         "Placeholder Country": "India",
         "vowedHere": [
@@ -26785,8 +26785,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.6472914,
-          38.1113006
+          85.37344271,
+          23.30063985
         ]
       }
     },
@@ -26794,8 +26794,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Romana",
-        "Latitude": 39.2903848,
-        "Longitude": -76.6121893,
+        "provLat": 41.8933203,
+        "provLong": 12.4829321,
         "Placeholder City": "Rome",
         "Placeholder Country": "Italy",
         "vowedHere": [
@@ -27922,8 +27922,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.6121893,
-          39.2903848
+          12.4829321,
+          41.8933203
         ]
       }
     },
@@ -27931,8 +27931,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Romenica",
-        "Latitude": 41.1188827,
-        "Longitude": 1.2444909,
+        "provLat": 44.4361414,
+        "provLong": 26.1027202,
         "Placeholder City": "Bucharest",
         "Placeholder Country": "Romania",
         "vowedHere": [
@@ -27953,8 +27953,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.2444909,
-          41.1188827
+          26.1027202,
+          44.4361414
         ]
       }
     },
@@ -27962,8 +27962,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Siculae",
-        "Latitude": 53.1423672,
-        "Longitude": -7.6920536,
+        "provLat": 37.8819449,
+        "provLong": 13.60954369,
         "Placeholder City": "Palermo",
         "Placeholder Country": "Italy",
         "vowedHere": [
@@ -28601,8 +28601,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.6920536,
-          53.1423672
+          13.60954369,
+          37.8819449
         ]
       }
     },
@@ -28610,8 +28610,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Slovakiae",
-        "Latitude": 53.3498053,
-        "Longitude": -6.2603097,
+        "provLat": 48.1359085,
+        "provLong": 17.15974406,
         "Placeholder City": "Bratislava",
         "Placeholder Country": "Slovakia",
         "vowedHere": [
@@ -28628,8 +28628,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.2603097,
-          53.3498053
+          17.15974406,
+          48.1359085
         ]
       }
     },
@@ -28637,8 +28637,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Sloveniae",
-        "Latitude": 0.3471469,
-        "Longitude": -78.1323648,
+        "provLat": 46.0499803,
+        "provLong": 14.5068602,
         "Placeholder City": "Ljubljana",
         "Placeholder Country": "Slovenia",
         "vowedHere": [
@@ -28651,8 +28651,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.1323648,
-          0.3471469
+          14.5068602,
+          46.0499803
         ]
       }
     },
@@ -28660,8 +28660,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Tarraconensis",
-        "Latitude": 42.5636168,
-        "Longitude": 12.6426604,
+        "provLat": 41.3828939,
+        "provLong": 2.1774322,
         "Placeholder City": "Barcelona",
         "Placeholder Country": "Spain",
         "vowedHere": [
@@ -28865,8 +28865,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.6426604,
-          42.5636168
+          2.1774322,
+          41.3828939
         ]
       }
     },
@@ -28874,8 +28874,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Taurinensis",
-        "Latitude": 42.3235089,
-        "Longitude": 12.334934,
+        "provLat": 45.0677551,
+        "provLong": 7.6824892,
         "Placeholder City": "Turin",
         "Placeholder Country": "Italy",
         "vowedHere": [
@@ -29698,8 +29698,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.334934,
-          42.3235089
+          7.6824892,
+          45.0677551
         ]
       }
     },
@@ -29707,8 +29707,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Toletana",
-        "Latitude": 37.2904107,
-        "Longitude": 14.088517,
+        "provLat": 40.4167047,
+        "provLong": -3.7035825,
         "Placeholder City": "Madrid",
         "Placeholder Country": "Spain",
         "vowedHere": [
@@ -30252,8 +30252,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.088517,
-          37.2904107
+          -3.7035825,
+          40.4167047
         ]
       }
     },
@@ -30261,8 +30261,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Tolosana",
-        "Latitude": 48.856614,
-        "Longitude": 2.3522219,
+        "provLat": 43.6044622,
+        "provLong": 1.4442469,
         "Placeholder City": "Toulouse",
         "Placeholder Country": "France",
         "vowedHere": [
@@ -31506,8 +31506,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3522219,
-          48.856614
+          1.4442469,
+          43.6044622
         ]
       }
     },
@@ -31515,8 +31515,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Uruguariensis",
-        "Latitude": 40.4915971,
-        "Longitude": -3.0166329,
+        "provLat": -34.8652724,
+        "provLong": -56.1819512,
         "Placeholder City": "Montevideo",
         "Placeholder Country": "Uruguay",
         "vowedHere": [
@@ -31542,8 +31542,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.0166329,
-          40.4915971
+          -56.1819512,
+          -34.8652724
         ]
       }
     },
@@ -31551,8 +31551,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "American Septemtrionalis Statua Foederati",
-        "Latitude": 43.566667,
-        "Longitude": -7.583333,
+        "provLat": 39.2908816,
+        "provLong": -76.610759,
         "Placeholder City": "Baltimore",
         "Placeholder Country": "United States",
         "vowedHere": [
@@ -31592,8 +31592,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.583333,
-          43.566667
+          -76.610759,
+          39.2908816
         ]
       }
     },
@@ -31601,8 +31601,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Utriusque Siciliae",
-        "Latitude": 45.142667,
-        "Longitude": 4.123734,
+        "provLat": 37.8819449,
+        "provLong": 13.60954369,
         "Placeholder City": "Palermo",
         "Placeholder Country": "Italy",
         "vowedHere": [],
@@ -31613,8 +31613,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.123734,
-          45.142667
+          13.60954369,
+          37.8819449
         ]
       }
     },
@@ -31622,8 +31622,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Venata",
-        "Latitude": 19.173773,
-        "Longitude": -96.1342241,
+        "provLat": 45.4371908,
+        "provLong": 12.3345898,
         "Placeholder City": "Venice",
         "Placeholder Country": "Italy",
         "vowedHere": [
@@ -32230,8 +32230,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.1342241,
-          19.173773
+          12.3345898,
+          45.4371908
         ]
       }
     },
@@ -32239,8 +32239,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Veneto-Mediolanensis",
-        "Latitude": 47.181225,
-        "Longitude": 8.4592089,
+        "provLat": 45.4077172,
+        "provLong": 11.8734455,
         "Placeholder City": "Padua",
         "Placeholder Country": "Italy",
         "vowedHere": [
@@ -32501,8 +32501,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.4592089,
-          47.181225
+          11.8734455,
+          45.4077172
         ]
       }
     },
@@ -32510,8 +32510,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Venezolan.",
-        "Latitude": 51.1913202,
-        "Longitude": 5.9877715,
+        "provLat": 10.506098,
+        "provLong": -66.9146017,
         "Placeholder City": "Caracas",
         "Placeholder Country": "Venezuela",
         "vowedHere": [
@@ -32549,8 +32549,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.9877715,
-          51.1913202
+          -66.9146017,
+          10.506098
         ]
       }
     },
@@ -32558,8 +32558,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Wisconsinensis",
-        "Latitude": 18.658632,
-        "Longitude": -91.5596117,
+        "provLat": 43.074761,
+        "provLong": -89.3837613,
         "Placeholder City": "Madison",
         "Placeholder Country": "Wisconsin",
         "vowedHere": [
@@ -32646,8 +32646,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -91.5596117,
-          18.658632
+          -89.3837613,
+          43.074761
         ]
       }
     },
@@ -32655,8 +32655,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Zambesian.",
-        "Latitude": 38.8702789,
-        "Longitude": -1.0993366,
+        "provLat": -33.3070589,
+        "provLong": 26.5272648,
         "Placeholder City": "Makhanda (Grahamstown)",
         "Placeholder Country": "South Africa",
         "vowedHere": [],
@@ -32667,8 +32667,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.0993366,
-          38.8702789
+          26.5272648,
+          -33.3070589
         ]
       }
     },
@@ -32676,8 +32676,8 @@ var allProvinces = {
       "type": "Feature",
       "properties": {
         "JesuitPlaceFull": "Zambia",
-        "Latitude": 42.6953909,
-        "Longitude": -1.6760691,
+        "provLat": -15.4164488,
+        "provLong": 28.2821535,
         "Placeholder City": "Lusaka",
         "Placeholder Country": "Zambia",
         "vowedHere": [
@@ -32690,8 +32690,8 @@ var allProvinces = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6760691,
-          42.6953909
+          28.2821535,
+          -15.4164488
         ]
       }
     }

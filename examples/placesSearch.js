@@ -33,7 +33,6 @@
 
 	var cluster_provinces = new L.MarkerClusterGroup({showCoverageOnHover: false});
 	cluster_provinces.addLayer(provincesImported);
-	cluster_provinces.addTo(map);
 
 
 	var baseLayers = {
@@ -75,8 +74,8 @@
 		var vowedHereSpaces = vowedHereString.join(', ');
 		if (f.properties) {
 			out.push('<b>Province Name: </b>' + f.properties.JesuitPlaceFull);
-			out.push('<b>Latitude: </b>' + f.properties.Latitude);
-			out.push('<b>Longitude: </b>' + f.properties.Longitude);
+			out.push('<b>Latitude: </b>' + f.properties.provLat);
+			out.push('<b>Longitude: </b>' + f.properties.provLong);
 			out.push('<b>Jesuits who took their vows here: </b>' + vowedHereSpaces);
 			l.bindPopup(out.join("<br />"));
 		}
@@ -92,6 +91,7 @@
 	var searchControl = new L.Control.Search({
 		layer: L.featureGroup([cluster_places]),
 		propertyName: 'Places',
+		textPlaceholder: 'Search by Location of Birth/Death',
 		marker: false,
 	});
 	map.addControl( searchControl );

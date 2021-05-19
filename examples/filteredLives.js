@@ -5,11 +5,13 @@
 		zoom: 2 , //set initial zoom
 		maxZoom : 17,  //set max zoom
 		minZoom : 1,
+		zoomControl: false,
 		maxBounds: [ [-90, -180] , [90,180] ]
 	}
 
 //Creates Map according to map options
 	var map = new L.map('map', mapOptions);
+	var zoomHome = L.Control.zoomHome({position: 'topleft'}).addTo(map);
 
 //timestamp conversion function
 function timestamp(str) {

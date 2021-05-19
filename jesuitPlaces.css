@@ -49,3 +49,7 @@ display: inline; /* the default for span */
 	height:200px;
 	overflow: scroll;
 }
+
+.leaflet-control-zoomhome {
+  margin-left: 35px !important;
+}

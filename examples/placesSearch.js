@@ -5,11 +5,13 @@
 		zoom: 2 , //set initial zoom
 		maxZoom : 17,  //set max zoom
 		minZoom : 1,
+		zoomControl: false,
+		maxBounds: [ [-90, -180] , [90,180] ]
 	}
 
 //Creates Map according to map options
 		var map = new L.map('map', mapOptions);
-
+		var zoomHome = L.Control.zoomHome({position: 'topleft'}).addTo(map);
 //Examples of an externally called tiled basemap
 	var Esri_WorldImagery = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
 		attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'

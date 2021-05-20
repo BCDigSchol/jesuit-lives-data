@@ -215,7 +215,7 @@ map.addControl( searchControlProvinces );
 
 		jesuitLivesGroup.addLayer(jesuitLives).addTo(map); //add layer back to group
 
-
+/*
 
 		//create static markers based on person data
 		myStaticEndMarker = new L.Marker([dLat, dLong], {icon: myDeathIcon} );
@@ -349,12 +349,11 @@ function movingTheMarker(date) {
 	/*if (date > personDeathStamp && !isAlive) {
 		myStaticProvinceMarker.addTo(map);
 		map.removeLayer(myStaticEndMarker);
-	}*/
+	}
 
-}
+} */
 
-
-
+/*
 var dateSlider = document.getElementById('slider-date');
 
 noUiSlider.create(dateSlider, {
@@ -438,7 +437,7 @@ dateSlider.noUiSlider.on('update', function (values, handle) {
 	if (searchActive) {
 		movingTheMarker(dateNumber);}
 });
-
+*/
 
   //export current viewport dataset to json, which could then be converted to a csv
 

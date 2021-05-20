@@ -95,6 +95,8 @@
 		propertyName: 'Places',
 		textPlaceholder: 'Search by Location',
 		marker: false,
+		collapsed: false,
+		zoom: 13
 	});
 	map.addControl( searchControl );
 

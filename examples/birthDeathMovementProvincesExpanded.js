@@ -151,15 +151,6 @@ map.addControl( searchControlProvinces );
 
 
 
-
-
-
-
-
-
-
-
-
 //create the search control for people, set up currently for searching for individaul people, note that the text within the search box can be edited directly in the .js for the plugin
 //zoom functions set in the plugin's .js as well
 	var searchControlPeople = new L.Control.Search({
@@ -214,7 +205,7 @@ map.addControl( searchControlProvinces );
 		});
 
 		jesuitLivesGroup.addLayer(jesuitLives).addTo(map); //add layer back to group
-});
+
 
 /*
 
@@ -249,7 +240,7 @@ map.addControl( searchControlProvinces );
 			isAlive = false;
 			isJesuit = true;
 		}
-
+*/
 //on cancel search, reset all data and clear map for next filtering search
 	}).on('search:cancel', function(e) {
 		isAlive = false;
@@ -259,11 +250,11 @@ map.addControl( searchControlProvinces );
 		var jesuitLives = L.geoJson(movementMapProvinces, {
 			onEachFeature: forEachFeature
 			})
-		map.removeLayer(myMovingMarker);
-		map.removeLayer(myMovingMarker2);
-		map.removeLayer(myStaticEndMarker);
-		map.removeLayer(myStaticStartMarker);
-		map.removeLayer(myStaticProvinceMarker);
+		//map.removeLayer(myMovingMarker);
+		//map.removeLayer(myMovingMarker2);
+		//map.removeLayer(myStaticEndMarker);
+		//map.removeLayer(myStaticStartMarker);
+		//map.removeLayer(myStaticProvinceMarker);
 		map.removeLayer(jesuitLivesGroup);
 
 		jesuitLivesGroup.addLayer(jesuitLives);
@@ -272,7 +263,7 @@ map.addControl( searchControlProvinces );
 		personProvinceStamp = null;
 	});
 
-
+/*
 //function for moving the slider across a date of importance (birth, joining, death)
 function movingTheMarker(date) {
 

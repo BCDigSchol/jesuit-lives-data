@@ -93,7 +93,7 @@
 	var searchControl = new L.Control.Search({
 		layer: L.featureGroup([cluster_places]),
 		propertyName: 'Places',
-		textPlaceholder: 'Search by Location of Birth/Death',
+		textPlaceholder: 'Search by Location',
 		marker: false,
 	});
 	map.addControl( searchControl );

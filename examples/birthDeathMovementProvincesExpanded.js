@@ -214,6 +214,7 @@ map.addControl( searchControlProvinces );
 		});
 
 		jesuitLivesGroup.addLayer(jesuitLives).addTo(map); //add layer back to group
+});
 
 /*
 

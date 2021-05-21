@@ -48,7 +48,7 @@ for i in range (0, len(people)):
         if people[i]['Entrance_Province'] == provinces[j]['JesuitPlaceAbbreviation']:
             people[i]['provinceLatitude'] = provinces[j]['Latitude']
             people[i]['provinceLongitude'] = provinces[j]['Longitude']
-            people[i]['provinceFull'] = provinces[j]['JesuitPlaceFull']
+            people[i]['provinceFull'] = provinces[j]['Places']
             people[i]['provinceCity'] = provinces[j]['Placeholder City']
             people[i]['provinceCountry'] = provinces[j]['Placeholder Country']
 

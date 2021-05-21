@@ -39,7 +39,7 @@ df['provLong'] =  pd.to_numeric(df['provLong'],errors='coerce')
 df['provLat'] =  pd.to_numeric(df['provLat'],errors='coerce')
 
 #choose which column headings to include in geojson
-useful_cols = ['JesuitPlaceFull', 'provLat', 'provLong', 'Placeholder City', 'Placeholder Country', 'vowedHere', 'MissionDate(s)', 'ViceProvinceDate(s)', 'ProvinceDate(s)']
+useful_cols = ['Places', 'provLat', 'provLong', 'Placeholder City', 'Placeholder Country', 'vowedHere', 'MissionDate(s)', 'ViceProvinceDate(s)', 'ProvinceDate(s)']
 df_subset = df[useful_cols]
 
 #drop places that do not have spatial data
@@ -83,7 +83,7 @@ def df_to_geojson(df, properties, lat='provLat', lon='provLong'):
     return geojson
 
 #set columns to be exported as properties
-useful_cols = ['JesuitPlaceFull', 'provLat', 'provLong', 'Placeholder City', 'Placeholder Country', 'vowedHere', 'MissionDate(s)', 'ViceProvinceDate(s)', 'ProvinceDate(s)']
+useful_cols = ['Places', 'provLat', 'provLong', 'Placeholder City', 'Placeholder Country', 'vowedHere', 'MissionDate(s)', 'ViceProvinceDate(s)', 'ProvinceDate(s)']
 
 geojson_dict = df_to_geojson(df_geo, properties=useful_cols)
 

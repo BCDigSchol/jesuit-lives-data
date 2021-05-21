@@ -36,6 +36,7 @@
 	var cluster_provinces = new L.MarkerClusterGroup({showCoverageOnHover: false});
 	cluster_provinces.addLayer(provincesImported);
 
+	var searchLayers = L.layerGroup([cluster_places, cluster_provinces]);
 
 	var baseLayers = {
 			"Satellite Imagery" : Esri_WorldImagery,
@@ -75,7 +76,7 @@
 		var vowedHereString = f.properties.vowedHere;
 		var vowedHereSpaces = vowedHereString.join(', ');
 		if (f.properties) {
-			out.push('<b>Province Name: </b>' + f.properties.JesuitPlaceFull);
+			out.push('<b>Entry Location: </b>' + f.properties.Places);
 			out.push('<b>Latitude: </b>' + f.properties.provLat);
 			out.push('<b>Longitude: </b>' + f.properties.provLong);
 			out.push('<b>Jesuits who took their vows here: </b>' + vowedHereSpaces);
@@ -91,9 +92,10 @@
 //create the search control, set up currently for searching places, note that the text within the search box can be edited directly in the .js for the plugin
 //zoom set in plugin .js
 	var searchControl = new L.Control.Search({
-		layer: L.featureGroup([cluster_places]),
+		layer: searchLayers,
 		propertyName: 'Places',
 		textPlaceholder: 'Search by Location',
+		textErr: 'Location not found',
 		marker: false,
 		collapsed: false,
 		zoom: 13

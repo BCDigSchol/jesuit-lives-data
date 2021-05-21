@@ -4,7 +4,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Aequatoriana",
+        "Places": "Aequatoriana",
         "provLat": -0.180653,
         "provLong": -78.467834,
         "Placeholder City": "Quito",
@@ -64,7 +64,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Africae Centralis",
+        "Places": "Africae Centralis",
         "provLat": -4.441931,
         "provLong": 15.266293,
         "Placeholder City": "Kinshasa",
@@ -119,7 +119,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Ahmedabadensis",
+        "Places": "Ahmedabadensis",
         "provLat": 23.022505,
         "provLong": 72.571365,
         "Placeholder City": "Ahmedabad",
@@ -144,7 +144,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Albae Russiae",
+        "Places": "Albae Russiae",
         "provLat": 53.904541,
         "provLong": 27.561523,
         "Placeholder City": "Minsk",
@@ -165,7 +165,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Angliae",
+        "Places": "Angliae",
         "provLat": 51.5073219,
         "provLong": -0.1276474,
         "Placeholder City": "London",
@@ -1485,7 +1485,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Antillensis",
+        "Places": "Antillensis",
         "provLat": 23.135305,
         "provLong": -82.3589631,
         "Placeholder City": "Havana",
@@ -1572,7 +1572,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Aragoniae",
+        "Places": "Aragoniae",
         "provLat": 41.70057095,
         "provLong": -0.90908596,
         "Placeholder City": "Zaragoza",
@@ -2944,7 +2944,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Argentinensis",
+        "Places": "Argentinensis",
         "provLat": -34.6075682,
         "provLong": -58.4370894,
         "Placeholder City": "Buenos Aires",
@@ -3124,7 +3124,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Argentino-Chilensis",
+        "Places": "Argentino-Chilensis",
         "provLat": -30.7054363,
         "provLong": -69.1988222,
         "Placeholder City": "San Juan",
@@ -3147,7 +3147,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Austriaco-Galician",
+        "Places": "Austriaco-Galician",
         "provLat": 49.5557716,
         "provLong": 25.591886,
         "Placeholder City": "Ternopil",
@@ -3191,7 +3191,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Austriaco-Hungarica",
+        "Places": "Austriaco-Hungarica",
         "provLat": 48.2083537,
         "provLong": 16.3725042,
         "Placeholder City": "Vienna",
@@ -3618,7 +3618,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Australiae",
+        "Places": "Australiae",
         "provLat": -37.8142176,
         "provLong": 144.9631608,
         "Placeholder City": "Melbourne",
@@ -3752,7 +3752,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Austriaca",
+        "Places": "Austriaca",
         "provLat": 48.2083537,
         "provLong": 16.3725042,
         "Placeholder City": "Vienna",
@@ -3773,7 +3773,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Austriae",
+        "Places": "Austriae",
         "provLat": 48.2083537,
         "provLong": 16.3725043,
         "Placeholder City": "Vienna",
@@ -4333,7 +4333,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Baeticae",
+        "Places": "Baeticae",
         "provLat": 37.3886303,
         "provLong": -5.9953403,
         "Placeholder City": "Sevilla",
@@ -4627,7 +4627,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Belgaensis",
+        "Places": "Belgaensis",
         "provLat": 15.8572666,
         "provLong": 74.5069343,
         "Placeholder City": "Belgaum",
@@ -4648,7 +4648,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Belgicae Meridionalis",
+        "Places": "Belgicae Meridionalis",
         "provLat": 50.8465573,
         "provLong": 4.351697,
         "Placeholder City": "Brussels",
@@ -5010,7 +5010,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Beligicae Septemtrionalis",
+        "Places": "Beligicae Septemtrionalis",
         "provLat": 50.8465573,
         "provLong": 4.351697,
         "Placeholder City": "Brussels",
@@ -5411,7 +5411,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Bohemiae",
+        "Places": "Bohemiae",
         "provLat": 50.0596288,
         "provLong": 14.44645927,
         "Placeholder City": "Prague",
@@ -5492,7 +5492,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Bolivian.",
+        "Places": "Bolivian.",
         "provLat": -16.4955455,
         "provLong": -68.1336229,
         "Placeholder City": "La Paz",
@@ -5517,7 +5517,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Bombayensis",
+        "Places": "Bombayensis",
         "provLat": 18.9387711,
         "provLong": 72.8353355,
         "Placeholder City": "Mumbai",
@@ -5569,7 +5569,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Belgaum-Poonensis",
+        "Places": "Belgaum-Poonensis",
         "provLat": 18.521428,
         "provLong": 73.8544541,
         "Placeholder City": "Pune",
@@ -5593,7 +5593,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Brasiliae Centralis",
+        "Places": "Brasiliae Centralis",
         "provLat": -22.9110137,
         "provLong": -43.2093727,
         "Placeholder City": "Rio de Janeiro",
@@ -5695,7 +5695,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Brasiliae Meridionalis",
+        "Places": "Brasiliae Meridionalis",
         "provLat": -30.10091665,
         "provLong": -51.18878819,
         "Placeholder City": "Porto Alegre",
@@ -5907,7 +5907,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Brasiliae Septemtrionalis",
+        "Places": "Brasiliae Septemtrionalis",
         "provLat": -12.9822499,
         "provLong": -38.4812772,
         "Placeholder City": "Salvador",
@@ -6007,7 +6007,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Buffalensis",
+        "Places": "Buffalensis",
         "provLat": 42.8867166,
         "provLong": -78.8783922,
         "Placeholder City": "Buffalo",
@@ -6051,7 +6051,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Calcuttensis",
+        "Places": "Calcuttensis",
         "provLat": 22.5726723,
         "provLong": 88.3638815,
         "Placeholder City": "Kolkata",
@@ -6113,7 +6113,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Californiae",
+        "Places": "Californiae",
         "provLat": 37.7647993,
         "provLong": -122.4629897,
         "Placeholder City": "San Francisco",
@@ -6452,7 +6452,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Centro-American",
+        "Places": "Centro-American",
         "provLat": 13.6989939,
         "provLong": -89.1914249,
         "Placeholder City": "San Salvador",
@@ -6487,7 +6487,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Campaniae",
+        "Places": "Campaniae",
         "provLat": 49.2368732,
         "provLong": 4.08030473,
         "Placeholder City": "Reims",
@@ -7600,7 +7600,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Canadensis",
+        "Places": "Canadensis",
         "provLat": 45.5505849,
         "provLong": -73.60223174,
         "Placeholder City": "Montreal",
@@ -7773,7 +7773,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Canadae Inferioris",
+        "Places": "Canadae Inferioris",
         "provLat": 45.5505849,
         "provLong": -73.60223174,
         "Placeholder City": "Montreal",
@@ -8050,7 +8050,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Canadae Superioris",
+        "Places": "Canadae Superioris",
         "provLat": 43.6534817,
         "provLong": -79.3839347,
         "Placeholder City": "Toronto",
@@ -8179,7 +8179,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Castellan",
+        "Places": "Castellan",
         "provLat": 43.4620412,
         "provLong": -3.8099719,
         "Placeholder City": "Santander",
@@ -9379,7 +9379,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Checho-Slovakiae",
+        "Places": "Checho-Slovakiae",
         "provLat": 50.0596288,
         "provLong": 14.44645927,
         "Placeholder City": "Prague",
@@ -9460,7 +9460,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Ceylonen",
+        "Places": "Ceylonen",
         "provLat": 6.9349969,
         "provLong": 79.8538463,
         "Placeholder City": "Colombo",
@@ -9489,7 +9489,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Chicagiensis",
+        "Places": "Chicagiensis",
         "provLat": 41.8755616,
         "provLong": -87.6244212,
         "Placeholder City": "Chicago",
@@ -9835,7 +9835,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Chilensis",
+        "Places": "Chilensis",
         "provLat": -33.4377968,
         "provLong": -70.6504451,
         "Placeholder City": "Santiago",
@@ -9940,7 +9940,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Castellan. Occidentalis",
+        "Places": "Castellan. Occidentalis",
         "provLat": 43.2938686,
         "provLong": -8.3593063,
         "Placeholder City": "A Coruña",
@@ -10034,7 +10034,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Castellan. Orientalis",
+        "Places": "Castellan. Orientalis",
         "provLat": 42.063972,
         "provLong": -1.6053391,
         "Placeholder City": "Tudela",
@@ -10196,7 +10196,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Colombiana",
+        "Places": "Colombiana",
         "provLat": 4.59808,
         "provLong": -74.0760439,
         "Placeholder City": "Bogota",
@@ -10375,7 +10375,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Colombiana Occidentalis",
+        "Places": "Colombiana Occidentalis",
         "provLat": 6.2443382,
         "provLong": -75.573553,
         "Placeholder City": "Medellín",
@@ -10420,7 +10420,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Colombiana Orientalis",
+        "Places": "Colombiana Orientalis",
         "provLat": 4.59808,
         "provLong": -74.0760439,
         "Placeholder City": "Bogota",
@@ -10455,7 +10455,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Croatiae",
+        "Places": "Croatiae",
         "provLat": 45.8131847,
         "provLong": 15.9771774,
         "Placeholder City": "Zagreb",
@@ -10551,7 +10551,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Detroitensis",
+        "Places": "Detroitensis",
         "provLat": 42.3315509,
         "provLong": -83.0466403,
         "Placeholder City": "Detroit",
@@ -10642,7 +10642,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Extremi Orientis",
+        "Places": "Extremi Orientis",
         "provLat": 25.0375198,
         "provLong": 121.5636796,
         "Placeholder City": "Taipei",
@@ -10752,7 +10752,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Franciae",
+        "Places": "Franciae",
         "provLat": 48.8566969,
         "provLong": 2.3514616,
         "Placeholder City": "Paris",
@@ -12496,7 +12496,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Galliae Atlanticae",
+        "Places": "Galliae Atlanticae",
         "provLat": 47.2186371,
         "provLong": -1.5541362,
         "Placeholder City": "Nantes",
@@ -12595,7 +12595,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Gallo-Canadensis",
+        "Places": "Gallo-Canadensis",
         "provLat": 45.5592181,
         "provLong": -73.66060931,
         "Placeholder City": "Montreal",
@@ -12637,7 +12637,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Galiciae",
+        "Places": "Galiciae",
         "provLat": 49.5557716,
         "provLong": 25.591886,
         "Placeholder City": "Ternopil",
@@ -12658,7 +12658,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Galiciae Austriacae",
+        "Places": "Galiciae Austriacae",
         "provLat": 49.5557716,
         "provLong": 25.591887,
         "Placeholder City": "Ternopil",
@@ -12754,7 +12754,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Galician.",
+        "Places": "Galician.",
         "provLat": 50.0619474,
         "provLong": 19.9368564,
         "Placeholder City": "Krakow",
@@ -13161,7 +13161,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Galliae",
+        "Places": "Galliae",
         "provLat": 48.8566969,
         "provLong": 2.3514616,
         "Placeholder City": "Paris",
@@ -13262,7 +13262,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Galliae Mediterraneae",
+        "Places": "Galliae Mediterraneae",
         "provLat": 45.7578137,
         "provLong": 4.8320114,
         "Placeholder City": "Lyon",
@@ -13366,7 +13366,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Galliae Septemtrionalis",
+        "Places": "Galliae Septemtrionalis",
         "provLat": 49.2368732,
         "provLong": 4.08030473,
         "Placeholder City": "Reims",
@@ -13470,7 +13470,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Germaniae",
+        "Places": "Germaniae",
         "provLat": 51.2288401,
         "provLong": 5.88419653,
         "Placeholder City": "Baexem",
@@ -14484,7 +14484,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Germaniae Inferioris",
+        "Places": "Germaniae Inferioris",
         "provLat": 50.938361,
         "provLong": 6.959974,
         "Placeholder City": "Cologne",
@@ -14979,7 +14979,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Germaniae Orientalis",
+        "Places": "Germaniae Orientalis",
         "provLat": 52.5015217,
         "provLong": 13.4025498,
         "Placeholder City": "Berlin",
@@ -15150,7 +15150,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Germaniae Superioris",
+        "Places": "Germaniae Superioris",
         "provLat": 48.1371079,
         "provLong": 11.5753822,
         "Placeholder City": "Munich",
@@ -15593,7 +15593,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Germaniae Superioris et Inferioris",
+        "Places": "Germaniae Superioris et Inferioris",
         "provLat": 51.7177044,
         "provLong": 8.752653,
         "Placeholder City": "Paderborn",
@@ -15624,7 +15624,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Goiano-Minensis",
+        "Places": "Goiano-Minensis",
         "provLat": -16.680882,
         "provLong": -49.2532691,
         "Placeholder City": "Goiânia",
@@ -15648,7 +15648,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Goa-Poonensis",
+        "Places": "Goa-Poonensis",
         "provLat": 15.398403,
         "provLong": 73.8129178,
         "Placeholder City": "Vasco da Gama",
@@ -15682,7 +15682,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Gujaratensis",
+        "Places": "Gujaratensis",
         "provLat": 22.0685829,
         "provLong": 71.02964535,
         "Placeholder City": "Rajkot",
@@ -15717,7 +15717,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Helvetiae",
+        "Places": "Helvetiae",
         "provLat": 47.3723941,
         "provLong": 8.5423328,
         "Placeholder City": "Zurich",
@@ -15804,7 +15804,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Hiberniae",
+        "Places": "Hiberniae",
         "provLat": 53.3497645,
         "provLong": -6.2602732,
         "Placeholder City": "Dublin",
@@ -16401,7 +16401,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Hispaniae",
+        "Places": "Hispaniae",
         "provLat": 40.4167047,
         "provLong": -3.7035825,
         "Placeholder City": "Madrid",
@@ -16700,7 +16700,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Hongkongensis",
+        "Places": "Hongkongensis",
         "provLat": 22.2850394,
         "provLong": 114.1583819,
         "Placeholder City": "Hong Kong",
@@ -16724,7 +16724,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Hungariae",
+        "Places": "Hungariae",
         "provLat": 47.48138955,
         "provLong": 19.14607278,
         "Placeholder City": "Budapest",
@@ -16935,7 +16935,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Iaponica",
+        "Places": "Iaponica",
         "provLat": 35.6828387,
         "provLong": 139.7594549,
         "Placeholder City": "Tokyo",
@@ -16979,7 +16979,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Imperio Russico",
+        "Places": "Imperio Russico",
         "provLat": 59.9606739,
         "provLong": 30.1586551,
         "Placeholder City": "St. Petersburg",
@@ -17000,7 +17000,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Indonesiae",
+        "Places": "Indonesiae",
         "provLat": -6.1753942,
         "provLong": 106.827183,
         "Placeholder City": "Jakarta",
@@ -17049,7 +17049,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Italiae",
+        "Places": "Italiae",
         "provLat": 41.8933203,
         "provLong": 12.4829321,
         "Placeholder City": "Rome",
@@ -17070,7 +17070,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Jamshedpurensis",
+        "Places": "Jamshedpurensis",
         "provLat": 22.8015194,
         "provLong": 86.2029579,
         "Placeholder City": "Jamshedpur",
@@ -17094,7 +17094,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Jugoslaviae",
+        "Places": "Jugoslaviae",
         "provLat": 45.8131847,
         "provLong": 15.9771774,
         "Placeholder City": "Zagreb",
@@ -17142,7 +17142,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Kanarensis",
+        "Places": "Kanarensis",
         "provLat": 12.9791198,
         "provLong": 77.5912997,
         "Placeholder City": "Bangaluru",
@@ -17188,7 +17188,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Keralensis",
+        "Places": "Keralensis",
         "provLat": 10.3528744,
         "provLong": 76.5120396,
         "Placeholder City": "Kerala",
@@ -17217,7 +17217,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Legionensis",
+        "Places": "Legionensis",
         "provLat": 42.5989995,
         "provLong": -5.5682413,
         "Placeholder City": "León",
@@ -17668,7 +17668,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Lettoniae et Estoniae",
+        "Places": "Lettoniae et Estoniae",
         "provLat": 59.4250354,
         "provLong": 24.74386926,
         "Placeholder City": "Tallin",
@@ -17689,7 +17689,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Lituaniae",
+        "Places": "Lituaniae",
         "provLat": 54.8982139,
         "provLong": 23.9044817,
         "Placeholder City": "Kaunas",
@@ -17727,7 +17727,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Loyolensis",
+        "Places": "Loyolensis",
         "provLat": 42.7343909,
         "provLong": -3.413458,
         "Placeholder City": "Oña",
@@ -17831,7 +17831,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Lugdunensis",
+        "Places": "Lugdunensis",
         "provLat": 45.7578137,
         "provLong": 4.8320114,
         "Placeholder City": "Lyon",
@@ -19459,7 +19459,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Lusitaniae",
+        "Places": "Lusitaniae",
         "provLat": 38.7077507,
         "provLong": -9.1365919,
         "Placeholder City": "Lisbon",
@@ -19891,7 +19891,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Madecassensis",
+        "Places": "Madecassensis",
         "provLat": -18.9100122,
         "provLong": 47.5255809,
         "Placeholder City": "Antananarivo",
@@ -19959,7 +19959,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Madurensis",
+        "Places": "Madurensis",
         "provLat": 9.833333,
         "provLong": 77.833333,
         "Placeholder City": "Madurai",
@@ -20099,7 +20099,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Mangalorensis",
+        "Places": "Mangalorensis",
         "provLat": 12.8698101,
         "provLong": 74.8430082,
         "Placeholder City": "Mangalore",
@@ -20123,7 +20123,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Marylandiae",
+        "Places": "Marylandiae",
         "provLat": 39.2908816,
         "provLong": -76.610759,
         "Placeholder City": "Baltimore",
@@ -20524,7 +20524,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Marylandiae-Neo Eboracensis",
+        "Places": "Marylandiae-Neo Eboracensis",
         "provLat": 40.7127281,
         "provLong": -74.0060152,
         "Placeholder City": "New York",
@@ -21276,7 +21276,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Melitensis",
+        "Places": "Melitensis",
         "provLat": 35.8989818,
         "provLong": 14.5136759,
         "Placeholder City": "Valletta",
@@ -21312,7 +21312,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Mexicana",
+        "Places": "Mexicana",
         "provLat": 19.4326296,
         "provLong": -99.1331785,
         "Placeholder City": "Mexico City",
@@ -21641,7 +21641,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Mexicana Meridionalis",
+        "Places": "Mexicana Meridionalis",
         "provLat": 19.4326296,
         "provLong": -99.1331785,
         "Placeholder City": "Mexico City",
@@ -21710,7 +21710,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Mexicana Septemtrionalis",
+        "Places": "Mexicana Septemtrionalis",
         "provLat": 20.6720375,
         "provLong": -103.3383962,
         "Placeholder City": "Guadalajara",
@@ -21773,7 +21773,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Missourianae",
+        "Places": "Missourianae",
         "provLat": 38.6268039,
         "provLong": -90.1994097,
         "Placeholder City": "St. Louis",
@@ -22800,7 +22800,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Montis Regii",
+        "Places": "Montis Regii",
         "provLat": 45.5505849,
         "provLong": -73.60223174,
         "Placeholder City": "Montreal",
@@ -22832,7 +22832,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Novae Angliae",
+        "Places": "Novae Angliae",
         "provLat": 42.3602534,
         "provLong": -71.0582912,
         "Placeholder City": "Boston",
@@ -23187,7 +23187,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Neo-Aurelianensis",
+        "Places": "Neo-Aurelianensis",
         "provLat": 29.9499323,
         "provLong": -90.0701156,
         "Placeholder City": "New Orleans",
@@ -23624,7 +23624,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Neapolitana",
+        "Places": "Neapolitana",
         "provLat": 40.8359336,
         "provLong": 14.2487826,
         "Placeholder City": "Naples",
@@ -24337,7 +24337,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Neo-Eboracensis",
+        "Places": "Neo-Eboracensis",
         "provLat": 40.7127281,
         "provLong": -74.0060152,
         "Placeholder City": "New York",
@@ -24661,7 +24661,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Neerlandiae",
+        "Places": "Neerlandiae",
         "provLat": 52.0799838,
         "provLong": 4.3113461,
         "Placeholder City": "The Hague",
@@ -25583,7 +25583,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Oregoniensis",
+        "Places": "Oregoniensis",
         "provLat": 45.5202471,
         "provLong": -122.6741949,
         "Placeholder City": "Portland",
@@ -25839,7 +25839,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Parisiensis",
+        "Places": "Parisiensis",
         "provLat": 48.8566969,
         "provLong": 2.3514616,
         "Placeholder City": "Paris",
@@ -25890,7 +25890,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Patnen.",
+        "Places": "Patnen.",
         "provLat": 25.416667,
         "provLong": 85.166667,
         "Placeholder City": "Patna",
@@ -25927,7 +25927,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Peruvian.",
+        "Places": "Peruvian.",
         "provLat": -12.0621065,
         "provLong": -77.0365256,
         "Placeholder City": "Lima",
@@ -25964,7 +25964,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Phillippina",
+        "Places": "Phillippina",
         "provLat": 14.5907332,
         "provLong": 120.9809674,
         "Placeholder City": "Manila",
@@ -26026,7 +26026,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Poloniae",
+        "Places": "Poloniae",
         "provLat": 52.2337172,
         "provLong": 21.07141113,
         "Placeholder City": "Warsaw",
@@ -26119,7 +26119,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Poloniae Maioris et Mazoviae",
+        "Places": "Poloniae Maioris et Mazoviae",
         "provLat": 52.2337172,
         "provLong": 21.07141113,
         "Placeholder City": "Warsaw",
@@ -26343,7 +26343,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Poloniae Minoris",
+        "Places": "Poloniae Minoris",
         "provLat": 50.0619474,
         "provLong": 19.9368564,
         "Placeholder City": "Krakow",
@@ -26623,7 +26623,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Proximi Orientis",
+        "Places": "Proximi Orientis",
         "provLat": 33.8959203,
         "provLong": 35.47843,
         "Placeholder City": "Beirut",
@@ -26685,7 +26685,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Quebecen.",
+        "Places": "Quebecen.",
         "provLat": 45.5505849,
         "provLong": -73.60223174,
         "Placeholder City": "Montreal",
@@ -26732,7 +26732,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Ranchiensis",
+        "Places": "Ranchiensis",
         "provLat": 23.30063985,
         "provLong": 85.37344271,
         "Placeholder City": "Ranchi",
@@ -26793,7 +26793,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Romana",
+        "Places": "Romana",
         "provLat": 41.8933203,
         "provLong": 12.4829321,
         "Placeholder City": "Rome",
@@ -27930,7 +27930,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Romenica",
+        "Places": "Romenica",
         "provLat": 44.4361414,
         "provLong": 26.1027202,
         "Placeholder City": "Bucharest",
@@ -27961,7 +27961,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Siculae",
+        "Places": "Siculae",
         "provLat": 37.8819449,
         "provLong": 13.60954369,
         "Placeholder City": "Palermo",
@@ -28609,7 +28609,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Slovakiae",
+        "Places": "Slovakiae",
         "provLat": 48.1359085,
         "provLong": 17.15974406,
         "Placeholder City": "Bratislava",
@@ -28636,7 +28636,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Sloveniae",
+        "Places": "Sloveniae",
         "provLat": 46.0499803,
         "provLong": 14.5068602,
         "Placeholder City": "Ljubljana",
@@ -28659,7 +28659,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Tarraconensis",
+        "Places": "Tarraconensis",
         "provLat": 41.3828939,
         "provLong": 2.1774322,
         "Placeholder City": "Barcelona",
@@ -28873,7 +28873,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Taurinensis",
+        "Places": "Taurinensis",
         "provLat": 45.0677551,
         "provLong": 7.6824892,
         "Placeholder City": "Turin",
@@ -29706,7 +29706,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Toletana",
+        "Places": "Toletana",
         "provLat": 40.4167047,
         "provLong": -3.7035825,
         "Placeholder City": "Madrid",
@@ -30260,7 +30260,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Tolosana",
+        "Places": "Tolosana",
         "provLat": 43.6044622,
         "provLong": 1.4442469,
         "Placeholder City": "Toulouse",
@@ -31514,7 +31514,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Uruguariensis",
+        "Places": "Uruguariensis",
         "provLat": -34.8652724,
         "provLong": -56.1819512,
         "Placeholder City": "Montevideo",
@@ -31550,7 +31550,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "American Septemtrionalis Statua Foederati",
+        "Places": "American Septemtrionalis Statua Foederati",
         "provLat": 39.2908816,
         "provLong": -76.610759,
         "Placeholder City": "Baltimore",
@@ -31600,7 +31600,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Utriusque Siciliae",
+        "Places": "Utriusque Siciliae",
         "provLat": 37.8819449,
         "provLong": 13.60954369,
         "Placeholder City": "Palermo",
@@ -31621,7 +31621,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Venata",
+        "Places": "Venata",
         "provLat": 45.4371908,
         "provLong": 12.3345898,
         "Placeholder City": "Venice",
@@ -32238,7 +32238,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Veneto-Mediolanensis",
+        "Places": "Veneto-Mediolanensis",
         "provLat": 45.4077172,
         "provLong": 11.8734455,
         "Placeholder City": "Padua",
@@ -32509,7 +32509,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Venezolan.",
+        "Places": "Venezolan.",
         "provLat": 10.506098,
         "provLong": -66.9146017,
         "Placeholder City": "Caracas",
@@ -32557,7 +32557,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Wisconsinensis",
+        "Places": "Wisconsinensis",
         "provLat": 43.074761,
         "provLong": -89.3837613,
         "Placeholder City": "Madison",
@@ -32654,7 +32654,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Zambesian.",
+        "Places": "Zambesian.",
         "provLat": -33.3070589,
         "provLong": 26.5272648,
         "Placeholder City": "Makhanda (Grahamstown)",
@@ -32675,7 +32675,7 @@ var allProvinces= {
     {
       "type": "Feature",
       "properties": {
-        "JesuitPlaceFull": "Zambia",
+        "Places": "Zambia",
         "provLat": -15.4164488,
         "provLong": 28.2821535,
         "Placeholder City": "Lusaka",

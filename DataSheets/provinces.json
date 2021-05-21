@@ -1,7 +1,7 @@
 [
   {
     "JesuitPlaceAbbreviation": "Aeq",
-    "JesuitPlaceFull": "Aequatoriana",
+    "Places": "Aequatoriana",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1952,
     "ProvinceDate(s)": "",
@@ -14,7 +14,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "AfrC",
-    "JesuitPlaceFull": "Africae Centralis",
+    "Places": "Africae Centralis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1957,
     "ProvinceDate(s)": 1961,
@@ -27,7 +27,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Ahmed",
-    "JesuitPlaceFull": "Ahmedabadensis",
+    "Places": "Ahmedabadensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "1956-1961",
     "ProvinceDate(s)": "",
@@ -40,7 +40,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "AlbR",
-    "JesuitPlaceFull": "Albae Russiae",
+    "Places": "Albae Russiae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1801-1803",
@@ -53,7 +53,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Angl",
-    "JesuitPlaceFull": "Angliae",
+    "Places": "Angliae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1803,
@@ -66,7 +66,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Antill",
-    "JesuitPlaceFull": "Antillensis",
+    "Places": "Antillensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1952,
     "ProvinceDate(s)": 1968,
@@ -79,7 +79,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Arag",
-    "JesuitPlaceFull": "Aragoniae",
+    "Places": "Aragoniae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1863-1948",
@@ -92,7 +92,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Arg",
-    "JesuitPlaceFull": "Argentinensis",
+    "Places": "Argentinensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1937,
@@ -105,7 +105,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "ArgCh",
-    "JesuitPlaceFull": "Argentino-Chilensis",
+    "Places": "Argentino-Chilensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1917-1937",
@@ -118,7 +118,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Aus",
-    "JesuitPlaceFull": "Austriaco-Galician",
+    "Places": "Austriaco-Galician",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1838-1846",
@@ -131,7 +131,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "AusHu",
-    "JesuitPlaceFull": "Austriaco-Hungarica",
+    "Places": "Austriaco-Hungarica",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1871-1909",
@@ -144,7 +144,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Austra",
-    "JesuitPlaceFull": "Australiae",
+    "Places": "Australiae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1931,
     "ProvinceDate(s)": 1950,
@@ -157,7 +157,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Austrca",
-    "JesuitPlaceFull": "Austriaca",
+    "Places": "Austriaca",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1846-1871",
@@ -170,7 +170,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Austri",
-    "JesuitPlaceFull": "Austriae",
+    "Places": "Austriae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1909,
@@ -183,7 +183,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Baet",
-    "JesuitPlaceFull": "Baeticae",
+    "Places": "Baeticae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1924,
@@ -196,7 +196,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Belgaum",
-    "JesuitPlaceFull": "Belgaensis",
+    "Places": "Belgaensis",
     "MissionDate(s)": "1954-1955",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "",
@@ -209,7 +209,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "BelgM",
-    "JesuitPlaceFull": "Belgicae Meridionalis",
+    "Places": "Belgicae Meridionalis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1935,
@@ -222,7 +222,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "BelgS",
-    "JesuitPlaceFull": "Beligicae Septemtrionalis",
+    "Places": "Beligicae Septemtrionalis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1935,
@@ -235,7 +235,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Boh",
-    "JesuitPlaceFull": "Bohemiae",
+    "Places": "Bohemiae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1938,
@@ -248,7 +248,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Bol",
-    "JesuitPlaceFull": "Bolivian.",
+    "Places": "Bolivian.",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1967,
     "ProvinceDate(s)": "",
@@ -261,7 +261,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Bomb",
-    "JesuitPlaceFull": "Bombayensis",
+    "Places": "Bombayensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1956,
@@ -274,7 +274,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "BPoon",
-    "JesuitPlaceFull": "Belgaum-Poonensis",
+    "Places": "Belgaum-Poonensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "1956-1964",
     "ProvinceDate(s)": "",
@@ -287,7 +287,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "BrasC",
-    "JesuitPlaceFull": "Brasiliae Centralis",
+    "Places": "Brasiliae Centralis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1925,
     "ProvinceDate(s)": 1939,
@@ -300,7 +300,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "BrasM",
-    "JesuitPlaceFull": "Brasiliae Meridionalis",
+    "Places": "Brasiliae Meridionalis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1925,
     "ProvinceDate(s)": 1927,
@@ -313,7 +313,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "BrasS",
-    "JesuitPlaceFull": "Brasiliae Septemtrionalis",
+    "Places": "Brasiliae Septemtrionalis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1938,
     "ProvinceDate(s)": "",
@@ -326,7 +326,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Buff",
-    "JesuitPlaceFull": "Buffalensis",
+    "Places": "Buffalensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1956-1967",
@@ -339,7 +339,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Calcut",
-    "JesuitPlaceFull": "Calcuttensis",
+    "Places": "Calcuttensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1956,
     "ProvinceDate(s)": "",
@@ -352,7 +352,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Calif",
-    "JesuitPlaceFull": "Californiae",
+    "Places": "Californiae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1909,
     "ProvinceDate(s)": "",
@@ -365,7 +365,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "CAm",
-    "JesuitPlaceFull": "Centro-American",
+    "Places": "Centro-American",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1958,
     "ProvinceDate(s)": "",
@@ -378,7 +378,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Camp",
-    "JesuitPlaceFull": "Campaniae",
+    "Places": "Campaniae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1863-1961",
@@ -391,7 +391,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Can",
-    "JesuitPlaceFull": "Canadensis",
+    "Places": "Canadensis",
     "MissionDate(s)": 1887,
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1907-1924",
@@ -404,7 +404,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "CanI",
-    "JesuitPlaceFull": "Canadae Inferioris",
+    "Places": "Canadae Inferioris",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1924-1964",
@@ -417,7 +417,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "CanS",
-    "JesuitPlaceFull": "Canadae Superioris",
+    "Places": "Canadae Superioris",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1924,
     "ProvinceDate(s)": 1939,
@@ -430,7 +430,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Cast",
-    "JesuitPlaceFull": "Castellan",
+    "Places": "Castellan",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1863-1948; 1962",
@@ -443,7 +443,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "CeSl",
-    "JesuitPlaceFull": "Checho-Slovakiae",
+    "Places": "Checho-Slovakiae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1919,
     "ProvinceDate(s)": "1928-1938",
@@ -456,7 +456,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Cey",
-    "JesuitPlaceFull": "Ceylonen",
+    "Places": "Ceylonen",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1962,
     "ProvinceDate(s)": "",
@@ -469,7 +469,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Chic",
-    "JesuitPlaceFull": "Chicagiensis",
+    "Places": "Chicagiensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1928,
@@ -482,7 +482,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Chil",
-    "JesuitPlaceFull": "Chilensis",
+    "Places": "Chilensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1937,
     "ProvinceDate(s)": 1958,
@@ -495,7 +495,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "COc",
-    "JesuitPlaceFull": "Castellan. Occidentalis",
+    "Places": "Castellan. Occidentalis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1948-1962",
@@ -508,7 +508,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "COr",
-    "JesuitPlaceFull": "Castellan. Orientalis",
+    "Places": "Castellan. Orientalis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1948-1962",
@@ -521,7 +521,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Col",
-    "JesuitPlaceFull": "Colombiana",
+    "Places": "Colombiana",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1914-1961; 1968",
@@ -534,7 +534,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "ColOc",
-    "JesuitPlaceFull": "Colombiana Occidentalis",
+    "Places": "Colombiana Occidentalis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1961-1968",
@@ -547,7 +547,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "ColOr",
-    "JesuitPlaceFull": "Colombiana Orientalis",
+    "Places": "Colombiana Orientalis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1961-1969",
@@ -560,7 +560,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Croat",
-    "JesuitPlaceFull": "Croatiae",
+    "Places": "Croatiae",
     "MissionDate(s)": "1909-1919",
     "ViceProvinceDate(s)": 1942,
     "ProvinceDate(s)": 1962,
@@ -573,7 +573,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Detr",
-    "JesuitPlaceFull": "Detroitensis",
+    "Places": "Detroitensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1955,
@@ -586,7 +586,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "ExOr",
-    "JesuitPlaceFull": "Extremi Orientis",
+    "Places": "Extremi Orientis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1957,
@@ -599,7 +599,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Fr",
-    "JesuitPlaceFull": "Franciae",
+    "Places": "Franciae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1836-1961",
@@ -612,7 +612,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "GaA",
-    "JesuitPlaceFull": "Galliae Atlanticae",
+    "Places": "Galliae Atlanticae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1961,
@@ -625,7 +625,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "GaCan",
-    "JesuitPlaceFull": "Gallo-Canadensis",
+    "Places": "Gallo-Canadensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1968,
@@ -638,7 +638,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Gal",
-    "JesuitPlaceFull": "Galiciae",
+    "Places": "Galiciae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1820-1830",
@@ -651,7 +651,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "GalAus",
-    "JesuitPlaceFull": "Galiciae Austriacae",
+    "Places": "Galiciae Austriacae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1830-1838",
@@ -664,7 +664,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Gali",
-    "JesuitPlaceFull": "Galician.",
+    "Places": "Galician.",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1846-1918",
@@ -677,7 +677,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Gall",
-    "JesuitPlaceFull": "Galliae",
+    "Places": "Galliae",
     "MissionDate(s)": 1814,
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1820-1836",
@@ -690,7 +690,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "GaM",
-    "JesuitPlaceFull": "Galliae Mediterraneae",
+    "Places": "Galliae Mediterraneae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1961,
@@ -703,7 +703,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "GaS",
-    "JesuitPlaceFull": "Galliae Septemtrionalis",
+    "Places": "Galliae Septemtrionalis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1961,
@@ -716,7 +716,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Germ",
-    "JesuitPlaceFull": "Germaniae",
+    "Places": "Germaniae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1853-1921",
@@ -729,7 +729,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "GermI",
-    "JesuitPlaceFull": "Germaniae Inferioris",
+    "Places": "Germaniae Inferioris",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1921,
@@ -742,7 +742,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "GermO",
-    "JesuitPlaceFull": "Germaniae Orientalis",
+    "Places": "Germaniae Orientalis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1931,
@@ -755,7 +755,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "GermS",
-    "JesuitPlaceFull": "Germaniae Superioris",
+    "Places": "Germaniae Superioris",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1826-1852; 1921",
@@ -768,7 +768,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "GermSI",
-    "JesuitPlaceFull": "Germaniae Superioris et Inferioris",
+    "Places": "Germaniae Superioris et Inferioris",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1852,
@@ -781,7 +781,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "GoMin",
-    "JesuitPlaceFull": "Goiano-Minensis",
+    "Places": "Goiano-Minensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1964,
     "ProvinceDate(s)": "",
@@ -794,7 +794,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "GPoon",
-    "JesuitPlaceFull": "Goa-Poonensis",
+    "Places": "Goa-Poonensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1963,
     "ProvinceDate(s)": "",
@@ -807,7 +807,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Guj",
-    "JesuitPlaceFull": "Gujaratensis",
+    "Places": "Gujaratensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1961,
     "ProvinceDate(s)": "",
@@ -820,7 +820,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Helv",
-    "JesuitPlaceFull": "Helvetiae",
+    "Places": "Helvetiae",
     "MissionDate(s)": "1810; 1936",
     "ViceProvinceDate(s)": "1821-1846; 1947",
     "ProvinceDate(s)": "",
@@ -833,7 +833,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Hib",
-    "JesuitPlaceFull": "Hiberniae",
+    "Places": "Hiberniae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1830,
     "ProvinceDate(s)": 1860,
@@ -846,7 +846,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Hisp",
-    "JesuitPlaceFull": "Hispaniae",
+    "Places": "Hispaniae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1815-1863",
@@ -859,7 +859,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "HKong",
-    "JesuitPlaceFull": "Hongkongensis",
+    "Places": "Hongkongensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1966,
     "ProvinceDate(s)": "",
@@ -872,7 +872,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Hung",
-    "JesuitPlaceFull": "Hungariae",
+    "Places": "Hungariae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1909,
@@ -885,7 +885,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Iap",
-    "JesuitPlaceFull": "Iaponica",
+    "Places": "Iaponica",
     "MissionDate(s)": 1908,
     "ViceProvinceDate(s)": 1948,
     "ProvinceDate(s)": 1958,
@@ -898,7 +898,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "ImpRuss",
-    "JesuitPlaceFull": "Imperio Russico",
+    "Places": "Imperio Russico",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1803,
@@ -911,7 +911,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Indon",
-    "JesuitPlaceFull": "Indonesiae",
+    "Places": "Indonesiae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1956,
     "ProvinceDate(s)": "",
@@ -924,7 +924,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "It",
-    "JesuitPlaceFull": "Italiae",
+    "Places": "Italiae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1806-1831",
@@ -937,7 +937,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Jams",
-    "JesuitPlaceFull": "Jamshedpurensis",
+    "Places": "Jamshedpurensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1956,
     "ProvinceDate(s)": "",
@@ -950,7 +950,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Jug",
-    "JesuitPlaceFull": "Jugoslaviae",
+    "Places": "Jugoslaviae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "1919-1942",
     "ProvinceDate(s)": "",
@@ -963,7 +963,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Kan",
-    "JesuitPlaceFull": "Kanarensis",
+    "Places": "Kanarensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1956,
     "ProvinceDate(s)": "",
@@ -976,7 +976,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Ker",
-    "JesuitPlaceFull": "Keralensis",
+    "Places": "Keralensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1960,
     "ProvinceDate(s)": "",
@@ -989,7 +989,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Leg",
-    "JesuitPlaceFull": "Legionensis",
+    "Places": "Legionensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1918,
@@ -1002,7 +1002,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Lett",
-    "JesuitPlaceFull": "Lettoniae et Estoniae",
+    "Places": "Lettoniae et Estoniae",
     "MissionDate(s)": 1938,
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "",
@@ -1015,7 +1015,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Lit",
-    "JesuitPlaceFull": "Lituaniae",
+    "Places": "Lituaniae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1930,
@@ -1028,7 +1028,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Loy",
-    "JesuitPlaceFull": "Loyolensis",
+    "Places": "Loyolensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1962,
@@ -1041,7 +1041,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Lugd",
-    "JesuitPlaceFull": "Lugdunensis",
+    "Places": "Lugdunensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1836-1961",
@@ -1054,7 +1054,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Lus",
-    "JesuitPlaceFull": "Lusitaniae",
+    "Places": "Lusitaniae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1880,
@@ -1067,7 +1067,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Madec",
-    "JesuitPlaceFull": "Madecassensis",
+    "Places": "Madecassensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1967,
     "ProvinceDate(s)": "",
@@ -1080,7 +1080,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Madur",
-    "JesuitPlaceFull": "Madurensis",
+    "Places": "Madurensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1952,
@@ -1093,7 +1093,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Mang",
-    "JesuitPlaceFull": "Mangalorensis",
+    "Places": "Mangalorensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "1955-1956",
     "ProvinceDate(s)": "",
@@ -1106,7 +1106,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Mary",
-    "JesuitPlaceFull": "Marylandiae",
+    "Places": "Marylandiae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1833-1880",
@@ -1119,7 +1119,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "MaryNEb",
-    "JesuitPlaceFull": "Marylandiae-Neo Eboracensis",
+    "Places": "Marylandiae-Neo Eboracensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1880-1943",
@@ -1132,7 +1132,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Melit",
-    "JesuitPlaceFull": "Melitensis",
+    "Places": "Melitensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1947,
     "ProvinceDate(s)": "",
@@ -1145,7 +1145,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Mex",
-    "JesuitPlaceFull": "Mexicana",
+    "Places": "Mexicana",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1816; 1907-1957",
@@ -1158,7 +1158,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "MexM",
-    "JesuitPlaceFull": "Mexicana Meridionalis",
+    "Places": "Mexicana Meridionalis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1957-1968",
@@ -1171,7 +1171,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "MexS",
-    "JesuitPlaceFull": "Mexicana Septemtrionalis",
+    "Places": "Mexicana Septemtrionalis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1957-1968",
@@ -1184,7 +1184,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Miss",
-    "JesuitPlaceFull": "Missourianae",
+    "Places": "Missourianae",
     "MissionDate(s)": 1831,
     "ViceProvinceDate(s)": 1840,
     "ProvinceDate(s)": 1863,
@@ -1197,7 +1197,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "MReg",
-    "JesuitPlaceFull": "Montis Regii",
+    "Places": "Montis Regii",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1964-1968",
@@ -1210,7 +1210,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "NAngl",
-    "JesuitPlaceFull": "Novae Angliae",
+    "Places": "Novae Angliae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1926,
@@ -1223,7 +1223,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "NAur",
-    "JesuitPlaceFull": "Neo-Aurelianensis",
+    "Places": "Neo-Aurelianensis",
     "MissionDate(s)": 1880,
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1907,
@@ -1236,7 +1236,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Neap",
-    "JesuitPlaceFull": "Neapolitana",
+    "Places": "Neapolitana",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1822,
@@ -1249,7 +1249,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "NEb",
-    "JesuitPlaceFull": "Neo-Eboracensis",
+    "Places": "Neo-Eboracensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1879-1880; 1943",
@@ -1262,7 +1262,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Neer",
-    "JesuitPlaceFull": "Neerlandiae",
+    "Places": "Neerlandiae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1849,
     "ProvinceDate(s)": 1850,
@@ -1275,7 +1275,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Oreg",
-    "JesuitPlaceFull": "Oregoniensis",
+    "Places": "Oregoniensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1931,
@@ -1288,7 +1288,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Par",
-    "JesuitPlaceFull": "Parisiensis",
+    "Places": "Parisiensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1961,
@@ -1301,7 +1301,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Patn",
-    "JesuitPlaceFull": "Patnen.",
+    "Places": "Patnen.",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1956,
     "ProvinceDate(s)": 1961,
@@ -1314,7 +1314,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Peru",
-    "JesuitPlaceFull": "Peruvian.",
+    "Places": "Peruvian.",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1958,
     "ProvinceDate(s)": 1968,
@@ -1327,7 +1327,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Phil",
-    "JesuitPlaceFull": "Phillippina",
+    "Places": "Phillippina",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1957,
@@ -1340,7 +1340,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Pol",
-    "JesuitPlaceFull": "Poloniae",
+    "Places": "Poloniae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1918-1926",
@@ -1353,7 +1353,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "PolMai",
-    "JesuitPlaceFull": "Poloniae Maioris et Mazoviae",
+    "Places": "Poloniae Maioris et Mazoviae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1926,
@@ -1366,7 +1366,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "PolMin",
-    "JesuitPlaceFull": "Poloniae Minoris",
+    "Places": "Poloniae Minoris",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1926,
@@ -1379,7 +1379,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "PrOr",
-    "JesuitPlaceFull": "Proximi Orientis",
+    "Places": "Proximi Orientis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1957,
     "ProvinceDate(s)": "",
@@ -1392,7 +1392,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Queb",
-    "JesuitPlaceFull": "Quebecen.",
+    "Places": "Quebecen.",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1964-1968",
@@ -1405,7 +1405,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Ranch",
-    "JesuitPlaceFull": "Ranchiensis",
+    "Places": "Ranchiensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1956,
     "ProvinceDate(s)": "",
@@ -1418,7 +1418,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Rom",
-    "JesuitPlaceFull": "Romana",
+    "Places": "Romana",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1831,
@@ -1431,7 +1431,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Romi",
-    "JesuitPlaceFull": "Romenica",
+    "Places": "Romenica",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1937,
     "ProvinceDate(s)": "",
@@ -1444,7 +1444,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Sic",
-    "JesuitPlaceFull": "Siculae",
+    "Places": "Siculae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1807,
@@ -1457,7 +1457,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Slova",
-    "JesuitPlaceFull": "Slovakiae",
+    "Places": "Slovakiae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1938,
     "ProvinceDate(s)": "",
@@ -1470,7 +1470,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Slove",
-    "JesuitPlaceFull": "Sloveniae",
+    "Places": "Sloveniae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1969,
     "ProvinceDate(s)": "",
@@ -1483,7 +1483,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Tarr",
-    "JesuitPlaceFull": "Tarraconensis",
+    "Places": "Tarraconensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1948,
@@ -1496,7 +1496,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Taur",
-    "JesuitPlaceFull": "Taurinensis",
+    "Places": "Taurinensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1831,
@@ -1509,7 +1509,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Tole",
-    "JesuitPlaceFull": "Toletana",
+    "Places": "Toletana",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1880,
@@ -1522,7 +1522,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Tolo",
-    "JesuitPlaceFull": "Tolosana",
+    "Places": "Tolosana",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1852-1961",
@@ -1535,7 +1535,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Uru",
-    "JesuitPlaceFull": "Uruguariensis",
+    "Places": "Uruguariensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1961,
     "ProvinceDate(s)": "",
@@ -1548,7 +1548,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "USA",
-    "JesuitPlaceFull": "American Septemtrionalis Statua Foederati",
+    "Places": "American Septemtrionalis Statua Foederati",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "",
@@ -1561,7 +1561,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "USic",
-    "JesuitPlaceFull": "Utriusque Siciliae",
+    "Places": "Utriusque Siciliae",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1804-1806",
@@ -1574,7 +1574,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Ven",
-    "JesuitPlaceFull": "Venata",
+    "Places": "Venata",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "1846-1936",
@@ -1587,7 +1587,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "VenM",
-    "JesuitPlaceFull": "Veneto-Mediolanensis",
+    "Places": "Veneto-Mediolanensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1936,
@@ -1600,7 +1600,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Venez",
-    "JesuitPlaceFull": "Venezolan.",
+    "Places": "Venezolan.",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1958,
     "ProvinceDate(s)": "",
@@ -1613,7 +1613,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Wisc",
-    "JesuitPlaceFull": "Wisconsinensis",
+    "Places": "Wisconsinensis",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": 1955,
@@ -1626,7 +1626,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Zambe",
-    "JesuitPlaceFull": "Zambesian.",
+    "Places": "Zambesian.",
     "MissionDate(s)": "1878-1893",
     "ViceProvinceDate(s)": "",
     "ProvinceDate(s)": "",
@@ -1639,7 +1639,7 @@
   },
   {
     "JesuitPlaceAbbreviation": "Zambi",
-    "JesuitPlaceFull": "Zambia",
+    "Places": "Zambia",
     "MissionDate(s)": "",
     "ViceProvinceDate(s)": 1969,
     "ProvinceDate(s)": "",

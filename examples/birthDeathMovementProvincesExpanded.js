@@ -74,13 +74,13 @@ var baseLayers = {
 		f.properties.provinceStamp = timestamp(f.properties.Entrance_Date_1);
 		var out = [];
 		if (f.properties) {
-			out.push('Entry Number.: ' + f.properties.Id);
+			out.push('ID: ' + f.properties.Id);
 			out.push('First Name: ' + f.properties.First_Name);
 			out.push('Last Name: ' + f.properties.Last_Name);
 			out.push('Date of Birth: ' + f.properties.Birth_Date);
 			out.push('Place of Birth: ' + f.properties.Place_of_Birth);
-			out.push('Date of Entrance: ' + f.properties.Entrance_Date_1);
-			out.push('Place of Entrance: ' + f.properties.provinceCity + ', ' + f.properties.provinceFull + ', ' + f.properties.provinceCountry);
+			out.push('Date of Entry: ' + f.properties.Entrance_Date_1);
+			out.push('Entrance Province: ' + f.properties.provinceCity + ', ' + f.properties.provinceFull + ', ' + f.properties.provinceCountry);
 			out.push('Date of Death: ' + f.properties.Death_Date);
 			out.push('Place of Death: ' + f.properties.Place_of_Death);
 			out.push('<a href="'+ url + f.properties.UniqueHiddenID + '" target="_blank">Database Entry</a>');  //allows for link to external URL via attribute in .geoJson table

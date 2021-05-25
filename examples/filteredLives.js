@@ -28,13 +28,13 @@ function timestamp(str) {
 		}).addTo(map);
 
 		var birthStyle = {
-		    "color": "#00ff00",
+		    "color": "#1184e8",
 		    "weight": 3,
 		    "opacity": 0.65
 		};
 
 		var deathStyle = {
-				"color": "#ff0000",
+				"color": "#000000",
 				"weight": 3,
 				"opacity": 0.65
 		};

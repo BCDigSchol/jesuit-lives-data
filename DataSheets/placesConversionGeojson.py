@@ -35,11 +35,12 @@ for i in range(0, len(provinces)):
         people[j]['fullName']=people[j]['Last_Name'] + ", " + people[j]['First_Name'] +  ' (' + str(people[j]['Id']) + ')'
         if provinces[i]['JesuitPlaceAbbreviation']==people[j]['Entrance_Province']:
             provinces[i]['vowedHere'].append(people[j]['fullName'])
-
+cleaned = []
+[cleaned.append(x) for x in places if x not in cleaned]
 
 ###########################################################################
 ##Process for converting json to geojson, checking for coordinates, and exporting, for "birth/death" places information
-df = pd.DataFrame(places)
+df = pd.DataFrame(cleaned)
 print('We have {} rows'.format(len(df)))
 str(df.columns.tolist())
 

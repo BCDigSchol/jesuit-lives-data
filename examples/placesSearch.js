@@ -19,12 +19,18 @@
 
 //add geojson exported from python to map with popup
 	var placesImported = L.geoJson(allPlaces, {
-		onEachFeature: popUp
+		onEachFeature: popUp,
+		filter: function(feature, layer) {
+      return (feature.properties.bornHere != '' || feature.properties.diedHere !='');
+    }
 	}
 	);
 
 	var provincesImported=L.geoJson(allProvinces, {
-		onEachFeature: popUpProvince
+		onEachFeature: popUpProvince,
+		filter: function(feature, layer) {
+      return (feature.properties.vowedHere != '');
+    }
 	}
 	);
 

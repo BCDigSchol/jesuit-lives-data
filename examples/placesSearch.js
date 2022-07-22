@@ -64,6 +64,7 @@
 		var bornHereSpaces = bornHereString.join(', ');
 		var diedHereString = f.properties.diedHere;
 		var diedHereSpaces = diedHereString.join(', ');
+		
 		if (f.properties) {
 			out.push('<b>Place: </b>' + f.properties.Places);
 			out.push('<b>Latitude: </b>' + f.properties.Latitude);

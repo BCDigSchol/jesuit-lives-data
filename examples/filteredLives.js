@@ -74,7 +74,7 @@ function timestamp(str) {
 	var personProvinceStamp = null; //entranceDate data for individaul search for
 	var searchActive = false; //boolean for if a search is currently taking place
 	var personStringYear= '';
-	var url = 'https://jesuit-lives.lontracanadensis.net/catalog/';
+	var url = 'https://jesuitonlinenecrology.bc.edu/catalog/';
 //create popup boxes for polylines as well as the timestamps for each moment of importance; timestamps are needed for current date filter system
 //runs only when search is performed
 	function forEachFeature(f, layer) {

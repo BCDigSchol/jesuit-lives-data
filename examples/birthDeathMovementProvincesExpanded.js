@@ -63,7 +63,7 @@ var baseLayers = {
 	var isAlive = true; //variable to control marker appearance when someone moves the slider back and forth across the death moment
 	var isJesuit = false;
 	var popupText = null; //holder for marker popup text
-	var url = 'https://jesuit-lives.lontracanadensis.net/catalog/';
+	var url = 'https://jesuitonlinenecrology.bc.edu/catalog/';
 
 
 //create popup boxes for polylines as well as the timestamps for each moment of importance; timestamps are needed for current date filter system

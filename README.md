@@ -1,5 +1,5 @@
 # JesuitLives Mapping Examples
-This repo contains live maps for the Jesuit Necrologies (aka Jesuit Lives) project with varying functionality: https://jesuitonlinenecrology.bc.edu/pages/mapping. Notes on map creation and information on python json management can be found here: https://docs.google.com/document/d/1ADzFNghQrEQoKZCjeQnZjkkQYdx8_UC5RRld85_Kx8U/edit. Pan and Zoom controls are available on all maps.
+This repo contains live maps for the Jesuit Necrology (aka Jesuit Lives) project with varying functionality: https://jesuitonlinenecrology.bc.edu/pages/mapping. Notes on map creation and information on python json management can be found here: https://docs.google.com/document/d/1ADzFNghQrEQoKZCjeQnZjkkQYdx8_UC5RRld85_Kx8U/edit. Pan and Zoom controls are available on all maps.
 
 <h2> Main Map Examples </h2>
  <h3> Advanced filtering map https://mnaglak.github.io/JesuitLives/examples/filteredLives.html </h3>
